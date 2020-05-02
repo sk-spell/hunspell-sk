@@ -1,4 +1,4 @@
-247005
+247026
 a
 A
 á
@@ -5168,8 +5168,8 @@ azyl/B
 azylmi
 azylový/YN
 až
-ažaž
 až-až
+ažaž
 ážia
 ážio
 ážiom
@@ -7895,6 +7895,7 @@ biocenóza/zZ
 biocentrický/YN
 biocentrizmus/B
 biocíd/B
+biocídny/Y
 biodiverzita/zZ
 biodynamik
 bioelektrina
@@ -7906,7 +7907,7 @@ biofaktor
 biofília
 biofilter
 biofyzik
-biofyzikálny
+biofyzikálny/Y
 biofyzika/zZ
 biogenetický/YN
 biogenéza/zZ
@@ -7929,9 +7930,9 @@ biokatalyzátor
 biokinetika
 bioklíma
 bioklimatológia
+biokompatibilita/zZ
 biol
 biolit
-Biolit
 biológ/c
 biológia/U
 biologicky
@@ -8001,11 +8002,6 @@ biotechnológia/U
 bioterapia
 biotest
 biotický/YN
-Biotik
-Biotika
-biotiká
-Biotike
-Biotiku
 biotín
 biotit
 biotop/B
@@ -8013,6 +8009,7 @@ biotronik/C
 bioturbác
 biotyp/B
 biotypológia
+biozáťaž/D
 bipartícia
 bipartíciu
 bipartít
@@ -8807,7 +8804,7 @@ bodliačik/B
 bodliak/B
 bodliakovi
 bodliakový/YN
-bodnutie
+bodnutie/V
 bodnutím
 bodnúť/WN
 bodnutý/YN
@@ -10510,8 +10507,8 @@ bubnovať/WN
 bubnový/YN
 bubo
 bubon/O
-bububu
 bu-bu-bu
+bububu
 buc
 Buca
 buckoch
@@ -12313,8 +12310,8 @@ cikanie
 cikaniu
 cikať/EN
 cikatrizácia
-cikcak
 cik-cak
+cikcak
 cikcak/B
 cikcakovite
 cikcakovito
@@ -12355,8 +12352,8 @@ cinerárium
 cing
 cingá
 cingi
-cingilingi
 cingi-lingi
+cingilingi
 cingot
 cingulum
 cinchonín
@@ -14258,8 +14255,8 @@ CZV
 Česko/M
 Českomoravský/YN
 českoslovanský/YN
-Československo/M
 Česko-slovensko/M
+Československo/M
 československy
 československý/Y
 česko-slovenský/YN
@@ -14376,8 +14373,8 @@ CZV
 čierniť/XN
 čierno
 čiernobalocký/YN
-čiernobiely/YN
 čierno-biely/YN
+čiernobiely/YN
 čiernohnedý/YN
 Čiernohorec/C
 čiernohoriek
@@ -19598,6 +19595,7 @@ dodatočne
 dodatočný/YN
 dodatok/O
 dodávací
+dodávajúci/Y
 dodávanie/V
 dodávaný/Y
 dodávateľ/c
@@ -21960,6 +21958,7 @@ dôveryplný/YN
 doveslovať/WN
 dôvetok/O
 dovetrať
+dovezený/Y
 dovi
 doviať/XN
 doviazať/TN
@@ -24768,8 +24767,8 @@ džiny
 džíp/B
 džiu
 džiudžicový/Y
-džiudžicu
 džiu-džicu
+džiudžicu
 džob/B
 džoging/B
 džogingmi
@@ -25531,16 +25530,16 @@ Elýzium
 Elza
 Em
 Emách
-email/B
 e-mail/B
+email/B
 emailmi
 emailovane
 emailovanie
 emailovaný/YN
 emailovať/WN
 emailovo
-emailový/Y
 e-mailový/Y
+emailový/Y
 Emám
 eman
 Eman
@@ -25653,7 +25652,7 @@ emitor
 emitovanie/V
 emitovaný/Y
 emitovať/WN
-emitujúca
+emitujúci/Y
 emko/M
 emociálna
 emociálne
@@ -29848,6 +29847,7 @@ Frýdka
 Frýdku
 frygana
 FS
+ftalát/B
 ftíza
 ftizeológia
 ftp
@@ -30264,8 +30264,8 @@ Gaelštinské
 gáfor/J
 gáfrovník
 gáfrový/Y
-gágá
 gá-gá
+gágá
 gagačka
 gáganie
 gáganím
@@ -32530,8 +32530,8 @@ Hágoch
 Hágy
 hah
 háh
-haha
 ha-ha
+haha
 hahá
 hahahá
 hahó
@@ -33324,8 +33324,8 @@ hegnutie
 hegnúť/WN
 hegomónnosť/K
 hegomónny/YN
-hehe
 he-he
+hehe
 hehé
 hehej
 hehéj
@@ -34542,8 +34542,8 @@ hnednutie
 hnednúť/WN
 hnedo
 hnedočervený/Y
-hnedočervený/YN
 hnedo-červený/YN
+hnedočervený/YN
 hnedočierny/Y
 hnedo-čierny/YN
 hnedočierný/YN
@@ -34553,8 +34553,8 @@ hnedouhoľ
 hnedouhoľný/YN
 hnedouľný/YN
 hnedovlasý/YN
-hnedozelený/YN
 hnedo-zelený/YN
+hnedozelený/YN
 hnedozemnej
 hnedožltý/YN
 hnedučko
@@ -34963,8 +34963,8 @@ hoko
 hókus/B
 hókuspókos
 hokuspókus
-hókuspókus/B
 hókus-pókus/B
+hókuspókus/B
 hôľ
 hola
 holahó
@@ -39490,8 +39490,8 @@ ideovo-estetický/YN
 ideovo-politický/YN
 ideovosť/K
 ideovo-umelecký/YN
-ideovovýchovný/YN
 ideovo-výchovný/YN
+ideovovýchovný/YN
 ideový/YN
 ideš
 idete
@@ -39947,7 +39947,6 @@ impertinentnosť/K
 impertinentný/YN
 impetigo
 impetuózny/YN
-impf
 implantácia/U
 implantačný/Y
 implantát/B
@@ -39957,8 +39956,8 @@ implantovania
 implantovanie
 implantovaním
 implantovaný/Y
+implantovateľný/Y
 implantovať/WN
-Implantové
 implementácia/U
 implementačný/YN
 implement/B
@@ -40635,6 +40634,8 @@ inovati
 inovatí
 inovatiach
 inovatiam
+inovatívny/Y
+inovatívny/YN
 inovatka
 inovaťou
 inovať/WN
@@ -41048,6 +41049,7 @@ internovať/WN
 interný/YN
 interocepcia
 interoceptor
+interoperabilita/Zz
 interorecepcia
 interoreceptor
 interparlamentný/YN
@@ -41216,6 +41218,8 @@ invariant/B
 invariantnosť/K
 invariantný/YN
 invázia/U
+invazívnosť/K
+invazívny/YN
 invázny/YN
 invektív
 invektívach
@@ -42903,6 +42907,7 @@ jednostajne
 jednostajnosť/K
 jednostajný/YN
 jednosťažňový/YN
+jednostenný/Y
 jednostĺpcové
 jednostopový/YN
 jednostránkový/YN
@@ -49779,6 +49784,7 @@ koordinovanosť/K
 koordinovany
 koordinovaný/YN
 koordinovať/WN
+koordinujúci/Y
 kôp
 kopacej
 kopacieho
@@ -52875,8 +52881,8 @@ kultúrnik/C
 kultúrnohistorický/YN
 kultúrno-osvetový/YN
 kultúrnopolitický/Y
-kultúrnopolitický/YN
 kultúrno-politický/YN
+kultúrnopolitický/YN
 kultúrno-propagačný/YN
 kultúrno-spoločenský/YN
 kultúrnosť/KN
@@ -56207,6 +56213,7 @@ liehovarský/YN
 liehovina/zZ
 liehový/YN
 liek/B
+liekopis/B
 liekový/YN
 Liem
 lien
@@ -61245,6 +61252,7 @@ medziročne
 medziročný/Y
 medzisieťové
 medziskládka/zZ
+medzistavcový/Y
 medzistupeň/J
 medzistupňa
 medzistupne
@@ -62424,9 +62432,11 @@ mikroplanktón
 mikropočítač
 mikropočítača
 mikropočítačov
+mikropodnik/B
 mikroport
 mikroprocesor/B
 mikroprocesorový/YN
+mikroprostredie/V
 mikropsia
 mikrosekunda/zZ
 mikroskop/B
@@ -63904,8 +63914,8 @@ modrieť/XN
 modrina/zZ
 modriť
 modro
-modrobiely/YN
 modro-biely/YN
+modrobiely/YN
 modročervená
 modrofialové
 modrofúz
@@ -64273,6 +64283,7 @@ monitoringu
 monitoringy
 monitorovací/IN
 monitorovanie/V
+monitorovaný/Y
 monitorovať/WN
 monitorový/Y
 monitorujúci/Y
@@ -64529,8 +64540,8 @@ moralizujúci/Y
 moralizujúco
 morálka/zZ
 morálne
-morálnopolitický/YN
 morálno-politický/YN
+morálnopolitický/YN
 morálnosť/K
 morálny/YN
 Morana
@@ -67221,6 +67232,7 @@ nahlásením
 nahláseniu
 nahlásený/YN
 nahlásiť/XN
+nahlasovanie/V
 nahlasovať/WN
 náhle
 náhlení
@@ -110755,6 +110767,8 @@ nanivoč
 nanizmus
 ňaňo
 nanocefália
+nanočastica/U
+nanomateriál/B
 nanomélia
 nanominoval
 nanominovala
@@ -110771,6 +110785,7 @@ nanominujme
 nanominujte
 nanominujú
 nanominujúc
+nanorúrka/Zz
 nános/B
 nanosené
 nanosiť/EN
@@ -160414,8 +160429,8 @@ popáral
 popárenie
 popárený/YN
 popáriť/XN
-popart/B
 pop-art/B
+popart/B
 popartista/H
 popartistický/YN
 popartistka/zZ
@@ -165980,6 +165995,7 @@ predkláňať/XN
 predklíčiť/XN
 predklíčovanie
 predklíčovať/WN
+predklinický/Y
 predklon/B
 predklonený/YN
 predkloniť/EN
@@ -175462,8 +175478,8 @@ pseudológia
 pseudoľudovosť/K
 pseudoľudový/YN
 pseudomor
-pseudonáhodný/Y
 pseudo-náhodný/Y
+pseudonáhodný/Y
 pseudonym/B
 pseudoproblém
 pseudoproblémami
@@ -202043,6 +202059,7 @@ SZTK
 šlágrik/B
 šlágrový/YN
 šlágvort
+šľahací/I
 šľahač/J
 šľahačka/zZ
 šľahačkový/YN
@@ -208693,9 +208710,7 @@ transparentový/YN
 transpirácia
 transplantácia/U
 transplantačný/YN
-transplantát
-transplantátov
-transplantátu
+transplantát/B
 transplantoval
 transplantovala
 transplantovali
@@ -213982,6 +213997,7 @@ uplatnený/Y
 uplatni
 uplatnime
 uplatnite
+uplatniteľný/YN
 uplatniť/EN
 úplatnosť
 úplatnosti
@@ -217668,8 +217684,8 @@ vedecko-fantastický/YN
 vedecko-popularizačný/YN
 vedecko-poznávací/I
 vedeckosť/K
-vedeckotechnický/YN
 vedecko-technický/YN
+vedeckotechnický/YN
 vedeckovýskumný/YN
 vedecky/YN
 vedecký/YN
@@ -222304,6 +222320,7 @@ vtiahnutý/YN
 vtiecť/RN
 vtielka
 vtieraní
+vtieranie/V
 vtierať/XN
 vtieravec
 vtieravo
@@ -223582,6 +223599,7 @@ vyhľadávane
 vyhľadávanejší/PF
 vyhľadávanie/V
 vyhľadávaný/YN
+vyhľadávateľný/YN
 vyhľadávať/XN
 výhľad/B
 vyhladenie/V
@@ -223808,8 +223826,8 @@ vyhranenosť/K
 vyhranený/YN
 vyhraniť/EN
 vyhraňovať/WN
-vyhranýY
 vyhraný/Y
+vyhranýY
 vyhrať/EN
 vyhratý/YN
 vyhrávajúci
@@ -227271,6 +227289,7 @@ výslednica/U
 výslednicový/YN
 výsledný/YN
 výsledok/O
+vysledovateľnosť/KN
 výsledoviek
 výsledovka
 výsledovkách
@@ -227931,8 +227950,7 @@ vysvetľovanie/V
 vysvetľovaný/YN
 vysvetľovateľ
 vysvetľovať/WN
-vysvetľujúce
-vysvetľujúci
+vysvetľujúci/Y
 vysviacať/XN
 vysviacka/zZ
 vysvietený/YN
@@ -238552,8 +238570,8 @@ zdrsniť/EN
 zdrsňovanie
 zdrsňovať/WN
 zdrť
-zdrtenýY
 zdrtený/Y
+zdrtenýY
 zdrusiť
 zdruzgnúť
 združenár/C
@@ -242011,6 +242029,7 @@ znevýhodňoval
 znevýhodňovala
 znevýhodňovali
 znevýhodňovalo
+znevýhodňovaný/YN
 znevýhodňovať
 znevýhodňuj
 znevýhodňuje
@@ -242452,6 +242471,7 @@ zohľadnite
 zohľadniť/EN
 zohľadňovanie/VN
 zohľadňovať/WN
+zohľadňujúci/Y
 zohnanie
 zohnaniu
 zohnaný/YN
