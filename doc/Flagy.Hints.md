@@ -1,7 +1,6 @@
 # Pomôcky pre určovanie flagov
 
-Zoradené podľa slovných druhov. Slúži len na rýchlu orientáciu, po doplnení flagu je nutné vygenerované
-tvary slov skontrolovať.
+Zoradené podľa slovných druhov. Slúži len na rýchlu orientáciu, po doplnení flagu je nutné vygenerované tvary slov skontrolovať.
 
 ## Predpony:
   * F - predpona naj- pre 3. stupeň prídavných mien
@@ -11,16 +10,15 @@ tvary slov skontrolovať.
 
 ## Podstatné mená:
 ### Mužský rod:
-    c - vz. chlap, živ. podstatné mená, ak N plurálu končí na -ia
-    C - vz. chlap, živ. podstatné mená, ak N plurálu končí na -i
+    c - vz. chlap a kuli, živ. podstatné mená, ak N plurálu končí na -ia
+    C - vz. chlap, živ. podstatné mená, ak N plurálu končí na -i (+hosť)
     H - vz. hrdina
     B - vz. dub
+    b - vz. dub, genitív s -u, lokál s -e (napr. kultivátor, mak, prebal)
     O - vz. dub, končiaci na -ok, -el, -ol, -en, -jem, -ietor, -ov, -on (napr. úpadok, vietor, uhol)
-    b - v testovaní - podstatné mená vzor dub, genitív s -u, lokál s -e (napr. kultivátor, mak, prebal)
     J - vz. stroj
     L - životné i neživotné skloňovateľné podľa vz. chlap (niekedy iba v singulári) i dub/stroj,
-    niektoré zvieratá (had, vôl, medveď)
-    Y - vz. kuli (abbé)
+    niektoré zvieratá (had, vôl, medveď), nerobí dvojtvary -y/-ovia
 
 ### Ženský rod:
     z - vz. žena jednotné číslo
@@ -29,7 +27,7 @@ tvary slov skontrolovať.
     K - vz. gazdiná
         vz. kosť
     D - dlaň a idea
-   
+
 ### Stredný rod:
     M - vz. mesto
     V - vz. vysvedčenie
@@ -38,8 +36,9 @@ tvary slov skontrolovať.
 
 ## Prídavné mená:
     I - vz. cudzí/páví
-    P - príd. mená muž. rodu končiace na í, ktorým sa pri prechode na ženský/stredný rod zmení -í na -ia, -ie (napr. novší, neskorší)
     Y - všetky vzory
+    P - príd. mená muž. rodu končiace na í, ktorým sa pri prechode na ženský/stredný rod zmení -í na -ia, -ie (napr. novší, neskorší) [stupňovanie prídavných mien – 2. stupeň]
+
 
 ## Príslovky
     P -  príslovky končiace na -e, ktoré v 2. stupni pridávajú -jšie (obyčajne, otvorene)
