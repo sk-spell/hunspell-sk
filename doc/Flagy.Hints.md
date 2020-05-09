@@ -89,6 +89,7 @@ Z vyššie uvedeného príkladu vyplýva, že najvhodnejší flag pre kompresiu 
     $ echo kľačať/RN | aspell --lang=sk --encoding=utf-8 expand | tr " " "\n"
 
 Výstup bude nasledovný:
+
     kľačať
     nekľačať
     kľačali
