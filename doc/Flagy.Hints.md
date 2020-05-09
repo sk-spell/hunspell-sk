@@ -37,7 +37,8 @@ Zoradené podľa slovných druhov. Slúži len na rýchlu orientáciu, po doplne
 ## Prídavné mená:
     I - vz. cudzí/páví
     Y - všetky vzory
-    P - príd. mená muž. rodu končiace na í, ktorým sa pri prechode na ženský/stredný rod zmení -í na -ia, -ie (napr. novší, neskorší) [stupňovanie prídavných mien – 2. stupeň]
+    P - príd. mená muž. rodu končiace na í, ktorým sa pri prechode na ženský/stredný 
+        rod zmení -í na -ia, -ie (napr. novší, neskorší) [stupňovanie prídavných mien – 2. stupeň]
 
 
 ## Príslovky
@@ -62,7 +63,8 @@ Zoradené podľa slovných druhov. Slúži len na rýchlu orientáciu, po doplne
         vz. trieť (tr-ie, tr-ú)
 
 ## Číslovky: 
-    č - v testovaní - pre číslovky - -násobný (stonásobný, dvojnásobný..)
+
+    č - číslovky - -násobný (stonásobný, dvojnásobný…)
 
 # Tipy
 
