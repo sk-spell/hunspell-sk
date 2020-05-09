@@ -63,3 +63,59 @@ Zoradené podľa slovných druhov. Slúži len na rýchlu orientáciu, po doplne
 
 ## Číslovky: 
     č - v testovaní - pre číslovky - -násobný (stonásobný, dvojnásobný..)
+
+# Tipy
+
+## aspell funkcie
+
+Keďže slovenský slovník pre aspell používa rovnakú affix kompresiu (flagy), je môžné ho využiť pri identifikovaní vhodného flagu, čo je efektívne hlavne pri slovesách:
+
+    $ echo testovaci_tvar_slova | aspell --lang=sk --encoding=utf-8 munch | tr " " "\n" | grep zakladny_tvar_slova
+
+Ako `testovaci_tvar_slova` odporúčam použiť genitív množného čísla:
+
+    $ echo kľačíte | aspell --lang=sk --encoding=utf-8 munch | tr " " "\n" | grep kľačať
+
+Jeho výstupom bude jeden riadok:
+
+    kľačať/R
+
+Ak by ich bolo viac, je potrebné ako `testovaci_tvar_slova` iný pád.
+
+Z vyššie uvedeného príkladu vyplýva, že najvhodnejší flag pre kompresiu slova `kľačať` je `R`. Do slovníka je potrebné ho vložiť aj so záporom (flag `N`). Ak si chcete overiť, ktoré slová flag bude rozoznávať, môžete použiť nasledovný príkaz:
+
+    $ echo kľačať/RN | aspell --lang=sk --encoding=utf-8 expand | tr " " "\n"
+
+Výstup bude nasledovný:
+    kľačať
+    nekľačať
+    kľačali
+    kľačalo
+    kľačala
+    kľačal
+    kľačte
+    kľačme
+    kľačiac
+    kľačia
+    kľačíte
+    kľačíme
+    kľačí
+    kľačíš
+    kľačím
+    nekľačali
+    nekľačalo
+    nekľačala
+    nekľačal
+    nekľačte
+    nekľačme
+    nekľačiac
+    nekľačia
+    nekľačíte
+    nekľačíme
+    nekľačí
+    nekľačíš
+    nekľačím
+
+V prípade, že flag generuje nesprávne slovo, je potrebné to reportovať na [hunspell-sk/issues](https://github.com/sk-spell/hunspell-sk/issues).
+
+V prípade, že flag nejakú formu slova negeneruje, je potrebné ho zadať chýbajúci tvar do slovníka (t.j. bude tam bez flagu).
