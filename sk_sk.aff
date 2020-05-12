@@ -61,333 +61,376 @@ REP ĺ ľ
 REP ľ ĺ
 
 PFX N Y 1     # predpona ne-
-PFX N   0           ne         .
+PFX N   0           ne         . tp:negation
 
 PFX F Y 1     # predpona naj- pre 3 stupeň prídavných mien
-PFX F   0           naj        .
+PFX F   0           naj        . tp:superlative
 
-SFX z Y 5     # vzor žena jednotné číslo
-SFX z   a           y          a
-SFX z   a           e          [^euo]a
-SFX z   a           i          [euo]a
-SFX z   a           u          a
-SFX z   a           ou         a
+SFX z Y 7     # vzor žena jednotné číslo
+SFX z   a           y          a is:genitive
+SFX z   a           e          [^euo]a is:dative
+SFX z   a           i          [euo]a is:dative
+SFX z   a           u          a is:accusative
+SFX z   a           e          [^euo]a is:locative
+SFX z   a           i          [euo]a is:locative
+SFX z   a           ou         a is:instrumental
 
-SFX Z Y 157     # vzor žena množné číslo
-SFX Z   a           í          [euo]a
-SFX Z   ka          k          [^áéíóúýô].oka
-SFX Z   ta          t          orta
-SFX Z   va          v          [^áéíóúýô].ova
-SFX Z   la          l          iela
-SFX Z   a           0          [áéíóúŕýô].a
-SFX Z   a           0          áuka
-SFX Z   a           0          [i][aeu][^dnl]a
-SFX Z   a           0          yena
-SFX Z   a           0          ie.[^kd]a
-SFX Z   a           0          [áéíóúýô][^hzž][^kbe]a
-SFX Z   a           0          ŕ...[^kl]a
-SFX Z   a           0          i[eua].[ayou][bdv]a
-SFX Z   a           0          [áéíóúýŕô].[eiayuol].a
-SFX Z   a           0          ia[tč]ina
-SFX Z   a           0          ázda
-SFX Z   a           0          [áéíóúýô][^áéíóúýô]čina
-SFX Z   a           0          [^šo].ola
-SFX Z   a           0          [áéíóúýô][hknsšvz][artd][auio][dtnb]a
-SFX Z   a           0          ie[hnprsv][čňrt][aie][dnlv]a
-SFX Z   a           0          áľanda
-SFX Z   a           0          [úlač][seámu][fptv]ora
-SFX Z   a           0          tvora
-SFX Z   a           0          [áéíóúý][^áéíóúýp][^iľň]ava
-SFX Z   a           0          iemota
-SFX Z   a           0          [ýá]straha
-SFX Z   a           0          ávlaha
-SFX Z   a           0          [^e][^g]enda
-SFX Z   ra          er         [úý]hra
-SFX Z   va          ev         [úý][zž]va
-SFX Z   aba         áb         laba
-SFX Z   ala         ál         iala
-SFX Z   aha         áh         [^áéíóúýv][^ir]aha
-SFX Z   ata         át         [^áéíóúý].[^iš]ata
-SFX Z   ava         áv         [^áéíóúý][^áéíóúýŕp][^iľň]ava
-SFX Z   ada         ád         [^i][aeiouy].ada
-SFX Z   ada         ád         [iom][bhz]rada
-SFX Z   ada         ád         a[mh][bň]ada
-SFX Z   ica         íc         ivica
-SFX Z   ba          ob         ia.ba
-SFX Z   ba          ob         [áéíóúýô].ba
-SFX Z   ata         iat        šata
-SFX Z   oba         ôb         [^rzeéíáýúôó][^j]oba
-SFX Z   ota         ôt         [^iéíáýúôóŕĺ][^éíáýúôó][^d]ota
-SFX Z   oda         ôd         [^éíáýúôóŕĺ].oda
-SFX Z   oha         ôh         [^áéíóúý]loha
-SFX Z   ola         ôl         škola
-SFX Z   ola         ôl         odola
-SFX Z   ora         ôr         [hkm]ora
-SFX Z   ora         ôr         [od]pora
-SFX Z   ka          ok         [^f]i[ea].ka
-SFX Z   ka          ok         [áéíóúýôŕ][^u]ka
-SFX Z   ka          ok         [aieo]jka
-SFX Z   ka          ok         [áéíóúýôŕ]stka
-SFX Z   ka          ok         i[eau]stka
-SFX Z   ka          ok         ientka
-SFX Z   ka          iek        iantka
-SFX Z   ka          ok         ádzka
-SFX Z   äta         iat        äta
-SFX Z   aba         iab        žaba
-SFX Z   ba          ieb        [^t][rns]ba
-SFX Z   ba          ieb        [^i].tba
-SFX Z   ba          ieb        [^ú][vzž]ba
-SFX Z   eda         ied        [^i]eda
-SFX Z   eba         ieb        [^i]eba
-SFX Z   ra          ier        [hd]ra
-SFX Z   va          iev        [kštzž]va
-SFX Z   va          iev        arva
-SFX Z   ľva         liev       ľva
-SFX Z   ľba         lieb       [aeo]ľba
-SFX Z   ilba        ílb        ilba
-SFX Z   dba         dieb       [auo]dba
-SFX Z   ďka         diek       [^i][^éíóôúý]ďka
-SFX Z   ňka         niek       [^i][^éíóôúý]ňka
-SFX Z   ťka         tiek       [^i][^éíóôúý]ťka
-SFX Z   arta        árt        arta
-SFX Z   ka          iek        [^i][lr][fdcčš]ka
-SFX Z   ka          iek        [^i][aeiuy][bcčdfghklmoprsštvzž]ka
-SFX Z   ka          iek        [^i][aeuiy][sn]tka
-SFX Z   ka          iek        o[bcčdfghklmnoprsštvzž]ka
-SFX Z   ka          iek        [lr]nka
-SFX Z   ka          iek        [^i][eiuy]nka
-SFX Z   ka          iek        [^ib]anka
-SFX Z   ľka         liek       [^i][aeouy]ľka
-SFX Z   eta         iet        [^p][^o][^iu]eta
-SFX Z   alva        álv        alva
-SFX Z   rva         ŕv         [bmt]rva
-SFX Z   rba         ŕb         trba
-SFX Z   aba         áb         baba
-SFX Z   iba         íb         iba
-SFX Z   uda         úd         uda
-SFX Z   iha         íh         iha
-SFX Z   ika         ík         [^éíáýúôó].ika
-SFX Z   ila         íl         [^a]ila
-SFX Z   ita         ít         [^i][aeiouy].ita
-SFX Z   ina         ín         [^i][äaeiouy].ina
-SFX Z   ina         ín         [^i][aoley][bhjlnrtv]čina
-SFX Z   ina         ín         [^a][bcčdhrkjrndďtvzž][clmnpšrvz]ina
-SFX Z   elta        ielt       [^i]elta
-SFX Z   ela         iel        [^dilnrtu]ela
-SFX Z   esta        iest       [^d][^i]esta
-SFX Z   enda        iend       egenda
-SFX Z   ena         ien        [^mty]ena
-SFX Z   ena         ien        [^éíáýúôó]mena
-SFX Z   ma          iem        [^i]erma
-SFX Z   anda        ánd        [^á].anda
-SFX Z   arda        árd        arda
-SFX Z   amba        ámb        amba
-SFX Z   imba        ímb        imba
-SFX Z   omba        ômb        [^l]omba
-SFX Z   umba        úmb        umba
-SFX Z   unda        únd        unda
-SFX Z   rnda        ŕnd        rnda
-SFX Z   avda        ávd        avda
-SFX Z   ažda        ážd        ažda
-SFX Z   abzda       ábzd       abzda
-SFX Z   azda        ázd        azda
-SFX Z   auna        áun        auna
-SFX Z   uka         úk         [^éíáýúôó][^á]uka
-SFX Z   una         ún         [dklr]una
-SFX Z   ula         úl         [^a]ula
-SFX Z   yba         ýb         [^e][hr]yba
-SFX Z   anka        ánk        [^d]banka
-SFX Z   ucha        úch        ucha
-SFX Z   0           m          [áéíóŕúýô].a
-SFX Z   0           m          i[aeu].a
-SFX Z   0           m          [áéíóŕúýô][dps][ctz][hk]a
-SFX Z   0           m          ácha
-SFX Z   0           m          i[eau][bcčdlľnmprsštťvzž][bdghkt]a
-SFX Z   0           m          i[eau][sn]tka
-SFX Z   0           m          [áéíóĺŕúýô][bcčdďfghjklľmnprsštťvzž][bcčdďfghjklľmnprsštvzž]a
-SFX Z   a           ám         [euo]a
-SFX Z   a           ám         [^i][aeiyouä].a
-SFX Z   a           ám         iola
-SFX Z   a           ám         io[nrštv]ka
-SFX Z   a           ám         ámlka
-SFX Z   a           ám         [aeuoiyä][brs][ckrt][hmn]a
-SFX Z   a           ám         [bčdfkmprsštv][klrstv][cčknrstvzž][bdhkmntv]a
-SFX Z   a           ám         [^i][aeuoiyä][bcčdďfghjklľmnprsštťvxzž][bcčdďfghjklľmnňprsštvxzž]a
-SFX Z   a           ám         [^iť][aeuoiyä][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž]a
-SFX Z   0           ch         [áéíóŕúýô].a
-SFX Z   0           ch         i[aeu].a
-SFX Z   0           ch         [áéíóŕúýô][dps][ctz][hk]a
-SFX Z   0           ch         ácha
-SFX Z   0           ch         i[eau][bcčdlľnmprsštťvzž][bdghkt]a
-SFX Z   0           ch         i[eau][sn]tka
-SFX Z   0           ch         [áéíóĺŕúýô][bcčdďfghjklľmnprsštťvzž][bcčdďfghjklľmnprsštvzž]a
-SFX Z   a           ách        [euo]a
-SFX Z   a           ách        [^i][aeiyouä].a
-SFX Z   a           ách        iola
-SFX Z   a           ách        io[nrštv]ka
-SFX Z   a           ách        ámlka
-SFX Z   a           ách        [aeuoiyä][brs][ckrt][hmn]a
-SFX Z   a           ách        [bčdfkmprsštv][klrstv][cčknrstvzž][bdhkmntv]a
-SFX Z   a           ách        [^i][aeuoiyä][bcčdďfghjklľmnprsštťvxzž][bcčdďfghjklľmnňprsštvxzž]a
-SFX Z   a           ách        [^iť][aeuoiyä][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž]a
-SFX Z   a           ami        a
+SFX Z Y 159     # vzor žena množné číslo
+SFX Z   a           y          a is:nominative is:plural
+SFX Z   a           í          [euo]a is:genitive is:plural
+SFX Z   ka          k          [^áéíóúýô].oka is:genitive is:plural
+SFX Z   ta          t          orta is:genitive is:plural
+SFX Z   va          v          [^áéíóúýô].ova is:genitive is:plural
+SFX Z   la          l          iela is:genitive is:plural
+SFX Z   a           0          [áéíóúŕýô].a is:genitive is:plural
+SFX Z   a           0          áuka is:genitive is:plural
+SFX Z   a           0          [i][aeu][^dnl]a is:genitive is:plural
+SFX Z   a           0          yena is:genitive is:plural
+SFX Z   a           0          ie.[^kd]a is:genitive is:plural
+SFX Z   a           0          [áéíóúýô][^hzž][^kbe]a is:genitive is:plural
+SFX Z   a           0          ŕ...[^kl]a is:genitive is:plural
+SFX Z   a           0          i[eua].[ayou][bdv]a is:genitive is:plural
+SFX Z   a           0          [áéíóúýŕô].[eiayuol].a is:genitive is:plural
+SFX Z   a           0          ia[tč]ina is:genitive is:plural
+SFX Z   a           0          ázda is:genitive is:plural
+SFX Z   a           0          [áéíóúýô][^áéíóúýô]čina is:genitive is:plural
+SFX Z   a           0          [^šo].ola is:genitive is:plural
+SFX Z   a           0          [áéíóúýô][hknsšvz][artd][auio][dtnb]a is:genitive is:plural
+SFX Z   a           0          ie[hnprsv][čňrt][aie][dnlv]a is:genitive is:plural
+SFX Z   a           0          áľanda is:genitive is:plural
+SFX Z   a           0          [úlač][seámu][fptv]ora is:genitive is:plural
+SFX Z   a           0          tvora is:genitive is:plural
+SFX Z   a           0          [áéíóúý][^áéíóúýp][^iľň]ava is:genitive is:plural
+SFX Z   a           0          iemota is:genitive is:plural
+SFX Z   a           0          [ýá]straha is:genitive is:plural
+SFX Z   a           0          ávlaha is:genitive is:plural
+SFX Z   a           0          [^e][^g]enda is:genitive is:plural
+SFX Z   ra          er         [úý]hra is:genitive is:plural
+SFX Z   va          ev         [úý][zž]va is:genitive is:plural
+SFX Z   aba         áb         laba is:genitive is:plural
+SFX Z   ala         ál         iala is:genitive is:plural
+SFX Z   aha         áh         [^áéíóúýv][^ir]aha is:genitive is:plural
+SFX Z   ata         át         [^áéíóúý].[^iš]ata is:genitive is:plural
+SFX Z   ava         áv         [^áéíóúý][^áéíóúýŕp][^iľň]ava is:genitive is:plural
+SFX Z   ada         ád         [^i][aeiouy].ada is:genitive is:plural
+SFX Z   ada         ád         [iom][bhz]rada is:genitive is:plural
+SFX Z   ada         ád         a[mh][bň]ada is:genitive is:plural
+SFX Z   ica         íc         ivica is:genitive is:plural
+SFX Z   ba          ob         ia.ba is:genitive is:plural
+SFX Z   ba          ob         [áéíóúýô].ba is:genitive is:plural
+SFX Z   ata         iat        šata is:genitive is:plural
+SFX Z   oba         ôb         [^rzeéíáýúôó][^j]oba is:genitive is:plural
+SFX Z   ota         ôt         [^iéíáýúôóŕĺ][^éíáýúôó][^d]ota is:genitive is:plural
+SFX Z   oda         ôd         [^éíáýúôóŕĺ].oda is:genitive is:plural
+SFX Z   oha         ôh         [^áéíóúý]loha is:genitive is:plural
+SFX Z   ola         ôl         škola is:genitive is:plural
+SFX Z   ola         ôl         odola is:genitive is:plural
+SFX Z   ora         ôr         [hkm]ora is:genitive is:plural
+SFX Z   ora         ôr         [od]pora is:genitive is:plural
+SFX Z   ka          ok         [^f]i[ea].ka is:genitive is:plural
+SFX Z   ka          ok         [áéíóúýôŕ][^u]ka is:genitive is:plural
+SFX Z   ka          ok         [aieo]jka is:genitive is:plural
+SFX Z   ka          ok         [áéíóúýôŕ]stka is:genitive is:plural
+SFX Z   ka          ok         i[eau]stka is:genitive is:plural
+SFX Z   ka          ok         ientka is:genitive is:plural
+SFX Z   ka          iek        iantka is:genitive is:plural
+SFX Z   ka          ok         ádzka is:genitive is:plural
+SFX Z   äta         iat        äta is:genitive is:plural
+SFX Z   aba         iab        žaba is:genitive is:plural
+SFX Z   ba          ieb        [^t][rns]ba is:genitive is:plural
+SFX Z   ba          ieb        [^i].tba is:genitive is:plural
+SFX Z   ba          ieb        [^ú][vzž]ba is:genitive is:plural
+SFX Z   eda         ied        [^i]eda is:genitive is:plural
+SFX Z   eba         ieb        [^i]eba is:genitive is:plural
+SFX Z   ra          ier        [hd]ra is:genitive is:plural
+SFX Z   va          iev        [kštzž]va is:genitive is:plural
+SFX Z   va          iev        arva is:genitive is:plural
+SFX Z   ľva         liev       ľva is:genitive is:plural
+SFX Z   ľba         lieb       [aeo]ľba is:genitive is:plural
+SFX Z   ilba        ílb        ilba is:genitive is:plural
+SFX Z   dba         dieb       [auo]dba is:genitive is:plural
+SFX Z   ďka         diek       [^i][^éíóôúý]ďka is:genitive is:plural
+SFX Z   ňka         niek       [^i][^éíóôúý]ňka is:genitive is:plural
+SFX Z   ťka         tiek       [^i][^éíóôúý]ťka is:genitive is:plural
+SFX Z   arta        árt        arta is:genitive is:plural
+SFX Z   ka          iek        [^i][lr][fdcčš]ka is:genitive is:plural
+SFX Z   ka          iek        [^i][aeiuy][bcčdfghklmoprsštvzž]ka is:genitive is:plural
+SFX Z   ka          iek        [^i][aeuiy][sn]tka is:genitive is:plural
+SFX Z   ka          iek        o[bcčdfghklmnoprsštvzž]ka is:genitive is:plural
+SFX Z   ka          iek        [lr]nka is:genitive is:plural
+SFX Z   ka          iek        [^i][eiuy]nka is:genitive is:plural
+SFX Z   ka          iek        [^ib]anka is:genitive is:plural
+SFX Z   ľka         liek       [^i][aeouy]ľka is:genitive is:plural
+SFX Z   eta         iet        [^p][^o][^iu]eta is:genitive is:plural
+SFX Z   alva        álv        alva is:genitive is:plural
+SFX Z   rva         ŕv         [bmt]rva is:genitive is:plural
+SFX Z   rba         ŕb         trba is:genitive is:plural
+SFX Z   aba         áb         baba is:genitive is:plural
+SFX Z   iba         íb         iba is:genitive is:plural
+SFX Z   uda         úd         uda is:genitive is:plural
+SFX Z   iha         íh         iha is:genitive is:plural
+SFX Z   ika         ík         [^éíáýúôó].ika is:genitive is:plural
+SFX Z   ila         íl         [^a]ila is:genitive is:plural
+SFX Z   ita         ít         [^i][aeiouy].ita is:genitive is:plural
+SFX Z   ina         ín         [^i][äaeiouy].ina is:genitive is:plural
+SFX Z   ina         ín         [^i][aoley][bhjlnrtv]čina is:genitive is:plural
+SFX Z   ina         ín         [^a][bcčdhrkjrndďtvzž][clmnpšrvz]ina is:genitive is:plural
+SFX Z   elta        ielt       [^i]elta is:genitive is:plural
+SFX Z   ela         iel        [^dilnrtu]ela is:genitive is:plural
+SFX Z   esta        iest       [^d][^i]esta is:genitive is:plural
+SFX Z   enda        iend       egenda is:genitive is:plural
+SFX Z   ena         ien        [^mty]ena is:genitive is:plural
+SFX Z   ena         ien        [^éíáýúôó]mena is:genitive is:plural
+SFX Z   ma          iem        [^i]erma is:genitive is:plural
+SFX Z   anda        ánd        [^á].anda is:genitive is:plural
+SFX Z   arda        árd        arda is:genitive is:plural
+SFX Z   amba        ámb        amba is:genitive is:plural
+SFX Z   imba        ímb        imba is:genitive is:plural
+SFX Z   omba        ômb        [^l]omba is:genitive is:plural
+SFX Z   umba        úmb        umba is:genitive is:plural
+SFX Z   unda        únd        unda is:genitive is:plural
+SFX Z   rnda        ŕnd        rnda is:genitive is:plural
+SFX Z   avda        ávd        avda is:genitive is:plural
+SFX Z   ažda        ážd        ažda is:genitive is:plural
+SFX Z   abzda       ábzd       abzda is:genitive is:plural
+SFX Z   azda        ázd        azda is:genitive is:plural
+SFX Z   auna        áun        auna is:genitive is:plural
+SFX Z   uka         úk         [^éíáýúôó][^á]uka is:genitive is:plural
+SFX Z   una         ún         [dklr]una is:genitive is:plural
+SFX Z   ula         úl         [^a]ula is:genitive is:plural
+SFX Z   yba         ýb         [^e][hr]yba is:genitive is:plural
+SFX Z   anka        ánk        [^d]banka is:genitive is:plural
+SFX Z   ucha        úch        ucha is:genitive is:plural
+SFX Z   0           m          [áéíóŕúýô].a is:dative is:plural
+SFX Z   0           m          i[aeu].a is:dative is:plural
+SFX Z   0           m          [áéíóŕúýô][dps][ctz][hk]a is:dative is:plural
+SFX Z   0           m          ácha is:dative is:plural
+SFX Z   0           m          i[eau][bcčdlľnmprsštťvzž][bdghkt]a is:dative is:plural
+SFX Z   0           m          i[eau][sn]tka is:dative is:plural
+SFX Z   0           m          [áéíóĺŕúýô][bcčdďfghjklľmnprsštťvzž][bcčdďfghjklľmnprsštvzž]a is:dative is:plural
+SFX Z   a           ám         [euo]a is:dative is:plural
+SFX Z   a           ám         [^i][aeiyouä].a is:dative is:plural
+SFX Z   a           ám         iola is:dative is:plural
+SFX Z   a           ám         io[nrštv]ka is:dative is:plural
+SFX Z   a           ám         ámlka is:dative is:plural
+SFX Z   a           ám         [aeuoiyä][brs][ckrt][hmn]a is:dative is:plural
+SFX Z   a           ám         [bčdfkmprsštv][klrstv][cčknrstvzž][bdhkmntv]a is:dative is:plural
+SFX Z   a           ám         [^i][aeuoiyä][bcčdďfghjklľmnprsštťvxzž][bcčdďfghjklľmnňprsštvxzž]a is:dative is:plural
+SFX Z   a           ám         [^iť][aeuoiyä][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž]a is:dative is:plural
+SFX Z   a           y          a is:accusative is:plural
+SFX Z   0           ch         [áéíóŕúýô].a is:locative is:plural
+SFX Z   0           ch         i[aeu].a is:locative is:plural
+SFX Z   0           ch         [áéíóŕúýô][dps][ctz][hk]a is:locative is:plural
+SFX Z   0           ch         ácha is:locative is:plural
+SFX Z   0           ch         i[eau][bcčdlľnmprsštťvzž][bdghkt]a is:locative is:plural
+SFX Z   0           ch         i[eau][sn]tka is:locative is:plural
+SFX Z   0           ch         [áéíóĺŕúýô][bcčdďfghjklľmnprsštťvzž][bcčdďfghjklľmnprsštvzž]a is:locative is:plural
+SFX Z   a           ách        [euo]a is:locative is:plural
+SFX Z   a           ách        [^i][aeiyouä].a is:locative is:plural
+SFX Z   a           ách        iola is:locative is:plural
+SFX Z   a           ách        io[nrštv]ka is:locative is:plural
+SFX Z   a           ách        ámlka is:locative is:plural
+SFX Z   a           ách        [aeuoiyä][brs][ckrt][hmn]a is:locative is:plural
+SFX Z   a           ách        [bčdfkmprsštv][klrstv][cčknrstvzž][bdhkmntv]a is:locative is:plural
+SFX Z   a           ách        [^i][aeuoiyä][bcčdďfghjklľmnprsštťvxzž][bcčdďfghjklľmnňprsštvxzž]a is:locative is:plural
+SFX Z   a           ách        [^iť][aeuoiyä][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž]a is:locative is:plural
+SFX Z   a           ami        a is:instrumental is:plural
 
-SFX U Y 35
-SFX U   a           u          a
-SFX U   a           ou         a
-SFX U   a           ami        a
-SFX U   ca          c          áca
-SFX U   ica         íc         ica
-SFX U   iša         íš         iša     #  abatiša
-SFX U   uľa         úľ         uľa
-SFX U   a           í          ia
-SFX U   a           ám         ia
-SFX U   a           ách        ia
-SFX U   ďa          de         ďa
-SFX U   ďa          dí         ďa
-SFX U   ďa          di         ďa
-SFX U   ďa          diam       ďa
-SFX U   ďa          diach      ďa
-SFX U   ľa          le         ľa
-SFX U   ľa          li         ľa
-SFX U   ľa          ľam        [áéíóúý]ľa
-SFX U   ľa          liam       [^áéíóúý]ľa
-SFX U   ľa          ľach       [áéíóúý]ľa
-SFX U   ľa          liach      [^áéíóúý]ľa
-SFX U   iňa         íň         iňa
-SFX U   yňa         ýň         yňa
-SFX U   ňa          ne         ňa
-SFX U   ňa          ni         ňa
-SFX U   ňa          niam       ňa
-SFX U   ňa          niach      ňa
-SFX U   ťa          te         ťa
-SFX U   ťa          ti         ťa
-SFX U   ťa          tiam       ťa
-SFX U   ťa          tiach      ťa
-SFX U   a           e          [^ďťňľ]a
-SFX U   a           i          [^ďťňľ]a
-SFX U   a           iam        [^ďťňľi]a
-SFX U   a           iach       [^ďťňľi]a
+SFX U Y 48
+SFX U   a           e          [^ďťňľ]a is:genitive
+SFX U   ďa          de         ďa is:genitive
+SFX U   ľa          le         ľa is:genitive
+SFX U   ňa          ne         ňa is:genitive
+SFX U   ťa          te         ťa is:genitive
+SFX U   a           e          ia is:genitive
+SFX U   a           i          [^ďťňľ]a is:dative
+SFX U   ďa          di         ďa is:dative
+SFX U   ľa          li         ľa is:dative
+SFX U   ňa          ni         ňa is:dative
+SFX U   ťa          ti         ťa is:dative
+SFX U   a           u          a is:accusative
+SFX U   a           i          [^ďťňľ]a is:locative
+SFX U   ľa          li         ľa is:locative
+SFX U   ňa          ni         ňa is:locative
+SFX U   ťa          ti         ťa is:locative
+SFX U   a           i          ia is:locative
+SFX U   a           ou         a is:instrumental
+SFX U   a           e          [^ďťňľ]a is:nominative is:plural
+SFX U   ďa          de         ďa is:nominative is:plural
+SFX U   ľa          le         ľa is:nominative is:plural
+SFX U   ňa          ne         ňa is:nominative is:plural
+SFX U   ťa          te         ťa is:nominative is:plural
+SFX U   a           í          ia is:genitive is:plural
+SFX U   ca          c          áca is:genitive is:plural
+SFX U   ica         íc         ica is:genitive is:plural
+SFX U   iša         íš         iša is:genitive is:plural
+SFX U   uľa         úľ         uľa is:genitive is:plural
+SFX U   iňa         íň         iňa is:genitive is:plural
+SFX U   yňa         ýň         yňa is:genitive is:plural
+SFX U   ďa          dí         ďa is:genitive is:plural
+SFX U   a           ám         ia is:dative is:plural
+SFX U   ďa          diam       ďa is:dative is:plural
+SFX U   ňa          niam       ňa is:dative is:plural
+SFX U   ťa          tiam       ťa is:dative is:plural
+SFX U   a           iam        [^ďťňľi]a is:dative is:plural
+SFX U   ľa          ľam        [áéíóúý]ľa is:dative is:plural
+SFX U   ľa          liam       [^áéíóúý]ľa is:dative is:plural
+SFX U   ďa          de         ďa is:accusative is:plural
+SFX U   ľa          le         ľa is:accusative is:plural
+SFX U   a           ách        ia is:locative is:plural
+SFX U   ďa          diach      ďa is:locative is:plural
+SFX U   ľa          ľach       [áéíóúý]ľa is:locative is:plural
+SFX U   ľa          liach      [^áéíóúý]ľa is:locative is:plural
+SFX U   ňa          niach      ňa is:locative is:plural
+SFX U   ťa          tiach      ťa is:locative is:plural
+SFX U   a           iach       [^ďťňľi]a is:locative is:plural
+SFX U   a           ami        a is:instrumental is:plural
 
-SFX D Y 86 # dlaň a idea; v Dat a Lok platí rytmický zákon (t.j. gramážam a nie gramážiam; čakáreň -> čakárňam ale v čakárniach???
-SFX D   ec          ce         ec      # obec
-SFX D   ec          cí         ec
-SFX D   ec          ci         ec
-SFX D   ec          ciam       ec
-SFX D   ec          ciach      ec
-SFX D   ec          cou        ec
-SFX D   ec          cami       ec
-SFX D   ď           de         ď     # loď
-SFX D   ď           dí         ď
-SFX D   ď           di         ď
-SFX D   ď           diam       ď
-SFX D   ď           diach      ď
-SFX D   0           ou         ď
-SFX D   0           ami        ď
-SFX D   0           am         j     # koľaj
-SFX D   0           ach        j
-SFX D   eľ          le         seľ     # posteľ
-SFX D   eľ          lí         seľ
-SFX D   eľ          li         seľ
-SFX D   eľ          liam       seľ
-SFX D   eľ          liach      seľ
-SFX D   eľ          ľou        seľ
-SFX D   eľ          ľami       seľ
-SFX D   ľ           le         [^s]eľ
-SFX D   ľ           lí         [^s]eľ
-SFX D   ľ           li         [^s]eľ
-SFX D   ľ           liam       [^s]eľ
-SFX D   ľ           liach      [^s]eľ
-SFX D   0           ou         [^s]eľ
-SFX D   0           ami        [^s]eľ
-SFX D   eň          ne         [bdhrsšzv]eň     # jedáleň, vášeň
-SFX D   eň          ní         [bdhrsšzv]eň
-SFX D   eň          ni         [bdhrsšzv]eň
-SFX D   eň          niam       [bdhrsšzv]eň
-SFX D   eň          niach      [bdhrsšzv]eň
-SFX D   eň          ňou        [bdhrsšzv]eň
-SFX D   eň          ňami       [bdhrsšzv]eň
-SFX D   eň          ne         á[lš]eň
-SFX D   eň          ní         á[lš]eň
-SFX D   eň          ni         á[lš]eň
-SFX D   eň          niam       á[lš]eň
-SFX D   eň          niach      á[lš]eň
-SFX D   eň          ňou        á[lš]eň
-SFX D   eň          ňami       á[lš]eň
-SFX D   eň          ne         i[aeu].eň     #tieseň, pieseň
-SFX D   eň          ní         i[aeu].eň
-SFX D   eň          ni         i[aeu].eň
-SFX D   eň          niam       i[aeu].eň
-SFX D   eň          niach      i[aeu].eň
-SFX D   eň          ňou        i[aeu].eň
-SFX D   eň          ňami       i[aeu].eň
-SFX D   ň           ne         [^á][lš]eň     # holeň
-SFX D   ň           ní         [^á][lš]eň
-SFX D   ň           ni         [^á][lš]eň
-SFX D   ň           niam       [^á][lš]eň
-SFX D   ň           niach      [^á][lš]eň
-SFX D   ň           ňou        [^á][lš]eň
-SFX D   ň           ňami       [^á][lš]eň
-SFX D   ň           ne         [^bdhlrsšzv]eň     # zeleň
-SFX D   ň           ní         [^bdhlrsšzv]eň
-SFX D   ň           ni         [^bdhlrsšzv]eň
-SFX D   ň           niam       [^bdhlrsšzv]eň
-SFX D   ň           niach      [^bdhlrsšzv]eň
-SFX D   ň           ňou        [^bdhlrsšzv]eň
-SFX D   ň           ňami       [^bdhlrsšzv]eň
-SFX D   ň           ne         [^e]ň     # laň
-SFX D   ň           ní         [^e]ň
-SFX D   ň           ni         [^e]ň
-SFX D   ň           niam       [^e]ň
-SFX D   ň           niach      [^e]ň
-SFX D   ň           ňou        [^e]ň
-SFX D   ň           ňami       [^e]ň
-SFX D   ť           te         ť     # hať
-SFX D   ť           tí         ť
-SFX D   ť           ti         ť
-SFX D   ť           tiam       ť
-SFX D   ť           tiach      ť
-SFX D   0           ou         ť
-SFX D   0           ami        ť
-SFX D   0           e          [^acďľňť]
-SFX D   0           í          [^acďľňť]
-SFX D   0           i          [^acďľňť]
-SFX D   0           iam        [^acďjľňť]
-SFX D   0           iach       [^acďjľňť]
-SFX D   0           ou         [^acďľňť]
-SFX D   0           ami        [^acďľňť]
+SFX D Y 110 # dlaň a idea; v Dat a Lok platí rytmický zákon (t.j. gramážam a nie gramážiam; čakáreň -> čakárňam ale v čakárniach???
+SFX D   ec          ce         ec is:genitive
+SFX D   ď           de         ď is:genitive
+SFX D   eľ          le         seľ is:genitive
+SFX D   ľ           le         [^s]eľ is:genitive
+SFX D   eň          ne         [bdhrsšzv]eň is:genitive
+SFX D   eň          ne         á[lš]eň is:genitive
+SFX D   eň          ne         i[aeu].eň is:genitive
+SFX D   ň           ne         [^á][lš]eň is:genitive
+SFX D   ň           ne         [^bdhlrsšzv]eň is:genitive
+SFX D   ň           ne         [^e]ň is:genitive
+SFX D   ť           te         ť is:genitive
+SFX D   0           e          [^acďľňť] is:genitive
+SFX D   ec          ci         ec is:dative
+SFX D   ď           di         ď is:dative
+SFX D   eľ          li         seľ is:dative
+SFX D   eň          ni         [bdhrsšzv]eň is:dative
+SFX D   eň          ni         á[lš]eň is:dative
+SFX D   eň          ni         i[aeu].eň is:dative
+SFX D   ň           ni         [^á][lš]eň is:dative
+SFX D   ň           ni         [^bdhlrsšzv]eň is:dative
+SFX D   ň           ni         [^e]ň is:dative
+SFX D   ť           ti         ť is:dative
+SFX D   0           i          [^acďľňť] is:dative
+SFX D   ec          ci         ec is:locative
+SFX D   ď           di         ď is:locative
+SFX D   eľ          li         seľ is:locative
+SFX D   ľ           li         [^s]eľ is:locative
+SFX D   eň          ni         [bdhrsšzv]eň is:locative
+SFX D   ec          cou        ec is:instrumental
+SFX D   0           ou         ď is:instrumental
+SFX D   eľ          ľou        seľ is:instrumental
+SFX D   0           ou         [^s]eľ is:instrumental
+SFX D   eň          ňou        [bdhrsšzv]eň is:instrumental
+SFX D   eň          ňou        á[lš]eň is:instrumental
+SFX D   eň          ňou        i[aeu].eň is:instrumental
+SFX D   ň           ňou        [^á][lš]eň is:instrumental
+SFX D   ň           ňou        [^bdhlrsšzv]eň is:instrumental
+SFX D   ň           ňou        [^e]ň is:instrumental
+SFX D   0           ou         ť is:instrumental
+SFX D   0           ou         [^acďľňť] is:instrumental
+SFX D   eľ          le         seľ is:nominative is:plural
+SFX D   ľ           le         [^s]eľ is:nominative is:plural
+SFX D   eň          ne         [bdhrsšzv]eň is:nominative is:plural
+SFX D   eň          ne         á[lš]eň is:nominative is:plural
+SFX D   eň          ne         i[aeu].eň is:nominative is:plural
+SFX D   ň           ne         [^á][lš]eň is:nominative is:plural
+SFX D   ň           ne         [^bdhlrsšzv]eň is:nominative is:plural
+SFX D   ň           ne         [^e]ň is:nominative is:plural
+SFX D   ť           te         ť is:nominative is:plural
+SFX D   0           e          [^acďľňť] is:nominative is:plural
+SFX D   ec          cí         ec is:genitive is:plural
+SFX D   ď           dí         ď is:genitive is:plural
+SFX D   eľ          lí         seľ is:genitive is:plural
+SFX D   ľ           lí         [^s]eľ is:genitive is:plural
+SFX D   eň          ní         [bdhrsšzv]eň is:genitive is:plural
+SFX D   eň          ní         á[lš]eň is:genitive is:plural
+SFX D   eň          ní         i[aeu].eň is:genitive is:plural
+SFX D   ň           ní         [^á][lš]eň is:genitive is:plural
+SFX D   ň           ní         [^bdhlrsšzv]eň is:genitive is:plural
+SFX D   ň           ní         [^e]ň is:genitive is:plural
+SFX D   ť           tí         ť is:genitive is:plural
+SFX D   0           í          [^acďľňť] is:genitive is:plural
+SFX D   ec          ciam       ec is:dative is:plural
+SFX D   ď           diam       ď is:dative is:plural
+SFX D   0           am         j is:dative is:plural
+SFX D   eľ          liam       seľ is:dative is:plural
+SFX D   ľ           liam       [^s]eľ is:dative is:plural
+SFX D   eň          niam       [bdhrsšzv]eň is:dative is:plural
+SFX D   eň          niam       á[lš]eň is:dative is:plural
+SFX D   eň          niam       i[aeu].eň is:dative is:plural
+SFX D   ň           niam       [^á][lš]eň is:dative is:plural
+SFX D   ň           niam       [^bdhlrsšzv]eň is:dative is:plural
+SFX D   ň           niam       [^e]ň is:dative is:plural
+SFX D   ť           tiam       ť is:dative is:plural
+SFX D   0           iam        [^acďjľňť] is:dative is:plural
+SFX D   eľ          le         seľ is:accusative is:plural
+SFX D   ľ           le         [^s]eľ is:accusative is:plural
+SFX D   eň          ne         [bdhrsšzv]eň is:accusative is:plural
+SFX D   eň          ne         á[lš]eň is:accusative is:plural
+SFX D   eň          ne         i[aeu].eň is:accusative is:plural
+SFX D   ň           ne         [^á][lš]eň is:accusative is:plural
+SFX D   ň           ne         [^bdhlrsšzv]eň is:accusative is:plural
+SFX D   ň           ne         [^e]ň is:accusative is:plural
+SFX D   ť           te         ť is:accusative is:plural
+SFX D   0           e          [^acďľňť] is:accusative is:plural
+SFX D   ec          ciach      ec is:locative is:plural
+SFX D   ď           diach      ď is:locative is:plural
+SFX D   0           ach        j is:locative is:plural
+SFX D   eľ          liach      seľ is:locative is:plural
+SFX D   ľ           liach      [^s]eľ is:locative is:plural
+SFX D   eň          niach      [bdhrsšzv]eň is:locative is:plural
+SFX D   eň          niach      á[lš]eň is:locative is:plural
+SFX D   eň          niach      i[aeu].eň is:locative is:plural
+SFX D   ň           niach      [^á][lš]eň is:locative is:plural
+SFX D   ň           niach      [^bdhlrsšzv]eň is:locative is:plural
+SFX D   ň           niach      [^e]ň is:locative is:plural
+SFX D   ť           tiach      ť is:locative is:plural
+SFX D   0           iach       [^acďjľňť] is:locative is:plural
+SFX D   ec          cami       ec is:instrumental is:plural
+SFX D   0           ami        ď is:instrumental is:plural
+SFX D   eľ          ľami       seľ is:instrumental is:plural
+SFX D   0           ami        [^s]eľ is:instrumental is:plural
+SFX D   eň          ňami       [bdhrsšzv]eň is:instrumental is:plural
+SFX D   eň          ňami       á[lš]eň is:instrumental is:plural
+SFX D   eň          ňami       i[aeu].eň is:instrumental is:plural
+SFX D   ň           ňami       [^á][lš]eň is:instrumental is:plural
+SFX D   ň           ňami       [^bdhlrsšzv]eň is:instrumental is:plural
+SFX D   ň           ňami       [^e]ň is:instrumental is:plural
+SFX D   0           ami        ť is:instrumental is:plural
+SFX D   0           ami        [^acďľňť] is:instrumental is:plural
 
-SFX K Y 30
-SFX K   á           é          á     # gazdiná
-SFX K   á           ej         á
-SFX K   á           ám         á
-SFX K   á           ú          á
-SFX K   á           ách        á
-SFX K   á           ou         á
-SFX K   á           ami        á
-SFX K   iná         ín         iná
-SFX K   ď           di         ď     # kosť
-SFX K   ď           dí         ď
-SFX K   ď           diam       ď
-SFX K   ď           diach      ď
-SFX K   ľ           li         ľ
-SFX K   ľ           lí         ľ
-SFX K   ľ           liam       ľ
-SFX K   ľ           liach      ľ
-SFX K   ť           ti         ť
-SFX K   ť           tí         ť
-SFX K   ť           tiam       ť
-SFX K   ť           tiach      ť
-SFX K   ň           ni         ň
-SFX K   ň           ní         ň
-SFX K   ň           niam       ň
-SFX K   ň           niach      ň
-SFX K   0           i          [^áďťňľ]
-SFX K   0           í          [^áďťňľ]
-SFX K   0           iam        [^áďťňľ]
-SFX K   0           iach       [^áďťňľ]
-SFX K   0           ou         [^á]
-SFX K   0           ami        [^á]
+SFX K Y 32
+SFX K   ď           di         ď is:genitive
+SFX K   ť           ti         ť is:genitive
+SFX K   ň           ni         ň is:genitive
+SFX K   0           i          [^áďťňľ] is:genitive
+SFX K   ť           ti         ť is:dative
+SFX K   á           ej         á is:dative
+SFX K   á           ú          á is:accusative
+SFX K   ľ           li         ľ is:locative
+SFX K   á           ou         á is:instrumental
+SFX K   0           ou         [^á] is:instrumental
+SFX K   ť           ti         ť is:nominative is:plural
+SFX K   á           é          á is:nominative is:plural
+SFX K   iná         ín         iná is:genitive is:plural
+SFX K   ď           dí         ď is:genitive is:plural
+SFX K   ľ           lí         ľ is:genitive is:plural
+SFX K   ť           tí         ť is:genitive is:plural
+SFX K   ň           ní         ň is:genitive is:plural
+SFX K   0           í          [^áďťňľ] is:genitive is:plural
+SFX K   á           ám         á is:dative is:plural
+SFX K   ď           diam       ď is:dative is:plural
+SFX K   ľ           liam       ľ is:dative is:plural
+SFX K   ť           tiam       ť is:dative is:plural
+SFX K   ň           niam       ň is:dative is:plural
+SFX K   0           iam        [^áďťňľ] is:dative is:plural
+SFX K   á           ách        á is:locative is:plural
+SFX K   ď           diach      ď is:locative is:plural
+SFX K   ľ           liach      ľ is:locative is:plural
+SFX K   ť           tiach      ť is:locative is:plural
+SFX K   ň           niach      ň is:locative is:plural
+SFX K   0           iach       [^áďťňľ] is:locative is:plural
+SFX K   á           ami        á is:instrumental is:plural
+SFX K   0           ami        [^á] is:instrumental is:plural
 
 SFX M Y 86
 SFX M   o           e          [^ďťňľ]o
