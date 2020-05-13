@@ -432,154 +432,165 @@ SFX K   0           iach       [^áďťňľ] is:locative is:plural
 SFX K   á           ami        á is:instrumental is:plural
 SFX K   0           ami        [^á] is:instrumental is:plural
 
-SFX M Y 86
-SFX M   o           e          [^ďťňľ]o
-SFX M   ďo          de         ďo
-SFX M   ťo          te         ťo
-SFX M   ňo          ne         ňo
-SFX M   ľo          le         ľo
-SFX M   o           a          i[aeou]..o
-SFX M   o           u          i[aeou]..o
-SFX M   o           am         i[aeou]..o
-SFX M   o           a          i[aeou]..o
-SFX M   o           ach        i[aeou]..o
-SFX M   o           om         i[aeou]..o
-SFX M   o           ami        i[aeou]..o
-SFX M   o           á          [^i][aeiouy]..o
-SFX M   o           a          [^i][aeiouy]..o
-SFX M   o           u          [^i][aeiouy]..o
-SFX M   o           ám         [^i][aeiouy]..o
-SFX M   o           ách        [^i][aeiouy]..o
-SFX M   o           om         [^i][aeiouy]..o
-SFX M   o           ami        [^i][aeiouy]..o
-SFX M   o           a          [áéíóŕúý]..o
-SFX M   o           u          [áéíóŕúý]..o
-SFX M   o           am         [áéíóŕúý]..o
-SFX M   o           a          [áéíóŕúý]..o
-SFX M   o           ach        [áéíóŕúý]..o
-SFX M   o           om         [áéíóŕúý]..o
-SFX M   o           ami        [áéíóŕúý]..o
-SFX M   o           á          [^aáeéiíoóŕuúyý]..o
-SFX M   o           a          [^aáeéiíoóŕuúyý]..o
-SFX M   o           u          [^aáeéiíoóŕuúyý]..o
-SFX M   o           ám         [^aáeéiíoóŕuúyý]..o
-SFX M   o           ách        [^aáeéiíoóŕuúyý]..o
-SFX M   o           om         [^aáeéiíoóŕuúyý]..o
-SFX M   o           ami        [^aáeéiíoóŕuúyý]..o
-SFX M   o           a          i[aeou].o
-SFX M   o           u          i[aeou].o
-SFX M   o           am         i[aeou].o
-SFX M   o           a          i[aeou].o
-SFX M   o           ach        i[aeou].o
-SFX M   o           om         i[aeou].o
-SFX M   o           ami        i[aeou].o
-SFX M   o           a          [áéíóŕúý].o
-SFX M   o           u          [áéíóŕúý].o
-SFX M   o           am         [áéíóŕúý].o
-SFX M   o           a          [áéíóŕúý].o
-SFX M   o           ach        [áéíóŕúý].o
-SFX M   o           om         [áéíóŕúý].o
-SFX M   o           ami        [áéíóŕúý].o
-SFX M   o           á          [^áéíóŕúý].o
-SFX M   o           a          [^áéíóŕúý].o
-SFX M   o           u          [^áéíóŕúý].o
-SFX M   o           ám         [^áéíóŕúý].o
-SFX M   o           ách        [^áéíóŕúý].o
-SFX M   o           om         [^áéíóŕúý].o
-SFX M   o           ami        [^áéíóŕúý].o
-SFX M   um          á          ium
-SFX M   um          a          ium
-SFX M   um          u          ium
-SFX M   um          ám         ium
-SFX M   um          ách        ium
-SFX M   um          om         ium
-SFX M   um          ami        ium
-SFX M   um          á          [^i]um
-SFX M   um          a          [^i]um
-SFX M   um          u          [^i]um
-SFX M   um          ám         [^i]um
-SFX M   um          e          [^i]um
-SFX M   um          ách        [^i]um
-SFX M   um          om         [^i]um
-SFX M   um          ami        [^i]um
-SFX M   ko          ok         čko
-SFX M   oko         ôk         oko
-SFX M   ko          k          sko
-SFX M   lo          iel        [dst]lo
-SFX M   lo          el         [áéíóúý]slo
-SFX M   no          ien        [kt]no
-SFX M   eso         ies        leso
-SFX M   eto         iet        [^g]eto
-SFX M   nto         nt         nto
-SFX M   esto        iest       [^ig]esto
-SFX M   to          t          iesto
-SFX M   vo          v          ovo
-SFX M   vo          iev        tvo
-SFX M   um          í          [ei]um
-SFX M   um          ier        [^ei]um
-SFX M   o           0          gesto
-SFX M   o           0          geto
+SFX M Y 92
+SFX M   ďo          de         ďo is:genitive
+SFX M   ťo          te         ťo is:genitive
+SFX M   ňo          ne         ňo is:genitive
+SFX M   ľo          le         ľo is:genitive
+SFX M   o           a          i[aeou]..o is:genitive
+SFX M   o           a          [^i][aeiouy]..o is:genitive
+SFX M   o           a          [áéíóŕúý]..o is:genitive
+SFX M   o           a          [^aáeéiíoóŕuúyý]..o is:genitive
+SFX M   o           a          i[aeou].o is:genitive
+SFX M   o           a          [áéíóŕúý].o is:genitive
+SFX M   o           a          [^áéíóŕúý].o is:genitive
+SFX M   um          a          ium is:genitive
+SFX M   um          a          [^i]um is:genitive
+SFX M   o           u          i[aeou]..o is:dative
+SFX M   o           u          [^i][aeiouy]..o is:dative
+SFX M   o           u          [áéíóŕúý]..o is:dative
+SFX M   o           u          [^aáeéiíoóŕuúyý]..o is:dative
+SFX M   o           u          i[aeou].o is:dative
+SFX M   o           u          [áéíóŕúý].o is:dative
+SFX M   o           u          [^áéíóŕúý].o is:dative
+SFX M   um          u          ium is:dative
+SFX M   um          u          [^i]um is:dative
+SFX M   o           e          [^ďťňľ]o is:locative
+SFX M   um          e          [^i]um is:locative
+SFX M   o           e          geto is:locative
+SFX M   o           om         i[aeou]..o is:instrumental
+SFX M   o           om         [^i][aeiouy]..o is:instrumental
+SFX M   o           om         [áéíóŕúý]..o is:instrumental
+SFX M   o           om         [^aáeéiíoóŕuúyý]..o is:instrumental
+SFX M   o           om         i[aeou].o is:instrumental
+SFX M   o           om         [áéíóŕúý].o is:instrumental
+SFX M   o           om         [^áéíóŕúý].o is:instrumental
+SFX M   um          om         ium is:instrumental
+SFX M   um          om         [^i]um is:instrumental
+SFX M   o           á          [^i][aeiouy]..o is:nominative is:plural
+SFX M   o           á          [^aáeéiíoóŕuúyý]..o is:nominative is:plural
+SFX M   o           a          i[aeou].o is:nominative is:plural
+SFX M   o           a          [áéíóŕúý].o is:nominative is:plural
+SFX M   o           á          [^áéíóŕúý].o is:nominative is:plural
+SFX M   um          á          ium is:nominative is:plural
+SFX M   um          á          [^i]um is:nominative is:plural
+SFX M   ko          ok         čko is:genitive is:plural
+SFX M   oko         ôk         oko is:genitive is:plural
+SFX M   ko          k          sko is:genitive is:plural
+SFX M   lo          iel        [dst]lo is:genitive is:plural
+SFX M   lo          el         [áéíóúý]slo is:genitive is:plural
+SFX M   no          ien        [kt]no is:genitive is:plural
+SFX M   eso         ies        leso is:genitive is:plural
+SFX M   eto         iet        [^g]eto is:genitive is:plural
+SFX M   nto         nt         nto is:genitive is:plural
+SFX M   esto        iest       [^ig]esto is:genitive is:plural
+SFX M   to          t          iesto is:genitive is:plural
+SFX M   vo          v          ovo is:genitive is:plural
+SFX M   vo          iev        tvo is:genitive is:plural
+SFX M   um          í          [ei]um is:genitive is:plural
+SFX M   um          ier        [^ei]um is:genitive is:plural
+SFX M   o           0          gesto is:genitive is:plural
+SFX M   o           0          geto is:genitive is:plural
+SFX M   o           am         i[aeou]..o is:dative is:plural
+SFX M   o           ám         [^i][aeiouy]..o is:dative is:plural
+SFX M   o           am         [áéíóŕúý]..o is:dative is:plural
+SFX M   o           ám         [^aáeéiíoóŕuúyý]..o is:dative is:plural
+SFX M   o           am         i[aeou].o is:dative is:plural
+SFX M   o           am         [áéíóŕúý].o is:dative is:plural
+SFX M   o           ám         [^áéíóŕúý].o is:dative is:plural
+SFX M   um          ám         ium is:dative is:plural
+SFX M   um          ám         [^i]um is:dative is:plural
+SFX M   o           a          i[aeou]..o is:accusative is:plural
+SFX M   o           á          [^i][aeiouy]..o is:accusative is:plural
+SFX M   o           a          [áéíóŕúý]..o is:accusative is:plural
+SFX M   o           a          i[aeou].o is:accusative is:plural
+SFX M   o           a          [áéíóŕúý].o is:accusative is:plural
+SFX M   um          á          ium is:accusative is:plural
+SFX M   um          á          [^i]um is:accusative is:plural
+SFX M   o           ach        i[aeou]..o is:locative is:plural
+SFX M   o           ách        [^i][aeiouy]..o is:locative is:plural
+SFX M   o           ach        [áéíóŕúý]..o is:locative is:plural
+SFX M   o           ách        [^aáeéiíoóŕuúyý]..o is:locative is:plural
+SFX M   o           ach        i[aeou].o is:locative is:plural
+SFX M   o           ach        [áéíóŕúý].o is:locative is:plural
+SFX M   o           ách        [^áéíóŕúý].o is:locative is:plural
+SFX M   um          ách        ium is:locative is:plural
+SFX M   um          ách        [^i]um is:locative is:plural
+SFX M   o           ami        i[aeou]..o is:instrumental is:plural
+SFX M   o           ami        [^i][aeiouy]..o is:instrumental is:plural
+SFX M   o           ami        [áéíóŕúý]..o is:instrumental is:plural
+SFX M   o           ami        [^aáeéiíoóŕuúyý]..o is:instrumental is:plural
+SFX M   o           ami        i[aeou].o is:instrumental is:plural
+SFX M   o           ami        [áéíóŕúý].o is:instrumental is:plural
+SFX M   o           ami        [^áéíóŕúý].o is:instrumental is:plural
+SFX M   um          ami        ium is:instrumental is:plural
+SFX M   um          ami        [^i]um is:instrumental is:plural
 
 SFX S Y 22  #treba dorobit rytmický zákon pre -ia/a, iam/am a iach/ach
-SFX S   e           a          [^t]e
-SFX S   e           ťa         te
-SFX S   e           u          [^t]e
-SFX S   e           ťu         te
-SFX S   e           i          [^t]e
-SFX S   e           ti         te
-SFX S   e           om         [^t]e
-SFX S   e           ťom        te
-SFX S   e           ia         [^i][aeu]..e
-SFX S   e           ia         [^i][aeu].e
-SFX S   e           ia         [^ôáéíóúĺŕ]..e
-SFX S   e           ia         [^ôáéíóúĺŕ].e
-SFX S   e           a          i[aeu]..e
-SFX S   e           a          i[aeu].e
-SFX S   e           a          [ôáéíóúĺŕ]..e
-SFX S   e           a          [ôáéíóúĺŕ].e
-SFX S   e           í          re               # more
-SFX S   ece         iec        ece              # plece
-SFX S   rdce        ŕdc        rdce             # sŕdc
-SFX S   e           iam        e
-SFX S   e           iach       e
-SFX S   e           ami        e
+SFX S   e           a          [^t]e is:genitive
+SFX S   e           ťa         te is:genitive
+SFX S   e           a          i[aeu]..e is:genitive
+SFX S   e           a          i[aeu].eis:genitive
+SFX S   e           a          [ôáéíóúĺŕ]..eis:genitive
+SFX S   e           a          [ôáéíóúĺŕ].eis:genitive
+SFX S   e           u          [^t]e is:dative
+SFX S   e           ťu         te is:dative
+SFX S   e           i          [^t]e is:locative
+SFX S   e           ti         te is:locative
+SFX S   e           om         [^t]e is:instrumental
+SFX S   e           ťom        te is:instrumental
+SFX S   e           ia         [^i][aeu]..e is:nominative is:plural
+SFX S   e           ia         [^i][aeu].e is:nominative is:plural
+SFX S   e           ia         [^ôáéíóúĺŕ]..e is:nominative is:plural
+SFX S   e           ia         [^ôáéíóúĺŕ].e is:nominative is:plural
+SFX S   e           í          re is:genitive is:plural
+SFX S   ece         iec        ece is:genitive is:plural
+SFX S   rdce        ŕdc        rdce is:genitive is:plural
+SFX S   e           iam        e is:dative is:plural
+SFX S   e           iach       e is:locative is:plural
+SFX S   e           ami        e is:instrumental is:plural
 
-SFX V Y 7
-SFX V   e           a          e
-SFX V   e           u          e
-SFX V   e           am         e
-SFX V   ie          í          ie
-SFX V   e           ach        e
-SFX V   ie          ím         ie
-SFX V   e           ami        e
+SFX V Y 8
+SFX V   e           a          e is:genitive
+SFX V   e           u          e is:dative
+SFX V   ie          í          ie is:locative
+SFX V   ie          ím         ie is:instrumental
+SFX V   ie          í          ie is:genitive is:plural
+SFX V   e           am         e is:dative is:plural
+SFX V   e           ach        e is:locative is:plural
+SFX V   e           ami        e is:instrumental is:plural
 
-SFX A Y 26
-SFX A   a           ence       [č]a
-SFX A   a           eniec      [č]a
-SFX A   a           encom      [č]a
-SFX A   a           encoch     [č]a
-SFX A   a           encami     [č]a
-SFX A   0           nce        úbä
-SFX A   0           niec       úbä
-SFX A   0           ncom       úbä
-SFX A   0           ncoch      úbä
-SFX A   0           ncami      úbä
-SFX A   a           ce         [^č]a
-SFX A   a           iec        [^čň]a
-SFX A   a           com        [^č]a
-SFX A   a           coch       [^č]a
-SFX A   a           cami       [^č]a
-SFX A	ňa          niec       [e]ňa	# šteňa 
-SFX A	ňa	    niat       [^i][^e]ňa	# jahňa
-SFX A   0           tá         .
-SFX A   0           ťa         .
-SFX A   0           t          [^ň]a
-SFX A   0           ťu         .
-SFX A   0           tám        .
-SFX A   0           ti         .
-SFX A   0           tách       .
-SFX A   0           ťom        .
-SFX A   0           tami       .
+SFX A Y 30
+SFX A   0           ťa         . is:genitive
+SFX A   0           ťu         . is:dative
+SFX A   0           ti         . is:locative
+SFX A   0           ťom        . is:instrumental
+SFX A   a           ence       [č]a is:nominative is:plural
+SFX A   0           nce        úbä is:nominative is:plural
+SFX A   a           ce         [^č]a is:nominative is:plural
+SFX A   0           tá         . is:nominative is:plural
+SFX A   a           eniec      [č]a is:genitive is:plural
+SFX A   0           niec       úbä is:genitive is:plural
+SFX A   a           iec        [^čň]a is:genitive is:plural
+SFX A	ňa          niec       [e]ňa is:genitive is:plural
+SFX A	ňa	    niat       [^i][^e]ňa is:genitive is:plural
+SFX A   0           t          [^ň]a is:genitive is:plural
+SFX A   a           encom      [č]a is:dative is:plural
+SFX A   0           ncom       úbä is:dative is:plural
+SFX A   a           com        [^č]a is:dative is:plural
+SFX A   0           tám        . is:dative is:plural
+SFX A   a           ence       [č]a is:accusative is:plural
+SFX A   0           nce        úbä is:accusative is:plural
+SFX A   a           ce         [^č]a is:accusative is:plural
+SFX A   0           tá         . is:accusative is:plural
+SFX A   a           encoch     [č]a is:locative is:plural
+SFX A   0           ncoch      úbä is:locative is:plural
+SFX A   a           coch       [^č]a is:locative is:plural
+SFX A   0           tách       . is:locative is:plural
+SFX A   a           encami     [č]a is:instrumental is:plural
+SFX A   0           ncami      úbä is:instrumental is:plural
+SFX A   a           cami       [^č]a is:instrumental is:plural
+SFX A   0           tami       . is:instrumental is:plural
 
 SFX c Y 153 # vzor pre živ. pod.mená. ak N plurál je -ia
 SFX c   0           ovia       [éi]	# kuli, abbé
