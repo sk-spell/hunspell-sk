@@ -592,775 +592,949 @@ SFX A   0           ncami      úbä is:instrumental is:plural
 SFX A   a           cami       [^č]a is:instrumental is:plural
 SFX A   0           tami       . is:instrumental is:plural
 
-SFX c Y 153 # vzor pre živ. pod.mená. ak N plurál je -ia
-SFX c   0           ovia       [éi]	# kuli, abbé
-SFX c   0           ho         [éi]
-SFX c   0           ov         [éi]
-SFX c   0           mu         [éi]
-SFX c   0           om         [éi]
-SFX c   0           m          [éi]
-SFX c   0           och        [éi]
-SFX c   0           ami        [éi]
-SFX c   us          a          [^ú]..us	# génius
-SFX c   us          ovi        [^ú]..us
-SFX c   us          om         [^ú]..us
-SFX c   us          ovia       [^ú]..us
-SFX c   us          ov         [^ú]..us
-SFX c   us          och        [^ú]..us
-SFX c   us          ami        [^ú]..us
-SFX c   0           a          úlius	# Július
-SFX c   0           ovi        úlius
-SFX c   0           om         úlius
-SFX c   0           ovia       úlius
-SFX c   0           ov         úlius
-SFX c   0           och        úlius
-SFX c   0           ami        úlius
-SFX c   as          a          [^el]as	# Pytagoras
-SFX c   as          ovi        [^el]as
-SFX c   as          om         [^el]as
-SFX c   as          ovia       [^el]as
-SFX c   as          ov         [^el]as
-SFX c   as          och        [^el]as
-SFX c   as          ami        [^el]as
-SFX c   0           a          [el]as	#Atlas, Eneas
-SFX c   0           ovi        [el]as
-SFX c   0           om         [el]as
-SFX c   0           ovia       [el]as
-SFX c   0           ov         [el]as
-SFX c   0           och        [el]as
-SFX c   0           ami        [el]as
-SFX c   es          a          [^hxz]es	# herkules - inak ten má dvojtvar
-SFX c   es          ovi        [^hxz]es
-SFX c   es          om         [^hxz]es
-SFX c   es          ovia       [^hxz]es
-SFX c   es          ov         [^hxz]es
-SFX c   es          och        [^hxz]es
-SFX c   0           a          [hxz]es	# Ramzes
-SFX c   0           ovi        [hxz]es
-SFX c   0           om         [hxz]es
-SFX c   0           ovia       [hxz]es
-SFX c   0           ov         [hxz]es
-SFX c   0           och        [hxz]es
-SFX c   0           mi         [hxz]es
-SFX c   0           a          [^h]os	#bos, Eros
-SFX c   0           ovi        [^h]os
-SFX c   0           om         [^h]os
-SFX c   0           ovia       [^h]os
-SFX c   0           ov         [^h]os
-SFX c   0           och        [^h]os
-SFX c   0           mi         [^h]os
-SFX c   os          a          hos	#Pyrrhos
-SFX c   os          ovi        hos
-SFX c   os          om         hos
-SFX c   os          ovia       hos
-SFX c   os          ov         hos
-SFX c   os          och        hos
-SFX c   os          mi         hos
-SFX c   0           a          is	#Denis
-SFX c   0           ovi        is
-SFX c   0           om         is
-SFX c   0           ovia       is
-SFX c   0           ov         is
-SFX c   0           och        is
-SFX c   0           mi         is
-SFX c   ec          ca         ec	# skontrolovať odtiaľto
-SFX c   ec          cov        ec
-SFX c   ec          covi       ec
-SFX c   ec          com        ec
-SFX c   ec          covia      ec
-SFX c   ec          coch       ec
-SFX c   ec          cami       ec
-SFX c   ec          če         ec	# s5 (otče)
-SFX c   ec          cu         ec	# s5 (otcu)
-SFX c   0           a          [^e]c
-SFX c   on          ni         zon
-SFX c   on          na         zon
-SFX c   on          nov        zon
-SFX c   on          novi       zon
-SFX c   on          novia      zon
-SFX c   on          nom        zon
-SFX c   on          noch       zon
-SFX c   on          nami       zon
-SFX c   o           a          o
-SFX c   0           v          o
-SFX c   0           vi         o
-SFX c   0           via        o
-SFX c   0           ch         o
-SFX c   0           m          o
-SFX c   o           ami        o
-SFX c   0           a          [inp]er
-SFX c   0           ov         [inp]er
-SFX c   0           ovi        [inp]er
-SFX c   0           ovia       [inp]er
-SFX c   0           om         [inp]er
-SFX c   0           och        [inp]er
-SFX c   0           mi         [inp]er
-SFX c   er          ra         [^inp]er
-SFX c   er          rov        [^inp]er
-SFX c   er          rovi       [^inp]er
-SFX c   er          rovia      [^inp]er
-SFX c   er          rom        [^inp]er
-SFX c   er          roch       [^inp]er
-SFX c   er          rami       [^inp]er
-SFX c   or          ra         [bg]or
-SFX c   or          rov        [bg]or
-SFX c   or          rovi       [bg]or
-SFX c   or          rovia      [bg]or
-SFX c   or          rom        [bg]or
-SFX c   or          roch       [bg]or
-SFX c   or          rami       [bg]or
-SFX c   0           a          [^bg]or
-SFX c   0           ov         [^bg]or
-SFX c   0           ovi        [^bg]or
-SFX c   0           ovia       [^bg]or
-SFX c   0           om         [^bg]or
-SFX c   0           och        [^bg]or
-SFX c   0           ami        [^bg]or
-SFX c   0           a          [^eo][cr]
-SFX c   0           ov         [^eo][cr]
-SFX c   0           ovi        [^eo][cr]
-SFX c   0           ovia       [^eo][cr]
-SFX c   0           om         [^eo][cr]
-SFX c   0           och        [^eo][cr]
-SFX c   0           mi         [^eon][cr]
-SFX c   0           ami        nc
-SFX c   0           ovia       nc
-SFX c   0           a          [^céior]
-SFX c   0           ov         [^céior]
-SFX c   0           ovi        [^céior]
-SFX c   0           ovia       [^cčéior]
-SFX c   0           om         [^céior]
-SFX c   0           och        [^céior]
-SFX c   0           mi         [^céior]
-SFX c   0           ovia       [ey]n
-SFX c   0           via        o
-SFX c   or          rovia      [gk]or
-SFX c   0           ovia       č[ei]k
-SFX c   ok          kovia      ok
-SFX c   0           ovia       duch
-SFX c   0           ovia       ach
-SFX c   0           ovia       ť
-SFX c   0           ia         dič	# rodič
-SFX c   0           i          dedič	# dedičia sú dvojtvar
-SFX c   0           ia         žel
-SFX c   ľ           lia        ľ
-SFX c   n           nia        čan
-SFX c   0           ia         brat
+SFX c Y 191 # vzor pre živ. pod.mená. ak N plurál je -ia
+SFX c   ec          če         ec is:vocative
+SFX c   0           ho         [éi] is:genitive
+SFX c   us          a          [^ú]..us is:genitive
+SFX c   0           a          úlius is:genitive
+SFX c   as          a          [^el]as is:genitive
+SFX c   0           a          [el]as is:genitive
+SFX c   es          a          [^hxz]es	is:genitive
+SFX c   0           a          [hxz]es is:genitive
+SFX c   0           a          [^h]os is:genitive
+SFX c   os          a          hos is:genitive
+SFX c   0           a          is is:genitive
+SFX c   ec          ca         ec is:genitive
+SFX c   0           a          [^e]c is:genitive
+SFX c   on          na         zon is:genitive
+SFX c   o           a          o is:genitive
+SFX c   0           a          [inp]er is:genitive
+SFX c   er          ra         [^inp]er is:genitive
+SFX c   er          rov        [^inp]er is:genitive
+SFX c   or          ra         [bg]or is:genitive
+SFX c   0           a          [^bg]or is:genitive
+SFX c   0           a          [^eo][cr] is:genitive
+SFX c   0           a          [^céior] is:genitive
+SFX c   0           mu         [éi] is:dative
+SFX c   us          ovi        [^ú]..us is:dative
+SFX c   0           ovi        úlius is:dative
+SFX c   as          ovi        [^el]as is:dative
+SFX c   0           ovi        [el]as is:dative
+SFX c   es          ovi        [^hxz]es is:dative
+SFX c   0           ovi        [hxz]es is:dative
+SFX c   0           ovi        [^h]os is:dative
+SFX c   os          ovi        hos is:dative
+SFX c   0           ovi        is is:dative
+SFX c   ec          cu         ec is:dative
+SFX c   on          novi       zon is:dative
+SFX c   0           vi         o is:dative
+SFX c   0           ovi        [inp]er is:dative
+SFX c   er          rovi       [^inp]er is:dative
+SFX c   or          rovi       [bg]or is:dative
+SFX c   0           ovi        [^bg]or is:dative
+SFX c   0           ovi        [^eo][cr] is:dative
+SFX c   0           ovi        [^céior] is:dative
+SFX c   us          a          [^ú]..us is:accusative
+SFX c   0           a          úlius is:accusative
+SFX c   as          a          [^el]as is:accusative
+SFX c   0           a          [el]as is:accusative
+SFX c   es          a          [^hxz]es	is:accusative
+SFX c   0           a          [hxz]es is:accusative
+SFX c   0           a          [^h]os is:accusative
+SFX c   os          a          hos is:accusative
+SFX c   0           a          is is:accusative
+SFX c   ec          ca         ec is:accusative
+SFX c   0           a          [^e]c is:accusative
+SFX c   o           a          o is:accusative
+SFX c   er          ra         [^inp]er is:accusative
+SFX c   or          ra         [bg]or is:accusative
+SFX c   0           a          [^bg]or is:accusative
+SFX c   0           a          [^eo][cr] is:accusative
+SFX c   0           a          [^céior] is:accusative
+SFX c   0           m          [éi] is:locative
+SFX c   0           ovi        [hxz]es is:locative
+SFX c   0           ovi        [^h]os is:locative
+SFX c   os          ovi        hos is:locative
+SFX c   0           ovi        is is:locative
+SFX c   ec          covi       ec is:locative
+SFX c   on          novi       zon is:locative
+SFX c   0           vi         o is:locative
+SFX c   0           ovi        [inp]er is:locative
+SFX c   er          rovi       [^inp]er is:locative
+SFX c   or          rovi       [bg]or is:locative
+SFX c   0           ovi        [^bg]or is:locative
+SFX c   0           ovi        [^eo][cr] is:locative
+SFX c   0           ovi        [^céior] is:locative
+SFX c   0           om         [éi] is:instrumental
+SFX c   0           ami        [éi] is:instrumental
+SFX c   0           om         [^céior] is:instrumental
+SFX c   0           ovia       [éi] is:nominative is:plural
+SFX c   us          ovia       [^ú]..us is:nominative is:plural
+SFX c   0           ovia       úlius is:nominative is:plural
+SFX c   as          ovia       [^el]as is:nominative is:plural
+SFX c   0           ovia       [el]as is:nominative is:plural
+SFX c   es          ovia       [^hxz]es is:nominative is:plural
+SFX c   0           ovia       [hxz]es is:nominative is:plural
+SFX c   0           ovia       [^h]os is:nominative is:plural
+SFX c   os          ovia       hos is:nominative is:plural
+SFX c   0           ovia       is is:nominative is:plural
+SFX c   ec          covia      ec is:nominative is:plural
+SFX c   on          ni         zon is:nominative is:plural
+SFX c   on          novia      zon is:nominative is:plural
+SFX c   0           via        o is:nominative is:plural
+SFX c   0           ovia       [inp]er is:nominative is:plural
+SFX c   er          rovia      [^inp]er is:nominative is:plural
+SFX c   or          rovia      [bg]or is:nominative is:plural
+SFX c   0           ovia       [^bg]or is:nominative is:plural
+SFX c   0           ovia       [^eo][cr] is:nominative is:plural
+SFX c   0           ovia       nc is:nominative is:plural
+SFX c   0           ovia       [^cčéior] is:nominative is:plural
+SFX c   0           ovia       [ey]n is:nominative is:plural
+SFX c   0           via        o is:nominative is:plural
+SFX c   or          rovia      [gk]or is:nominative is:plural
+SFX c   0           ovia       č[ei]k is:nominative is:plural
+SFX c   ok          kovia      ok is:nominative is:plural
+SFX c   0           ovia       duch is:nominative is:plural
+SFX c   0           ovia       ach is:nominative is:plural
+SFX c   0           ovia       ť is:nominative is:plural
+SFX c   0           ia         dič is:nominative is:plural
+SFX c   0           i          dedič is:nominative is:plural
+SFX c   0           ia         žel is:nominative is:plural
+SFX c   ľ           lia        ľ is:nominative is:plural
+SFX c   n           nia        čan is:nominative is:plural
+SFX c   0           ia         brat is:nominative is:plural
+SFX c   0           ov         [éi] is:genitive is:plural
+SFX c   us          ov         [^ú]..us is:genitive is:plural
+SFX c   0           ov         úlius is:genitive is:plural
+SFX c   as          ov         [^el]as is:genitive is:plural
+SFX c   0           ov         [el]as is:genitive is:plural
+SFX c   es          ov         [^hxz]es is:genitive is:plural
+SFX c   0           ov         [hxz]es is:genitive is:plural
+SFX c   0           ov         [^h]os is:genitive is:plural
+SFX c   os          ov         hos is:genitive is:plural
+SFX c   0           ov         is is:genitive is:plural
+SFX c   ec          cov        ec is:genitive is:plural
+SFX c   on          nov        zon is:genitive is:plural
+SFX c   0           v          o is:genitive is:plural
+SFX c   0           ov         [inp]er is:genitive is:plural
+SFX c   or          rov        [bg]or is:genitive is:plural
+SFX c   0           ov         [^bg]or genitive is:plural
+SFX c   0           ov         [^eo][cr] is:genitive is:plural
+SFX c   0           ov         [^céior] is:genitive is:plural
+SFX c   0           om         [éi] is:dative is:plural
+SFX c   us          om         [^ú]..us is:dative is:plural
+SFX c   0           om         úlius is:dative is:plural
+SFX c   as          om         [^el]as is:dative is:plural
+SFX c   0           om         [el]as is:dative is:plural
+SFX c   es          om         [^hxz]es is:dative is:plural
+SFX c   0           om         [hxz]es is:dative is:plural
+SFX c   0           om         [^h]os is:dative is:plural
+SFX c   os          om         hos is:dative is:plural
+SFX c   0           om         is is:dative is:plural
+SFX c   ec          com        ec is:dative is:plural
+SFX c   on          nom        zon is:dative is:plural
+SFX c   0           m          o is:dative is:plural
+SFX c   0           om         [inp]er is:dative is:plural
+SFX c   er          rom        [^inp]er is:dative is:plural
+SFX c   or          rom        [bg]or is:dative is:plural
+SFX c   0           om         [^bg]or is:dative is:plural
+SFX c   0           om         [^eo][cr] is:dative is:plural
+SFX c   0           om         [^céior] is:dative is:plural
+SFX c   ec          cov        ec is:accusative is:plural
+SFX c   0           v          o is:accusative is:plural
+SFX c   er          rov        [^inp]er is:accusative is:plural
+SFX c   or          rov        [bg]or is:accusative is:plural
+SFX c   0           ov         [^bg]or accusative is:plural
+SFX c   0           ov         [^eo][cr] is:accusative is:plural
+SFX c   0           ov         [^céior] is:accusative is:plural
+SFX c   0           och        [éi] is:locative is:plural
+SFX c   us          och        [^ú]..us is:locative is:plural
+SFX c   0           och        úlius is:locative is:plural
+SFX c   as          och        [^el]as is:locative is:plural
+SFX c   0           och        [el]as is:locative is:plural
+SFX c   es          och        [^hxz]es is:locative is:plural
+SFX c   0           och        [hxz]es is:locative is:plural
+SFX c   0           och        [^h]os is:locative is:plural
+SFX c   os          och        hos is:locative is:plural
+SFX c   0           och        is is:locative is:plural
+SFX c   ec          coch       ec is:locative is:plural
+SFX c   on          noch       zon is:locative is:plural
+SFX c   0           ch         o is:locative is:plural
+SFX c   0           och        [inp]er is:locative is:plural
+SFX c   er          roch       [^inp]er is:locative is:plural
+SFX c   or          roch       [bg]or is:locative is:plural
+SFX c   0           och        [^bg]or is:locative is:plural
+SFX c   0           och        [^céior] is:locative is:plural
+SFX c   us          ami        [^ú]..us is:instrumental is:plural
+SFX c   0           ami        úlius is:instrumental is:plural
+SFX c   as          ami        [^el]as is:instrumental is:plural
+SFX c   0           ami        [el]as is:instrumental is:plural
+SFX c   0           mi         [hxz]es is:instrumental is:plural
+SFX c   0           mi         [^h]os is:instrumental is:plural
+SFX c   os          mi         hos is:instrumental is:plural
+SFX c   0           mi         is is:instrumental is:plural
+SFX c   ec          cami       ec is:instrumental is:plural
+SFX c   on          nami       zon is:instrumental is:plural
+SFX c   o           ami        o is:instrumental is:plural
+SFX c   0           mi         [inp]er is:instrumental is:plural
+SFX c   er          rami       [^inp]er is:instrumental is:plural
+SFX c   or          rami       [bg]or is:instrumental is:plural
+SFX c   0           ami        [^bg]or is:instrumental is:plural
+SFX c   0           och        [^eo][cr] is:instrumental is:plural
+SFX c   0           mi         [^eon][cr] is:instrumental is:plural
+SFX c   0           ami        nc is:instrumental is:plural
+SFX c   0           mi         [^céior] is:instrumental is:plural
 
-SFX C Y 83 # vzor pre živ. pod.mená. ak N plurál je -i okrem hosť
-SFX C   0           i          [^acéhiklľnortť]
-SFX C   0           i          [^o]dič
-SFX C   0           i          [^d]ič
-SFX C   0           i          [^i]č
-SFX C   0           i          [ln]
-SFX C   ch          si         ch
-SFX C   k           ci         k
-SFX C   ec          ci         ec
-SFX C   0           i          jel
-SFX C   el          li         el
-SFX C   ľ           li         [áeo]ľ
-SFX C   0           i          lan
-SFX C   0           i          [^b]rat
-SFX C   0           i          [^r]at
-SFX C   0           i          [^a]t
-SFX C   ť           tia        ť
-SFX C   on          ni         zon
-SFX C   0           vi         o
-SFX C   0           i          [inp]er
-SFX C   er          ri         [^inp]er
-SFX C   or          ri         bor	# obor
-SFX C   0           i          [^b]or
-SFX C   0           i          [^eo][cr]
-SFX C   ť           tí         ť
-SFX C   0           ami        ť
-SFX C   ec          ca         ec
-SFX C   ec          cov        ec
-SFX C   ec          covi       ec
-SFX C   ec          com        ec
-SFX C   ec          coch       ec
-SFX C   ec          cami       ec
-SFX C   on          ni         zon
-SFX C   on          na         zon
-SFX C   on          nov        zon
-SFX C   on          novi       zon
-SFX C   on          nom        zon
-SFX C   on          noch       zon
-SFX C   on          nami       zon
-SFX C   o           a          o
-SFX C   0           v          o
-SFX C   0           ch         o
-SFX C   0           m          o
-SFX C   o           ami        o
-SFX C   0           ov         [inp]er
-SFX C   0           ovi        [inp]er
-SFX C   0           om         [inp]er
-SFX C   0           och        [inp]er
-SFX C   0           mi         [inp]er
-SFX C   er          ra         [^inp]er
-SFX C   er          rov        [^inp]er
-SFX C   er          rovi       [^inp]er
-SFX C   er          rom        [^inp]er
-SFX C   er          roch       [^inp]er
-SFX C   er          rami       [^inp]er
-SFX C   or          ra         [bg]or
-SFX C   or          rov        [bg]or
-SFX C   or          rovi       [bg]or
-SFX C   or          rom        [bg]or
-SFX C   or          roch       [bg]or
-SFX C   or          rami       [bg]or
-SFX C   0           a          [^bg]or
-SFX C   0           ov         [^bg]or
-SFX C   0           ovi        [^bg]or
-SFX C   0           om         [^bg]or
-SFX C   0           och        [^bg]or
-SFX C   0           ami        [^bg]or
-SFX C   0           a          [^eo][cr]
-SFX C   0           ov         [^eo][cr]
-SFX C   0           ovi        [^eo][cr]
-SFX C   0           om         [^eo][cr]
-SFX C   0           och        [^eo][cr]
-SFX C   0           mi         [^eon][cr]
-SFX C   0           ami        nc
-SFX C   0           a          [^céior]
-SFX C   0           ov         [^céior]
-SFX C   0           ovi        [^céior]
-SFX C   0           om         [^céior]
-SFX C   0           och        [^céior]
-SFX C   0           mi         [^céiorť]
-SFX C   i           ov         ovci
-SFX C   i           om         ovci
-SFX C   i           och        ovci
-SFX C   i           ami        ovci
+SFX C Y 113 # vzor pre živ. pod.mená. ak N plurál je -i okrem hosť
+SFX C   ec          ca         ec is:genitive
+SFX C   on          na         zon is:genitive
+SFX C   o           a          o is:genitive
+SFX C   er          ra         [^inp]er is:genitive
+SFX C   or          ra         [bg]or is:genitive
+SFX C   0           a          [^bg]or is:genitive
+SFX C   0           a          [^eo][cr] is:genitive
+SFX C   0           a          [^céior] is:genitive
+SFX C   0           vi         o is:dative
+SFX C   ec          covi       ec is:dative
+SFX C   on          novi       zon is:dative
+SFX C   0           ovi        [inp]er is:dative
+SFX C   er          rovi       [^inp]er is:dative
+SFX C   er          rom        [^inp]er is:dative
+SFX C   or          rovi       [bg]or is:dative
+SFX C   0           ovi        [^bg]or is:dative
+SFX C   0           ovi        [^eo][cr] is:dative
+SFX C   0           ovi        [^céior] is:dative
+SFX C   ec          ca         ec is:accusative
+SFX C   o           a          o is:accusative
+SFX C   er          ra         [^inp]er is:accusative
+SFX C   or          ra         [bg]or is:accusative
+SFX C   0           a          [^bg]or is:accusative
+SFX C   0           a          [^eo][cr] is:accusative
+SFX C   0           a          [^céior] is:accusative
+SFX C   on          novi       zon is:locative
+SFX C   0           ovi        [inp]er is:locative
+SFX C   er          rovi       [^inp]er is:locative
+SFX C   or          rovi       [bg]or is:locative
+SFX C   0           ovi        [^bg]or is:locative
+SFX C   0           ovi        [^eo][cr] is:locative
+SFX C   0           ovi        [^céior] is:locative
+SFX C   on          nom        zon is:instrumental
+SFX C   0           m          o is:instrumental
+SFX C   0           om         [inp]er is:instrumental
+SFX C   er          rom        [^inp]er is:instrumental
+SFX C   or          rom        [bg]or is:instrumental
+SFX C   0           om         [^bg]or is:instrumental
+SFX C   0           om         [^eo][cr] is:instrumental
+SFX C   0           om         [^céior] is:instrumental
+SFX C   0           mi         [^céiorť] is:instrumental
+SFX C   0           i          [^acéhiklľnortť] is:nominative is:plural
+SFX C   0           i          [^o]dič is:nominative is:plural
+SFX C   0           i          [^d]ič is:nominative is:plural
+SFX C   0           i          [^i]č is:nominative is:plural
+SFX C   0           i          [ln] is:nominative is:plural
+SFX C   ch          si         ch is:nominative is:plural
+SFX C   k           ci         k is:nominative is:plural
+SFX C   ec          ci         ec is:nominative is:plural
+SFX C   0           i          jel is:nominative is:plural
+SFX C   el          li         el is:nominative is:plural
+SFX C   ľ           li         [áeo]ľ is:nominative is:plural
+SFX C   0           i          lan is:nominative is:plural
+SFX C   0           i          [^b]rat is:nominative is:plural
+SFX C   0           i          [^r]at is:nominative is:plural
+SFX C   0           i          [^a]t is:nominative is:plural
+SFX C   ť           tia        ť is:nominative is:plural
+SFX C   on          ni         zon is:nominative is:plural
+SFX C   0           i          [inp]er is:nominative is:plural
+SFX C   er          ri         [^inp]er is:nominative is:plural
+SFX C   or          ri         bor is:nominative is:plural
+SFX C   0           i          [^b]or is:nominative is:plural
+SFX C   0           i          [^eo][cr] is:nominative is:plural
+SFX C   on          ni         zon is:nominative is:plural
+SFX C   ť           tí         ť is:genitive is:plural
+SFX C   ec          cov        ec is:genitive is:plural
+SFX C   on          nov        zon is:genitive is:plural
+SFX C   0           v          o is:genitive is:plural
+SFX C   0           ov         [inp]er is:genitive is:plural
+SFX C   er          rov        [^inp]er is:genitive is:plural
+SFX C   or          rov        [bg]or is:genitive is:plural
+SFX C   0           ov         [^bg]or is:genitive is:plural
+SFX C   0           ov         [^eo][cr] is:genitive is:plural
+SFX C   0           ov         [^céior] is:genitive is:plural
+SFX C   i           ov         ovci is:genitive is:plural
+SFX C   ec          com        ec is:dative is:plural
+SFX C   0           m          o is:dative is:plural
+SFX C   0           om         [inp]er is:dative is:plural
+SFX C   or          rom        [bg]or is:dative is:plural
+SFX C   0           om         [^bg]or is:dative is:plural
+SFX C   0           om         [^eo][cr] is:dative is:plural
+SFX C   0           om         [^céior] is:dative is:plural
+SFX C   i           om         ovci is:dative is:plural
+SFX C   on          nov        zon is:accusative is:plural
+SFX C   0           v          o is:accusative is:plural
+SFX C   0           ov         [inp]er is:accusative is:plural
+SFX C   er          rov        [^inp]er is:accusative is:plural
+SFX C   or          rov        [bg]or is:accusative is:plural
+SFX C   0           ov         [^bg]or is:accusative is:plural
+SFX C   0           ov         [^eo][cr] is:accusative is:plural
+SFX C   0           ov         [^céior] is:accusative is:plural
+SFX C   i           ov         ovci is:accusative is:plural
+SFX C   ec          coch       ec is:locative is:plural
+SFX C   on          noch       zon is:locative is:plural
+SFX C   0           ch         o is:locative is:plural
+SFX C   0           och        [inp]er is:locative is:plural
+SFX C   er          roch       [^inp]er is:locative is:plural
+SFX C   or          roch       [bg]or is:locative is:plural
+SFX C   0           och        [^bg]or is:locative is:plural
+SFX C   0           och        [^eo][cr] is:locative is:plural
+SFX C   0           och        [^céior] is:locative is:plural
+SFX C   i           och        ovci is:locative is:plural
+SFX C   0           ami        ť is:instrumental is:plural
+SFX C   ec          cami       ec is:instrumental is:plural
+SFX C   on          nami       zon is:instrumental is:plural
+SFX C   o           ami        o is:instrumental is:plural
+SFX C   0           mi         [inp]er is:instrumental is:plural
+SFX C   er          rami       [^inp]er is:instrumental is:plural
+SFX C   or          rami       [bg]or is:instrumental is:plural
+SFX C   0           ami        [^bg]or is:instrumental is:plural
+SFX C   0           mi         [^eon][cr] is:instrumental is:plural
+SFX C   0           ami        nc is:instrumental is:plural
+SFX C   i           ami        ovci is:instrumental is:plural
 
-SFX H Y 8
-SFX H   a           u          a
-SFX H   a           ovi        a
-SFX H   a           om         a
-SFX H   a           ovia       [^t]a
-SFX H   a           i          ta
-SFX H   a           ov         a
-SFX H   a           och        a
-SFX H   0           mi         a
+SFX H Y 11
+SFX H   a           u          a is:genitive
+SFX H   a           ovi        a is:dative
+SFX H   a           u          a is:accusative
+SFX H   a           om         a is:instrumental
+SFX H   a           ovia       [^t]a is:nominative is:plural
+SFX H   a           i          ta is:nominative is:plural
+SFX H   a           ov         a is:genitive is:plural
+SFX H   a           om         a is:dative is:plural
+SFX H   a           ov         a is:accusative is:plural
+SFX H   a           och        a is:locative is:plural
+SFX H   0           mi         a is:instrumental is:plural
 
-SFX B Y 183
-SFX B   0           y          [áéíóúý]rod
-SFX B   0           a          [áéíóúý]rod
-SFX B   0           ov         [áéíóúý]rod
-SFX B   0           u          [áéíóúý]rod
-SFX B   0           om         [áéíóúý]rod
-SFX B   0           e          [áéíóúý]rod
-SFX B   0           och        [áéíóúý]rod
-SFX B   0           mi         [áéíóúý]rod
-SFX B   0           y          [^áéíóúý]rod
-SFX B   0           u          [^áéíóúý]rod
-SFX B   0           ov         [^áéíóúý]rod
-SFX B   0           om         [^áéíóúý]rod
-SFX B   0           e          [^áéíóúý]rod
-SFX B   0           och        [^áéíóúý]rod
-SFX B   0           mi         [^áéíóúý]rod
-SFX B   0           y          [^r]od
-SFX B   0           u          [^r]od
-SFX B   0           ov         [^r]od
-SFX B   0           om         [^r]od
-SFX B   0           e          [^r]od
-SFX B   0           och        [^r]od
-SFX B   0           mi         [^r]od
-SFX B   0           y          [^o]d
-SFX B   0           u          [^o]d
-SFX B   0           ov         [^o]d
-SFX B   0           om         [^o]d
-SFX B   0           e          [^o]d
-SFX B   0           och        [^o]d
-SFX B   0           mi         [^o]d
-SFX B   0           a          otok
-SFX B   0           a          stol
-SFX B   0           y          to[klnv]
-SFX B   0           u          to[klnv]
-SFX B   0           ov         to[klnv]
-SFX B   0           om         to[klnv]
-SFX B   0           och        to[klnv]
-SFX B   0           om         to[klnv]
-SFX B   0           mi         to[klnv]
-SFX B   0           y          [^t]o[klnv]
-SFX B   0           a          [^t]o[klnv]
-SFX B   0           ov         [^t]o[klnv]
-SFX B   0           u          [^t]o[klnv]
-SFX B   0           om         [^t]o[klnv]
-SFX B   0           e          [^t]o[klnv]
-SFX B   0           och        [^t]o[klnv]
-SFX B   0           om         [^t]o[klnv]
-SFX B   0           mi         [^t]o[klnv]
-SFX B   0           i          iál
-SFX B   0           e          [^i]ál
-SFX B   0           y          el
-SFX B   0           u          el
-SFX B   0           ov         el
-SFX B   0           om         el
-SFX B   0           i          el
-SFX B   0           och        el
-SFX B   0           ami        el
-SFX B   ôl          oly        ôl
-SFX B   ôl          ola        ôl
-SFX B   ôl          olov       ôl
-SFX B   ôl          olu        ôl
-SFX B   ôl          olom       ôl
-SFX B   ôl          ole        ôl
-SFX B   ôl          oloch      ôl
-SFX B   ôl          olami      ôl
-SFX B   0           y          [^eoô]l
-SFX B   0           u          [^eoô]l
-SFX B   0           ov         [^eoô]l
-SFX B   0           om         [^eoô]l
-SFX B   0           e          [^áeoô]l
-SFX B   0           och        [^eoô]l
-SFX B   0           ami        [^eoô]l
-SFX B   0           e          yv
-SFX B   0           y          [^o][knv]
-SFX B   0           a          [^o][knv]
-SFX B   0           ov         [^o][knv]
-SFX B   0           u          [^o][knv]
-SFX B   0           om         [^o][knv]
-SFX B   0           och        [^o][knv]
-SFX B   0           om         [^o][knv]
-SFX B   0           mi         [^o][knv]
-SFX B   0           y          [aeíoúy]r
-SFX B   0           a          [oúy]r
-SFX B   0           ov         [aeíoúy]r
-SFX B   0           u          [aeíoúy]r
-SFX B   0           om         [aeíoúy]r
-SFX B   0           e          [^n][aeíoúy]r	# L charakter
-SFX B   0           a          ner		# G skenner
-SFX B   0           i          ner		# L skenner
-SFX B   0           och        [aeíoúy]r
-SFX B   0           mi         [aeíoúy]r
-SFX B   us          y          mus
-SFX B   us          u          mus
-SFX B   us          ov         mus
-SFX B   us          om         mus
-SFX B   us          e          mus
-SFX B   us          och        mus
-SFX B   us          ami        mus
-SFX B   os          u          mos
-SFX B   os          om         mos
-SFX B   os          e          mos
-SFX B   os          y          mos
-SFX B   os          ov         mos
-SFX B   os          och        mos
-SFX B   os          ami        mos
-SFX B   0           y          [^m]us
-SFX B   0           u          [^m]us
-SFX B   0           ov         [^m]us
-SFX B   0           om         [^m]us
-SFX B   0           e          [^m]us
-SFX B   0           och        [^m]us
-SFX B   0           mi         [^m]us
-SFX B   0           y          [^u]s
-SFX B   0           ov         [^u]s
-SFX B   0           u          [^u]s
-SFX B   0           om         [^u]s
-SFX B   0           e          [^u]s
-SFX B   0           och        [^u]s
-SFX B   0           mi         [^u]s
-SFX B   0           a          [^au]s
-SFX B   0           a          át
-SFX B   0           y          [áéíóúý]vet
-SFX B   0           u          [áéíóúý]vet
-SFX B   0           ov         [áéíóúý]vet
-SFX B   0           om         [áéíóúý]vet
-SFX B   0           e          [áéíóúý]vet
-SFX B   0           och        [áéíóúý]vet
-SFX B   0           mi         [áéíóúý]vet
-SFX B   0           y          [^áéíóúý]vet
-SFX B   0           a          [^áéíóúý]vet
-SFX B   0           ov         [^áéíóúý]vet
-SFX B   0           u          [^áéíóúý]vet
-SFX B   0           om         [^áéíóúý]vet
-SFX B   0           e          [^áéíóúý]vet
-SFX B   0           och        [^áéíóúý]vet
-SFX B   0           mi         [^áéíóúý]vet
-SFX B   0           y          [^čv]et
-SFX B   0           u          [^čv]et
-SFX B   0           ov         [^čv]et
-SFX B   0           om         [^čv]et
-SFX B   0           e          [^čv]et
-SFX B   0           och        [^čv]et
-SFX B   0           mi         [^čv]et
-SFX B   0           a          šit
-SFX B   0           a          ust
-SFX B   0           a          kút
-SFX B   0           y          [^e]t
-SFX B   0           u          [^e]t
-SFX B   0           ov         [^e]t
-SFX B   0           om         [^e]t
-SFX B   0           e          [^e]t
-SFX B   0           och        [^e]t
-SFX B   0           ami        [^e]t
-SFX B   0           a          ivot
-SFX B   0           e          [aá]v
-SFX B   0           y          o[hlm]ov
-SFX B   0           a          o[hlm]ov
-SFX B   0           ov         o[hlm]ov
-SFX B   0           u          o[hlm]ov
-SFX B   0           om         o[hlm]ov
-SFX B   0           e          o[hlm]ov
-SFX B   0           och        o[hlm]ov
-SFX B   0           mi         o[hlm]ov
-SFX B   0           y          [^dgklrstv]
-SFX B   0           u          [^dgklrstv]
-SFX B   0           ov         [^dgklrstv]
-SFX B   0           om         [^dgklrstv]
-SFX B   0           e          [^dghklrstv]
-SFX B   0           och        [^dgklrstv]
-SFX B   0           mi         [^dgklmrstv]
-SFX B   0           ami        [m]
-SFX B   0           ia         ťan
-SFX B   og          gov        zog
-SFX B   og          gy         zog
-SFX B   og          gu         zog
-SFX B   og          gom        zog
-SFX B   og          goch       zog
-SFX B   og          gmi        zog
-SFX B   0           y          [^z]og
-SFX B   0           u          [^z]og
-SFX B   0           ov         [^z]og
-SFX B   0           om         [^z]og
-SFX B   0           och        [^z]og
-SFX B   0           mi         [^z]og
+SFX B Y 214
+SFX B   0           a          [áéíóúý]rod is:genitive
+SFX B   0           u          [^áéíóúý]rod is:genitive
+SFX B   0           u          [^r]od is:genitive
+SFX B   0           a          otok is:genitive
+SFX B   0           a          stol is:genitive
+SFX B   0           u          to[klnv] is:genitive
+SFX B   0           a          [^t]o[klnv] is:genitive
+SFX B   0           u          el is:genitive
+SFX B   ôl          ola        ôl is:genitive
+SFX B   0           u          [^eoô]l is:genitive
+SFX B   0           e          yv is:genitive
+SFX B   0           a          [^o][knv] is:genitive
+SFX B   0           a          [oúy]r is:genitive
+SFX B   0           a          ner is:genitive
+SFX B   us          u          mus is:genitive
+SFX B   os          u          mos is:genitive
+SFX B   0           u          [^m]us is:genitive
+SFX B   0           a          [^au]s is:genitive
+SFX B   0           a          át is:genitive
+SFX B   0           u          [áéíóúý]vet is:genitive
+SFX B   0           a          [^áéíóúý]vet is:genitive
+SFX B   0           u          [^čv]et is:genitive
+SFX B   0           a          šit is:genitive
+SFX B   0           a          ust is:genitive
+SFX B   0           a          kút is:genitive
+SFX B   0           u          [^e]t is:genitive
+SFX B   0           a          ivot is:genitive
+SFX B   0           a          o[hlm]ov is:genitive
+SFX B   0           u          [^dgklrstv] is:genitive
+SFX B   og          gu         zog is:genitive
+SFX B   0           u          [^z]og is:genitive
+SFX B   0           u          [áéíóúý]rod is:dative
+SFX B   0           u          [^áéíóúý]rod is:dative
+SFX B   0           e          [^áéíóúý]rod is:dative
+SFX B   0           u          [^r]od is:dative
+SFX B   0           u          [^o]d is:dative
+SFX B   0           u          to[klnv] is:dative
+SFX B   0           u          [^t]o[klnv] is:dative
+SFX B   0           u          el is:dative
+SFX B   ôl          olu        ôl is:dative
+SFX B   0           u          [^o][knv] is:dative
+SFX B   0           u          [aeíoúy]r is:dative
+SFX B   0           u          [^u]s is:dative
+SFX B   0           u          [^áéíóúý]vet is:dative
+SFX B   0           u          o[hlm]ov is:dative
+SFX B   og          gu         zog is:dative
+SFX B   0           e          [áéíóúý]rod is:locative
+SFX B   0           e          [^r]od is:locative
+SFX B   0           e          [^o]d is:locative
+SFX B   0           e          [^t]o[klnv] is:locative
+SFX B   0           i          el is:locative
+SFX B   ôl          ole        ôl is:locative
+SFX B   0           e          [^áeoô]l is:locative
+SFX B   0           e          [^n][aeíoúy]r is:locative
+SFX B   0           i          ner is:locative
+SFX B   us          e          mus is:locative
+SFX B   os          e          mos is:locative
+SFX B   0           e          [^m]us is:locative
+SFX B   0           e          [^u]s is:locative
+SFX B   0           e          [áéíóúý]vet is:locative
+SFX B   0           e          [^áéíóúý]vet is:locative
+SFX B   0           e          [^čv]et is:locative
+SFX B   0           e          [^e]t is:locative
+SFX B   0           e          [aá]v is:locative
+SFX B   0           e          o[hlm]ov is:locative
+SFX B   0           e          [^dghklrstv] is:locative
+SFX B   0           mi         [áéíóúý]rod is:instrumental
+SFX B   0           om         [^r]od is:instrumental
+SFX B   0           om         [^o]d is:instrumental
+SFX B   0           om         to[klnv] is:instrumental
+SFX B   0           om         [^t]o[klnv] is:instrumental
+SFX B   0           om         el is:instrumental
+SFX B   ôl          olom       ôl is:instrumental
+SFX B   0           om         [^eoô]l is:instrumental
+SFX B   0           om         [^o][knv] is:instrumental
+SFX B   us          om         mus is:instrumental
+SFX B   os          om         mos is:instrumental
+SFX B   0           om         [^m]us is:instrumental
+SFX B   0           om         [^dgklrstv] is:instrumental
+SFX B   0           om         [^z]og is:instrumental
+SFX B   0           y          [áéíóúý]rod is:nominative is:plural
+SFX B   0           y          [^áéíóúý]rod is:nominative is:plural
+SFX B   0           y          [^r]od is:nominative is:plural
+SFX B   0           y          [^o]d is:nominative is:plural
+SFX B   0           y          to[klnv] is:nominative is:plural
+SFX B   0           y          [^t]o[klnv] is:nominative is:plural
+SFX B   0           i          iál  is:nominative is:plural
+SFX B   0           e          [^i]ál is:nominative is:plural
+SFX B   0           y          el is:nominative is:plural
+SFX B   ôl          oly        ôl is:nominative is:plural
+SFX B   0           y          [^eoô]l is:nominative is:plural
+SFX B   0           y          [^o][knv] is:nominative is:plural
+SFX B   0           y          [aeíoúy]r is:nominative is:plural
+SFX B   us          y          mus is:nominative is:plural
+SFX B   os          y          mos is:nominative is:plural
+SFX B   0           y          [^m]us is:nominative is:plural
+SFX B   0           y          [^u]s is:nominative is:plural
+SFX B   0           y          [áéíóúý]vet is:nominative is:plural
+SFX B   0           y          [^áéíóúý]vet is:nominative is:plural
+SFX B   0           y          [^čv]et is:nominative is:plural
+SFX B   0           y          [^e]t is:nominative is:plural
+SFX B   0           y          o[hlm]ov is:nominative is:plural
+SFX B   0           y          [^dgklrstv] is:nominative is:plural
+SFX B   0           ia         ťan is:nominative is:plural
+SFX B   og          gy         zog is:nominative is:plural
+SFX B   0           y          [^z]og is:nominative is:plural
+SFX B   0           ov         [áéíóúý]rod is:genitive is:plural
+SFX B   0           ov         [^áéíóúý]rod is:genitive is:plural
+SFX B   0           ov         [^r]od is:genitive is:plural
+SFX B   0           ov         [^o]d is:genitive is:plural
+SFX B   0           ov         to[klnv] is:genitive is:plural
+SFX B   0           ov         [^t]o[klnv] is:genitive is:plural
+SFX B   0           ov         el is:genitive is:plural
+SFX B   ôl          olov       ôl is:genitive is:plural
+SFX B   0           ov         [^eoô]l is:genitive is:plural
+SFX B   0           ov         [^o][knv] is:genitive is:plural
+SFX B   0           ov         [aeíoúy]r is:genitive is:plural
+SFX B   us          ov         mus is:genitive is:plural
+SFX B   os          ov         mos is:genitive is:plural
+SFX B   0           ov         [^m]us is:genitive is:plural
+SFX B   0           ov         [^u]s is:genitive is:plural
+SFX B   0           ov         [áéíóúý]vet is:genitive is:plural
+SFX B   0           ov         [^áéíóúý]vet is:genitive is:plural
+SFX B   0           ov         [^čv]et is:genitive is:plural
+SFX B   0           ov         [^e]t is:genitive is:plural
+SFX B   0           ov         o[hlm]ov is:genitive is:plural
+SFX B   0           ov         [^dgklrstv] is:genitive is:plural
+SFX B   og          gov        zog is:genitive is:plural
+SFX B   0           ov         [^z]og is:genitive is:plural
+SFX B   0           om         [áéíóúý]rod is:dative is:plural
+SFX B   0           om         [^áéíóúý]rod is:dative is:plural
+SFX B   0           om         [^r]od is:dative is:plural
+SFX B   0           om         [^o]d is:dative is:plural
+SFX B   0           om         to[klnv] is:dative is:plural
+SFX B   0           om         [^t]o[klnv] is:dative is:plural
+SFX B   0           om         [^t]o[klnv] is:dative is:plural
+SFX B   0           om         el is:dative is:plural
+SFX B   0           om         [^eoô]l is:dative is:plural
+SFX B   0           om         [^o][knv] is:dative is:plural
+SFX B   0           om         [aeíoúy]r is:dative is:plural
+SFX B   us          om         mus is:dative is:plural
+SFX B   os          om         mos is:dative is:plural
+SFX B   0           om         [^m]us is:dative is:plural
+SFX B   0           om         [^u]s is:dative is:plural
+SFX B   0           om         [áéíóúý]vet is:dative is:plural
+SFX B   0           om         [^áéíóúý]vet is:dative is:plural
+SFX B   0           om         [^čv]et is:dative is:plural
+SFX B   0           om         [^e]t is:dative is:plural
+SFX B   0           om         o[hlm]ov is:dative is:plural
+SFX B   0           om         [^dgklrstv] is:dative is:plural
+SFX B   og          gom        zog is:dative is:plural
+SFX B   0           om         [^z]og is:dative is:plural
+SFX B   0           y          [^r]od is:accusative is:plural
+SFX B   0           y          [^o]d is:accusative is:plural
+SFX B   0           y          to[klnv] is:accusative is:plural
+SFX B   0           y          [^t]o[klnv] is:accusative is:plural
+SFX B   ôl          oly        ôl is:accusative is:plural
+SFX B   0           y          [^eoô]l is:accusative is:plural
+SFX B   0           y          [^o][knv] is:accusative is:plural
+SFX B   0           y          [aeíoúy]r is:accusative is:plural
+SFX B   us          y          mus is:accusative is:plural
+SFX B   0           y          [^m]us is:accusative is:plural
+SFX B   0           y          [^u]s is:accusative is:plural
+SFX B   0           y          [áéíóúý]vet is:accusative is:plural
+SFX B   0           y          [^áéíóúý]vet is:accusative is:plural
+SFX B   0           y          [^čv]et is:accusative is:plural
+SFX B   0           y          o[hlm]ov is:accusative is:plural
+SFX B   0           y          [^dgklrstv] is:accusative is:plural
+SFX B   0           och        [áéíóúý]rod is:locative is:plural
+SFX B   0           och        [^áéíóúý]rod is:locative is:plural
+SFX B   0           och        [^r]od is:locative is:plural
+SFX B   0           och        [^o]d is:locative is:plural
+SFX B   0           och        to[klnv] is:locative is:plural
+SFX B   0           och        [^t]o[klnv] is:locative is:plural
+SFX B   0           och        el is:locative is:plural
+SFX B   ôl          oloch      ôl is:locative is:plural
+SFX B   0           och        [^eoô]l is:locative is:plural
+SFX B   0           och        [^o][knv] is:locative is:plural
+SFX B   0           och        [aeíoúy]r is:locative is:plural
+SFX B   us          och        mus is:locative is:plural
+SFX B   os          och        mos is:locative is:plural
+SFX B   0           och        [^m]us is:locative is:plural
+SFX B   0           och        [^u]s is:locative is:plural
+SFX B   0           och        [áéíóúý]vet is:locative is:plural
+SFX B   0           och        [^áéíóúý]vet is:locative is:plural
+SFX B   0           och        [^čv]et is:locative is:plural
+SFX B   0           och        [^e]t is:locative is:plural
+SFX B   0           och        o[hlm]ov is:locative is:plural
+SFX B   0           och        [^dgklrstv] is:locative is:plural
+SFX B   og          goch       zog is:locative is:plural
+SFX B   0           och        [^z]og is:locative is:plural
+SFX B   0           mi         [^áéíóúý]rod is:instrumental is:plural
+SFX B   0           mi         [^r]od is:instrumental is:plural
+SFX B   0           mi         [^o]d is:instrumental is:plural
+SFX B   0           mi         to[klnv] is:instrumental is:plural
+SFX B   0           mi         [^t]o[klnv] is:instrumental is:plural
+SFX B   0           ami        el is:instrumental is:plural
+SFX B   ôl          olami      ôl is:instrumental is:plural
+SFX B   0           ami        [^eoô]l is:instrumental is:plural
+SFX B   0           mi         [^o][knv] is:instrumental is:plural
+SFX B   0           mi         [aeíoúy]r is:instrumental is:plural
+SFX B   us          ami        mus is:instrumental is:plural
+SFX B   os          ami        mos is:instrumental is:plural
+SFX B   0           mi         [^m]us is:instrumental is:plural
+SFX B   0           mi         [^u]s is:instrumental is:plural
+SFX B   0           mi         [áéíóúý]vet is:instrumental is:plural
+SFX B   0           mi         [^áéíóúý]vet is:instrumental is:plural
+SFX B   0           mi         [^čv]et is:instrumental is:plural
+SFX B   0           ami        [^e]t is:instrumental is:plural
+SFX B   0           mi         o[hlm]ov is:instrumental is:plural
+SFX B   0           mi         [^dgklmrstv] is:instrumental is:plural
+SFX B   0           ami        [m] is:instrumental is:plural
+SFX B   og          gmi        zog is:instrumental is:plural
+SFX B   0           mi         [^z]og is:instrumental is:plural
 
 
-SFX J Y 132
-SFX J   iec         ce         iec
-SFX J   iec         ca         iec
-SFX J   iec         cov        iec
-SFX J   iec         cu         iec
-SFX J   iec         com        iec
-SFX J   iec         ci         iec
-SFX J   iec         coch       iec
-SFX J   iec         cami       iec
-SFX J   ec          ce         [^i]ec
-SFX J   ec          ca         [^i]ec
-SFX J   ec          cov        [^i]ec
-SFX J   ec          cu         [^i]ec
-SFX J   ec          com        [^i]ec
-SFX J   ec          ci         [^i]ec
-SFX J   ec          coch       [^i]ec
-SFX J   ec          cami       [^i]ec
-SFX J   0           e          [^e]c
-SFX J   0           a          [^e]c
-SFX J   0           ov         [^e]c
-SFX J   0           u          [^e]c
-SFX J   0           om         [^e]c
-SFX J   0           i          [^e]c
-SFX J   0           och        [^e]c
-SFX J   0           mi         [^e]c
-SFX J   ol          le         ol
-SFX J   ol          la         ol
-SFX J   ol          lov        ol
-SFX J   ol          lu         ol
-SFX J   ol          lom        ol
-SFX J   ol          li         ol
-SFX J   ol          loch       ol
-SFX J   ol          lami       ol
-SFX J   0           e          [^o]l
-SFX J   0           a          [^o]l
-SFX J   0           ov         [^o]l
-SFX J   0           u          [^o]l
-SFX J   0           om         [^o]l
-SFX J   0           i          [^o]l
-SFX J   0           och        [^o]l
-SFX J   0           ami        [^o]l
-SFX J   eľ          le         [gz]eľ
-SFX J   eľ          ľa         [gz]eľ
-SFX J   eľ          ľov        [gz]eľ
-SFX J   eľ          ľu         [gz]eľ
-SFX J   eľ          ľom        [gz]eľ
-SFX J   eľ          li         [gz]eľ
-SFX J   eľ          ľoch       [gz]eľ
-SFX J   eľ          ľami       [gz]eľ
-SFX J   0           a          [^pgz]eľ
-SFX J   ľ           le         [^gz]eľ
-SFX J   ľ           li         [^gz]eľ
-SFX J   eň          ni         [dž]eň
-SFX J   eň          ňa         [dž]eň
-SFX J   eň          ní         deň
-SFX J   eň          ňu         [dž]eň
-SFX J   eň          ňom        [dž]eň
-SFX J   eň          ňoch       [dž]eň
-SFX J   eň          ňami       [dž]eň
-SFX J   eň          ne         žeň
-SFX J   eň          ňov        žeň
-SFX J   ň           ne         [^dž]eň
-SFX J   ň           ňa         [^dž]eň
-SFX J   0           ov         [^dž]eň
-SFX J   ň           ňu         [^dž]eň
-SFX J   ň           ňom        [^dž]eň
-SFX J   ň           ni         [^dž]eň
-SFX J   ň           ňoch       [^dž]eň
-SFX J   0           mi         [^dž]eň
-SFX J   er          re         er
-SFX J   er          ra         er
-SFX J   er          rov        er
-SFX J   er          ru         er
-SFX J   er          rom        er
-SFX J   er          ri         er
-SFX J   er          roch       er
-SFX J   er          rami       er
-SFX J   or          re         or
-SFX J   or          ra         or
-SFX J   or          rov        or
-SFX J   or          ru         or
-SFX J   or          rom        or
-SFX J   or          ri         or
-SFX J   or          roch       or
-SFX J   or          rami       or
-SFX J   0           e          [^o]r
-SFX J   0           a          [^o]r
-SFX J   0           ov         [^o]r
-SFX J   0           u          [^o]r
-SFX J   0           om         [^o]r
-SFX J   0           i          [^o]r
-SFX J   0           och        [^o]r
-SFX J   0           ami        [^o]r
-SFX J   ôš          oše        ôš
-SFX J   ôš          oša        ôš
-SFX J   ôš          ošov       ôš
-SFX J   ôš          ošu        ôš
-SFX J   ôš          ošom       ôš
-SFX J   ôš          oši        ôš
-SFX J   ôš          ošoch      ôš
-SFX J   ôš          ošmi       ôš
-SFX J   eť          te         eť
-SFX J   eť          ťa         eť
-SFX J   eť          ťov        eť
-SFX J   eť          ťu         eť
-SFX J   eť          ťom        eť
-SFX J   eť          ti         eť
-SFX J   eť          ťoch       eť
-SFX J   eť          ťami       eť
-SFX J   ôž          ože        ôž
-SFX J   ôž          oža        ôž
-SFX J   ôž          ožov       ôž
-SFX J   ôž          ožu        ôž
-SFX J   ôž          ožom       ôž
-SFX J   ôž          oži        ôž
-SFX J   ôž          ožoch      ôž
-SFX J   ôž          ožmi       ôž
-SFX J   0           e          [e][^cľňr]
-SFX J   0           a          [e][^cľňr]
-SFX J   0           ov         [e][^cľňr]
-SFX J   0           u          [e][^cľňr]
-SFX J   0           om         [e][^cľňr]
-SFX J   0           i          [e][^cľňr]
-SFX J   0           och        [e][^cľňr]
-SFX J   0           mi         [e][^cľňr]
-SFX J   0           e          [^ceľňršž]
-SFX J   0           a          [^ceľňršž]
-SFX J   0           ov         [^ceľňršž]
-SFX J   0           u          [^ceľňršž]
-SFX J   0           om         [^ceľňršž]
-SFX J   0           i          [^ceľňršž]
-SFX J   0           och        [^ceľňršž]
-SFX J   0           mi         [^ceľňršž]
+SFX J Y 164
+SFX J   iec         ca         iec is:genitive
+SFX J   ec          ca         [^i]ec is:genitive
+SFX J   0           a          [^e]c is:genitive
+SFX J   ol          la         ol is:genitive
+SFX J   0           a          [^o]l is:genitive
+SFX J   eľ          ľa         [gz]eľ is:genitive
+SFX J   0           a          [^pgz]eľ is:genitive
+SFX J   eň          ňa         [dž]eň is:genitive
+SFX J   ň           ňa         [^dž]eň is:genitive
+SFX J   er          ra         er is:genitive
+SFX J   or          ra         or is:genitive
+SFX J   0           a          [^o]r is:genitive
+SFX J   ôš          oša        ôš is:genitive
+SFX J   eť          ťa         eť is:genitive
+SFX J   ôž          oža        ôž is:genitive
+SFX J   0           a          [e][^cľňr] is:genitive
+SFX J   0           a          [^ceľňršž] is:genitive
+SFX J   iec         cu         iec is:dative
+SFX J   ec          cu         [^i]ec is:dative
+SFX J   0           u          [^e]c is:dative
+SFX J   ol          lu         ol is:dative
+SFX J   0           u          [^o]l is:dative
+SFX J   eľ          ľu         [gz]eľ is:dative
+SFX J   eň          ňu         [dž]eň is:dative
+SFX J   ň           ňu         [^dž]eň is:dative
+SFX J   er          ru         er is:dative
+SFX J   or          ru         or is:dative
+SFX J   0           u          [^o]r is:dative
+SFX J   ôš          ošu        ôš is:dative
+SFX J   eť          ťu         eť is:dative
+SFX J   ôž          ožu        ôž is:dative
+SFX J   0           u          [e][^cľňr] is:dative
+SFX J   0           u          [^ceľňršž] is:dative
+SFX J   iec         ci         iec is:locative
+SFX J   ec          ci         [^i]ec is:locative
+SFX J   0           i          [^e]c is:locative
+SFX J   ol          li         ol is:locative
+SFX J   0           i          [^o]l is:locative
+SFX J   eľ          li         [gz]eľ is:locative
+SFX J   ľ           li         [^gz]eľ is:locative
+SFX J   eň          ni         [dž]eň is:locative
+SFX J   ň           ni         [^dž]eň is:locative
+SFX J   er          ri         er is:locative
+SFX J   or          ri         or is:locative
+SFX J   0           i          [^o]r is:locative
+SFX J   ôš          oši        ôš is:locative
+SFX J   eť          ti         eť is:locative
+SFX J   ôž          oži        ôž is:locative
+SFX J   0           i          [e][^cľňr] is:locative
+SFX J   0           i          [^ceľňršž] is:locative
+SFX J   ec          com        [^i]ec is:instrumental
+SFX J   0           om         [^e]c is:instrumental
+SFX J   ol          lom        ol is:instrumental
+SFX J   0           om         [^o]l is:instrumental
+SFX J   eľ          ľom        [gz]eľ is:instrumental
+SFX J   eň          ňom        [dž]eň is:instrumental
+SFX J   ň           ňom        [^dž]eň is:instrumental
+SFX J   er          rom        er is:instrumental
+SFX J   or          rom        or is:instrumental
+SFX J   0           om         [^o]r is:instrumental
+SFX J   ôš          ošom       ôš is:instrumental
+SFX J   eť          ťom        eť is:instrumental
+SFX J   ôž          ožom       ôž is:instrumental
+SFX J   0           om         [e][^cľňr] is:instrumental
+SFX J   0           om         [^ceľňršž] is:instrumental
+SFX J   iec         ce         iec is:nominative is:plural
+SFX J   ec          ce         [^i]ec is:nominative is:plural
+SFX J   0           e          [^e]c is:nominative is:plural
+SFX J   ol          le         ol is:nominative is:plural
+SFX J   0           e          [^o]l is:nominative is:plural
+SFX J   eľ          le         [gz]eľ is:nominative is:plural
+SFX J   ľ           le         [^gz]eľ is:nominative is:plural
+SFX J   eň          ne         žeň is:nominative is:plural
+SFX J   ň           ne         [^dž]eň is:nominative is:plural
+SFX J   er          re         er is:nominative is:plural
+SFX J   or          re         or is:nominative is:plural
+SFX J   0           e          [^o]r is:nominative is:plural
+SFX J   ôš          oše        ôš is:nominative is:plural
+SFX J   eť          te         eť is:nominative is:plural
+SFX J   ôž          ože        ôž is:nominative is:plural
+SFX J   0           e          [e][^cľňr] is:nominative is:plural
+SFX J   0           e          [^ceľňršž] is:nominative is:plural
+SFX J   iec         cov        iec is:genitive is:plural
+SFX J   ec          cov        [^i]ec is:genitive is:plural
+SFX J   0           ov         [^e]c is:genitive is:plural
+SFX J   ol          lov        ol is:genitive is:plural
+SFX J   0           ov         [^o]l is:genitive is:plural
+SFX J   eľ          ľov        [gz]eľ is:genitive is:plural
+SFX J   eň          ňov        žeň is:genitive is:plural
+SFX J   0           ov         [^dž]eň is:genitive is:plural
+SFX J   er          rov        er is:genitive is:plural
+SFX J   or          rov        or is:genitive is:plural
+SFX J   0           ov         [^o]r is:genitive is:plural
+SFX J   ôš          ošov       ôš is:genitive is:plural
+SFX J   eť          ťov        eť is:genitive is:plural
+SFX J   ôž          ožov       ôž is:genitive is:plural
+SFX J   0           ov         [e][^cľňr] is:genitive is:plural
+SFX J   0           ov         [^ceľňršž] is:genitive is:plural
+SFX J   iec         com        iec is:dative is:plural
+SFX J   ec          com        [^i]ec is:dative is:plural
+SFX J   0           om         [^e]c is:dative is:plural
+SFX J   ol          lom        ol is:dative is:plural
+SFX J   0           om         [^o]l is:dative is:plural
+SFX J   eľ          ľom        [gz]eľ is:dative is:plural
+SFX J   eň          ňom        [dž]eň is:dative is:plural
+SFX J   ň           ňom        [^dž]eň is:dative is:plural
+SFX J   er          rom        er is:dative is:plural
+SFX J   or          rom        or is:dative is:plural
+SFX J   0           om         [^o]r is:dative is:plural
+SFX J   ôš          ošom       ôš is:dative is:plural
+SFX J   eť          ťom        eť is:dative is:plural
+SFX J   ôž          ožom       ôž is:dative is:plural
+SFX J   0           om         [e][^cľňr] is:dative is:plural
+SFX J   0           om         [^ceľňršž] is:dative is:plural
+SFX J   iec         ce         iec is:accusative is:plural
+SFX J   ec          ce         [^i]ec is:accusative is:plural
+SFX J   0           e          [^e]c is:accusative is:plural
+SFX J   ol          le         ol is:accusative is:plural
+SFX J   0           e          [^o]l is:accusative is:plural
+SFX J   eľ          le         [gz]eľ is:accusative is:plural
+SFX J   ľ           le         [^gz]eľ is:accusative is:plural
+SFX J   eň          ne         žeň is:accusative is:plural
+SFX J   ň           ne         [^dž]eň is:accusative is:plural
+SFX J   er          re         er is:accusative is:plural
+SFX J   or          re         or is:accusative is:plural
+SFX J   0           e          [^o]r is:accusative is:plural
+SFX J   ôš          oše        ôš is:accusative is:plural
+SFX J   eť          te         eť is:accusative is:plural
+SFX J   ôž          ože        ôž is:accusative is:plural
+SFX J   0           e          [e][^cľňr] is:accusative is:plural
+SFX J   0           e          [^ceľňršž] is:accusative is:plural
+SFX J   iec         coch       iec is:locative is:plural
+SFX J   ec          coch       [^i]ec is:locative is:plural
+SFX J   0           och        [^e]c is:locative is:plural
+SFX J   ol          loch       ol is:locative is:plural
+SFX J   0           och        [^o]l is:locative is:plural
+SFX J   eľ          ľoch       [gz]eľ is:locative is:plural
+SFX J   eň          ní         deň is:locative is:plural
+SFX J   eň          ňoch       [dž]eň is:locative is:plural
+SFX J   ň           ňoch       [^dž]eň is:locative is:plural
+SFX J   er          roch       er is:locative is:plural
+SFX J   or          roch       or is:locative is:plural
+SFX J   0           och        [^o]r is:locative is:plural
+SFX J   ôš          ošoch      ôš is:locative is:plural
+SFX J   eť          ťoch       eť is:locative is:plural
+SFX J   ôž          ožoch      ôž is:locative is:plural
+SFX J   0           och        [e][^cľňr] is:locative is:plural
+SFX J   0           och        [^ceľňršž] is:locative is:plural
+SFX J   iec         cami       iec is:instrumental is:plural
+SFX J   ec          cami       [^i]ec is:instrumental is:plural
+SFX J   0           mi         [^e]c is:instrumental is:plural
+SFX J   ol          lami       ol is:instrumental is:plural
+SFX J   0           ami        [^o]l is:instrumental is:plural
+SFX J   eľ          ľami       [gz]eľ is:instrumental is:plural
+SFX J   eň          ňami       [dž]eň is:instrumental is:plural
+SFX J   0           mi         [^dž]eň is:instrumental is:plural
+SFX J   er          rami       er is:instrumental is:plural
+SFX J   or          rami       or is:instrumental is:plural
+SFX J   0           ami        [^o]r is:instrumental is:plural
+SFX J   ôš          ošmi       ôš is:instrumental is:plural
+SFX J   eť          ťami       eť is:instrumental is:plural
+SFX J   ôž          ožmi       ôž is:instrumental is:plural
+SFX J   0           mi         [e][^cľňr] is:instrumental is:plural
+SFX J   0           mi         [^ceľňršž] is:instrumental is:plural
 
-SFX L Y 60
-SFX L   0           e          č
-SFX L   ec          ce         ec
-SFX L   ec          ca         ec
-SFX L   ec          cov        ec
-SFX L   ec          covi       ec
-SFX L   ec          com        ec
-SFX L   ec          coch       ec
-SFX L   ec          cami       ec
-SFX L   0           via        o
-SFX L   o           a          o
-SFX L   0           v          o
-SFX L   0           vi         o
-SFX L   0           m          o
-SFX L   0           ch         o
-SFX L   0           m          o
-SFX L   o           ami        o
-SFX L   0           e          ár
-SFX L   0           y          [tv]er
-SFX L   0           a          [tv]er
-SFX L   0           ov         [tv]er
-SFX L   0           ovi        [tv]er
-SFX L   0           om         [tv]er
-SFX L   0           och        [tv]er
-SFX L   0           mi         [tv]er
-SFX L   er          re         [^tv]er
-SFX L   er          ra         [^tv]er
-SFX L   er          rov        [^tv]er
-SFX L   er          rovi       [^tv]er
-SFX L   er          rom        [^tv]er
-SFX L   er          roch       [^tv]er
-SFX L   er          rami       [^tv]er
-SFX L   0           y          [^áe][cr]
-SFX L   0           a          [^e][cr]
-SFX L   0           ov         [^e][cr]
-SFX L   0           ovi        [^e][cr]
-SFX L   0           om         [^e][cr]
-SFX L   0           och        [^e][cr]
-SFX L   0           mi         [^e][cr]
-SFX L   es          sy         es
-SFX L   es          sa         es
-SFX L   es          sov        es
-SFX L   es          sovi       es
-SFX L   es          som        es
-SFX L   es          soch       es
-SFX L   es          sami       es
-SFX L   0           y          [^čcéior]
-SFX L   0           a          [^céior]
-SFX L   0           ov         [^céior]
-SFX L   0           ovi        [^céior]
-SFX L   0           om         [^céior]
-SFX L   0           och        [^céior]
-SFX L   0           mi         [^céior]
-SFX L   us          a          us
-SFX L   us          ovi        us
-SFX L   us          om         us
-SFX L   us          y          us
-SFX L   us          ov         us
-SFX L   us          om         us
-SFX L   us          och        us
-SFX L   us          ami        us
+SFX L Y 79
+SFX L   ec          ca         ec is:genitive
+SFX L   o           a          o is:genitive
+SFX L   0           a          [tv]er is:genitive
+SFX L   er          ra         [^tv]er is:genitive
+SFX L   0           a          [^e][cr] is:genitive
+SFX L   es          sa         es is:genitive
+SFX L   0           a          [^céior] is:genitive
+SFX L   us          a          us is:genitive
+SFX L   ec          covi       ec is:dative
+SFX L   0           vi         o is:dative
+SFX L   0           ovi        [tv]er is:dative
+SFX L   er          rovi       [^tv]er is:dative
+SFX L   0           ovi        [^e][cr] is:dative
+SFX L   es          sovi       es is:dative
+SFX L   0           ovi        [^céior] is:dative
+SFX L   us          ovi        us is:dative
+SFX L   o           a          o is:accusative
+SFX L   ec          com        ec is:instrumental
+SFX L   0           m          o is:instrumental
+SFX L   0           om         [tv]er is:instrumental
+SFX L   er          rom        [^tv]er is:instrumental
+SFX L   0           om         [^e][cr] is:instrumental
+SFX L   es          som        es is:instrumental
+SFX L   0           om         [^céior] is:instrumental
+SFX L   us          om         us is:instrumental
+SFX L   us          om         us is:instrumental
+SFX L   0           e          č is:nominative is:plural
+SFX L   ec          ce         ec is:nominative is:plural
+SFX L   0           via        o is:nominative is:plural
+SFX L   0           e          ár is:nominative is:plural
+SFX L   0           y          [tv]er is:nominative is:plural
+SFX L   er          re         [^tv]er is:nominative is:plural
+SFX L   0           y          [^áe][cr] is:nominative is:plural
+SFX L   es          sy         es is:nominative is:plural
+SFX L   0           y          [^čcéior] is:nominative is:plural
+SFX L   us          y          us is:nominative is:plural
+SFX L   ec          cov        ec is:genitive is:plural
+SFX L   0           v          o is:genitive is:plural
+SFX L   0           ov         [tv]er is:genitive is:plural
+SFX L   er          rov        [^tv]er is:genitive is:plural
+SFX L   0           ov         [^e][cr] is:genitive is:plural
+SFX L   es          sov        es is:genitive is:plural
+SFX L   0           ov         [^céior] is:genitive is:plural
+SFX L   us          ov         us is:genitive is:plural
+SFX L   ec          com        ec is:dative is:plural
+SFX L   0           m          o is:dative is:plural
+SFX L   0           om         [tv]er is:dative is:plural
+SFX L   er          rom        [^tv]er is:dative is:plural
+SFX L   0           om         [^e][cr] is:dative is:plural
+SFX L   es          som        es is:dative is:plural
+SFX L   0           om         [^céior] is:dative is:plural
+SFX L   us          om         us is:dative is:plural
+SFX L   us          om         us is:dative is:plural
+SFX L   0           e          č is:accusative is:plural
+SFX L   ec          ce         ec is:accusative is:plural
+SFX L   ec          cov        ec is:accusative is:plural
+SFX L   0           v          o is:accusative is:plural
+SFX L   0           e          ár is:accusative is:plural
+SFX L   0           y          [tv]er is:accusative is:plural
+SFX L   er          re         [^tv]er is:accusative is:plural
+SFX L   es          sov        es is:accusative is:plural
+SFX L   0           y          [^čcéior] is:accusative is:plural
+SFX L   us          ov         us is:accusative is:plural
+SFX L   ec          coch       ec is:locative is:plural
+SFX L   0           ch         o is:locative is:plural
+SFX L   0           och        [tv]er is:locative is:plural
+SFX L   er          roch       [^tv]er is:locative is:plural
+SFX L   0           och        [^e][cr] is:locative is:plural
+SFX L   es          soch       es is:locative is:plural
+SFX L   0           och        [^céior] is:locative is:plural
+SFX L   us          och        us is:locative is:plural
+SFX L   ec          cami       ec is:instrumental is:plural
+SFX L   o           ami        o is:instrumental is:plural
+SFX L   0           mi         [tv]er is:instrumental is:plural
+SFX L   er          rami       [^tv]er is:instrumental is:plural
+SFX L   0           mi         [^e][cr] is:instrumental is:plural
+SFX L   es          sami       es is:instrumental is:plural
+SFX L   0           mi         [^céior] is:instrumental is:plural
+SFX L   us          ami        us is:instrumental is:plural
 
-SFX O Y 82
-SFX O   ok          ky         ok
-SFX O   ok          ka         ok
-SFX O   ok          kov        ok
-SFX O   ok          ku         ok
-SFX O   ok          kom        ok
-SFX O   ok          koch       ok
-SFX O   ok          kom        ok
-SFX O   ok          kami       ok
-SFX O   el          ly         el
-SFX O   el          lu         el
-SFX O   el          lov        el
-SFX O   el          lom        el
-SFX O   el          le         el
-SFX O   el          loch       el
-SFX O   el          lami       el
-SFX O   ol          ly         ol
-SFX O   ol          la         ol
-SFX O   ol          lov        ol
-SFX O   ol          lu         ol
-SFX O   ol          lom        ol
-SFX O   ol          le         ol
-SFX O   ol          loch       ol
-SFX O   ol          lom        ol
-SFX O   ol          lami       ol
-SFX O   em          my         jem
-SFX O   em          mov        jem
-SFX O   em          mu         jem
-SFX O   em          mom        jem
-SFX O   em          me         jem
-SFX O   em          moch       jem
-SFX O   em          mom        jem
-SFX O   em          mami       jem
-SFX O   en          ny         en
-SFX O   en          na         en
-SFX O   en          nov        en
-SFX O   en          nu         en
-SFX O   en          nom        en
-SFX O   en          ne         en
-SFX O   en          noch       en
-SFX O   en          nami       en
-SFX O   ietor       etry       ietor
-SFX O   ietor       etra       ietor
-SFX O   ietor       etrov      ietor
-SFX O   ietor       etru       ietor
-SFX O   ietor       etrom      ietor
-SFX O   ietor       etre       ietor
-SFX O   ietor       etroch     ietor
-SFX O   ietor       etrom      ietor
-SFX O   ietor       etrami     ietor
-SFX O   or          ry         [^t]or
-SFX O   or          ra         [^kt]or
-SFX O   or          rov        [^t]or
-SFX O   or          ru         [^t]or
-SFX O   or          rom        [^t]or
-SFX O   or          re         [^t]or
-SFX O   or          roch       [^t]or
-SFX O   or          rom        [^t]or
-SFX O   or          rami       [^t]or
-SFX O   et          ty         et
-SFX O   et          tu         et
-SFX O   et          tov        et
-SFX O   et          tom        et
-SFX O   et          te         et
-SFX O   et          toch       et
-SFX O   et          tami       et
-SFX O   ov          vy         ov
-SFX O   ov          vu         ov
-SFX O   ov          vov        ov
-SFX O   ov          vom        ov
-SFX O   ov          ve         ov
-SFX O   ov          voch       ov
-SFX O   ov          vom        ov
-SFX O   ov          vami       ov
-SFX O   on          na         on
-SFX O   on          nu         on
-SFX O   on          ne         on
-SFX O   on          nami       on
-SFX O   on          ny         on
-SFX O   on          nov        on
-SFX O   on          nom        on
-SFX O   on          noch       on
-SFX O   on          nami       on
+SFX O Y 102
+SFX O   ok          ka         ok is:genitive
+SFX O   el          lu         el is:genitive
+SFX O   ol          la         ol is:genitive
+SFX O   ol          lu         ol is:genitive
+SFX O   en          na         en is:genitive
+SFX O   ietor       etra       ietor is:genitive
+SFX O   or          ra         [^kt]or is:genitive
+SFX O   or          ru         [^t]or is:genitive
+SFX O   et          tu         et is:genitive
+SFX O   ov          vu         ov is:genitive
+SFX O   on          na         on is:genitive
+SFX O   ok          ku         ok is:dative
+SFX O   em          mu         jem is:dative
+SFX O   en          nu         en is:dative
+SFX O   ietor       etru       ietor is:dative
+SFX O   or          ru         [^t]or is:dative
+SFX O   on          nu         on is:dative
+SFX O   ok          ka         ok is:accusative
+SFX O   ol          le         ol is:locative
+SFX O   em          me         jem is:locative
+SFX O   en          ne         en is:locative
+SFX O   ietor       etre       ietor is:locative
+SFX O   or          re         [^t]or is:locative
+SFX O   et          te         et is:locative
+SFX O   ov          ve         ov is:locative
+SFX O   on          ne         on is:locative
+SFX O   ok          kom        ok is:instrumental
+SFX O   el          lom        el is:instrumental
+SFX O   ol          lom        ol is:instrumental
+SFX O   ol          lom        ol is:instrumental
+SFX O   em          mom        jem is:instrumental
+SFX O   en          nom        en is:instrumental
+SFX O   ietor       etrom      ietor is:instrumental
+SFX O   or          rom        [^t]or is:instrumental
+SFX O   et          tom        et is:instrumental
+SFX O   ov          vom        ov is:instrumental
+SFX O   ov          vom        ov is:instrumental
+SFX O   on          nom        on is:instrumental
+SFX O   ok          ky         ok is:nominative is:plural
+SFX O   el          ly         el is:nominative is:plural
+SFX O   el          le         el is:nominative is:plural
+SFX O   ol          ly         ol is:nominative is:plural
+SFX O   em          my         jem is:nominative is:plural
+SFX O   en          ny         en is:nominative is:plural
+SFX O   ietor       etry       ietor is:nominative is:plural
+SFX O   or          ry         [^t]or is:nominative is:plural
+SFX O   et          ty         et is:nominative is:plural
+SFX O   ov          vy         ov is:nominative is:plural
+SFX O   on          ny         on is:nominative is:plural
+SFX O   ok          kov        ok is:genitive is:plural
+SFX O   el          lov        el is:genitive is:plural
+SFX O   ol          lov        ol is:genitive is:plural
+SFX O   em          mov        jem is:genitive is:plural
+SFX O   en          nov        en is:genitive is:plural
+SFX O   ietor       etrov      ietor is:genitive is:plural
+SFX O   or          rov        [^t]or is:genitive is:plural
+SFX O   et          tov        et is:genitive is:plural
+SFX O   ov          vov        ov is:genitive is:plural
+SFX O   on          nov        on is:genitive is:plural
+SFX O   ok          kom        ok is:dative is:plural
+SFX O   el          lom        el is:dative is:plural
+SFX O   ol          lom        ol is:dative is:plural
+SFX O   ol          lom        ol is:dative is:plural
+SFX O   em          mom        jem is:dative is:plural
+SFX O   em          mom        jem is:dative is:plural
+SFX O   en          nom        en is:dative is:plural
+SFX O   ietor       etrom      ietor is:dative is:plural
+SFX O   or          rom        [^t]or is:dative is:plural
+SFX O   et          tom        et is:dative is:plural
+SFX O   ov          vom        ov is:dative is:plural
+SFX O   on          nom        on is:dative is:plural
+SFX O   ok          ky         ok is:accusative is:plural
+SFX O   el          ly         el is:accusative is:plural
+SFX O   ol          lov        ol is:accusative is:plural
+SFX O   em          my         jem is:accusative is:plural
+SFX O   en          ny         en is:accusative is:plural
+SFX O   ietor       etry       ietor is:accusative is:plural
+SFX O   or          ry         [^t]or is:accusative is:plural
+SFX O   et          ty         et is:accusative is:plural
+SFX O   ov          vy         ov is:accusative is:plural
+SFX O   on          ny         on is:accusative is:plural
+SFX O   ok          koch       ok is:locative is:plural
+SFX O   el          loch       el is:locative is:plural
+SFX O   ol          loch       ol is:locative is:plural
+SFX O   em          moch       jem is:locative is:plural
+SFX O   en          noch       en is:locative is:plural
+SFX O   ietor       etroch     ietor is:locative is:plural
+SFX O   or          roch       [^t]or is:locative is:plural
+SFX O   et          toch       et is:locative is:plural
+SFX O   ov          voch       ov is:locative is:plural
+SFX O   on          noch       on is:locative is:plural
+SFX O   ok          kami       ok is:instrumental is:plural
+SFX O   el          lami       el is:instrumental is:plural
+SFX O   ol          lami       ol is:instrumental is:plural
+SFX O   em          mami       jem is:instrumental is:plural
+SFX O   en          nami       en is:instrumental is:plural
+SFX O   ietor       etrami     ietor is:instrumental is:plural
+SFX O   or          rami       [^t]or is:instrumental is:plural
+SFX O   et          tami       et is:instrumental is:plural
+SFX O   ov          vami       ov is:instrumental is:plural
+SFX O   on          nami       on is:instrumental is:plural
+SFX O   on          nami       on is:instrumental is:plural
 
-SFX Q Y 52
-SFX Q   ia          í          čia
-SFX Q   0           m          [čs]ia
-SFX Q   0           ch         [čs]ia
-SFX Q   0           mi         [čs]ia
-SFX Q   esia        ies        esia
-SFX Q   ia          í          dia
-SFX Q   dia         ďom        dia
-SFX Q   dia         ďoch       dia
-SFX Q   dia         ďmi        dia
-SFX Q   ice         íc         ice
-SFX Q   ce          c          oce
-SFX Q   ere         ier        ere
-SFX Q   ere         erí        ere
-SFX Q   e           iam        [cl]e
-SFX Q   e           iach       [cl]e
-SFX Q   e           ami        ce
-SFX Q   le          ľami       le
-SFX Q   e           ov         áre
-SFX Q   e           om         áre
-SFX Q   e           och        áre
-SFX Q   e           mi         áre
-SFX Q   e           ám         [^á]re
-SFX Q   e           ách        [^á]re
-SFX Q   e           ami        [^á]re
-SFX Q   niaze       ňazí       niaze
-SFX Q   e           om         ze
-SFX Q   e           och        ze
-SFX Q   e           mi         ze
-SFX Q   i           í          či
-SFX Q   0           am         či
-SFX Q   0           ach        či
-SFX Q   0           ami        či
-SFX Q   0           ch         ti
-SFX Q   0           m          ti
-SFX Q   0           mi         ti
-SFX Q   echy        iech       echy
-SFX Q   ky          ok         ky
-SFX Q   ny          n          i[aeou][djkntv]iny
-SFX Q   iny         ín         [^i][aeiouy][djkntv]iny
-SFX Q   iny         ín         stiny
-SFX Q   ny          n          [^aeiouy][djknv]iny
-SFX Q   y           ám         [hkn]y
-SFX Q   y           ách        [hkn]y
-SFX Q   y           ami        [hkn]y
-SFX Q   asy         ias        asy
-SFX Q   asy         asom       asy
-SFX Q   asy         asoch      asy
-SFX Q   asy         asmi       asy
-SFX Q   ta          t          ta
-SFX Q   0           m          ta
-SFX Q   0           ch         ta
-SFX Q   0           mi         ta
+SFX Q Y 53
+SFX Q   ia          í          čia is:genitive is:plural
+SFX Q   esia        ies        esia is:genitive is:plural
+SFX Q   ia          í          dia is:genitive is:plural
+SFX Q   ice         íc         ice is:genitive is:plural
+SFX Q   ce          c          oce is:genitive is:plural
+SFX Q   ere         ier        ere is:genitive is:plural
+SFX Q   ere         erí        ere is:genitive is:plural
+SFX Q   e           ov         áre is:genitive is:plural
+SFX Q   niaze       ňazí       niaze is:genitive is:plural
+SFX Q   i           í          či is:genitive is:plural
+SFX Q   echy        iech       echy is:genitive is:plural
+SFX Q   ky          ok         ky is:genitive is:plural
+SFX Q   ny          n          i[aeou][djkntv]iny is:genitive is:plural
+SFX Q   iny         ín         [^i][aeiouy][djkntv]iny is:genitive is:plural
+SFX Q   iny         ín         stiny is:genitive is:plural
+SFX Q   ny          n          [^aeiouy][djknv]iny is:genitive is:plural
+SFX Q   asy         ias        asy is:genitive is:plural
+SFX Q   ta          t          ta is:genitive is:plural
+SFX Q   0           m          [čs]ia is:dative is:plural
+SFX Q   dia         ďom        dia is:dative is:plural
+SFX Q   e           iam        [cl]e is:dative is:plural
+SFX Q   e           om         áre is:dative is:plural
+SFX Q   e           ám         [^á]re is:dative is:plural
+SFX Q   e           om         ze is:dative is:plural
+SFX Q   0           am         či is:dative is:plural
+SFX Q   0           m          ti is:dative is:plural
+SFX Q   y           ám         [hkn]y is:dative is:plural
+SFX Q   asy         asom       asy is:dative is:plural
+SFX Q   0           m          ta is:dative is:plural
+SFX Q   ia          í          dia is:accusative is:plural
+SFX Q   0           ch         [čs]ia is:locative is:plural
+SFX Q   dia         ďoch       dia is:locative is:plural
+SFX Q   e           iach       [cl]e is:locative is:plural
+SFX Q   e           och        áre is:locative is:plural
+SFX Q   e           ách        [^á]re is:locative is:plural
+SFX Q   e           och        ze is:locative is:plural
+SFX Q   0           ach        či is:locative is:plural
+SFX Q   0           ch         ti is:locative is:plural
+SFX Q   y           ách        [hkn]y is:locative is:plural
+SFX Q   asy         asoch      asy is:locative is:plural
+SFX Q   0           ch         ta is:locative is:plural
+SFX Q   0           mi         [čs]ia is:instrumental is:plural
+SFX Q   dia         ďmi        dia is:instrumental is:plural
+SFX Q   e           ami        ce is:instrumental is:plural
+SFX Q   le          ľami       le is:instrumental is:plural
+SFX Q   e           mi         áre is:instrumental is:plural
+SFX Q   e           ami        [^á]re is:instrumental is:plural
+SFX Q   e           mi         ze is:instrumental is:plural
+SFX Q   0           ami        či is:instrumental is:plural
+SFX Q   0           mi         ti is:instrumental is:plural
+SFX Q   y           ami        [hkn]y is:instrumental is:plural
+SFX Q   asy         asmi       asy is:instrumental is:plural
+SFX Q   0           mi         ta is:instrumental is:plural
 
 SFX Y Y 158
 SFX Y   e           ejšie      e
