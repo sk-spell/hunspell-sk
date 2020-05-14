@@ -2095,70 +2095,74 @@ SFX X   ť           la         yť is:3rd_person is:feminine is:past
 SFX X   ť           lo         yť is:3rd_person is:neuter is:past
 SFX X   ť           li         yť is:3rd_person is:plural is:past
 
-SFX E Y 63
-SFX E   ať          ám         ať
-SFX E   ať          áš         ať
-SFX E   ať          á          ať
-SFX E   ať          áme        ať
-SFX E   ať          áte        ať
-SFX E   ať          ajú        ať
-SFX E   ať          ajúc       ať
-SFX E   ať          aj         ať
-SFX E   ať          ajme       ať
-SFX E   ať          ajte       ať
-SFX E   ať          al         ať
-SFX E   ať          ala        ať
-SFX E   ať          alo        ať
-SFX E   ať          ali        ať
-SFX E   biť         b          biť
-SFX E   čiť         č          čiť
-SFX E   diť         ď          diť
-SFX E   diť         ďme        diť
-SFX E   diť         ďte        diť
-SFX E   dziť        dz         dziť
-SFX E   fiť         f          fiť
-SFX E   giť         g          giť
-SFX E   chiť        ch         chiť
-SFX E   iť          a          jiť
-SFX E   iť          ac         jiť
-SFX E   jiť         j          jiť
-SFX E   iť          ia         [^j]iť
-SFX E   iť          iac        [^j]iť
-SFX E   kiť         k          kiť
-SFX E   liť         ľ          [aáäeéiíoóuúyý]liť
-SFX E   liť         ľme        [aáäeéiíoóuúyý]liť
-SFX E   liť         ľte        [aáäeéiíoóuúyý]liť
-SFX E   iť          i          [^aáäeéiíoóuúyý]liť
-SFX E   iť          ime        [^aáäeéiíoóuúyý]liť
-SFX E   iť          ite        [^aáäeéiíoóuúyý]liť
-SFX E   miť         m          miť
-SFX E   niť         ň          niť
-SFX E   niť         ňme        niť
-SFX E   niť         ňte        niť
-SFX E   piť         p          piť
-SFX E   iť          i          riť	# opatriť
-SFX E   iť          ime        riť
-SFX E   iť          ite        riť
-SFX E   viť         v          viť
-SFX E   siť         s          siť
-SFX E   šiť         š          šiť
-SFX E   tiť         ť          tiť
-SFX E   tiť         ťme        tiť
-SFX E   tiť         ťte        tiť
-SFX E   ziť         z          ziť
-SFX E   žiť         ž          žiť
-SFX E   iť          me         iť
-SFX E   iť          te         [^dlnrt]iť
-SFX E   iť          ím         iť
-SFX E   iť          íš         iť
-SFX E   iť          í          iť
-SFX E   iť          íme        iť
-SFX E   iť          íte        iť
-SFX E   iť          ia         iť
-SFX E   ť           l          iť
-SFX E   ť           la         iť
-SFX E   ť           lo         iť
-SFX E   ť           li         iť
+SFX E Y 67
+SFX E   ať          ám         ať is:1st_person
+SFX E   ať          áš         ať is:2nd_person
+SFX E   ať          á          ať is:3rd_person
+SFX E   ať          áme        ať is:1st_person is:plural
+SFX E   ať          áte        ať is:2nd_person is:plural
+SFX E   ať          ajú        ať is:3rd_person is:plural
+SFX E   ať          ajúc       ať is:participle
+SFX E   ať          aj         ať is:2nd_person is:imperative
+SFX E   ať          ajme       ať is:1st_person is:plural is:imperative
+SFX E   ať          ajte       ať is:2nd_person is:plural is:imperative
+SFX E   ať          al         ať is:1st_person
+SFX E   ať          al         ať is:2nd_person
+SFX E   ať          al         ať is:3rd_person is:masculine is:past
+SFX E   ať          ala        ať is:3rd_person is:feminine is:past
+SFX E   ať          alo        ať is:3rd_person is:neuter is:past
+SFX E   ať          ali        ať is:3rd_person is:plural is:past
+SFX E   biť         b          biť is:2nd_person is:imperative
+SFX E   čiť         č          čiť is:2nd_person is:imperative
+SFX E   diť         ď          diť is:2nd_person is:imperative
+SFX E   diť         ďme        diť is:1st_person is:plural is:imperative
+SFX E   diť         ďte        diť is:2nd_person is:plural is:imperative
+SFX E   dziť        dz         dziť is:2nd_person is:imperative
+SFX E   fiť         f          fiť is:2nd_person is:imperative
+SFX E   giť         g          giť is:2nd_person is:imperative
+SFX E   chiť        ch         chiť is:2nd_person is:imperative
+SFX E   iť          a          jiť is:3rd_person is:plural
+SFX E   iť          ac         jiť is:participle
+SFX E   jiť         j          jiť is:2nd_person is:imperative
+SFX E   iť          ia         [^j]iť is:3rd_person is:plural
+SFX E   iť          iac        [^j]iť is:participle
+SFX E   kiť         k          kiť is:2nd_person is:imperative
+SFX E   liť         ľ          [aáäeéiíoóuúyý]liť is:2nd_person is:imperative
+SFX E   liť         ľme        [aáäeéiíoóuúyý]liť is:1st_person is:plural is:imperative
+SFX E   liť         ľte        [aáäeéiíoóuúyý]liť is:2nd_person is:plural is:imperative
+SFX E   iť          i          [^aáäeéiíoóuúyý]liť is:2nd_person is:imperative
+SFX E   iť          ime        [^aáäeéiíoóuúyý]liť is:1st_person is:plural is:imperative
+SFX E   iť          ite        [^aáäeéiíoóuúyý]liť is:2nd_person is:plural is:imperative
+SFX E   miť         m          miť is:2nd_person is:plural
+SFX E   niť         ň          niť is:2nd_person is:imperative
+SFX E   niť         ňme        niť is:1st_person is:plural is:imperative
+SFX E   niť         ňte        niť is:2nd_person is:plural is:imperative
+SFX E   piť         p          piť is:2nd_person is:imperative
+SFX E   iť          i          riť is:2nd_person is:imperative
+SFX E   iť          ime        riť is:1st_person is:plural is:imperative
+SFX E   iť          ite        riť is:2nd_person is:plural is:imperative
+SFX E   viť         v          viť is:2nd_person is:imperative
+SFX E   siť         s          siť is:2nd_person is:imperative
+SFX E   šiť         š          šiť is:2nd_person is:imperative
+SFX E   tiť         ť          tiť is:2nd_person is:imperative
+SFX E   tiť         ťme        tiť is:1st_person is:plural is:imperative
+SFX E   tiť         ťte        tiť is:2nd_person is:plural is:imperative
+SFX E   ziť         z          ziť is:2nd_person is:imperative
+SFX E   žiť         ž          žiť is:2nd_person is:imperative
+SFX E   iť          me         iť is:1st_person is:plural is:imperative
+SFX E   iť          te         [^dlnrt]iť is:2nd_person is:plural is:imperative
+SFX E   iť          ím         iť is:1st_person
+SFX E   iť          íš         iť is:2nd_person
+SFX E   iť          í          iť is:3rd_person
+SFX E   iť          íme        iť is:1st_person is:plural
+SFX E   iť          íte        iť is:2nd_person is:plural
+SFX E   iť          ia         iť is:3rd_person is:plural
+SFX E   ť           l          iť is:1st_person is:past
+SFX E   ť           l          iť is:2nd_person is:past
+SFX E   ť           l          iť is:3rd_person is:masculine is:past
+SFX E   ť           la         iť is:3rd_person is:feminine is:past
+SFX E   ť           lo         iť is:3rd_person is:neuter is:past
+SFX E   ť           li         iť is:3rd_person is:plural is:past
 
 SFX W Y 197
 SFX W   ať          nem        čať
