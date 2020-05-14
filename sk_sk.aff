@@ -1926,165 +1926,174 @@ SFX P   0           mi         í is:masculine is:instrumental is:plural
 SFX P   0           mi         í is:feminine is:instrumental is:plural
 SFX P   0           mi         í is:neuter is:instrumental is:plural
 
-SFX X Y 158
-SFX X   liať        ľajem      kliať
-SFX X   liať        ľaješ      kliať
-SFX X   liať        ľaje       kliať
-SFX X   liať        ľajeme     kliať
-SFX X   liať        ľajete     kliať
-SFX X   liať        ľajú       kliať
-SFX X   liať        ľaj        kliať
-SFX X   liať        ľajme      kliať
-SFX X   liať        ľajte      kliať
-SFX X   liať        ľajúc      kliať
-SFX X   iať         ejem       [^k]liať
-SFX X   iať         eješ       [^k]liať
-SFX X   iať         eje        [^k]liať
-SFX X   iať         ejeme      [^k]liať
-SFX X   iať         ejete      [^k]liať
-SFX X   iať         ejú        [^k]liať
-SFX X   iať         ej         [^k]liať
-SFX X   iať         ejme       [^k]liať
-SFX X   iať         ejte       [^k]liať
-SFX X   iať         ejúc       [^k]liať
-SFX X   iať         ajem       riať
-SFX X   iať         aješ       riať
-SFX X   iať         aje        riať
-SFX X   iať         ajeme      riať
-SFX X   iať         ajete      riať
-SFX X   iať         ajú        riať
-SFX X   iať         aj         riať
-SFX X   iať         ajme       riať
-SFX X   iať         ajte       riať
-SFX X   iať         ajúc       riať
-SFX X   iať         ejem       [dsvm]iať
-SFX X   iať         eješ       [dsvm]iať
-SFX X   iať         eje        [dsvm]iať
-SFX X   iať         ejeme      [dsvm]iať
-SFX X   iať         ejete      [dsvm]iať
-SFX X   iať         ejú        [dsvm]iať
-SFX X   iať         ej         [dsvm]iať
-SFX X   iať         ejme       [dsvm]iať
-SFX X   iať         ejte       [dsvm]iať
-SFX X   iať         ejúc       [dsvm]iať
-SFX X   ziať        ezmem      ziať
-SFX X   ziať        ezmeš      ziať
-SFX X   ziať        ezme       ziať
-SFX X   ziať        ezmeme     ziať
-SFX X   ziať        ezmete     ziať
-SFX X   ziať        ezmú       ziať
-SFX X   ziať        ezmi       ziať
-SFX X   ziať        ezmime     ziať
-SFX X   ziať        ezmite     ziať
-SFX X   ziať        ezmúc      ziať
-SFX X   iať         al         ziať
-SFX X   iať         ala        ziať
-SFX X   iať         alo        ziať
-SFX X   iať         ali        ziať
-SFX X   ať          al         [^z]iať
-SFX X   ať          ala        [^z]iať
-SFX X   ať          alo        [^z]iať
-SFX X   ať          ali        [^z]iať
-SFX X   ať          am         [^i]ať
-SFX X   ať          aš         [^i]ať
-SFX X   ať          a          [^i]ať
-SFX X   ať          ame        [^i]ať
-SFX X   ať          ate        [^i]ať
-SFX X   ať          ajú        [^i]ať
-SFX X   ať          aj         [^i]ať
-SFX X   ať          ajme       [^i]ať
-SFX X   ať          ajte       [^i]ať
-SFX X   ať          ajúc       [^i]ať
-SFX X   ať          al         [^i]ať
-SFX X   ať          ala        [^i]ať
-SFX X   ať          alo        [^i]ať
-SFX X   ať          ali        [^i]ať
-SFX X   ieť         em         cieť
-SFX X   ieť         eš         cieť
-SFX X   ieť         e          cieť
-SFX X   ieť         eme        cieť
-SFX X   ieť         ete        cieť
-SFX X   cieť        tiac       cieť
-SFX X   ieť         i          [clr]ieť
-SFX X   ieť         ime        [clr]ieť
-SFX X   ieť         ite        [clr]ieť
-SFX X   ieť         ú          [cr]ieť
-SFX X   ieť         iac        rieť
-SFX X   ieť         ejú        [^clr]ieť
-SFX X   ieť         ej         [^clr]ieť
-SFX X   ieť         ejme       [^clr]ieť
-SFX X   ieť         ejte       [^clr]ieť
-SFX X   ieť         ejúc       [^clr]ieť
-SFX X   ť           m          ieť
-SFX X   ť           š          ieť
-SFX X   eť          e          ieť
-SFX X   ť           me         ieť
-SFX X   ť           te         ieť
-SFX X   ieť         el         ieť
-SFX X   ieť         ela        ieť
-SFX X   ieť         elo        ieť
-SFX X   ieť         eli        ieť
-SFX X   biť         b          biť
-SFX X   ciť         c          ciť
-SFX X   čiť         č          čiť
-SFX X   diť         ď          diť
-SFX X   diť         ďme        diť
-SFX X   diť         ďte        diť
-SFX X   fiť         f          fiť
-SFX X   giť         g          giť
-SFX X   chiť        ch         chiť
-SFX X   iť          a          jiť
-SFX X   iť          ac         jiť
-SFX X   jiť         j          jiť
-SFX X   iť          ia         [^j]iť
-SFX X   iť          iac        [^j]iť
-SFX X   kiť         k          kiť
-SFX X   liť         ľ          [aáäeéiíoóuúyý]liť
-SFX X   liť         ľme        [aáäeéiíoóuúyý]liť
-SFX X   liť         ľte        [aáäeéiíoóuúyý]liť
-SFX X   iť          i          [^aáäeéiíoóuúyý]liť
-SFX X   iť          ime        [^aáäeéiíoóuúyý]liť
-SFX X   iť          ite        [^aáäeéiíoóuúyý]liť
-SFX X   miť         m          miť
-SFX X   niť         ň          niť
-SFX X   niť         ňme        niť
-SFX X   niť         ňte        niť
-SFX X   piť         p          piť
-SFX X   riť         r          riť
-SFX X   viť         v          viť
-SFX X   siť         s          siť
-SFX X   šiť         š          šiť
-SFX X   tiť         ť          tiť
-SFX X   tiť         ťme        tiť
-SFX X   tiť         ťte        tiť
-SFX X   ziť         z          ziť
-SFX X   žiť         ž          žiť
-SFX X   iť          me         [^dlnt]iť
-SFX X   iť          te         [^dlnt]iť
-SFX X   iť          im         iť
-SFX X   iť          iš         iť
-SFX X   iť          i          iť
-SFX X   iť          ime        iť
-SFX X   iť          ite        iť
-SFX X   iť          ia         iť
-SFX X   ť           l          iť
-SFX X   ť           la         iť
-SFX X   ť           lo         iť
-SFX X   ť           li         iť
-SFX X   ť           jem        yť
-SFX X   ť           ješ        yť
-SFX X   ť           je         yť
-SFX X   ť           jeme       yť
-SFX X   ť           jete       yť
-SFX X   ť           jú         yť
-SFX X   ť           júc        yť
-SFX X   yť          y          yť
-SFX X   ť           me         yť
-SFX X   ť           te         yť
-SFX X   ť           l          yť
-SFX X   ť           la         yť
-SFX X   ť           lo         yť
-SFX X   ť           li         yť
+SFX X Y 167
+SFX X   liať        ľajem      kliať is:1st_person
+SFX X   liať        ľaješ      kliať is:2nd_person
+SFX X   liať        ľaje       kliať is:3rd_person
+SFX X   liať        ľajeme     kliať is:1st_person is:plural
+SFX X   liať        ľajete     kliať is:2nd_person is:plural
+SFX X   liať        ľajú       kliať is:3rd_person is:plural
+SFX X   liať        ľaj        kliať is:2nd_person is:imperative
+SFX X   liať        ľajme      kliať is:1st_person is:plural is:imperative 
+SFX X   liať        ľajte      kliať is:2nd_person is:plural is:imperative 
+SFX X   liať        ľajúc      kliať is:participle
+SFX X   iať         ejem       [^k]liať is:1st_person
+SFX X   iať         eješ       [^k]liať is:2nd_person
+SFX X   iať         eje        [^k]liať is:3rd_person
+SFX X   iať         ejeme      [^k]liať is:1st_person is:plural
+SFX X   iať         ejete      [^k]liať is:2nd_person is:plural
+SFX X   iať         ejú        [^k]liať is:3rd_person is:plural
+SFX X   iať         ej         [^k]liať is:2nd_person is:imperative
+SFX X   iať         ejme       [^k]liať is:1st_person is:plural is:imperative
+SFX X   iať         ejte       [^k]liať is:2nd_person is:plural is:imperative
+SFX X   iať         ejúc       [^k]liať is:participle
+SFX X   iať         ajem       riať is:1st_person
+SFX X   iať         aješ       riať is:2nd_person
+SFX X   iať         aje        riať is:3rd_person
+SFX X   iať         ajeme      riať is:1st_person is:plural
+SFX X   iať         ajete      riať is:2nd_person is:plural
+SFX X   iať         ajú        riať is:3rd_person is:plural
+SFX X   iať         aj         riať is:2nd_person is:imperative
+SFX X   iať         ajme       riať is:1st_person is:plural is:imperative
+SFX X   iať         ajte       riať is:2nd_person is:plural is:imperative
+SFX X   iať         ajúc       riať is:participle
+SFX X   iať         ejem       [dsvm]iať is:1st_person
+SFX X   iať         eješ       [dsvm]iať is:2nd_person
+SFX X   iať         eje        [dsvm]iať is:3rd_person
+SFX X   iať         ejeme      [dsvm]iať is:1st_person is:plural
+SFX X   iať         ejete      [dsvm]iať is:2nd_person is:plural
+SFX X   iať         ejú        [dsvm]iať is:3rd_person is:plural
+SFX X   iať         ej         [dsvm]iať is:2nd_person is:imperative
+SFX X   iať         ejme       [dsvm]iať is:1st_person is:plural is:imperative
+SFX X   iať         ejte       [dsvm]iať is:2nd_person is:plural is:imperative
+SFX X   iať         ejúc       [dsvm]iať is:participle
+SFX X   ziať        ezmem      ziať is:1st_person
+SFX X   ziať        ezmeš      ziať is:2nd_person
+SFX X   ziať        ezme       ziať is:3rd_person
+SFX X   ziať        ezmeme     ziať is:1st_person is:plural
+SFX X   ziať        ezmete     ziať is:2nd_person is:plural
+SFX X   ziať        ezmú       ziať is:3rd_person is:plural
+SFX X   ziať        ezmi       ziať is:2nd_person is:imperative
+SFX X   ziať        ezmime     ziať is:1st_person is:plural is:imperative
+SFX X   ziať        ezmite     ziať is:2nd_person is:plural is:imperative
+SFX X   ziať        ezmúc      ziať is:participle
+SFX X   iať         al         ziať is:1st_person is:past
+SFX X   iať         al         ziať is:3rd_person is:past
+SFX X   iať         ala        ziať is:3rd_person is:feminine is:past
+SFX X   iať         alo        ziať is:3rd_person is:neuter is:past
+SFX X   iať         ali        ziať is:3rd_person is:past
+SFX X   ať          al         [^z]iať is:3rd_person is:masculine is:past
+SFX X   ať          ala        [^z]iať is:3rd_person is:feminine is:past
+SFX X   ať          alo        [^z]iať is:3rd_person is:neuter is:past
+SFX X   ať          ali        [^z]iať is:1st_person
+SFX X   ať          ali        [^z]iať is:3rd_person
+SFX X   ať          am         [^i]ať is:1st_person
+SFX X   ať          aš         [^i]ať is:2nd_person
+SFX X   ať          a          [^i]ať is:3rd_person
+SFX X   ať          ame        [^i]ať is:1st_person is:plural
+SFX X   ať          ate        [^i]ať is:2nd_person is:plural
+SFX X   ať          ajú        [^i]ať is:3rd_person is:plural
+SFX X   ať          aj         [^i]ať is:2nd_person is:imperative
+SFX X   ať          ajme       [^i]ať is:1st_person is:plural is:imperative
+SFX X   ať          ajte       [^i]ať is:2nd_person is:plural is:imperative
+SFX X   ať          ajúc       [^i]ať is:participle
+SFX X   ať          al         [^i]ať is:3rd_person is:masculine is:past
+SFX X   ať          ala        [^i]ať is:3rd_person is:feminine is:past
+SFX X   ať          alo        [^i]ať is:3rd_person is:neuter is:past
+SFX X   ať          ali        [^i]ať is:2nd_person is:plural is:past
+SFX X   ať          ali        [^i]ať is:1st_person is:plural is:past
+SFX X   ieť         em         cieť is:1st_person
+SFX X   ieť         eš         cieť is:2nd_person
+SFX X   ieť         e          cieť is:3rd_person
+SFX X   ieť         eme        cieť is:1st_person is:plural
+SFX X   ieť         ete        cieť is:2nd_person is:plural
+SFX X   cieť        tiac       cieť is:participle
+SFX X   ieť         i          [clr]ieť is:2nd_person is:imperative
+SFX X   ieť         ime        [clr]ieť is:1st_person is:plural is:imperative
+SFX X   ieť         ite        [clr]ieť is:2nd_person is:plural is:imperative
+SFX X   ieť         ú          [cr]ieť is:3rd_person is:plural
+SFX X   ieť         iac        rieť is:participle
+SFX X   ieť         ejú        [^clr]ieť is:3rd_person is:plural
+SFX X   ieť         ej         [^clr]ieť is:2nd_person is:imperative
+SFX X   ieť         ejme       [^clr]ieť is:1st_person is:plural is:imperative
+SFX X   ieť         ejte       [^clr]ieť is:2nd_person is:plural is:imperative
+SFX X   ieť         ejúc       [^clr]ieť is:participle
+SFX X   ť           m          ieť is:1st_person
+SFX X   ť           š          ieť is:2nd_person
+SFX X   eť          e          ieť is:3rd_person
+SFX X   ť           me         ieť is:1st_person is:plural
+SFX X   ť           te         ieť is:2nd_person is:plural
+SFX X   ieť         el         ieť is:3rd_person is:masculine is:past
+SFX X   ieť         ela        ieť is:3rd_person is:feminine is:past
+SFX X   ieť         elo        ieť is:3rd_person is:neuter is:past
+SFX X   ieť         eli        ieť is:1st_person is:plural is:past
+SFX X   ieť         eli        ieť is:2nd_person is:plural is:past
+SFX X   ieť         eli        ieť is:3rd_person is:plural is:past
+SFX X   biť         b          biť is:2nd_person is:imperative
+SFX X   ciť         c          ciť is:2nd_person is:imperative
+SFX X   čiť         č          čiť is:2nd_person is:imperative
+SFX X   diť         ď          diť is:2nd_person is:imperative
+SFX X   diť         ďme        diť is:1st_person is:imperative
+SFX X   diť         ďte        diť is:2nd_person is:imperative
+SFX X   fiť         f          fiť is:2nd_person is:imperative
+SFX X   giť         g          giť is:2nd_person is:imperative
+SFX X   chiť        ch         chiť is:2nd_person is:imperative
+SFX X   iť          a          jiť is:3rd_person is:plural
+SFX X   iť          ac         jiť is:participle
+SFX X   jiť         j          jiť is:2nd_person is:imperative
+SFX X   iť          ia         [^j]iť is:3rd_person is:plural
+SFX X   iť          iac        [^j]iť is:participle
+SFX X   kiť         k          kiť is:2nd_person is:imperative
+SFX X   liť         ľ          [aáäeéiíoóuúyý]liť is:2nd_person is:imperative
+SFX X   liť         ľme        [aáäeéiíoóuúyý]liť is:1st_person is:plural is:imperative
+SFX X   liť         ľte        [aáäeéiíoóuúyý]liť is:2nd_person is:plural is:imperative
+SFX X   iť          i          [^aáäeéiíoóuúyý]liť is:3rd_person
+SFX X   iť          ime        [^aáäeéiíoóuúyý]liť is:1st_person is:plural
+SFX X   iť          ite        [^aáäeéiíoóuúyý]liť is:2nd_person is:plural
+SFX X   iť          ime        [^aáäeéiíoóuúyý]liť is:1st_person is:plural is:imperative
+SFX X   iť          ite        [^aáäeéiíoóuúyý]liť is:2nd_person is:plural is:imperative
+SFX X   miť         m          miť is:2nd_person is:imperative
+SFX X   niť         ň          niť is:2nd_person is:imperative
+SFX X   niť         ňme        niť is:1st_person is:plural is:imperative
+SFX X   niť         ňte        niť is:2nd_person is:plural is:imperative
+SFX X   piť         p          piť is:2nd_person is:imperative
+SFX X   riť         r          riť is:2nd_person is:imperative
+SFX X   viť         v          viť is:2nd_person is:imperative
+SFX X   siť         s          siť is:2nd_person is:imperative
+SFX X   šiť         š          šiť is:2nd_person is:imperative
+SFX X   tiť         ť          tiť is:2nd_person is:imperative
+SFX X   tiť         ťme        tiť is:1st_person is:plural is:imperative
+SFX X   tiť         ťte        tiť is:2nd_person is:plural is:imperative
+SFX X   ziť         z          ziť is:2nd_person is:imperative
+SFX X   žiť         ž          žiť is:2nd_person is:imperative
+SFX X   iť          me         [^dlnt]iť is:1st_person is:plural is:imperative
+SFX X   iť          te         [^dlnt]iť is:2nd_person is:plural is:imperative
+SFX X   iť          im         iť is:1st_person
+SFX X   iť          iš         iť is:2nd_person
+SFX X   iť          i          iť is:3rd_person
+SFX X   iť          ime        iť is:1st_person is:plural
+SFX X   iť          ite        iť is:2nd_person is:plural
+SFX X   iť          ia         iť is:3rd_person is:plural
+SFX X   ť           l          iť is:3rd_person is:masculine is:past
+SFX X   ť           la         iť is:3rd_person is:feminine is:past
+SFX X   ť           lo         iť is:3rd_person is:neuter is:past
+SFX X   ť           li         iť is:3rd_person is:plural is:past
+SFX X   ť           jem        yť is:1st_person
+SFX X   ť           ješ        yť is:2nd_person
+SFX X   ť           je         yť is:3rd_person
+SFX X   ť           jeme       yť is:1st_person is:plural
+SFX X   ť           jete       yť is:2nd_person is:plural
+SFX X   ť           jú         yť is:3rd_person is:plural
+SFX X   ť           júc        yť is:participle
+SFX X   yť          y          yť is:2nd_person is:imperative
+SFX X   ť           me         yť is:1st_person is:plural is:imperative
+SFX X   ť           te         yť is:2nd_person is:plural is:imperative
+SFX X   ť           l          yť is:1st_person is:past
+SFX X   ť           l          yť is:2nd_person is:past
+SFX X   ť           l          yť is:3rd_person is:masculine is:past
+SFX X   ť           la         yť is:3rd_person is:feminine is:past
+SFX X   ť           lo         yť is:3rd_person is:neuter is:past
+SFX X   ť           li         yť is:3rd_person is:plural is:past
 
 SFX E Y 63
 SFX E   ať          ám         ať
