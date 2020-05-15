@@ -1,4 +1,4 @@
-239504
+239537
 A
 a
 AB
@@ -33584,7 +33584,10 @@ hníd
 hnúšťanského
 hnúšťanskému
 hnúť/WN
-ho/N
+ho po:pronoun is:3rd_person is:masculine is:genitive
+ho po:pronoun is:3rd_person is:neuter is:genitive
+ho po:pronoun is:3rd_person is:masculine is:accusative
+ho po:pronoun is:3rd_person is:neuter is:accusative
 hobby
 hobeľ/J
 hobier
@@ -36673,7 +36676,8 @@ ibišu
 IBM
 ibn
 IC
-ich
+ich po:pronoun is:3rd_person is:plural is:genitive
+ich po:pronoun is:3rd_person is:plural is:accusative
 ichni
 ichnofosília
 ichnogram
@@ -37041,7 +37045,7 @@ ilúzia/U
 ilýr
 Ilýria
 ilýrsky
-im
+im po:pronoun is:3rd_person is:plural is:dative
 image
 imaginatívnosti
 imaginatívny
@@ -38980,7 +38984,7 @@ Ižkovce
 Ižop
 J
 j
-ja
+ja po:pronoun is:1st_person
 Jab
 jab
 Jaba
@@ -40106,14 +40110,17 @@ Jeepom
 jeepov
 jeepu
 jeepy
-jeho
+jeho po:pronoun is:3rd_person is:masculine is:genitive
+jeho po:pronoun is:3rd_person is:neuter is:genitive
+jeho po:pronoun is:3rd_person is:masculine is:accusative
 Jehova/H
 jehovista/H
 jehovistický/YN
 jehovistka/zZ
 Jehovových
 Jehovovým
-jej
+jej po:pronoun is:3rd_person is:feminine is:genitive
+jej po:pronoun is:3rd_person is:feminine is:dative
 jejunitída
 jejunum
 Jel
@@ -40191,7 +40198,8 @@ jemnuško
 jemnušký/YN
 jemnôstka/zZ
 jemný/YN
-jemu
+jemu po:pronoun is:3rd_person is:masculine is:dative
+jemu po:pronoun is:3rd_person is:neuter is:dative
 jen/B
 Jena/z
 Jenisej
@@ -40537,7 +40545,7 @@ Jožov
 JPY
 jr
 JRD
-ju
+ju po:pronoun is:3rd_person is:feminine is:accusative
 Juan
 juan
 Juana
@@ -54735,7 +54743,7 @@ lží
 M
 m
 mA
-ma
+ma po:pronoun is:1st_person is:accusative
 MAAE
 Maar
 maar
@@ -58285,7 +58293,7 @@ MHK
 mhm
 MHz
 Mi
-mi
+mi po:pronoun is:1st_person is:dative
 miagač
 miagať/XN
 mias
@@ -59529,7 +59537,8 @@ MMF
 MMM
 MN
 mn
-mne
+mne po:pronoun is:1st_person is:dative
+mne po:pronoun is:1st_person is:locative
 mnemotaxia
 mnemotechnický/YN
 mnemotechnik/C
@@ -59640,7 +59649,7 @@ mnohočleny
 mnohoženstvo/M
 mnohožilový/YN
 mnohý/YN
-mnou
+mnou po:pronoun is:1st_person is:instrumental
 množenie/V
 množený/YN
 množiace
@@ -61211,7 +61220,8 @@ MsZ
 MsÚ
 MT
 MTV
-mu/N
+mu po:pronoun is:3rd_person is:masculine is:dative
+mu po:pronoun is:3rd_person is:neuter is:dative
 mucha/zZ
 Muchin
 mucholapka/zZ
@@ -61613,6 +61623,7 @@ MVP
 MW
 MWb
 MWh
+my po:pronoun is:plural
 myalgia
 myanma
 myasténia
@@ -62326,7 +62337,8 @@ mľasknúť/WN
 mľaskot
 mľasnúť/WN
 MĽR
-mňa
+mňa po:pronoun is:1st_person is:genitive
+mňa po:pronoun is:1st_person is:accusative
 mňam
 mňau
 mňaukanie/V
@@ -106394,7 +106406,7 @@ nameraný/YN
 namerať/TN
 nameriavať/XN
 nameriť
-nami
+nami po:pronoun is:1st_person is:plural is:instrumental
 namierenie
 namierený/YN
 namieriť/XN
@@ -108629,7 +108641,8 @@ nažrať/RN
 nažívanie/V
 nažívať/XN
 Ndrangheta
-ne
+ne po:pronoun is:3rd_person is:plural is:feminine is:dative
+ne po:pronoun is:3rd_person is:plural is:neuter is:dative
 neabsorbujúci
 neadekvátnosti
 neadekvátnosť
@@ -110985,6 +110998,8 @@ nehnula
 nehnuli
 nehnulo
 nehnute
+neho po:pronoun is:3rd_person is:masculine is:genitive
+neho po:pronoun is:3rd_person is:neuter is:genitive
 nehobľované
 nehoda/zZ
 nehoden
@@ -111238,6 +111253,9 @@ neišiel
 neišla
 neišli
 neišlo
+nej po:pronoun is:3rd_person is:feminine is:genitive
+nej po:pronoun is:3rd_person is:feminine is:dative
+nej po:pronoun is:3rd_person is:feminine is:locative
 nejachci
 nejachcime
 nejachcite
@@ -112083,6 +112101,8 @@ nelúpajme
 nelúpajte
 nelúpajúc
 nem
+nemu po:pronoun is:3rd_person is:masculine is:dative
+nemu po:pronoun is:3rd_person is:neuter is:dative
 nemachroval
 nemachrovala
 nemachrovali
@@ -129363,7 +129383,10 @@ ni
 Niagara
 Niagarou
 niagarský/YN
-nich
+nich po:pronoun is:3rd_person is:plural is:genitive
+nich po:pronoun is:3rd_person is:plural is:masculine is:accusative
+nich po:pronoun is:3rd_person is:plural is:neuter is:accusative
+nich po:pronoun is:3rd_person is:plural is:locative
 nidácia
 nie
 nieby
@@ -129542,7 +129565,7 @@ nikózijský/YN
 Nikózijčan/c
 nikým
 nili
-nim
+nim po:pronoun is:3rd_person is:plural is:dative
 nimbe
 nimbmi
 nimboch
@@ -129552,7 +129575,7 @@ nimbov
 nimbu
 nimbus/B
 nimby
-nimi
+nimi po:pronoun is:3rd_person is:plural is:instrumental
 Nimnica
 Nimnice
 Nimnici
@@ -130896,7 +130919,7 @@ náležitosť/K
 náležitý/YN
 nálož/D
 náložne
-nám
+nám po:pronoun is:1st_person is:plural is:dative
 námah
 námaha/zZ
 námatkovo
@@ -131111,7 +131134,9 @@ náruživo
 náruživosť/K
 náruživý/YN
 nárys/B
-nás
+nás po:pronoun is:1st_person is:plural is:genitive
+nás po:pronoun is:1st_person is:plural is:accusative
+nás po:pronoun is:1st_person is:plural is:locative
 násad
 násada/zZ
 násadce
@@ -131399,7 +131424,8 @@ névus
 ník
 Níl/B
 nílsky/YN
-ním
+ním po:pronoun is:3rd_person is:masculine is:instrumental
+ním po:pronoun is:3rd_person is:neuter is:instrumental
 nímand/C
 Nín
 Nís
@@ -138658,8 +138684,8 @@ Omšenie
 Omšení
 omšový/YN
 omší
-on
-ona
+on po:pronoun is:3rd_person is:masculine
+ona po:pronoun is:3rd_person is:feminine
 onak
 onako
 onakvo
@@ -138743,7 +138769,7 @@ oneskorovať/WN
 oneskorte
 oneskorujúci
 onezdravieť/XN
-oni
+oni po:pronoun is:3rd_person is:plural
 onikať/EN
 oniománia
 onkogenéza
@@ -138754,7 +138780,7 @@ onkologička/zZ
 onkológ/c
 onkológia/U
 online
-ono
+ono po:pronoun is:3rd_person is:neuter
 onoho
 onom
 onomastický/YN
@@ -138780,7 +138806,8 @@ ontário
 onuca/U
 onucka/zZ
 ONV
-ony
+ony po:pronoun is:3rd_person is:neuter is:plural
+ony po:pronoun is:3rd_person is:feminine is:plural
 onychalgia
 onychektómia
 onychia
@@ -192670,10 +192697,12 @@ teatrológ/c
 teatrológia/U
 teatrálnosť/K
 teatrálny/YN
-teba
+teba po:pronoun is:2nd_person is:genitive
+teba po:pronoun is:2nd_person is:accusative
 tebain
-tebe
-tebou
+tebe po:pronoun is:2nd_person is:dative
+tebe po:pronoun is:2nd_person is:locative
+tebou po:pronoun is:2nd_person is:instrumental
 tech
 techa
 techička
@@ -193885,7 +193914,7 @@ thyrsos
 THz
 Thália
 thé
-ti
+ti po:pronoun is:2nd_person is:dative
 tiahel
 tiahlo/M
 tiahly/YN
@@ -197912,7 +197941,7 @@ twinsetov
 twinsety
 twist/B
 twistový/YN
-ty
+ty po:pronoun is:2nd_person
 tybing
 tyflológia
 tyflopedagogika
@@ -202756,7 +202785,7 @@ Valči
 Valčianskej
 valčík/B
 valčíkový/YN
-vami
+vami po:pronoun is:2nd_person is:plural is:instrumental
 vamp
 vampum
 vampír
@@ -207406,6 +207435,7 @@ vunknúť
 VV
 vvám
 VW
+vy po:pronoun is:2nd_person is:plural
 vyabstrahovať/WN
 vyakcentovať
 vyargumentoval
@@ -213882,7 +213912,7 @@ válov/B
 válovec
 válovček/B
 válí/C
-vám
+vám po:pronoun is:2nd_person is:plural is:dative
 Vánd
 vánok/O
 vápen
@@ -213937,7 +213967,9 @@ várach
 váram
 várka/zZ
 várus
-vás
+vás po:pronoun is:2nd_person is:plural is:genitive
+vás po:pronoun is:2nd_person is:plural is:accusative
+vás po:pronoun is:2nd_person is:plural is:locative
 vát
 váz
 váza/zZ
@@ -233317,9 +233349,10 @@ zžívať/XN
 ňadro/M
 ňaňa
 ňaňo
-ňom
-ňou
-ňu
+ňom po:pronoun is:3rd_person is:masculine is:locative
+ňom po:pronoun is:3rd_person is:neuter is:locative
+ňou po:pronoun is:3rd_person is:feminine is:instrumental
+ňu po:pronoun is:3rd_person is:feminine is:accusative
 ňuch/B
 ňuchať/EN
 ňuchnúť/WN
@@ -238041,7 +238074,7 @@ zžívať/XN
 šťúry
 Ť
 ť
-ťa
+ťa po:pronoun is:2nd_person is:accusative
 ťah/B
 ťahací/I
 ťahadlo/M
