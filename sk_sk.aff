@@ -2576,406 +2576,456 @@ SFX T   ť           la         ť is:3rd_person is:feminine is:past
 SFX T   ť           lo         ť is:3rd_person is:neuter is:past
 SFX T   ť           li         ť is:3rd_person is:plural is:past
 
-SFX R Y 399
-SFX R   rať         riem       [aeiou]rať
-SFX R   rať         rieš       [aeiou]rať
-SFX R   rať         rie        [aeiou]rať
-SFX R   rať         rieme      [aeiou]rať
-SFX R   rať         riete      [aeiou]rať
-SFX R   rať         rú         [aeiou]rať
-SFX R   rať         rúc        [aeiou]rať
-SFX R   rať         r          [aeiou]rať
-SFX R   rať         rme        [aeiou]rať
-SFX R   rať         rte        [aeiou]rať
-SFX R   rať         eriem      [^aeiou]rať
-SFX R   rať         erieš      [^aeiou]rať
-SFX R   rať         erie       [^aeiou]rať
-SFX R   rať         erieme     [^aeiou]rať
-SFX R   rať         eriete     [^aeiou]rať
-SFX R   rať         erú        [^aeiou]rať
-SFX R   rať         erúc       [^aeiou]rať
-SFX R   rať         er         [^aeiou]rať
-SFX R   rať         erme       [^aeiou]rať
-SFX R   rať         erte       [^aeiou]rať
-SFX R   ďať         dím        ďať
-SFX R   ďať         díš        ďať
-SFX R   ďať         dí         ďať
-SFX R   ďať         díme       ďať
-SFX R   ďať         díte       ďať
-SFX R   ďať         dia        ďať
-SFX R   ďať         diac       ďať
-SFX R   ďať         di         ďať
-SFX R   ďať         dime       ďať
-SFX R   ďať         dite       ďať
-SFX R   ňať         ním        ňať
-SFX R   ňať         níš        ňať
-SFX R   ňať         ní         ňať
-SFX R   ňať         níme       ňať
-SFX R   ňať         níte       ňať
-SFX R   ňať         nia        ňať
-SFX R   ňať         niac       ňať
-SFX R   ňať         ň          ňať
-SFX R   ňať         ňme        ňať
-SFX R   ňať         ňte        ňať
-SFX R   ťať         tím        ťať
-SFX R   ťať         tíš        ťať
-SFX R   ťať         tí         ťať
-SFX R   ťať         tíme       ťať
-SFX R   ťať         títe       ťať
-SFX R   ťať         tia        ťať
-SFX R   ťať         tiac       ťať
-SFX R   ťať         ti         ťať
-SFX R   ťať         time       ťať
-SFX R   ťať         tite       ťať
-SFX R   ať          ím         [^ďňrť]ať
-SFX R   ať          íš         [^ďňrť]ať
-SFX R   ať          í          [^ďňrť]ať
-SFX R   ať          íme        [^ďňrť]ať
-SFX R   ať          íte        [^ďňrť]ať
-SFX R   ať          ia         [^ďňrť]ať
-SFX R   ať          iac        [^ďňrť]ať
-SFX R   žať         ž          žať
-SFX R   ať          me         [^ďňrť]ať
-SFX R   ať          te         [^ďňrť]ať
-SFX R   ať          al         ať
-SFX R   ať          ala        ať
-SFX R   ať          alo        ať
-SFX R   ať          ali        ať
-SFX R   iecť        ečiem      iecť
-SFX R   iecť        ečieš      iecť
-SFX R   iecť        ečie       iecť
-SFX R   iecť        ečieme     iecť
-SFX R   iecť        ečiete     iecť
-SFX R   iecť        ečú        iecť
-SFX R   iecť        ečúc       iecť
-SFX R   iecť        eč         iecť
-SFX R   iecť        ečme       iecť
-SFX R   iecť        ečte       iecť
-SFX R   cť          kol        iecť
-SFX R   cť          kla        iecť
-SFX R   cť          klo        iecť
-SFX R   cť          kli        iecť
-SFX R   ĺcť         lčiem      ĺcť
-SFX R   ĺcť         lčieš      ĺcť
-SFX R   ĺcť         lčie       ĺcť
-SFX R   ĺcť         lčieme     ĺcť
-SFX R   ĺcť         lčiete     ĺcť
-SFX R   ĺcť         lčú        ĺcť
-SFX R   ĺcť         lčúc       ĺcť
-SFX R   ĺcť         lč         ĺcť
-SFX R   ĺcť         lčme       ĺcť
-SFX R   ĺcť         lčte       ĺcť
-SFX R   cť          kol        ĺcť
-SFX R   cť          kla        ĺcť
-SFX R   cť          klo        ĺcť
-SFX R   cť          kli        ĺcť
-SFX R   cť          žem        ôcť
-SFX R   cť          žeš        ôcť
-SFX R   cť          že         ôcť
-SFX R   cť          žme        ôcť
-SFX R   cť          žeme       ôcť
-SFX R   cť          žte        ôcť
-SFX R   cť          žete       ôcť
-SFX R   cť          žu         ôcť
-SFX R   ôcť         ohol       ôcť
-SFX R   ôcť         ohla       ôcť
-SFX R   ôcť         ohlo       ôcť
-SFX R   ôcť         ohli       ôcť
-SFX R   edieť       iem        edieť
-SFX R   edieť       ieš        edieť
-SFX R   edieť       ie         edieť
-SFX R   edieť       ieme       edieť
-SFX R   edieť       iete       edieť
-SFX R   edieť       edia       edieť
-SFX R   edieť       ediac      edieť
-SFX R   edieť       edz        edieť
-SFX R   edieť       edzme      edieť
-SFX R   edieť       edzte      edieť
-SFX R   edieť       edel       edieť
-SFX R   edieť       edela      edieť
-SFX R   edieť       edelo      edieť
-SFX R   edieť       edeli      edieť
-SFX R   lieť        eliem      mlieť
-SFX R   lieť        elieš      mlieť
-SFX R   lieť        elie       mlieť
-SFX R   lieť        elieme     mlieť
-SFX R   lieť        eliete     mlieť
-SFX R   lieť        elú        mlieť
-SFX R   lieť        elúc       mlieť
-SFX R   lieť        eľ         mlieť
-SFX R   lieť        eľme       mlieť
-SFX R   lieť        eľte       mlieť
-SFX R   ieť         i          [^m]lieť
-SFX R   ieť         ime        [^m]lieť
-SFX R   ieť         ite        [^m]lieť
-SFX R   ieť         me         [^dlnt]ieť
-SFX R   ieť         te         [^dlnt]ieť
-SFX R   nieť        ňme        nieť
-SFX R   dieť        ďme        dieť
-SFX R   tieť        ťme        tieť
-SFX R   nieť        ňte        nieť
-SFX R   dieť        ďte        dieť
-SFX R   tieť        ťte        tieť
-SFX R   ieť         ím         ieť
-SFX R   ieť         íš         ieť
-SFX R   ieť         í          ieť
-SFX R   ieť         íme        ieť
-SFX R   ieť         íte        ieť
-SFX R   ieť         ia         ieť
-SFX R   ieť         iac        ieť
-SFX R   ieť         el         ieť
-SFX R   ieť         ela        ieť
-SFX R   ieť         elo        ieť
-SFX R   ieť         eli        ieť
-SFX R   ásť         adiem      lásť
-SFX R   ásť         adieš      lásť
-SFX R   ásť         adie       lásť
-SFX R   ásť         adieme     lásť
-SFX R   ásť         adiete     lásť
-SFX R   ásť         adú        lásť
-SFX R   ásť         adúc       lásť
-SFX R   ásť         ď          lásť
-SFX R   ásť         aďme       lásť
-SFX R   ásť         aďte       lásť
-SFX R   sť          dol        lásť
-SFX R   sť          dla        lásť
-SFX R   sť          dlo        lásť
-SFX R   sť          dli        lásť
-SFX R   ásť         asiem      pásť
-SFX R   ásť         asieš      pásť
-SFX R   ásť         asie       pásť
-SFX R   ásť         asieme     pásť
-SFX R   ásť         asiete     pásť
-SFX R   ásť         asú        pásť
-SFX R   ásť         asúc       pásť
-SFX R   ásť         s          pásť
-SFX R   ásť         asme       pásť
-SFX R   ásť         aste       pásť
-SFX R   sť          sol        pásť
-SFX R   sť          sla        pásť
-SFX R   sť          slo        pásť
-SFX R   sť          sli        pásť
-SFX R   ásť         astiem     [^lp]ásť
-SFX R   ásť         astieš     [^lp]ásť
-SFX R   ásť         astie      [^lp]ásť
-SFX R   ásť         astieme    [^lp]ásť
-SFX R   ásť         astiete    [^lp]ásť
-SFX R   ásť         astú       [^lp]ásť
-SFX R   ásť         astúc      [^lp]ásť
-SFX R   ásť         asť        [^lp]ásť
-SFX R   ásť         asťme      [^lp]ásť
-SFX R   ásť         asťte      [^lp]ásť
-SFX R   ť           tol        [^lp]ásť
-SFX R   ť           tla        [^lp]ásť
-SFX R   ť           tlo        [^lp]ásť
-SFX R   ť           tli        [^lp]ásť
-SFX R   iasť        ätiem      miasť
-SFX R   iasť        ätieš      miasť
-SFX R   iasť        ätie       miasť
-SFX R   iasť        ätieme     miasť
-SFX R   iasť        ätiete     miasť
-SFX R   iasť        ätú        miasť
-SFX R   iasť        ätúc       miasť
-SFX R   iasť        äť         miasť
-SFX R   iasť        äťme       miasť
-SFX R   iasť        äťte       miasť
-SFX R   sť          tol        miasť
-SFX R   sť          tla        miasť
-SFX R   sť          tlo        miasť
-SFX R   sť          tli        miasť
-SFX R   iasť        adiem      priasť
-SFX R   iasť        adieš      priasť
-SFX R   iasť        adie       priasť
-SFX R   iasť        adieme     priasť
-SFX R   iasť        adiete     priasť
-SFX R   iasť        adú        priasť
-SFX R   iasť        adúc       priasť
-SFX R   iasť        aď         priasť
-SFX R   iasť        aďme       priasť
-SFX R   iasť        aďte       priasť
-SFX R   sť          dol        priasť
-SFX R   sť          dla        priasť
-SFX R   sť          dlo        priasť
-SFX R   sť          dli        priasť
-SFX R   iasť        asiem      triasť
-SFX R   iasť        asieš      triasť
-SFX R   iasť        asie       triasť
-SFX R   iasť        asieme     triasť
-SFX R   iasť        asiete     triasť
-SFX R   iasť        asú        triasť
-SFX R   iasť        asúc       triasť
-SFX R   iasť        as         triasť
-SFX R   iasť        asme       triasť
-SFX R   iasť        aste       triasť
-SFX R   sť          sol        triasť
-SFX R   sť          sla        triasť
-SFX R   sť          slo        triasť
-SFX R   sť          sli        triasť
-SFX R   iesť        esiem      niesť
-SFX R   iesť        esieš      niesť
-SFX R   iesť        esie       niesť
-SFX R   iesť        esieme     niesť
-SFX R   iesť        esiete     niesť
-SFX R   iesť        esú        niesť
-SFX R   iesť        esúc       niesť
-SFX R   iesť        es         niesť
-SFX R   iesť        esme       niesť
-SFX R   iesť        este       niesť
-SFX R   sť          sol        niesť
-SFX R   sť          sla        niesť
-SFX R   sť          slo        niesť
-SFX R   sť          sli        niesť
-SFX R   iesť        ediem      viesť
-SFX R   iesť        edieš      viesť
-SFX R   iesť        edie       viesť
-SFX R   iesť        edieme     viesť
-SFX R   iesť        ediete     viesť
-SFX R   iesť        edú        viesť
-SFX R   iesť        edúc       viesť
-SFX R   iesť        eď         viesť
-SFX R   iesť        eďme       viesť
-SFX R   iesť        eďte       viesť
-SFX R   sť          dol        viesť
-SFX R   sť          dla        viesť
-SFX R   sť          dlo        viesť
-SFX R   sť          dli        viesť
-SFX R   iesť        etiem      [^nv]iesť
-SFX R   iesť        etieš      [^nv]iesť
-SFX R   iesť        etie       [^nv]iesť
-SFX R   iesť        etieme     [^nv]iesť
-SFX R   iesť        etiete     [^nv]iesť
-SFX R   iesť        etú        [^nv]iesť
-SFX R   iesť        etúc       [^nv]iesť
-SFX R   iesť        eť         [^nv]iesť
-SFX R   iesť        eťme       [^nv]iesť
-SFX R   iesť        eťte       [^nv]iesť
-SFX R   sť          tol        [^nv]iesť
-SFX R   sť          tla        [^nv]iesť
-SFX R   sť          tlo        [^nv]iesť
-SFX R   sť          tli        [^nv]iesť
-SFX R   sť          m          [^i]esť
-SFX R   sť          š          [^i]esť
-SFX R   esť         e          [^i]esť
-SFX R   sť          me         [^i]esť
-SFX R   sť          te         [^i]esť
-SFX R   sť          dia        [^i]esť
-SFX R   sť          diac       [^i]esť
-SFX R   sť          dz         [^i]esť
-SFX R   sť          dzme       [^i]esť
-SFX R   sť          dzte       [^i]esť
-SFX R   sť          dol        [^i]esť
-SFX R   sť          dla        [^i]esť
-SFX R   sť          dlo        [^i]esť
-SFX R   sť          dli        [^i]esť
-SFX R   sť          dem        .[íj]sť
-SFX R   sť          deš        .[íj]sť
-SFX R   sť          de         .[íj]sť
-SFX R   sť          deme       .[íj]sť
-SFX R   sť          dete       .[íj]sť
-SFX R   sť          du         .[íj]sť
-SFX R   sť          dúc        .[íj]sť
-SFX R   sť          ď          .ísť
-SFX R   sť          ďme        .ísť
-SFX R   sť          ďte        .ísť
-SFX R   ísť         išiel      ísť
-SFX R   ísť         išla       ísť
-SFX R   ísť         išlo       ísť
-SFX R   ísť         išli       ísť
-SFX R   sť          di         ájsť
-SFX R   sť          dimme      ájsť
-SFX R   sť          dite       ájsť
-SFX R   ájsť        ašiel      ájsť
-SFX R   ájsť        ašla       ájsť
-SFX R   ájsť        ašlo       ájsť
-SFX R   ájsť        ašli       ájsť
-SFX R   ôjsť        ošiel      ôjsť
-SFX R   ôjsť        ošla       ôjsť
-SFX R   ôjsť        ošlo       ôjsť
-SFX R   ôjsť        ošli       ôjsť
-SFX R   jsť         šiel       jsť
-SFX R   jsť         šla        jsť
-SFX R   jsť         šlo        jsť
-SFX R   jsť         šli        jsť
-SFX R   úsť         udiem      úsť
-SFX R   úsť         udieš      úsť
-SFX R   úsť         udie       úsť
-SFX R   úsť         udieme     úsť
-SFX R   úsť         udiete     úsť
-SFX R   úsť         udú        úsť
-SFX R   úsť         udúc       úsť
-SFX R   úsť         uď         úsť
-SFX R   úsť         uďme       úsť
-SFX R   úsť         uďte       úsť
-SFX R   sť          dol        úsť
-SFX R   sť          dla        úsť
-SFX R   sť          dlo        úsť
-SFX R   sť          dli        úsť
-SFX R   núť         niem       núť
-SFX R   núť         nieš       núť
-SFX R   núť         nie        núť
-SFX R   núť         nieme      núť
-SFX R   núť         niete      núť
-SFX R   núť         nú         núť
-SFX R   núť         núc        núť
-SFX R   núť         ň          núť
-SFX R   núť         ňme        núť
-SFX R   núť         ňte        núť
-SFX R   núť         nul        núť
-SFX R   núť         nula       núť
-SFX R   núť         nulo       núť
-SFX R   núť         nuli       núť
-SFX R   iezť        ežiem      riezť
-SFX R   iezť        ežieš      riezť
-SFX R   iezť        ežie       riezť
-SFX R   iezť        ežieme     riezť
-SFX R   iezť        ežiete     riezť
-SFX R   iezť        ežú        riezť
-SFX R   iezť        ežúc       riezť
-SFX R   iezť        ež         riezť
-SFX R   iezť        ežme       riezť
-SFX R   iezť        ežte       riezť
-SFX R   iezť        eziem      [^r]iezť
-SFX R   iezť        ezieš      [^r]iezť
-SFX R   iezť        ezie       [^r]iezť
-SFX R   iezť        ezieme     [^r]iezť
-SFX R   iezť        eziete     [^r]iezť
-SFX R   iezť        ezú        [^r]iezť
-SFX R   iezť        ezúc       [^r]iezť
-SFX R   iezť        ez         [^r]iezť
-SFX R   iezť        ezme       [^r]iezť
-SFX R   iezť        ezte       [^r]iezť
-SFX R   ť           ol         [^r]iezť
-SFX R   ť           la         [^r]iezť
-SFX R   ť           lo         [^r]iezť
-SFX R   ť           li         [^r]iezť
-SFX R   ť           ol         [^i]ezť
-SFX R   ť           la         [^i]ezť
-SFX R   ť           lo         [^i]ezť
-SFX R   ť           li         [^i]ezť
-SFX R   ť           iem        [^eý]zť
-SFX R   ť           ieš        [^eý]zť
-SFX R   ť           ie         [^eý]zť
-SFX R   ť           ieme       [^eý]zť
-SFX R   ť           iete       [^eý]zť
-SFX R   ť           ú          [^eý]zť
-SFX R   ť           úc         [^eý]zť
-SFX R   zť          z          [^eý]zť
-SFX R   ť           me         [^eý]zť
-SFX R   ť           te         [^eý]zť
-SFX R   ť           ol         [^e]zť
-SFX R   ť           la         [^e]zť
-SFX R   ť           lo         [^e]zť
-SFX R   ť           li         [^e]zť
-SFX R   ýzť         yziem      ýzť
-SFX R   ýzť         yzieš      ýzť
-SFX R   ýzť         yzie       ýzť
-SFX R   ýzť         yzieme     ýzť
-SFX R   ýzť         yziete     ýzť
-SFX R   ýzť         yzú        ýzť
-SFX R   ýzť         yzúc       ýzť
-SFX R   ýzť         yz         ýzť
-SFX R   ýzť         yzme       ýzť
-SFX R   ýzť         yzte       ýzť
+SFX R Y 449
+SFX R   rať         riem       [aeiou]rať is:1st_person
+SFX R   rať         rieš       [aeiou]rať is:2nd_person
+SFX R   rať         rie        [aeiou]rať is:3rd_person
+SFX R   rať         rieme      [aeiou]rať is:1st_person is:plural
+SFX R   rať         riete      [aeiou]rať is:2nd_person is:plural
+SFX R   rať         rú         [aeiou]rať is:3rd_person is:plural
+SFX R   rať         rúc        [aeiou]rať is:participle
+SFX R   rať         r          [aeiou]rať is:2nd_person is:imperative
+SFX R   rať         rme        [aeiou]rať is:1st_person is:plural is:imperative
+SFX R   rať         rte        [aeiou]rať is:2nd_person is:plural is:imperative
+SFX R   rať         eriem      [^aeiou]rať is:1st_person
+SFX R   rať         erieš      [^aeiou]rať is:2nd_person
+SFX R   rať         erie       [^aeiou]rať is:3rd_person
+SFX R   rať         erieme     [^aeiou]rať is:1st_person is:plural
+SFX R   rať         eriete     [^aeiou]rať is:2nd_person is:plural
+SFX R   rať         erú        [^aeiou]rať is:3rd_person is:plural
+SFX R   rať         erúc       [^aeiou]rať is:participle
+SFX R   rať         er         [^aeiou]rať is:2nd_person is:imperative
+SFX R   rať         erme       [^aeiou]rať is:1st_person is:plural is:imperative
+SFX R   rať         erte       [^aeiou]rať is:2nd_person is:plural is:imperative
+SFX R   ďať         dím        ďať is:1st_person
+SFX R   ďať         díš        ďať is:2nd_person
+SFX R   ďať         dí         ďať is:3rd_person
+SFX R   ďať         díme       ďať is:1st_person is:plural
+SFX R   ďať         díte       ďať is:2nd_person is:plural
+SFX R   ďať         dia        ďať is:3rd_person is:plural
+SFX R   ďať         diac       ďať is:participle
+SFX R   ďať         di         ďať is:2nd_person is:imperative
+SFX R   ďať         dime       ďať is:1st_person is:plural is:imperative
+SFX R   ďať         dite       ďať is:2nd_person is:plural is:imperative
+SFX R   ňať         ním        ňať is:1st_person
+SFX R   ňať         níš        ňať is:2nd_person
+SFX R   ňať         ní         ňať is:3rd_person
+SFX R   ňať         níme       ňať is:1st_person is:plural
+SFX R   ňať         níte       ňať is:2nd_person is:plural
+SFX R   ňať         nia        ňať is:3rd_person is:plural
+SFX R   ňať         niac       ňať is:participle
+SFX R   ňať         ň          ňať is:2nd_person is:imperative
+SFX R   ňať         ňme        ňať is:1st_person is:plural is:imperative
+SFX R   ňať         ňte        ňať is:2nd_person is:plural is:imperative
+SFX R   ťať         tím        ťať is:1st_person
+SFX R   ťať         tíš        ťať is:2nd_person
+SFX R   ťať         tí         ťať is:3rd_person
+SFX R   ťať         tíme       ťať is:1st_person is:plural
+SFX R   ťať         títe       ťať is:2nd_person is:plural
+SFX R   ťať         tia        ťať is:3rd_person is:plural
+SFX R   ťať         tiac       ťať is:participle
+SFX R   ťať         ti         ťať is:2nd_person is:imperative
+SFX R   ťať         time       ťať is:1st_person is:plural is:imperative
+SFX R   ťať         tite       ťať is:2nd_person is:plural is:imperative
+SFX R   ať          ím         [^ďňrť]ať is:1st_person
+SFX R   ať          íš         [^ďňrť]ať is:2nd_person
+SFX R   ať          í          [^ďňrť]ať is:3rd_person
+SFX R   ať          íme        [^ďňrť]ať is:1st_person is:plural
+SFX R   ať          íte        [^ďňrť]ať is:2nd_person is:plural
+SFX R   ať          ia         [^ďňrť]ať is:3rd_person is:plural
+SFX R   ať          iac        [^ďňrť]ať is:participle
+SFX R   žať         ž          žať is:2nd_person is:imperative
+SFX R   ať          me         [^ďňrť]ať is:1st_person is:plural is:imperative
+SFX R   ať          te         [^ďňrť]ať is:2nd_person is:plural is:imperative
+SFX R   ať          al         ať is:1st_person is:past
+SFX R   ať          al         ať is:2nd_person is:past
+SFX R   ať          al         ať is:3rd_person is:masculine is:past
+SFX R   ať          ala        ať is:3rd_person is:feminine is:past
+SFX R   ať          alo        ať is:3rd_person is:neuter is:past
+SFX R   ať          ali        ať is:3rd_person is:plural is:past
+SFX R   iecť        ečiem      iecť is:1st_person
+SFX R   iecť        ečieš      iecť is:2nd_person
+SFX R   iecť        ečie       iecť is:3rd_person
+SFX R   iecť        ečieme     iecť is:1st_person is:plural
+SFX R   iecť        ečiete     iecť is:2nd_person is:plural
+SFX R   iecť        ečú        iecť is:3rd_person is:plural
+SFX R   iecť        ečúc       iecť is:participle
+SFX R   iecť        eč         iecť is:2nd_person is:imperative
+SFX R   iecť        ečme       iecť is:1st_person is:plural is:imperative
+SFX R   iecť        ečte       iecť is:2nd_person is:plural is:imperative
+SFX R   cť          kol        iecť is:1st_person is:past
+SFX R   cť          kol        iecť is:2nd_person is:past
+SFX R   cť          kol        iecť is:3rd_person is:masculine is:past
+SFX R   cť          kla        iecť is:3rd_person is:feminine is:past
+SFX R   cť          klo        iecť is:3rd_person is:neuter is:past
+SFX R   cť          kli        iecť is:3rd_person is:plural is:past
+SFX R   ĺcť         lčiem      ĺcť is:1st_person
+SFX R   ĺcť         lčieš      ĺcť is:2nd_person
+SFX R   ĺcť         lčie       ĺcť is:3rd_person
+SFX R   ĺcť         lčieme     ĺcť is:1st_person is:plural
+SFX R   ĺcť         lčiete     ĺcť is:2nd_person is:plural
+SFX R   ĺcť         lčú        ĺcť is:3rd_person is:plural
+SFX R   ĺcť         lčúc       ĺcť is:participle
+SFX R   ĺcť         lč         ĺcť is:2nd_person is:imperative
+SFX R   ĺcť         lčme       ĺcť is:1st_person is:plural is:imperative
+SFX R   ĺcť         lčte       ĺcť is:2nd_person is:plural is:imperative
+SFX R   cť          kol        ĺcť is:1st_person is:past
+SFX R   cť          kol        ĺcť is:2nd_person is:past
+SFX R   cť          kol        ĺcť is:3rd_person is:masculine is:past
+SFX R   cť          kla        ĺcť is:3rd_person is:feminine is:past
+SFX R   cť          klo        ĺcť is:3rd_person is:neuter is:past
+SFX R   cť          kli        ĺcť is:3rd_person is:plural is:past
+SFX R   cť          žem        ôcť is:1st_person
+SFX R   cť          žeš        ôcť is:2nd_person
+SFX R   cť          že         ôcť is:3rd_person
+SFX R   cť          žme        ôcť is:1st_person is:plural
+SFX R   cť          žeme       ôcť is:1st_person is:plural
+SFX R   cť          žte        ôcť is:2nd_person is:plural
+SFX R   cť          žete       ôcť is:2nd_person is:plural
+SFX R   cť          žu         ôcť is:3rd_person is:plural
+SFX R   ôcť         ohol       ôcť is:1st_person is:past
+SFX R   ôcť         ohol       ôcť is:2nd_person is:past
+SFX R   ôcť         ohol       ôcť is:3rd_person is:masculine is:past
+SFX R   ôcť         ohla       ôcť is:3rd_person is:feminine is:past
+SFX R   ôcť         ohlo       ôcť is:3rd_person is:neuter is:past
+SFX R   ôcť         ohli       ôcť is:3rd_person is:plural is:past
+SFX R   edieť       iem        edieť is:1st_person
+SFX R   edieť       ieš        edieť is:2nd_person
+SFX R   edieť       ie         edieť is:3rd_person
+SFX R   edieť       ieme       edieť is:1st_person is:plural
+SFX R   edieť       iete       edieť is:2nd_person is:plural
+SFX R   edieť       edia       edieť is:3rd_person is:plural
+SFX R   edieť       ediac      edieť is:participle
+SFX R   edieť       edz        edieť is:2nd_person is:imperative
+SFX R   edieť       edzme      edieť is:1st_person is:plural is:imperative
+SFX R   edieť       edzte      edieť is:2nd_person is:plural is:imperative
+SFX R   edieť       edel       edieť is:1st_person is:past
+SFX R   edieť       edel       edieť is:2nd_person is:past
+SFX R   edieť       edel       edieť is:3rd_person is:masculine is:past
+SFX R   edieť       edela      edieť is:3rd_person is:feminine is:past
+SFX R   edieť       edelo      edieť is:3rd_person is:neuter is:past
+SFX R   edieť       edeli      edieť is:3rd_person is:plural is:past
+SFX R   lieť        eliem      mlieť is:1st_person
+SFX R   lieť        elieš      mlieť is:2nd_person
+SFX R   lieť        elie       mlieť is:3rd_person
+SFX R   lieť        elieme     mlieť is:1st_person is:plural
+SFX R   lieť        eliete     mlieť is:2nd_person is:plural
+SFX R   lieť        elú        mlieť is:3rd_person is:plural
+SFX R   lieť        elúc       mlieť is:participle
+SFX R   lieť        eľ         mlieť is:2nd_person is:imperative
+SFX R   lieť        eľme       mlieť is:1st_person is:plural is:imperative
+SFX R   lieť        eľte       mlieť is:2nd_person is:plural is:imperative
+SFX R   ieť         i          [^m]lieť is:2nd_person is:imperative
+SFX R   ieť         ime        [^m]lieť is:1st_person is:plural is:imperative
+SFX R   ieť         ite        [^m]lieť is:2nd_person is:plural is:imperative
+SFX R   ieť         me         [^dlnt]ieť is:1st_person is:plural is:imperative
+SFX R   ieť         te         [^dlnt]ieť is:2nd_person is:plural is:imperative
+SFX R   nieť        ňme        nieť is:1st_person is:plural is:imperative
+SFX R   dieť        ďme        dieť is:1st_person is:plural is:imperative
+SFX R   tieť        ťme        tieť is:1st_person is:plural is:imperative
+SFX R   nieť        ňte        nieť is:2nd_person is:plural is:imperative
+SFX R   dieť        ďte        dieť is:2nd_person is:plural is:imperative
+SFX R   tieť        ťte        tieť is:2nd_person is:plural is:imperative
+SFX R   ieť         ím         ieť is:1st_person
+SFX R   ieť         íš         ieť is:2nd_person
+SFX R   ieť         í          ieť is:3rd_person
+SFX R   ieť         íme        ieť is:1st_person is:plural
+SFX R   ieť         íte        ieť is:2nd_person is:plural
+SFX R   ieť         ia         ieť is:3rd_person is:plural
+SFX R   ieť         iac        ieť is:participle
+SFX R   ieť         el         ieť is:1st_person is:past
+SFX R   ieť         el         ieť is:2nd_person is:past
+SFX R   ieť         el         ieť is:3rd_person is:masculine is:past
+SFX R   ieť         ela        ieť is:3rd_person is:feminine is:past
+SFX R   ieť         elo        ieť is:3rd_person is:neuter is:past
+SFX R   ieť         eli        ieť is:3rd_person is:plural is:past
+SFX R   ásť         adiem      lásť is:1st_person
+SFX R   ásť         adieš      lásť is:2nd_person
+SFX R   ásť         adie       lásť is:3rd_person
+SFX R   ásť         adieme     lásť is:1st_person is:plural
+SFX R   ásť         adiete     lásť is:2nd_person is:plural
+SFX R   ásť         adú        lásť is:3rd_person is:plural
+SFX R   ásť         adúc       lásť is:participle
+SFX R   ásť         ď          lásť is:2nd_person is:imperative
+SFX R   ásť         aďme       lásť is:1st_person is:plural is:imperative
+SFX R   ásť         aďte       lásť is:2nd_person is:plural is:imperative
+SFX R   sť          dol        lásť is:1st_person is:past
+SFX R   sť          dol        lásť is:2nd_person is:past
+SFX R   sť          dol        lásť is:3rd_person is:masculine is:past
+SFX R   sť          dla        lásť is:3rd_person is:feminine is:past
+SFX R   sť          dlo        lásť is:3rd_person is:neuter is:past
+SFX R   sť          dli        lásť is:3rd_person is:plural is:past
+SFX R   ásť         asiem      pásť is:1st_person
+SFX R   ásť         asieš      pásť is:2nd_person
+SFX R   ásť         asie       pásť is:3rd_person
+SFX R   ásť         asieme     pásť is:1st_person is:plural
+SFX R   ásť         asiete     pásť is:2nd_person is:plural
+SFX R   ásť         asú        pásť is:3rd_person is:plural
+SFX R   ásť         asúc       pásť is:participle
+SFX R   ásť         s          pásť is:2nd_person is:imperative
+SFX R   ásť         asme       pásť is:1st_person is:plural is:imperative
+SFX R   ásť         aste       pásť is:2nd_person is:plural is:imperative
+SFX R   sť          sol        pásť is:1st_person is:past
+SFX R   sť          sol        pásť is:2nd_person is:past
+SFX R   sť          sol        pásť is:3rd_person is:masculine is:past
+SFX R   sť          sla        pásť is:3rd_person is:feminine is:past
+SFX R   sť          slo        pásť is:3rd_person is:neuter is:past
+SFX R   sť          sli        pásť is:3rd_person is:plural is:past
+SFX R   ásť         astiem     [^lp]ásť is:1st_person
+SFX R   ásť         astieš     [^lp]ásť is:2nd_person
+SFX R   ásť         astie      [^lp]ásť is:3rd_person
+SFX R   ásť         astieme    [^lp]ásť is:1st_person is:plural
+SFX R   ásť         astiete    [^lp]ásť is:2nd_person is:plural
+SFX R   ásť         astú       [^lp]ásť is:3rd_person is:plural
+SFX R   ásť         astúc      [^lp]ásť is:participle
+SFX R   ásť         asť        [^lp]ásť is:2nd_person is:imperative
+SFX R   ásť         asťme      [^lp]ásť is:1st_person is:plural is:imperative
+SFX R   ásť         asťte      [^lp]ásť is:2nd_person is:plural is:imperative
+SFX R   ť           tol        [^lp]ásť is:1st_person is:past
+SFX R   ť           tol        [^lp]ásť is:2nd_person is:past
+SFX R   ť           tol        [^lp]ásť is:3rd_person is:masculine is:past
+SFX R   ť           tla        [^lp]ásť is:3rd_person is:feminine is:past
+SFX R   ť           tlo        [^lp]ásť is:3rd_person is:neuter is:past
+SFX R   ť           tli        [^lp]ásť is:3rd_person is:plural is:past
+SFX R   iasť        ätiem      miasť is:1st_person
+SFX R   iasť        ätieš      miasť is:2nd_person
+SFX R   iasť        ätie       miasť is:3rd_person
+SFX R   iasť        ätieme     miasť is:1st_person is:plural
+SFX R   iasť        ätiete     miasť is:2nd_person is:plural
+SFX R   iasť        ätú        miasť is:3rd_person is:plural
+SFX R   iasť        ätúc       miasť is:participle
+SFX R   iasť        äť         miasť is:2nd_person is:imperative
+SFX R   iasť        äťme       miasť is:1st_person is:plural is:imperative
+SFX R   iasť        äťte       miasť is:2nd_person is:plural is:imperative
+SFX R   sť          tol        miasť is:1st_person is:past
+SFX R   sť          tol        miasť is:2nd_person is:past
+SFX R   sť          tol        miasť is:3rd_person is:masculine is:past
+SFX R   sť          tla        miasť is:3rd_person is:feminine is:past
+SFX R   sť          tlo        miasť is:3rd_person is:neuter is:past
+SFX R   sť          tli        miasť is:3rd_person is:plural is:past
+SFX R   iasť        adiem      priasť is:1st_person
+SFX R   iasť        adieš      priasť is:2nd_person
+SFX R   iasť        adie       priasť is:3rd_person
+SFX R   iasť        adieme     priasť is:1st_person is:plural
+SFX R   iasť        adiete     priasť is:2nd_person is:plural
+SFX R   iasť        adú        priasť is:3rd_person is:plural
+SFX R   iasť        adúc       priasť is:participle
+SFX R   iasť        aď         priasť is:2nd_person is:imperative
+SFX R   iasť        aďme       priasť is:1st_person is:plural is:imperative
+SFX R   iasť        aďte       priasť is:2nd_person is:plural is:imperative
+SFX R   sť          dol        priasť is:1st_person is:past
+SFX R   sť          dol        priasť is:2nd_person is:past
+SFX R   sť          dol        priasť is:3rd_person is:masculine is:past
+SFX R   sť          dla        priasť is:3rd_person is:feminine is:past
+SFX R   sť          dlo        priasť is:3rd_person is:neuter is:past
+SFX R   sť          dli        priasť is:3rd_person is:plural is:past
+SFX R   iasť        asiem      triasť is:1st_person
+SFX R   iasť        asieš      triasť is:2nd_person
+SFX R   iasť        asie       triasť is:3rd_person
+SFX R   iasť        asieme     triasť is:1st_person is:plural
+SFX R   iasť        asiete     triasť is:2nd_person is:plural
+SFX R   iasť        asú        triasť is:3rd_person is:plural
+SFX R   iasť        asúc       triasť is:participle
+SFX R   iasť        as         triasť is:2nd_person is:imperative
+SFX R   iasť        asme       triasť is:1st_person is:plural is:imperative
+SFX R   iasť        aste       triasť is:2nd_person is:plural is:imperative
+SFX R   sť          sol        triasť is:1st_person is:past
+SFX R   sť          sol        triasť is:2nd_person is:past
+SFX R   sť          sol        triasť is:3rd_person is:masculine is:past
+SFX R   sť          sla        triasť is:3rd_person is:feminine is:past
+SFX R   sť          slo        triasť is:3rd_person is:neuter is:past
+SFX R   sť          sli        triasť is:3rd_person is:plural is:past
+SFX R   iesť        esiem      niesť is:1st_person
+SFX R   iesť        esieš      niesť is:2nd_person
+SFX R   iesť        esie       niesť is:3rd_person
+SFX R   iesť        esieme     niesť is:1st_person is:plural
+SFX R   iesť        esiete     niesť is:2nd_person is:plural
+SFX R   iesť        esú        niesť is:3rd_person is:plural
+SFX R   iesť        esúc       niesť is:participle
+SFX R   iesť        es         niesť is:2nd_person is:imperative
+SFX R   iesť        esme       niesť is:1st_person is:plural is:imperative
+SFX R   iesť        este       niesť is:2nd_person is:plural is:imperative
+SFX R   sť          sol        niesť is:1st_person is:past
+SFX R   sť          sol        niesť is:2nd_person is:past
+SFX R   sť          sol        niesť is:3rd_person is:masculine is:past
+SFX R   sť          sla        niesť is:3rd_person is:feminine is:past
+SFX R   sť          slo        niesť is:3rd_person is:neuter is:past
+SFX R   sť          sli        niesť is:3rd_person is:plural is:past
+SFX R   iesť        ediem      viesť is:1st_person
+SFX R   iesť        edieš      viesť is:2nd_person
+SFX R   iesť        edie       viesť is:3rd_person
+SFX R   iesť        edieme     viesť is:1st_person is:plural
+SFX R   iesť        ediete     viesť is:2nd_person is:plural
+SFX R   iesť        edú        viesť is:3rd_person is:plural
+SFX R   iesť        edúc       viesť is:participle
+SFX R   iesť        eď         viesť is:2nd_person is:imperative
+SFX R   iesť        eďme       viesť is:1st_person is:plural is:imperative
+SFX R   iesť        eďte       viesť is:2nd_person is:plural is:imperative
+SFX R   sť          dol        viesť is:1st_person is:past
+SFX R   sť          dol        viesť is:2nd_person is:past
+SFX R   sť          dol        viesť is:3rd_person is:masculine is:past
+SFX R   sť          dla        viesť is:3rd_person is:feminine is:past
+SFX R   sť          dlo        viesť is:3rd_person is:neuter is:past
+SFX R   sť          dli        viesť is:3rd_person is:plural is:past
+SFX R   iesť        etiem      [^nv]iesť is:1st_person
+SFX R   iesť        etieš      [^nv]iesť is:2nd_person
+SFX R   iesť        etie       [^nv]iesť is:3rd_person
+SFX R   iesť        etieme     [^nv]iesť is:1st_person is:plural
+SFX R   iesť        etiete     [^nv]iesť is:2nd_person is:plural
+SFX R   iesť        etú        [^nv]iesť is:3rd_person is:plural
+SFX R   iesť        etúc       [^nv]iesť is:participle
+SFX R   iesť        eť         [^nv]iesť is:2nd_person is:imperative
+SFX R   iesť        eťme       [^nv]iesť is:1st_person is:plural is:imperative
+SFX R   iesť        eťte       [^nv]iesť is:2nd_person is:plural is:imperative
+SFX R   sť          tol        [^nv]iesť is:1st_person is:past
+SFX R   sť          tol        [^nv]iesť is:2nd_person is:past
+SFX R   sť          tol        [^nv]iesť is:3rd_person is:masculine is:past
+SFX R   sť          tla        [^nv]iesť is:3rd_person is:feminine is:past
+SFX R   sť          tlo        [^nv]iesť is:3rd_person is:neuter is:past
+SFX R   sť          tli        [^nv]iesť is:3rd_person is:plural is:past
+SFX R   sť          m          [^i]esť is:1st_person
+SFX R   sť          š          [^i]esť is:2nd_person
+SFX R   esť         e          [^i]esť is:3rd_person
+SFX R   sť          me         [^i]esť is:1st_person is:plural
+SFX R   sť          te         [^i]esť is:2nd_person is:plural
+SFX R   sť          dia        [^i]esť is:3rd_person is:plural
+SFX R   sť          diac       [^i]esť is:participle
+SFX R   sť          dz         [^i]esť is:2nd_person is:imperative
+SFX R   sť          dzme       [^i]esť is:1st_person is:plural is:imperative
+SFX R   sť          dzte       [^i]esť is:2nd_person is:plural is:imperative
+SFX R   sť          dol        [^i]esť is:1st_person is:past
+SFX R   sť          dol        [^i]esť is:2nd_person is:past
+SFX R   sť          dol        [^i]esť is:3rd_person is:masculine is:past
+SFX R   sť          dla        [^i]esť is:3rd_person is:feminine is:past
+SFX R   sť          dlo        [^i]esť is:3rd_person is:neuter is:past
+SFX R   sť          dli        [^i]esť is:3rd_person is:plural is:past
+SFX R   sť          dem        .[íj]sť is:1st_person
+SFX R   sť          deš        .[íj]sť is:2nd_person
+SFX R   sť          de         .[íj]sť is:3rd_person
+SFX R   sť          deme       .[íj]sť is:1st_person is:plural
+SFX R   sť          dete       .[íj]sť is:2nd_person is:plural
+SFX R   sť          du         .[íj]sť is:3rd_person is:plural
+SFX R   sť          dúc        .[íj]sť is:participle
+SFX R   sť          ď          .ísť is:2nd_person is:imperative
+SFX R   sť          ďme        .ísť is:1st_person is:plural is:imperative
+SFX R   sť          ďte        .ísť is:2nd_person is:plural is:imperative
+SFX R   ísť         išiel      ísť is:1st_person is:past
+SFX R   ísť         išiel      ísť is:2nd_person is:past
+SFX R   ísť         išiel      ísť is:3rd_person is:masculine is:past
+SFX R   ísť         išla       ísť is:3rd_person is:feminine is:past
+SFX R   ísť         išlo       ísť is:3rd_person is:neuter is:past
+SFX R   ísť         išli       ísť is:3rd_person is:plural is:past
+SFX R   sť          di         ájsť is:2nd_person is:imperative
+SFX R   sť          dime       ájsť is:1st_person is:plural is:imperative
+SFX R   sť          dite       ájsť is:2nd_person is:plural is:imperative
+SFX R   ájsť        ašiel      ájsť is:1st_person is:past
+SFX R   ájsť        ašiel      ájsť is:2nd_person is:past
+SFX R   ájsť        ašiel      ájsť is:3rd_person is:masculine is:past
+SFX R   ájsť        ašla       ájsť is:3rd_person is:feminine is:past
+SFX R   ájsť        ašlo       ájsť is:3rd_person is:neuter is:past
+SFX R   ájsť        ašli       ájsť is:3rd_person is:plural is:past
+SFX R   ôjsť        ošiel      ôjsť is:1st_person is:past
+SFX R   ôjsť        ošiel      ôjsť is:2nd_person is:past
+SFX R   ôjsť        ošiel      ôjsť is:3rd_person is:masculine is:past
+SFX R   ôjsť        ošla       ôjsť is:3rd_person is:feminine is:past
+SFX R   ôjsť        ošlo       ôjsť is:3rd_person is:neuter is:past
+SFX R   ôjsť        ošli       ôjsť is:3rd_person is:plural is:past
+SFX R   jsť         šiel       jsť is:1st_person is:past
+SFX R   jsť         šiel       jsť is:2nd_person is:past
+SFX R   jsť         šiel       jsť is:3rd_person is:masculine is:past
+SFX R   jsť         šla        jsť is:3rd_person is:feminine is:past
+SFX R   jsť         šlo        jsť is:3rd_person is:neuter is:past
+SFX R   jsť         šli        jsť is:3rd_person is:plural is:past
+SFX R   úsť         udiem      úsť is:1st_person
+SFX R   úsť         udieš      úsť is:2nd_person
+SFX R   úsť         udie       úsť is:3rd_person
+SFX R   úsť         udieme     úsť is:1st_person is:plural
+SFX R   úsť         udiete     úsť is:2nd_person is:plural
+SFX R   úsť         udú        úsť is:3rd_person is:plural
+SFX R   úsť         udúc       úsť is:participle
+SFX R   úsť         uď         úsť is:2nd_person is:imperative
+SFX R   úsť         uďme       úsť is:1st_person is:plural is:imperative
+SFX R   úsť         uďte       úsť is:2nd_person is:plural is:imperative
+SFX R   sť          dol        úsť is:1st_person is:past
+SFX R   sť          dol        úsť is:2nd_person is:past
+SFX R   sť          dol        úsť is:3rd_person is:masculine is:past
+SFX R   sť          dla        úsť is:3rd_person is:feminine is:past
+SFX R   sť          dlo        úsť is:3rd_person is:neuter is:past
+SFX R   sť          dli        úsť is:3rd_person is:plural is:past
+SFX R   núť         niem       núť is:1st_person
+SFX R   núť         nieš       núť is:2nd_person
+SFX R   núť         nie        núť is:3rd_person
+SFX R   núť         nieme      núť is:1st_person is:plural
+SFX R   núť         niete      núť is:2nd_person is:plural
+SFX R   núť         nú         núť is:3rd_person is:plural
+SFX R   núť         núc        núť is:participle
+SFX R   núť         ň          núť is:2nd_person is:imperative
+SFX R   núť         ňme        núť is:1st_person is:plural is:imperative
+SFX R   núť         ňte        núť is:2nd_person is:plural is:imperative
+SFX R   núť         nul        núť is:1st_person is:past
+SFX R   núť         nul        núť is:2nd_person is:past
+SFX R   núť         nul        núť is:3rd_person is:masculine is:past
+SFX R   núť         nula       núť is:3rd_person is:feminine is:past
+SFX R   núť         nulo       núť is:3rd_person is:neuter is:past
+SFX R   núť         nuli       núť is:3rd_person is:plural is:past
+SFX R   iezť        ežiem      riezť is:1st_person
+SFX R   iezť        ežieš      riezť is:2nd_person
+SFX R   iezť        ežie       riezť is:3rd_person
+SFX R   iezť        ežieme     riezť is:1st_person is:plural
+SFX R   iezť        ežiete     riezť is:2nd_person is:plural
+SFX R   iezť        ežú        riezť is:3rd_person is:plural
+SFX R   iezť        ežúc       riezť is:participle
+SFX R   iezť        ež         riezť is:2nd_person is:imperative
+SFX R   iezť        ežme       riezť is:1st_person is:plural is:imperative
+SFX R   iezť        ežte       riezť is:2nd_person is:plural is:imperative
+SFX R   iezť        eziem      [^r]iezť is:1st_person
+SFX R   iezť        ezieš      [^r]iezť is:2nd_person
+SFX R   iezť        ezie       [^r]iezť is:3rd_person
+SFX R   iezť        ezieme     [^r]iezť is:1st_person is:plural
+SFX R   iezť        eziete     [^r]iezť is:2nd_person is:plural
+SFX R   iezť        ezú        [^r]iezť is:3rd_person is:plural
+SFX R   iezť        ezúc       [^r]iezť is:participle
+SFX R   iezť        ez         [^r]iezť is:2nd_person is:imperative
+SFX R   iezť        ezme       [^r]iezť is:1st_person is:plural is:imperative
+SFX R   iezť        ezte       [^r]iezť is:2nd_person is:plural is:imperative
+SFX R   ť           ol         [^r]iezť is:1st_person is:past
+SFX R   ť           ol         [^r]iezť is:2nd_person is:past
+SFX R   ť           ol         [^r]iezť is:3rd_person is:masculine is:past
+SFX R   ť           la         [^r]iezť is:3rd_person is:feminine is:past
+SFX R   ť           lo         [^r]iezť is:3rd_person is:neuter is:past
+SFX R   ť           li         [^r]iezť is:3rd_person is:plural is:past
+SFX R   ť           ol         [^i]ezť is:1st_person is:past
+SFX R   ť           ol         [^i]ezť is:2nd_person is:past
+SFX R   ť           ol         [^i]ezť is:3rd_person is:masculine is:past
+SFX R   ť           la         [^i]ezť is:3rd_person is:feminine is:past
+SFX R   ť           lo         [^i]ezť is:3rd_person is:neuter is:past
+SFX R   ť           li         [^i]ezť is:3rd_person is:plural is:past
+SFX R   ť           iem        [^eý]zť is:1st_person
+SFX R   ť           ieš        [^eý]zť is:2nd_person
+SFX R   ť           ie         [^eý]zť is:3rd_person
+SFX R   ť           ieme       [^eý]zť is:1st_person is:plural
+SFX R   ť           iete       [^eý]zť is:2nd_person is:plural
+SFX R   ť           ú          [^eý]zť is:3rd_person is:plural
+SFX R   ť           úc         [^eý]zť is:participle
+SFX R   zť          z          [^eý]zť is:2nd_person is:imperative
+SFX R   ť           me         [^eý]zť is:1st_person is:plural is:imperative
+SFX R   ť           te         [^eý]zť is:2nd_person is:plural is:imperative
+SFX R   ť           ol         [^e]zť is:1st_person is:past
+SFX R   ť           ol         [^e]zť is:2nd_person is:past
+SFX R   ť           ol         [^e]zť is:3rd_person is:masculine is:past
+SFX R   ť           la         [^e]zť is:3rd_person is:feminine is:past
+SFX R   ť           lo         [^e]zť is:3rd_person is:neuter is:past
+SFX R   ť           li         [^e]zť is:3rd_person is:plural is:past
+SFX R   ýzť         yziem      ýzť is:1st_person
+SFX R   ýzť         yzieš      ýzť is:2nd_person
+SFX R   ýzť         yzie       ýzť is:3rd_person
+SFX R   ýzť         yzieme     ýzť is:1st_person is:plural
+SFX R   ýzť         yziete     ýzť is:2nd_person is:plural
+SFX R   ýzť         yzú        ýzť is:3rd_person is:plural
+SFX R   ýzť         yzúc       ýzť is:participle
+SFX R   ýzť         yz         ýzť is:2nd_person is:imperative
+SFX R   ýzť         yzme       ýzť is:1st_person is:plural is:imperative
+SFX R   ýzť         yzte       ýzť is:2nd_person is:plural is:imperative
 
 SFX b Y 6  # v testovaní: pred podst. mena vzoru dub s -u v G a -e L
 SFX b   0           u          [klr]
