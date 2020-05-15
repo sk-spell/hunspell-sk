@@ -2164,204 +2164,222 @@ SFX E   ť           la         iť is:3rd_person is:feminine is:past
 SFX E   ť           lo         iť is:3rd_person is:neuter is:past
 SFX E   ť           li         iť is:3rd_person is:plural is:past
 
-SFX W Y 197
-SFX W   ať          nem        čať
-SFX W   ať          neš        čať
-SFX W   ať          ne         čať
-SFX W   ať          neme       čať
-SFX W   ať          nete       čať
-SFX W   ať          nú         čať
-SFX W   ať          núc        čať
-SFX W   ať          ni         čať
-SFX W   ať          nime       čať
-SFX W   ať          nite       čať
-SFX W   edať        iem        edať
-SFX W   edať        ieš        edať
-SFX W   edať        ie         edať
-SFX W   edať        ieme       edať
-SFX W   edať        iete       edať
-SFX W   edať        edia       edať
-SFX W   edať        ediac      edať
-SFX W   edať        edz        edať
-SFX W   edať        edzme      edať
-SFX W   edať        edzte      edať
-SFX W   kať         čem        kať
-SFX W   kať         češ        kať
-SFX W   kať         če         kať
-SFX W   kať         čeme       kať
-SFX W   kať         čete       kať
-SFX W   kať         ču         kať
-SFX W   kať         čuc        kať
-SFX W   kať         č          kať
-SFX W   kať         čme        kať
-SFX W   kať         čte        kať
-SFX W   lať         eliem      lať
-SFX W   lať         elieš      lať
-SFX W   lať         elie       lať
-SFX W   lať         elieme     lať
-SFX W   lať         eliete     lať
-SFX W   lať         elú        lať
-SFX W   lať         elúc       lať
-SFX W   lať         ľ          lať
-SFX W   lať         eľme       lať
-SFX W   lať         eľte       lať
-SFX W   hnať        ženiem     hnať
-SFX W   hnať        ženieš     hnať
-SFX W   hnať        ženie      hnať
-SFX W   hnať        ženieme    hnať
-SFX W   hnať        ženiete    hnať
-SFX W   hnať        ženú       hnať
-SFX W   hnať        ženúc      hnať
-SFX W   hnať        žeň        hnať
-SFX W   hnať        žeňme      hnať
-SFX W   hnať        žeňte      hnať
-SFX W   ať          ajem       sať
-SFX W   ať          aješ       sať
-SFX W   ať          aje        sať
-SFX W   ať          ajeme      sať
-SFX W   ať          ajete      sať
-SFX W   ať          ajú        sať
-SFX W   ať          ajúc       sať
-SFX W   ať          aj         sať
-SFX W   ať          ajme       sať
-SFX W   ať          ajte       sať
-SFX W   ť           nem        tať
-SFX W   ť           neš        tať
-SFX W   ť           ne         tať
-SFX W   ť           neme       tať
-SFX W   ť           nete       tať
-SFX W   ť           nú         tať
-SFX W   ť           núc        tať
-SFX W   ť           ň          tať
-SFX W   ť           ňme        tať
-SFX W   ť           ňte        tať
-SFX W   ovať        ujem       ovať
-SFX W   ovať        uješ       ovať
-SFX W   ovať        uje        ovať
-SFX W   ovať        ujeme      ovať
-SFX W   ovať        ujete      ovať
-SFX W   ovať        ujú        ovať
-SFX W   ovať        ujúc       ovať
-SFX W   ovať        uj         ovať
-SFX W   ovať        ujme       ovať
-SFX W   ovať        ujte       ovať
-SFX W   uvať        ujem       uvať
-SFX W   uvať        uješ       uvať
-SFX W   uvať        uje        uvať
-SFX W   uvať        ujeme      uvať
-SFX W   uvať        ujete      uvať
-SFX W   uvať        ujú        uvať
-SFX W   uvať        ujúc       uvať
-SFX W   uvať        uj         uvať
-SFX W   uvať        ujme       uvať
-SFX W   uvať        ujte       uvať
-SFX W   ať          al         ať
-SFX W   ať          ala        ať
-SFX W   ať          alo        ať
-SFX W   ať          ali        ať
-SFX W   áť          ojím       áť
-SFX W   áť          ojíš       áť
-SFX W   áť          ojí        áť
-SFX W   áť          ojíme      áť
-SFX W   áť          ojíte      áť
-SFX W   áť          oja        áť
-SFX W   áť          ojac       áť
-SFX W   áť          oj         áť
-SFX W   áť          ojme       áť
-SFX W   áť          ojte       áť
-SFX W   áť          ál         áť
-SFX W   áť          ála        áť
-SFX W   áť          álo        áť
-SFX W   áť          áli        áť
-SFX W   ieť         ejem       ieť
-SFX W   ieť         eješ       ieť
-SFX W   ieť         eje        ieť
-SFX W   ieť         ejeme      ieť
-SFX W   ieť         ejete      ieť
-SFX W   ieť         ejú        ieť
-SFX W   ieť         ejúc       ieť
-SFX W   ieť         ej         ieť
-SFX W   ieť         ejme       ieť
-SFX W   ieť         ejte       ieť
-SFX W   ieť         el         ieť
-SFX W   ieť         ela        ieť
-SFX W   ieť         elo        ieť
-SFX W   ieť         eli        ieť
-SFX W   ť           jem        [bčdkľnprszž][iy]ť
-SFX W   ť           ješ        [bčdkľnprszž][iy]ť
-SFX W   ť           je         [bčdkľnprszž][iy]ť
-SFX W   ť           jeme       [bčdkľnprszž][iy]ť
-SFX W   ť           jete       [bčdkľnprszž][iy]ť
-SFX W   ť           jú         [bčdkľnprszž][iy]ť
-SFX W   ť           júc        [bčdkľnprszž][iy]ť
-SFX W   ť           l          [bčdkľnprszž][iy]ť
-SFX W   ť           la         [bčdkľnprszž][iy]ť
-SFX W   ť           lo         [bčdkľnprszž][iy]ť
-SFX W   ť           li         [bčdkľnprszž][iy]ť
-SFX W   iť          i          [bčdkľnprszž]iť
-SFX W   yť          y          [bčdkľnprszž]yť
-SFX W   ť           me         [bčdkľnprszž][iy]ť
-SFX W   ť           te         [bčdkľnprszž][iy]ť
-SFX W   ť           jem        [bčdkľprszž]uť
-SFX W   ť           ješ        [bčdkľprszž]uť
-SFX W   ť           je         [bčdkľprszž]uť
-SFX W   ť           jeme       [bčdkľprszž]uť
-SFX W   ť           jete       [bčdkľprszž]uť
-SFX W   ť           jú         [bčdkľprszž]uť
-SFX W   ť           júc        [bčdkľprszž]uť
-SFX W   ť           l          [bčdkľprszž]uť
-SFX W   ť           la         [bčdkľprszž]uť
-SFX W   ť           lo         [bčdkľprszž]uť
-SFX W   ť           li         [bčdkľprszž]uť
-SFX W   ť           j          [bčdkľprszž]uť
-SFX W   ť           jme        [bčdkľprszž]uť
-SFX W   ť           jte        [bčdkľprszž]uť
-SFX W   uť          em         [^bčdkľprszž]uť
-SFX W   uť          eš         [^bčdkľprszž]uť
-SFX W   uť          e          [^bčdkľprszž]uť
-SFX W   uť          eme        [^bčdkľprszž]uť
-SFX W   uť          ete        [^bčdkľprszž]uť
-SFX W   uť          u          [^bčdkľprszž]uť
-SFX W   uť          uc         [^bčdkľprszž]uť
-SFX W   uť          i          [^bčdkľprszž]uť
-SFX W   uť          ite        [^bčdkľprszž]uť
-SFX W   uť          ime        [^bčdkľprszž]uť
-SFX W   nuť         ol         nuť
-SFX W   nuť         la         nuť
-SFX W   nuť         lo         nuť
-SFX W   nuť         li         nuť
-SFX W   úť          ujem       [bčdkľrszž]úť
-SFX W   úť          uješ       [bčdkľrszž]úť
-SFX W   úť          uje        [bčdkľrszž]úť
-SFX W   úť          ujeme      [bčdkľrszž]úť
-SFX W   úť          ujete      [bčdkľrszž]úť
-SFX W   úť          ujú        [bčdkľrszž]úť
-SFX W   úť          ujúc       [bčdkľrszž]úť
-SFX W   úť          uj         [bčdkľrszž]úť
-SFX W   úť          ujme       [bčdkľrszž]úť
-SFX W   úť          ujte       [bčdkľrszž]úť
-SFX W   úť          ul         [bčdkľrszž]úť
-SFX W   úť          ula        [bčdkľrszž]úť
-SFX W   úť          ulo        [bčdkľrszž]úť
-SFX W   úť          uli        [bčdkľrszž]úť
-SFX W   úť          em         [^bčdkľrszž]úť
-SFX W   úť          eš         [^bčdkľrszž]úť
-SFX W   úť          e          [^bčdkľrszž]úť
-SFX W   úť          eme        [^bčdkľrszž]úť
-SFX W   úť          ete        [^bčdkľrszž]úť
-SFX W   úť          ú          [^bčdkľrszž]úť
-SFX W   úť          úc         [^bčdkľrszž]úť
-SFX W   úť          i          [^bčdkľrszž]úť
-SFX W   úť          ite        [^bčdkľrszž]úť
-SFX W   úť          ime        [^bčdkľrszž]úť
-SFX W   núť         ol         [^aeilľory]núť
-SFX W   núť         la         [^aeilľory]núť
-SFX W   núť         lo         [^aeilľory]núť
-SFX W   núť         li         [^aeilľory]núť
-SFX W   úť          ul         [aeilľory]núť
-SFX W   úť          ula        [aeilľory]núť
-SFX W   úť          ulo        [aeilľory]núť
-SFX W   úť          uli        [aeilľory]núť
+SFX W Y 215
+SFX W   ať          nem        čať is:1st_person
+SFX W   ať          neš        čať is:2nd_person
+SFX W   ať          ne         čať is:3rd_person
+SFX W   ať          neme       čať is:1st_person is:plural
+SFX W   ať          nete       čať is:2nd_person is:plural
+SFX W   ať          nú         čať is:3rd_person is:plural
+SFX W   ať          núc        čať is:participle
+SFX W   ať          ni         čať is:2nd_person is:imperative
+SFX W   ať          nime       čať is:1st_person is:plural is:imperative
+SFX W   ať          nite       čať is:2nd_person is:plural is:imperative
+SFX W   edať        iem        edať is:1st_person
+SFX W   edať        ieš        edať is:2nd_person
+SFX W   edať        ie         edať is:3rd_person
+SFX W   edať        ieme       edať is:1st_person is:plural
+SFX W   edať        iete       edať is:2nd_person is:plural
+SFX W   edať        edia       edať is:3rd_person is:plural
+SFX W   edať        ediac      edať is:participle
+SFX W   edať        edz        edať is:2nd_person is:imperative
+SFX W   edať        edzme      edať is:1st_person is:plural is:imperative
+SFX W   edať        edzte      edať is:2nd_person is:plural is:imperative
+SFX W   kať         čem        kať is:1st_person
+SFX W   kať         češ        kať is:2nd_person
+SFX W   kať         če         kať is:3rd_person
+SFX W   kať         čeme       kať is:1st_person is:plural
+SFX W   kať         čete       kať is:2nd_person is:plural
+SFX W   kať         ču         kať is:3rd_person is:plural
+SFX W   kať         čuc        kať is:participle
+SFX W   kať         č          kať is:2nd_person is:imperative
+SFX W   kať         čme        kať is:1st_person is:plural is:imperative
+SFX W   kať         čte        kať is:2nd_person is:plural is:imperative
+SFX W   lať         eliem      lať is:1st_person
+SFX W   lať         elieš      lať is:2nd_person
+SFX W   lať         elie       lať is:3rd_person
+SFX W   lať         elieme     lať is:1st_person is:plural
+SFX W   lať         eliete     lať is:2nd_person is:plural
+SFX W   lať         elú        lať is:3rd_person is:plural
+SFX W   lať         elúc       lať is:participle
+SFX W   lať         ľ          lať is:2nd_person is:imperative
+SFX W   lať         eľme       lať is:1st_person is:plural is:imperative
+SFX W   lať         eľte       lať is:2nd_person is:plural is:imperative
+SFX W   hnať        ženiem     hnať is:1st_person
+SFX W   hnať        ženieš     hnať is:2nd_person
+SFX W   hnať        ženie      hnať is:3rd_person
+SFX W   hnať        ženieme    hnať is:1st_person is:plural
+SFX W   hnať        ženiete    hnať is:2nd_person is:plural
+SFX W   hnať        ženú       hnať is:3rd_person is:plural
+SFX W   hnať        ženúc      hnať is:participle
+SFX W   hnať        žeň        hnať is:2nd_person is:imperative
+SFX W   hnať        žeňme      hnať is:1st_person is:plural is:imperative
+SFX W   hnať        žeňte      hnať is:2nd_person is:plural is:imperative
+SFX W   ať          ajem       sať is:1st_person
+SFX W   ať          aješ       sať is:2nd_person
+SFX W   ať          aje        sať is:3rd_person
+SFX W   ať          ajeme      sať is:1st_person is:plural
+SFX W   ať          ajete      sať is:2nd_person is:plural
+SFX W   ať          ajú        sať is:3rd_person is:plural
+SFX W   ať          ajúc       sať is:participle
+SFX W   ať          aj         sať is:2nd_person is:imperative
+SFX W   ať          ajme       sať is:1st_person is:plural is:imperative
+SFX W   ať          ajte       sať is:2nd_person is:plural is:imperative
+SFX W   ť           nem        tať is:1st_person
+SFX W   ť           neš        tať is:2nd_person
+SFX W   ť           ne         tať is:3rd_person
+SFX W   ť           neme       tať is:1st_person is:plural
+SFX W   ť           nete       tať is:2nd_person is:plural
+SFX W   ť           nú         tať is:3rd_person is:plural
+SFX W   ť           núc        tať is:participle
+SFX W   ť           ň          tať is:2nd_person is:imperative
+SFX W   ť           ňme        tať is:1st_person is:plural is:imperative
+SFX W   ť           ňte        tať is:2nd_person is:plural is:imperative
+SFX W   ovať        ujem       ovať is:1st_person
+SFX W   ovať        uješ       ovať is:2nd_person
+SFX W   ovať        uje        ovať is:3rd_person
+SFX W   ovať        ujeme      ovať is:1st_person is:plural
+SFX W   ovať        ujete      ovať is:2nd_person is:plural
+SFX W   ovať        ujú        ovať is:3rd_person is:plural
+SFX W   ovať        ujúc       ovať is:participle
+SFX W   ovať        uj         ovať is:2nd_person is:imperative
+SFX W   ovať        ujme       ovať is:1st_person is:plural is:imperative
+SFX W   ovať        ujte       ovať is:2nd_person is:plural is:imperative
+SFX W   uvať        ujem       uvať is:1st_person
+SFX W   uvať        uješ       uvať is:2nd_person
+SFX W   uvať        uje        uvať is:3rd_person
+SFX W   uvať        ujeme      uvať is:1st_person is:plural
+SFX W   uvať        ujete      uvať is:2nd_person is:plural
+SFX W   uvať        ujú        uvať is:3rd_person is:plural
+SFX W   uvať        ujúc       uvať is:participle
+SFX W   uvať        uj         uvať is:2nd_person is:imperative
+SFX W   uvať        ujme       uvať is:1st_person is:plural is:imperative
+SFX W   uvať        ujte       uvať is:2nd_person is:plural is:imperative
+SFX W   ať          al         ať is:1st_person is:past
+SFX W   ať          al         ať is:2nd_person is:past
+SFX W   ať          al         ať is:3rd_person is:masculine is:past
+SFX W   ať          ala        ať is:3rd_person is:masculine is:past
+SFX W   ať          alo        ať is:3rd_person is:neuter is:past
+SFX W   ať          ali        ať is:3rd_person is:plural is:past
+SFX W   áť          ojím       áť is:1st_person
+SFX W   áť          ojíš       áť is:2nd_person
+SFX W   áť          ojí        áť is:3rd_person
+SFX W   áť          ojíme      áť is:1st_person is:plural
+SFX W   áť          ojíte      áť is:2nd_person is:plural
+SFX W   áť          oja        áť is:3rd_person is:plural
+SFX W   áť          ojac       áť is:participle
+SFX W   áť          oj         áť is:2nd_person is:imperative
+SFX W   áť          ojme       áť is:1st_person is:plural is:imperative
+SFX W   áť          ojte       áť is:2nd_person is:plural is:imperative
+SFX W   áť          ál         áť is:1st_person is:past
+SFX W   áť          ál         áť is:2nd_person is:past
+SFX W   áť          ál         áť is:3rd_person is:masculine is:past
+SFX W   áť          ála        áť is:3rd_person is:feminine is:past
+SFX W   áť          álo        áť is:3rd_person is:neuter is:past
+SFX W   áť          áli        áť is:3rd_person is:plural is:past
+SFX W   ieť         ejem       ieť is:1st_person
+SFX W   ieť         eješ       ieť is:2nd_person
+SFX W   ieť         eje        ieť is:3rd_person
+SFX W   ieť         ejeme      ieť is:1st_person is:plural
+SFX W   ieť         ejete      ieť is:2nd_person is:plural
+SFX W   ieť         ejú        ieť is:3rd_person is:plural
+SFX W   ieť         ejúc       ieť is:participle
+SFX W   ieť         ej         ieť is:2nd_person is:imperative
+SFX W   ieť         ejme       ieť is:1st_person is:plural is:imperative
+SFX W   ieť         ejte       ieť is:2nd_person is:plural is:imperative
+SFX W   ieť         el         ieť is:1st_person is:past
+SFX W   ieť         el         ieť is:2nd_person is:past
+SFX W   ieť         el         ieť is:3rd_person is:masculine is:past
+SFX W   ieť         ela        ieť is:3rd_person is:feminine is:past
+SFX W   ieť         elo        ieť is:3rd_person is:neuter is:past
+SFX W   ieť         eli        ieť is:3rd_person is:plural is:past
+SFX W   ť           jem        [bčdkľnprszž][iy]ť is:1st_person
+SFX W   ť           ješ        [bčdkľnprszž][iy]ť is:2nd_person
+SFX W   ť           je         [bčdkľnprszž][iy]ť is:3rd_person
+SFX W   ť           jeme       [bčdkľnprszž][iy]ť is:1st_person is:plural
+SFX W   ť           jete       [bčdkľnprszž][iy]ť is:2nd_person is:plural
+SFX W   ť           jú         [bčdkľnprszž][iy]ť is:3rd_person is:plural
+SFX W   ť           júc        [bčdkľnprszž][iy]ť is:participle
+SFX W   ť           l          [bčdkľnprszž][iy]ť is:1st_person is:past
+SFX W   ť           l          [bčdkľnprszž][iy]ť is:2nd_person is:past
+SFX W   ť           l          [bčdkľnprszž][iy]ť is:3rd_person is:masculine is:past
+SFX W   ť           la         [bčdkľnprszž][iy]ť is:3rd_person is:feminine is:past
+SFX W   ť           lo         [bčdkľnprszž][iy]ť is:3rd_person is:neuter is:past
+SFX W   ť           li         [bčdkľnprszž][iy]ť is:3rd_person is:plural is:past
+SFX W   iť          i          [bčdkľnprszž]iť is:2nd_person is:imperative
+SFX W   yť          y          [bčdkľnprszž]yť is:2nd_person is:imperative
+SFX W   ť           me         [bčdkľnprszž][iy]ť is:1st_person is:plural is:imperative
+SFX W   ť           te         [bčdkľnprszž][iy]ť is:2nd_person is:plural is:imperative
+SFX W   ť           jem        [bčdkľprszž]uť is:1st_person
+SFX W   ť           ješ        [bčdkľprszž]uť is:2nd_person
+SFX W   ť           je         [bčdkľprszž]uť is:3rd_person
+SFX W   ť           jeme       [bčdkľprszž]uť is:1st_person is:plural
+SFX W   ť           jete       [bčdkľprszž]uť is:2nd_person is:plural
+SFX W   ť           jú         [bčdkľprszž]uť is:3rd_person is:plural
+SFX W   ť           júc        [bčdkľprszž]uť is:participle
+SFX W   ť           l          [bčdkľprszž]uť is:1st_person
+SFX W   ť           l          [bčdkľprszž]uť is:2nd_person
+SFX W   ť           l          [bčdkľprszž]uť is:3rd_person is:masculine is:past
+SFX W   ť           la         [bčdkľprszž]uť is:3rd_person is:feminine is:past
+SFX W   ť           lo         [bčdkľprszž]uť is:3rd_person is:neuter is:past
+SFX W   ť           li         [bčdkľprszž]uť is:3rd_person is:plural is:past
+SFX W   ť           j          [bčdkľprszž]uť is:2nd_person is:imperative
+SFX W   ť           jme        [bčdkľprszž]uť is:1st_person is:plural is:imperative
+SFX W   ť           jte        [bčdkľprszž]uť is:2nd_person is:plural is:imperative
+SFX W   uť          em         [^bčdkľprszž]uť is:1st_person
+SFX W   uť          eš         [^bčdkľprszž]uť is:2nd_person
+SFX W   uť          e          [^bčdkľprszž]uť is:3rd_person
+SFX W   uť          eme        [^bčdkľprszž]uť is:1st_person is:plural
+SFX W   uť          ete        [^bčdkľprszž]uť is:2nd_person is:plural
+SFX W   uť          u          [^bčdkľprszž]uť is:3rd_person is:plural
+SFX W   uť          uc         [^bčdkľprszž]uť is:participle
+SFX W   uť          i          [^bčdkľprszž]uť is:2nd_person is:imperative
+SFX W   uť          ime        [^bčdkľprszž]uť is:1st_person is:plural is:imperative
+SFX W   uť          ite        [^bčdkľprszž]uť is:2nd_person is:plural is:imperative
+SFX W   nuť         ol         nuť is:1st_person is:past
+SFX W   nuť         ol         nuť is:2nd_person is:past
+SFX W   nuť         ol         nuť is:3rd_person is:masculine is:past
+SFX W   nuť         la         nuť is:3rd_person is:feminine is:past
+SFX W   nuť         lo         nuť is:3rd_person is:neuter is:past
+SFX W   nuť         li         nuť is:3rd_person is:plural is:past
+SFX W   úť          ujem       [bčdkľrszž]úť is:1st_person
+SFX W   úť          uješ       [bčdkľrszž]úť is:2nd_person
+SFX W   úť          uje        [bčdkľrszž]úť is:3rd_person
+SFX W   úť          ujeme      [bčdkľrszž]úť is:1st_person is:plural
+SFX W   úť          ujete      [bčdkľrszž]úť is:2nd_person is:plural
+SFX W   úť          ujú        [bčdkľrszž]úť is:3rd_person is:plural
+SFX W   úť          ujúc       [bčdkľrszž]úť is:participle
+SFX W   úť          uj         [bčdkľrszž]úť is:2nd_person is:imperative
+SFX W   úť          ujme       [bčdkľrszž]úť is:1st_person is:plural is:imperative
+SFX W   úť          ujte       [bčdkľrszž]úť is:2nd_person is:plural is:imperative
+SFX W   úť          ul         [bčdkľrszž]úť is:1st_person is:past
+SFX W   úť          ul         [bčdkľrszž]úť is:2nd_person is:past
+SFX W   úť          ul         [bčdkľrszž]úť is:3rd_person is:masculine is:past
+SFX W   úť          ula        [bčdkľrszž]úť is:3rd_person is:feminine is:past
+SFX W   úť          ulo        [bčdkľrszž]úť is:3rd_person is:neuter is:past
+SFX W   úť          uli        [bčdkľrszž]úť is:3rd_person is:plural is:past
+SFX W   úť          em         [^bčdkľrszž]úť is:1st_person
+SFX W   úť          eš         [^bčdkľrszž]úť is:2nd_person
+SFX W   úť          e          [^bčdkľrszž]úť is:3rd_person
+SFX W   úť          eme        [^bčdkľrszž]úť is:1st_person is:plural
+SFX W   úť          ete        [^bčdkľrszž]úť is:2nd_person is:plural
+SFX W   úť          ú          [^bčdkľrszž]úť is:3rd_person is:plural
+SFX W   úť          úc         [^bčdkľrszž]úť is:participle
+SFX W   úť          i          [^bčdkľrszž]úť is:2nd_person is:imperative
+SFX W   úť          ime        [^bčdkľrszž]úť is:1st_person is:plural is:imperative
+SFX W   úť          ite        [^bčdkľrszž]úť is:2nd_person is:plural is:imperative
+SFX W   núť         ol         [^aeilľory]núť is:1st_person is:past
+SFX W   núť         ol         [^aeilľory]núť is:2nd_person is:past
+SFX W   núť         ol         [^aeilľory]núť is:3rd_person is:masculine is:past
+SFX W   núť         la         [^aeilľory]núť is:3rd_person is:feminine is:past
+SFX W   núť         lo         [^aeilľory]núť is:3rd_person is:neuter is:past
+SFX W   núť         li         [^aeilľory]núť is:3rd_person is:plural is:past
+SFX W   úť          ul         [aeilľory]núť is:1st_person is:past
+SFX W   úť          ul         [aeilľory]núť is:2nd_person is:past
+SFX W   úť          ul         [aeilľory]núť is:3rd_person is:masculine is:past
+SFX W   úť          ula        [aeilľory]núť is:3rd_person is:feminine is:past
+SFX W   úť          ulo        [aeilľory]núť is:3rd_person is:neuter is:past
+SFX W   úť          uli        [aeilľory]núť is:3rd_person is:plural is:past
 
 SFX T Y 191
 SFX T   ať          iam        [cčzrš]ať
