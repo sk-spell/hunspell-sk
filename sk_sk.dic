@@ -1,4 +1,4 @@
-239481
+239504
 A
 a
 AB
@@ -6592,7 +6592,7 @@ betónovaný/YN
 betónovať/WN
 betónovo
 betónový/YN
-bez
+bez po:preposition is:genitive
 bezalkoholický/YN
 bezatomový/YN
 bezatómový/YN
@@ -6743,7 +6743,7 @@ beznádejnosť/K
 beznádejný/YN
 beznájdený/Y
 beznáročný/YN
-bezo
+bezo po:preposition is:genitive
 bezoblačne
 bezoblačno
 bezoblačnosť/K
@@ -8046,6 +8046,7 @@ blízk
 blízkach
 blízkam
 blízkami
+blízko po:preposition is:genitive
 blízkosť/K
 blízkových
 blízkovýchodný/Y
@@ -19561,6 +19562,7 @@ dolaďovať
 dolby
 dolce
 dolcissimo
+dole po:preposition is:instrumental
 dolel
 dolela
 doleli
@@ -34185,6 +34187,7 @@ horalov
 horalský/YN
 horcový/YN
 horda/zZ
+hore po:preposition is:instrumental
 horec/J
 Horehronia
 Horehronie
@@ -40874,7 +40877,7 @@ júr
 júrt
 jút
 jüan/B
-k
+k po:preposition is:dative
 KA
 ka
 Kaaba
@@ -46251,13 +46254,14 @@ koníčku
 koníčky
 konôp
 konôpka/zZ
-konča
+konča is:preposition is:genitive
 končatina/zZ
 končatinový/YN
 konček/B
 končenie/V
 končený/YN
 konči
+končiac po:preposition is:instrumental
 končiaci/YN
 končiar/J
 končiarik/B
@@ -49147,7 +49151,7 @@ ktozná
 ktože
 ktožehovie
 ktoževie
-ku
+ku po:preposition is:dative
 Kuala
 kualalumpurský/YN
 Kualalumpurčan/c
@@ -57312,6 +57316,8 @@ medzevskej
 medzevského
 Medzevský/YN
 medzevských
+medzi is:preposition is:accusative
+medzi is:preposition is:instrumental
 Medzianky
 medzibankový/YN
 Medzibrodia
@@ -58880,7 +58886,7 @@ mimikalkulačka
 mimikry
 mimimalista
 mimina
-mimo
+mimo is:preposition is:genitive
 mimoamerickej
 mimoamerické
 mimoamerickí
@@ -62362,7 +62368,8 @@ MŠK
 MŽP
 N
 n
-na
+na po:preposition is:locative
+na po:preposition is:accusative
 naakumulovať/WN
 naaplikovať
 naaranžovanie/V
@@ -62637,7 +62644,8 @@ nacápme
 nacápte
 nacápu
 nacápuc
-nad
+nad po:preposition is:accusative
+nad po:preposition is:instrumental
 nadanie/V
 nadaný/YN
 nadar
@@ -62804,7 +62812,8 @@ nadnášanie/V
 nadnášaný/YN
 nadnášať/XN
 nadnáška
-nado
+nado po:preposition is:accusative
+nado po:preposition is:instrumental
 nadobariť
 nadoblačný/YN
 nadoblička/zZ
@@ -106392,7 +106401,7 @@ namieriť/XN
 namies
 namiesiť
 namieste
-namiesto
+namiesto po:preposition is:genitive
 namietania
 namietaniu
 namietaním
@@ -106955,7 +106964,8 @@ napriekor
 napriekory
 naprieky
 Napriem
-naprieč
+naprieč po:preposition is:instrumental
+naprieč po:preposition is:genitive
 naprikazovať/WN
 naprogramovanie/V
 naprogramovaný/YN
@@ -106964,7 +106974,7 @@ naprojektovali
 naprojektovaný/YN
 naprosiť/EN
 naprosto
-naprostred
+naprostred po:preposition is:genitive
 naprostriedku
 naprostriedok
 naprostý/YN
@@ -107462,7 +107472,7 @@ naspi
 naspievanie/V
 naspievané
 naspievať/XN
-naspodku
+naspodku po:preposition is:genitive
 naspodok
 naspoly
 naspor
@@ -108004,7 +108014,7 @@ navrav
 navravieť/RN
 navrch
 Navrchol
-navrchu
+navrchu po:preposition is:genitive
 navrelina
 navrhnutia
 navrhnutie
@@ -128716,7 +128726,7 @@ nečľapocme
 nečľapocte
 nečľapocú
 nečľapocúc
-neďaleko
+neďaleko po:preposition is:genitive
 neďavkaj
 neďavkajme
 neďavkajte
@@ -131494,7 +131504,8 @@ nútievať/XN
 nútiť/XN
 ný/YN
 nýmf
-o
+o po:preposition is:locative
+o po:preposition is:accusative
 OA
 oa
 OB
@@ -133764,7 +133775,7 @@ ocukriť/EN
 ocukrovať/WN
 ocukroviť
 ocľažník
-od
+od po:preposition is:genitive
 ODA
 odaliska
 odania
@@ -135164,7 +135175,7 @@ odnímme
 odnímte
 odnímu
 odnímuc
-odo
+odo po:preposition is:genitive
 odoberanie/V
 odoberaný/YN
 odoberateľný/YN
@@ -137849,7 +137860,7 @@ okolkujúci
 okolky/Q
 okolnosť/K
 okolní
-okolo
+okolo po:preposition is:genitive
 okoloidúci/YN
 okolostojaci/YN
 okolík/B
@@ -137954,7 +137965,7 @@ okrejme
 okrejte
 okrejú
 okrejúc
-okrem
+okrem po:preposition is:genitive
 okres/B
 okresanie/V
 okresaný/YN
@@ -147760,7 +147771,8 @@ pníčkov
 pníčku
 pníčky
 pnúť/WN
-po
+po po:preposition is:accusative
+po po:preposition is:locative
 poamerikánčiť
 poameričtený/YN
 poameričtiť
@@ -148195,7 +148207,8 @@ pocínovaný/YN
 pocínovať/WN
 pocítený/YN
 pocítiť/XN
-pod
+pod po:preposition is:accusative
+pod po:preposition is:instrumental
 podací/I
 podagier
 podagra/zZ
@@ -148952,7 +148965,8 @@ podnájomný/YN
 podnázov
 podnázve
 podnášať/XN
-podo
+podo po:preposition is:accusative
+podo po:preposition is:instrumental
 podoba/zZ
 podobajúca
 podobajúci
@@ -151919,7 +151933,7 @@ pomilovaná
 pomilovať
 pomiluj
 pomiluje
-pomimo
+pomimo po:preposition is:genitive
 pominulý/YN
 pominuteľnosť/KN
 pominuteľný/YN
@@ -153110,6 +153124,7 @@ poprichádzať/XN
 poprideľovali
 poprideľovať
 popridávať/XN
+popri po:preposition is:locative
 popriek
 poprieky
 poprieč
@@ -155333,7 +155348,7 @@ povedomie/V
 povedomosti
 povedomý/YN
 povedú
-povedľa
+povedľa po:preposition is:genitive
 povej
 povel/B
 povele
@@ -156072,7 +156087,7 @@ pozdávame
 pozdávate
 pozdávaš
 pozdávať
-pozdĺž
+pozdĺž po:preposition is:genitive
 pozdĺžnosti
 pozdĺžnosť
 pozdĺžny/YN
@@ -156375,7 +156390,7 @@ počarovať/WN
 Počarovský/YN
 Počarová
 počarte
-počas
+počas po:preposition is:genitive
 počasie/V
 počastovať/WN
 počatie/V
@@ -156412,6 +156427,7 @@ počkanie/V
 počkať/EN
 počmáraný/YN
 počmárať/XN
+počnúc po:preposition is:instrumental
 počtovanie/V
 počtovať/WN
 počtovnica/U
@@ -157791,7 +157807,8 @@ precítiť/XN
 precíznosť/K
 precízny/YN
 precúdiť/XN
-pred
+pred po:preposition is:accusative
+pred po:preposition is:instrumental
 predaj/J
 predajca/H
 predajno
@@ -158163,7 +158180,8 @@ prednáška/zZ
 prednáškovo
 prednáškový/YN
 predný/YN
-predo
+predo po:preposition is:accusative
+predo po:preposition is:instrumental
 predobed
 predobedie/V
 predobedný/YN
@@ -162661,6 +162679,7 @@ prežúvavce
 prežúvavec/C
 prežúvať/XN
 priadavať/XN
+pri po:preposition is:locative
 priadka/zZ
 priadky/Q
 priadny/YN
@@ -177082,7 +177101,7 @@ rýľovať/WN
 rýľový/YN
 rýľu
 rčnievať
-s
+s po:preposition is:instrumental
 SA
 sa
 sabat/B
@@ -181239,7 +181258,7 @@ skracovacích
 skracovanie/V
 skracovaný/YN
 skracovať/WN
-skraja
+skraja po:preposition is:genitive
 skrajok/O
 skrajovanie
 skrajovaný/YN
@@ -183228,7 +183247,7 @@ snúbenica/U
 snúbenka
 snúbiť/XN
 SNŠ
-so
+so po:preposition is:instrumental
 soaré
 sob/B
 soba
@@ -185133,7 +185152,7 @@ spopolnite
 spopolniť/EN
 spopolovieť
 spopolňovať/WN
-spopred
+spopred po:preposition is:genitive
 spopretrhávať
 spopretŕhať
 spopularizovanie/V
@@ -185274,7 +185293,7 @@ spovedný/YN
 spovedz
 spoveď/D
 spovie
-spoza
+spoza po:preposition is:genitive
 spozdene
 spozdiť
 spozdí
@@ -185420,7 +185439,7 @@ spreadsheet
 sprecizovali
 Sprecizovaním
 sprecizovať
-spred
+spred po:preposition is:genitive
 spredku
 spredmetnený/YN
 spredmetni
@@ -185429,7 +185448,7 @@ spredmetnite
 spredmetniť/EN
 spredmetňovať/WN
 sprednedávna
-spredo
+spredo po:preposition is:genitive
 spredu
 sprehádzala
 sprehýbaný/YN
@@ -198350,7 +198369,7 @@ tŕňový/YN
 Tŕňu
 tŕňu
 tŕžiť/XN
-u
+u po:preposition is:genitive
 ubabraný/YN
 ubabrať/TN
 ubabre
@@ -200375,7 +200394,7 @@ upriasť/RN
 uprieť/XN
 uprosiť/EN
 uprosovať/WN
-uprostred
+uprostred po:preposition is:genitive
 upráva
 uprázdnenie
 uprázdnený/YN
@@ -202452,7 +202471,8 @@ užší
 užších
 užším
 užšími
-v
+v po:preposition is:accusative
+v po:preposition is:locative
 VA
 vabank
 vacat
@@ -203178,7 +203198,7 @@ vedátormi
 vedítor
 vedúci/YN
 vedľ
-vedľa
+vedľa po:preposition is:genitive
 vedľajší/I
 vedže
 vegetabilizmus
@@ -205670,7 +205690,7 @@ vnútorný/YN
 vnútrach
 vnútrajšok/O
 vnútram
-vnútri
+vnútri po:preposition is:genitive
 vnútro/M
 vnútrobrušné
 vnútrobunkový/YN
@@ -205710,7 +205730,8 @@ vnúča/A
 vnúčatiek
 vnúčatko/M
 vnúčik/c
-vo
+vo is:preposition is:locative
+vo is:preposition is:accusative
 vod
 voda/zZ
 vodavý/YN
@@ -206913,7 +206934,7 @@ vrásť/RN
 vráta/Q
 vrátajú
 vrátame
-vrátane
+vrátane po:preposition is:genitive
 vrátania
 vrátanie
 vrátaniu
@@ -214126,7 +214147,7 @@ vôd
 vôdzka/zZ
 vôdzok
 vôjsť
-vôkol
+vôkol po:preposition is:genitive
 vôl/L
 Vôlg
 vôlí
@@ -215628,8 +215649,10 @@ yuppie
 YWCA
 yzop/B
 yzopový/Y
-z
-za
+z po:preposition is:genitive
+za po:preposition is:genitive
+za po:preposition is:accusative
+za po:preposition is:instrumental
 zaa
 zaachkať/EN
 zaalpský/YN
@@ -225727,7 +225750,7 @@ znôškou
 znôšku
 znôšky
 znútra
-zo
+zo po:preposition is:genitive
 zoantropia
 zob/B
 zobadať
@@ -228316,7 +228339,7 @@ zvnútornime
 zvnútornite
 zvnútorniť/EN
 zvnútorňovať/WN
-zvnútra
+zvnútra po:preposition is:genitive
 zvod/B
 zvodca/H
 zvodcovsky
