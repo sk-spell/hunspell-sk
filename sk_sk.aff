@@ -2381,198 +2381,200 @@ SFX W   úť          ula        [aeilľory]núť is:3rd_person is:feminine is:p
 SFX W   úť          ulo        [aeilľory]núť is:3rd_person is:neuter is:past
 SFX W   úť          uli        [aeilľory]núť is:3rd_person is:plural is:past
 
-SFX T Y 191
-SFX T   ať          iam        [cčzrš]ať
-SFX T   ať          iaš        [cčzrš]ať
-SFX T   ať          ia         [cčzrš]ať
-SFX T   ať          iame       [cčzrš]ať
-SFX T   ať          iate       [cčzrš]ať
-SFX T   ať          ajú        [cčzrš]ať
-SFX T   ať          ajúc       [cčzrš]ať
-SFX T   ať          aj         [cčzrš]ať
-SFX T   ať          ajme       [cčzrš]ať
-SFX T   ať          ajte       [cčzrš]ať
-SFX T   dať         dzem       dať
-SFX T   dať         dzeš       dať
-SFX T   dať         dze        dať
-SFX T   dať         dzeme      dať
-SFX T   dať         dzete      dať
-SFX T   dať         dzu        dať
-SFX T   dať         dzuc       dať
-SFX T   dať         dz         dať
-SFX T   dať         dzme       dať
-SFX T   dať         dzte       dať
-SFX T   ať          mem        jať
-SFX T   ať          meš        jať
-SFX T   ať          me         jať
-SFX T   ať          meme       jať
-SFX T   ať          mete       jať
-SFX T   ať          mú         jať
-SFX T   ať          múc        jať
-SFX T   ať          mi         jať
-SFX T   ať          mime       jať
-SFX T   ať          mite       jať
-SFX T   lať         olem       klať
-SFX T   lať         oleš       klať
-SFX T   lať         ole        klať
-SFX T   lať         oleme      klať
-SFX T   lať         olete      klať
-SFX T   lať         olú        klať
-SFX T   lať         olúc       klať
-SFX T   lať         oľ         klať
-SFX T   lať         oľme       klať
-SFX T   lať         oľte       klať
-SFX T   slať        šlem       slať
-SFX T   slať        šleš       slať
-SFX T   slať        šle        slať
-SFX T   slať        šleme      slať
-SFX T   slať        šlete      slať
-SFX T   slať        šlú        slať
-SFX T   slať        šlúc       slať
-SFX T   slať        šli        slať
-SFX T   slať        šlime      slať
-SFX T   slať        šlite      slať
-SFX T   ať          em         [^ks]lať
-SFX T   ať          eš         [^ks]lať
-SFX T   ať          e          [^ks]lať
-SFX T   ať          eme        [^ks]lať
-SFX T   ať          ete        [^ks]lať
-SFX T   ať          ú          [^ks]lať
-SFX T   ať          úc         [^ks]lať
-SFX T   ať          i          [^ks]lať
-SFX T   ať          ime        [^ks]lať
-SFX T   ať          ite        [^ks]lať
-SFX T   ľať         lem        ľať
-SFX T   ľať         leš        ľať
-SFX T   ľať         le         ľať
-SFX T   ľať         leme       ľať
-SFX T   ľať         lete       ľať
-SFX T   ľať         ľú         ľať
-SFX T   ľať         ľúc        ľať
-SFX T   ľať         li         ľať
-SFX T   ľať         lime       ľať
-SFX T   ľať         lite       ľať
-SFX T   ať          i          [mn]ať
-SFX T   ať          ime        [mn]ať
-SFX T   ať          ite        [mn]ať
-SFX T   ňať         niam       ňať
-SFX T   ňať         niaš       ňať
-SFX T   ňať         nia        ňať
-SFX T   ňať         niame      ňať
-SFX T   ňať         niate      ňať
-SFX T   ňať         ňajú       ňať
-SFX T   ňať         ňajúc      ňať
-SFX T   ňať         ňaj        ňať
-SFX T   ňať         ňajme      ňať
-SFX T   ňať         ňajte      ňať
-SFX T   sať         šem        sať
-SFX T   sať         šeš        sať
-SFX T   sať         še         sať
-SFX T   sať         šeme       sať
-SFX T   sať         šete       sať
-SFX T   sať         šu         i[aeiouy]sať
-SFX T   sať         šú         [^i][aeiouy]sať
-SFX T   sať         šuc        i[aeiouy]sať
-SFX T   sať         šúc        [^i][aeiouy]sať
-SFX T   sať         š          sať
-SFX T   sať         šme        sať
-SFX T   sať         šte        sať
-SFX T   tať         cem        tať
-SFX T   tať         ceš        tať
-SFX T   tať         ce         tať
-SFX T   tať         ceme       tať
-SFX T   tať         cete       tať
-SFX T   tať         cú         tať
-SFX T   tať         cúc        tať
-SFX T   tať         c          tať
-SFX T   tať         cme        tať
-SFX T   tať         cte        tať
-SFX T   ťať         tnem       ťať
-SFX T   ťať         tneš       ťať
-SFX T   ťať         tne        ťať
-SFX T   ťať         tneme      ťať
-SFX T   ťať         tnete      ťať
-SFX T   ťať         tnú        ťať
-SFX T   ťať         tnúc       ťať
-SFX T   ťať         tni        ťať
-SFX T   ťať         tnime      ťať
-SFX T   ťať         tnite      ťať
-SFX T   ať          iam        avať
-SFX T   ať          iaš        avať
-SFX T   ať          ia         avať
-SFX T   ať          iame       avať
-SFX T   ať          iate       avať
-SFX T   ať          ajú        avať
-SFX T   ať          ajúc       avať
-SFX T   ať          aj         avať
-SFX T   ať          ajme       avať
-SFX T   ať          ajte       avať
-SFX T   ať          em         [^a]vať
-SFX T   ať          eš         [^a]vať
-SFX T   ať          e          [^a]vať
-SFX T   ať          eme        [^a]vať
-SFX T   ať          ete        [^a]vať
-SFX T   ať          ú          [^a]vať
-SFX T   ať          úc         [^a]vať
-SFX T   0           i          [^a]vať
-SFX T   0           ime        [^a]vať
-SFX T   0           ite        [^a]vať
-SFX T   zať         žem        [z]ať
-SFX T   zať         žeš        [z]ať
-SFX T   zať         že         [z]ať
-SFX T   zať         žeme       [z]ať
-SFX T   zať         žete       [z]ať
-SFX T   zať         žu         i[aeou][z]ať
-SFX T   zať         žúc        i[aeou][z]ať
-SFX T   zať         žú         [^i][aeou][z]ať
-SFX T   zať         žúc        [^i][aeou][z]ať
-SFX T   zať         žu         [áéíĺóŕúý][z]ať
-SFX T   zať         žuc        [áéíĺóŕúý][z]ať
-SFX T   zať         žú         [^aáeéiíĺoóŕuúyý][z]ať
-SFX T   zať         žúc        [^aáeéiíĺoóŕuúyý][z]ať
-SFX T   zať         ž          [z]ať
-SFX T   zať         žme        [z]ať
-SFX T   zať         žte        [z]ať
-SFX T   žať         žnem       žať
-SFX T   žať         žneš       žať
-SFX T   žať         žne        žať
-SFX T   žať         žneme      žať
-SFX T   žať         žnete      žať
-SFX T   žať         žnú        žať
-SFX T   žať         žnúc       žať
-SFX T   žať         žni        žať
-SFX T   žať         žnime      žať
-SFX T   žať         žnite      žať
-SFX T   ať          em         [^cčdjlrsštťvzž]ať
-SFX T   ať          eš         [^cčdjlrsštťvzž]ať
-SFX T   ať          e          [^cčdjlrsštťvzž]ať
-SFX T   ať          eme        [^cčdjlrsštťvzž]ať
-SFX T   ať          ete        [^cčdjlrsštťvzž]ať
-SFX T   ať          u          i[aeou][^cčdjlrsštťvzž]ať
-SFX T   ať          ú          [^i][aeou][^cčdjlrsštťvzž]ať
-SFX T   ať          u          [áéíóúý][^cčdzjlrsštťvzž]ať
-SFX T   ať          u          [^aáeéíoóuúý][^cčdjlrsštťvzž]ať
-SFX T   ať          uc         i[aeou][^cčdjlrsštťvzž]ať
-SFX T   ať          úc         [^i][aeou][^cčdjlrsštťvzž]ať
-SFX T   ať          uc         [áéíóúý][^cčdjlrsštťvzž]ať
-SFX T   ať          uc         [^aáeéíoóuúý][^cčdjlrsštťvzž]ať
-SFX T   pať         p          pať
-SFX T   ať          me         [^cčdjmnrsštťvzž]ať
-SFX T   ať          te         [^cčdjmnrsštťvzž]ať
-SFX T   päť         pnem       päť
-SFX T   päť         pneš       päť
-SFX T   päť         pne        päť
-SFX T   päť         pneme      päť
-SFX T   päť         pnete      päť
-SFX T   päť         pnú        päť
-SFX T   päť         pnúc       päť
-SFX T   päť         pni        päť
-SFX T   päť         pnime      päť
-SFX T   päť         pnite      päť
-SFX T   ť           l          ť
-SFX T   ť           la         ť
-SFX T   ť           lo         ť
-SFX T   ť           li         ť
+SFX T Y 193
+SFX T   ať          iam        [cčzrš]ať is:1st_person
+SFX T   ať          iaš        [cčzrš]ať is:2nd_person
+SFX T   ať          ia         [cčzrš]ať is:3rd_person
+SFX T   ať          iame       [cčzrš]ať is:1st_person is:plural
+SFX T   ať          iate       [cčzrš]ať is:2nd_person is:plural
+SFX T   ať          ajú        [cčzrš]ať is:3rd_person is:plural
+SFX T   ať          ajúc       [cčzrš]ať is:participle
+SFX T   ať          aj         [cčzrš]ať is:2nd_person is:imperative
+SFX T   ať          ajme       [cčzrš]ať is:1st_person is:plural is:imperative
+SFX T   ať          ajte       [cčzrš]ať is:2nd_person is:plural is:imperative
+SFX T   dať         dzem       dať is:1st_person
+SFX T   dať         dzeš       dať is:2nd_person
+SFX T   dať         dze        dať is:3rd_person
+SFX T   dať         dzeme      dať is:1st_person is:plural
+SFX T   dať         dzete      dať is:2nd_person is:plural
+SFX T   dať         dzu        dať is:3rd_person is:plural
+SFX T   dať         dzuc       dať is:participle
+SFX T   dať         dz         dať is:2nd_person is:imperative
+SFX T   dať         dzme       dať is:1st_person is:plural is:imperative
+SFX T   dať         dzte       dať is:2nd_person is:plural is:imperative
+SFX T   ať          mem        jať is:1st_person
+SFX T   ať          meš        jať is:2nd_person
+SFX T   ať          me         jať is:3rd_person
+SFX T   ať          meme       jať is:1st_person is:plural
+SFX T   ať          mete       jať is:2nd_person is:plural
+SFX T   ať          mú         jať is:3rd_person is:plural
+SFX T   ať          múc        jať is:participle
+SFX T   ať          mi         jať is:2nd_person is:imperative
+SFX T   ať          mime       jať is:1st_person is:plural is:imperative
+SFX T   ať          mite       jať is:2nd_person is:plural is:imperative
+SFX T   lať         olem       klať is:1st_person
+SFX T   lať         oleš       klať is:2nd_person
+SFX T   lať         ole        klať is:3rd_person
+SFX T   lať         oleme      klať is:1st_person is:plural
+SFX T   lať         olete      klať is:2nd_person is:plural
+SFX T   lať         olú        klať is:3rd_person is:plural
+SFX T   lať         olúc       klať is:participle
+SFX T   lať         oľ         klať is:2nd_person is:imperative
+SFX T   lať         oľme       klať is:1st_person is:plural is:imperative
+SFX T   lať         oľte       klať is:2nd_person is:plural is:imperative
+SFX T   slať        šlem       slať is:1st_person
+SFX T   slať        šleš       slať is:2nd_person
+SFX T   slať        šle        slať is:3rd_person
+SFX T   slať        šleme      slať is:1st_person is:plural
+SFX T   slať        šlete      slať is:2nd_person is:plural
+SFX T   slať        šlú        slať is:3rd_person is:plural
+SFX T   slať        šlúc       slať is:participle
+SFX T   slať        šli        slať is:2nd_person is:imperative
+SFX T   slať        šlime      slať is:1st_person is:plural is:imperative
+SFX T   slať        šlite      slať is:2nd_person is:plural is:imperative
+SFX T   ať          em         [^ks]lať is:1st_person
+SFX T   ať          eš         [^ks]lať is:2nd_person
+SFX T   ať          e          [^ks]lať is:3rd_person
+SFX T   ať          eme        [^ks]lať is:1st_person is:plural
+SFX T   ať          ete        [^ks]lať is:2nd_person is:plural
+SFX T   ať          ú          [^ks]lať is:3rd_person is:plural
+SFX T   ať          úc         [^ks]lať is:participle
+SFX T   ať          i          [^ks]lať is:2nd_person is:plural is:imperative
+SFX T   ať          ime        [^ks]lať is:1st_person is:plural is:imperative
+SFX T   ať          ite        [^ks]lať is:2nd_person is:plural is:imperative
+SFX T   ľať         lem        ľať is:1st_person
+SFX T   ľať         leš        ľať is:2nd_person
+SFX T   ľať         le         ľať is:3rd_person
+SFX T   ľať         leme       ľať is:1st_person is:plural
+SFX T   ľať         lete       ľať is:2nd_person is:plural
+SFX T   ľať         ľú         ľať is:3rd_person is:plural
+SFX T   ľať         ľúc        ľať is:participle
+SFX T   ľať         li         ľať is:2nd_person is:imperative
+SFX T   ľať         lime       ľať is:1st_person is:plural is:imperative
+SFX T   ľať         lite       ľať is:2nd_person is:plural is:imperative
+SFX T   ať          i          [mn]ať is:2nd_person is:imperative
+SFX T   ať          ime        [mn]ať is:1st_person is:plural is:imperative
+SFX T   ať          ite        [mn]ať is:2nd_person is:plural is:imperative
+SFX T   ňať         niam       ňať is:1st_person
+SFX T   ňať         niaš       ňať is:2nd_person
+SFX T   ňať         nia        ňať is:3rd_person
+SFX T   ňať         niame      ňať is:1st_person is:plural
+SFX T   ňať         niate      ňať is:2nd_person is:plural
+SFX T   ňať         ňajú       ňať is:3rd_person is:plural
+SFX T   ňať         ňajúc      ňať is:participle
+SFX T   ňať         ňaj        ňať is:2nd_person is:imperative
+SFX T   ňať         ňajme      ňať is:1st_person is:plural is:imperative
+SFX T   ňať         ňajte      ňať is:2nd_person is:plural is:imperative
+SFX T   sať         šem        sať is:1st_person
+SFX T   sať         šeš        sať is:2nd_person
+SFX T   sať         še         sať is:3rd_person
+SFX T   sať         šeme       sať is:1st_person is:plural
+SFX T   sať         šete       sať is:2nd_person is:plural
+SFX T   sať         šu         i[aeiouy]sať is:3rd_person is:plural
+SFX T   sať         šú         [^i][aeiouy]sať is:3rd_person is:plural
+SFX T   sať         šuc        i[aeiouy]sať is:participle
+SFX T   sať         šúc        [^i][aeiouy]sať is:participle
+SFX T   sať         š          sať is:2nd_person is:imperative
+SFX T   sať         šme        sať is:1st_person is:plural is:imperative
+SFX T   sať         šte        sať is:2nd_person is:plural is:imperative
+SFX T   tať         cem        tať is:1st_person
+SFX T   tať         ceš        tať is:2nd_person
+SFX T   tať         ce         tať is:3rd_person
+SFX T   tať         ceme       tať is:1st_person is:plural
+SFX T   tať         cete       tať is:2nd_person is:plural
+SFX T   tať         cú         tať is:3rd_person is:plural
+SFX T   tať         cúc        tať is:participle
+SFX T   tať         c          tať is:2nd_person is:imperative
+SFX T   tať         cme        tať is:1st_person is:plural is:imperative
+SFX T   tať         cte        tať is:2nd_person is:plural is:imperative
+SFX T   ťať         tnem       ťať is:1st_person
+SFX T   ťať         tneš       ťať is:2nd_person
+SFX T   ťať         tne        ťať is:3rd_person
+SFX T   ťať         tneme      ťať is:1st_person is:plural
+SFX T   ťať         tnete      ťať is:2nd_person is:plural
+SFX T   ťať         tnú        ťať is:3rd_person is:plural
+SFX T   ťať         tnúc       ťať is:participle
+SFX T   ťať         tni        ťať is:2nd_person is:imperative
+SFX T   ťať         tnime      ťať is:1st_person is:plural is:imperative
+SFX T   ťať         tnite      ťať is:2nd_person is:plural is:imperative
+SFX T   ať          iam        avať is:1st_person
+SFX T   ať          iaš        avať is:2nd_person
+SFX T   ať          ia         avať is:3rd_person
+SFX T   ať          iame       avať is:1st_person is:plural
+SFX T   ať          iate       avať is:2nd_person is:plural
+SFX T   ať          ajú        avať is:3rd_person is:plural
+SFX T   ať          ajúc       avať is:participle
+SFX T   ať          aj         avať is:2nd_person is:imperative
+SFX T   ať          ajme       avať is:1st_person is:plural is:imperative
+SFX T   ať          ajte       avať is:2nd_person is:plural is:imperative
+SFX T   ať          em         [^a]vať is:1st_person
+SFX T   ať          eš         [^a]vať is:2nd_person
+SFX T   ať          e          [^a]vať is:3rd_person
+SFX T   ať          eme        [^a]vať is:1st_person is:plural
+SFX T   ať          ete        [^a]vať is:2nd_person is:plural
+SFX T   ať          ú          [^a]vať is:3rd_person is:plural
+SFX T   ať          úc         [^a]vať is:participle
+SFX T   0           i          [^a]vať is:2nd_person is:imperative
+SFX T   0           ime        [^a]vať is:1st_person is:plural is:imperative
+SFX T   0           ite        [^a]vať is:2nd_person is:plural is:imperative
+SFX T   zať         žem        [z]ať is:1st_person
+SFX T   zať         žeš        [z]ať is:2nd_person
+SFX T   zať         že         [z]ať is:3rd_person
+SFX T   zať         žeme       [z]ať is:1st_person is:plural
+SFX T   zať         žete       [z]ať is:2nd_person is:plural
+SFX T   zať         žu         i[aeou][z]ať is:3rd_person is:plural
+SFX T   zať         žúc        i[aeou][z]ať is:participle
+SFX T   zať         žú         [^i][aeou][z]ať is:3rd_person is:plural
+SFX T   zať         žúc        [^i][aeou][z]ať is:participle
+SFX T   zať         žu         [áéíĺóŕúý][z]ať is:3rd_person is:plural
+SFX T   zať         žuc        [áéíĺóŕúý][z]ať is:participle
+SFX T   zať         žú         [^aáeéiíĺoóŕuúyý][z]ať is:3rd_person is:plural
+SFX T   zať         žúc        [^aáeéiíĺoóŕuúyý][z]ať is:participle
+SFX T   zať         ž          [z]ať is:2nd_person is:imperative
+SFX T   zať         žme        [z]ať is:1st_person is:plural is:imperative
+SFX T   zať         žte        [z]ať is:2nd_person is:plural is:imperative
+SFX T   žať         žnem       žať is:1st_person
+SFX T   žať         žneš       žať is:2nd_person
+SFX T   žať         žne        žať is:3rd_person
+SFX T   žať         žneme      žať is:1st_person is:plural
+SFX T   žať         žnete      žať is:2nd_person is:plural
+SFX T   žať         žnú        žať is:3rd_person is:plural
+SFX T   žať         žnúc       žať is:participle
+SFX T   žať         žni        žať is:2nd_person is:imperative
+SFX T   žať         žnime      žať is:1st_person is:plural is:imperative
+SFX T   žať         žnite      žať is:2nd_person is:plural is:imperative
+SFX T   ať          em         [^cčdjlrsštťvzž]ať is:1st_person
+SFX T   ať          eš         [^cčdjlrsštťvzž]ať is:2nd_person
+SFX T   ať          e          [^cčdjlrsštťvzž]ať is:3rd_person
+SFX T   ať          eme        [^cčdjlrsštťvzž]ať is:1st_person is:plural
+SFX T   ať          ete        [^cčdjlrsštťvzž]ať is:2nd_person is:plural
+SFX T   ať          u          i[aeou][^cčdjlrsštťvzž]ať is:3rd_person is:plural
+SFX T   ať          ú          [^i][aeou][^cčdjlrsštťvzž]ať is:3rd_person is:plural
+SFX T   ať          u          [áéíóúý][^cčdzjlrsštťvzž]ať is:3rd_person is:plural
+SFX T   ať          u          [^aáeéíoóuúý][^cčdjlrsštťvzž]ať is:3rd_person is:plural
+SFX T   ať          uc         i[aeou][^cčdjlrsštťvzž]ať is:participle
+SFX T   ať          úc         [^i][aeou][^cčdjlrsštťvzž]ať is:participle
+SFX T   ať          uc         [áéíóúý][^cčdjlrsštťvzž]ať is:participle
+SFX T   ať          uc         [^aáeéíoóuúý][^cčdjlrsštťvzž]ať is:participle
+SFX T   pať         p          pať is:2nd_person is:imperative
+SFX T   ať          me         [^cčdjmnrsštťvzž]ať is:1st_person is:plural is:imperative
+SFX T   ať          te         [^cčdjmnrsštťvzž]ať is:2nd_person is:plural is:imperative
+SFX T   päť         pnem       päť is:1st_person
+SFX T   päť         pneš       päť is:2nd_person
+SFX T   päť         pne        päť is:3rd_person
+SFX T   päť         pneme      päť is:1st_person is:plural
+SFX T   päť         pnete      päť is:2nd_person is:plural
+SFX T   päť         pnú        päť is:3rd_person is:plural
+SFX T   päť         pnúc       päť is:participle
+SFX T   päť         pni        päť is:2nd_person is:imperative
+SFX T   päť         pnime      päť is:1st_person is:plural is:imperative
+SFX T   päť         pnite      päť is:2nd_person is:plural is:imperative
+SFX T   ť           l          ť is:1st_person is:past
+SFX T   ť           l          ť is:2nd_person is:past
+SFX T   ť           l          ť is:3rd_person is:masculine is:past
+SFX T   ť           la         ť is:3rd_person is:feminine is:past
+SFX T   ť           lo         ť is:3rd_person is:neuter is:past
+SFX T   ť           li         ť is:3rd_person is:plural is:past
 
 SFX R Y 399
 SFX R   rať         riem       [aeiou]rať
