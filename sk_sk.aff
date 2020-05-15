@@ -3027,23 +3027,30 @@ SFX R   ýzť         yz         ýzť is:2nd_person is:imperative
 SFX R   ýzť         yzme       ýzť is:1st_person is:plural is:imperative
 SFX R   ýzť         yzte       ýzť is:2nd_person is:plural is:imperative
 
-SFX b Y 6  # v testovaní: pred podst. mena vzoru dub s -u v G a -e L
-SFX b   0           u          [klr]
-SFX b   0           om         [klr]
-SFX b   0           y          [klr]
-SFX b   0           ov         [klr]
-SFX b   0           och        [klr]
-SFX b   0           mi         [klr]
+SFX b Y 8  # v testovaní: pred podst. mena vzoru dub s -u v G a -e L
+SFX b   0           u          [klr] is:genitive
+SFX b   0           om         [klr] is:dative
+SFX b   0           y          [klr] is:nominative is:plural
+SFX b   0           ov         [klr] is:genitive is:plural
+SFX b   0           y          [klr] is:accusative is:plural
+SFX b   0           och        [klr] is:locative is:plural
+SFX b   0           om         [klr] is:instrumental is:plural
+SFX b   0           mi         [klr] is:instrumental is:plural
 
-SFX č Y 10  # v testovaní: pre číslovky
-SFX č   0           násobný    .
-SFX č   0           násobných  .
-SFX č   0           násobnými  .
-SFX č   0           násobná    .
-SFX č   0           násobné    .
-SFX č   0           násobní    .
-SFX č   0           násobny    .
-SFX č   0           násobna    .
-SFX č   0           násobne    .
-SFX č   0           násobni    .
+SFX č Y 15  # v testovaní: pre číslovky
+SFX č   0           násobny    . po:adjective
+SFX č   0           násobna    . po:adverb
+SFX č   0           násobne    . po:adverb
+SFX č   0           násobni    . po:verb is:2nd_person is:imperative
+SFX č   0           násobný    . po:adjective is:nominative
+SFX č   0           násobná    . po:adjective is:nominative is:feminine
+SFX č   0           násobné    . po:adjective is:nominative is:feminine is:plural
+SFX č   0           násobné    . po:adjective is:nominative is:neuter is:plural
+SFX č   0           násobní    . po:adjective is:nominative is:masculine is:plural
+SFX č   0           násobných  . po:adjective is:genitive is:masculine is:plural
+SFX č   0           násobných  . po:adjective is:genitive is:neuter is:plural
+SFX č   0           násobných  . po:adjective is:accusative is:masculine is:plural
+SFX č   0           násobné    . po:adjective is:accusative is:feminine is:plural
+SFX č   0           násobné    . po:adjective is:accusative is:neuter is:plural
+SFX č   0           násobnými  . po:adjective is:instrumental is:plural
 
