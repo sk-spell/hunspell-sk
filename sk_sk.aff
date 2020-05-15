@@ -1666,7 +1666,7 @@ SFX Y   0           ou         ov is:feminine is:instrumental
 SFX Y   0           ými        ov is:masculine is:instrumental is:plural
 SFX Y   0           ými        ov is:feminine is:instrumental is:plural
 SFX Y   0           ými        ov is:neuter is:instrumental is:plural
-SFX Y   y           e          y is:neuter is:nominativ
+SFX Y   y           e          y is:neuter is:nominative
 SFX Y   y           e          y is:neuter is:accusative
 SFX Y   y           e          y is:masculine is:nominative
 SFX Y   y           e          y is:feminine is:nominative
@@ -1682,9 +1682,9 @@ SFX Y   y           eho        y is:neuter is:genitive
 SFX Y   y           eho        y is:masculine is:accusative
 SFX Y   y           ej         y is:feminine is:genitive
 SFX Y   y           ej         y is:feminine is:dative
-SFX Y   y           ych        y is:masculine is:localive is:plural
-SFX Y   y           ych        y is:feminine is:localive is:plural
-SFX Y   y           ych        y is:neuter is:localive is:plural
+SFX Y   y           ych        y is:masculine is:locative is:plural
+SFX Y   y           ych        y is:feminine is:locative is:plural
+SFX Y   y           ych        y is:neuter is:locative is:plural
 SFX Y   y           emu        y is:masculine is:dative
 SFX Y   y           emu        y is:neuter is:dative
 SFX Y   y           ym         y is:masculine is:dative is:plural
