@@ -286,7 +286,7 @@ SFX U   ťa          tiach      ťa is:locative is:plural
 SFX U   a           iach       [^ďťňľi]a is:locative is:plural
 SFX U   a           ami        a is:instrumental is:plural
 
-SFX D Y 110 # dlaň a idea; v Dat a Lok platí rytmický zákon (t.j. gramážam a nie gramážiam; čakáreň -> čakárňam ale v čakárniach???
+SFX D Y 121 # dlaň a idea; v Dat a Lok platí rytmický zákon (t.j. gramážam a nie gramážiam; čakáreň -> čakárňam ale v čakárniach???
 SFX D   ec          ce         ec is:genitive
 SFX D   ď           de         ď is:genitive
 SFX D   eľ          le         seľ is:genitive
@@ -310,6 +310,7 @@ SFX D   ň           ni         [^bdhlrsšzv]eň is:dative
 SFX D   ň           ni         [^e]ň is:dative
 SFX D   ť           ti         ť is:dative
 SFX D   0           i          [^acďľňť] is:dative
+SFX D   0           0          . is:accusative
 SFX D   ec          ci         ec is:locative
 SFX D   ď           di         ď is:locative
 SFX D   eľ          li         seľ is:locative
@@ -372,6 +373,16 @@ SFX D   ň           ne         [^bdhlrsšzv]eň is:accusative is:plural
 SFX D   ň           ne         [^e]ň is:accusative is:plural
 SFX D   ť           te         ť is:accusative is:plural
 SFX D   0           e          [^acďľňť] is:accusative is:plural
+SFX D   eľ          le         seľ is:accusative is:plural
+SFX D   ľ           le         [^s]eľ is:accusative is:plural
+SFX D   eň          ne         [bdhrsšzv]eň is:accusative is:plural
+SFX D   eň          ne         á[lš]eň is:accusative is:plural
+SFX D   eň          ne         i[aeu].eň is:accusative is:plural
+SFX D   ň           ne         [^á][lš]eň is:accusative is:plural
+SFX D   ň           ne         [^bdhlrsšzv]eň is:accusative is:plural
+SFX D   ň           ne         [^e]ň is:accusative is:plural
+SFX D   ť           te         ť is:accusative is:plural
+SFX D   0           e          [^acďľňť] is:accusative is:plural
 SFX D   ec          ciach      ec is:locative is:plural
 SFX D   ď           diach      ď is:locative is:plural
 SFX D   0           ach        j is:locative is:plural
@@ -398,17 +409,20 @@ SFX D   ň           ňami       [^e]ň is:instrumental is:plural
 SFX D   0           ami        ť is:instrumental is:plural
 SFX D   0           ami        [^acďľňť] is:instrumental is:plural
 
-SFX K Y 32
+SFX K Y 37
 SFX K   ď           di         ď is:genitive
 SFX K   ť           ti         ť is:genitive
 SFX K   ň           ni         ň is:genitive
 SFX K   0           i          [^áďťňľ] is:genitive
+SFX K   0           i          [^áďťňľ] is:dative
 SFX K   ť           ti         ť is:dative
 SFX K   á           ej         á is:dative
+SFX K   0           0          . is:accusative
 SFX K   á           ú          á is:accusative
 SFX K   ľ           li         ľ is:locative
 SFX K   á           ou         á is:instrumental
 SFX K   0           ou         [^á] is:instrumental
+SFX K   0           i          [^áďťňľ] is:nominative is:plural
 SFX K   ť           ti         ť is:nominative is:plural
 SFX K   á           é          á is:nominative is:plural
 SFX K   iná         ín         iná is:genitive is:plural
@@ -423,6 +437,8 @@ SFX K   ľ           liam       ľ is:dative is:plural
 SFX K   ť           tiam       ť is:dative is:plural
 SFX K   ň           niam       ň is:dative is:plural
 SFX K   0           iam        [^áďťňľ] is:dative is:plural
+SFX K   0           i          [^áďťňľ] is:accusative is:plural
+SFX K   ť           ti         ť is:accusative is:plural
 SFX K   á           ách        á is:locative is:plural
 SFX K   ď           diach      ď is:locative is:plural
 SFX K   ľ           liach      ľ is:locative is:plural
@@ -432,7 +448,7 @@ SFX K   0           iach       [^áďťňľ] is:locative is:plural
 SFX K   á           ami        á is:instrumental is:plural
 SFX K   0           ami        [^á] is:instrumental is:plural
 
-SFX M Y 92
+SFX M Y 100
 SFX M   ďo          de         ďo is:genitive
 SFX M   ťo          te         ťo is:genitive
 SFX M   ňo          ne         ňo is:genitive
@@ -455,6 +471,7 @@ SFX M   o           u          [áéíóŕúý].o is:dative
 SFX M   o           u          [^áéíóŕúý].o is:dative
 SFX M   um          u          ium is:dative
 SFX M   um          u          [^i]um is:dative
+SFX M   0           0          . is:accusative
 SFX M   o           e          [^ďťňľ]o is:locative
 SFX M   um          e          [^i]um is:locative
 SFX M   o           e          geto is:locative
@@ -500,6 +517,13 @@ SFX M   o           am         [áéíóŕúý].o is:dative is:plural
 SFX M   o           ám         [^áéíóŕúý].o is:dative is:plural
 SFX M   um          ám         ium is:dative is:plural
 SFX M   um          ám         [^i]um is:dative is:plural
+SFX M   o           á          [^i][aeiouy]..o is:accusative is:plural
+SFX M   o           á          [^aáeéiíoóŕuúyý]..o is:accusative is:plural
+SFX M   o           a          i[aeou].o is:accusative is:plural
+SFX M   o           a          [áéíóŕúý].o is:accusative is:plural
+SFX M   o           á          [^áéíóŕúý].o is:accusative is:plural
+SFX M   um          á          ium is:accusative is:plural
+SFX M   um          á          [^i]um is:accusative is:plural
 SFX M   o           a          i[aeou]..o is:accusative is:plural
 SFX M   o           á          [^i][aeiouy]..o is:accusative is:plural
 SFX M   o           a          [áéíóŕúý]..o is:accusative is:plural
@@ -526,7 +550,7 @@ SFX M   o           ami        [^áéíóŕúý].o is:instrumental is:plural
 SFX M   um          ami        ium is:instrumental is:plural
 SFX M   um          ami        [^i]um is:instrumental is:plural
 
-SFX S Y 22  #treba dorobit rytmický zákon pre -ia/a, iam/am a iach/ach
+SFX S Y 27  #treba dorobit rytmický zákon pre -ia/a, iam/am a iach/ach
 SFX S   e           a          [^t]e is:genitive
 SFX S   e           ťa         te is:genitive
 SFX S   e           a          i[aeu]..e is:genitive
@@ -535,6 +559,7 @@ SFX S   e           a          [ôáéíóúĺŕ]..eis:genitive
 SFX S   e           a          [ôáéíóúĺŕ].eis:genitive
 SFX S   e           u          [^t]e is:dative
 SFX S   e           ťu         te is:dative
+SFX S   0           0          . is:accusative
 SFX S   e           i          [^t]e is:locative
 SFX S   e           ti         te is:locative
 SFX S   e           om         [^t]e is:instrumental
@@ -547,22 +572,30 @@ SFX S   e           í          re is:genitive is:plural
 SFX S   ece         iec        ece is:genitive is:plural
 SFX S   rdce        ŕdc        rdce is:genitive is:plural
 SFX S   e           iam        e is:dative is:plural
+SFX S   e           ia         [^i][aeu]..e is:accusative is:plural
+SFX S   e           ia         [^i][aeu].e is:accusative is:plural
+SFX S   e           ia         [^ôáéíóúĺŕ]..e is:accusative is:plural
+SFX S   e           ia         [^ôáéíóúĺŕ].e is:accusative is:plural
 SFX S   e           iach       e is:locative is:plural
 SFX S   e           ami        e is:instrumental is:plural
 
-SFX V Y 8
+SFX V Y 11
 SFX V   e           a          e is:genitive
 SFX V   e           u          e is:dative
+SFX V   0           0          . is:accusative
 SFX V   ie          í          ie is:locative
 SFX V   ie          ím         ie is:instrumental
+SFX V   e           a          e is:nominative is:plural
 SFX V   ie          í          ie is:genitive is:plural
 SFX V   e           am         e is:dative is:plural
+SFX V   e           a          e is:accusative is:plural
 SFX V   e           ach        e is:locative is:plural
 SFX V   e           ami        e is:instrumental is:plural
 
-SFX A Y 30
+SFX A Y 35
 SFX A   0           ťa         . is:genitive
 SFX A   0           ťu         . is:dative
+SFX A   0           0          . is:accusative
 SFX A   0           ti         . is:locative
 SFX A   0           ťom        . is:instrumental
 SFX A   a           ence       [č]a is:nominative is:plural
@@ -579,6 +612,10 @@ SFX A   a           encom      [č]a is:dative is:plural
 SFX A   0           ncom       úbä is:dative is:plural
 SFX A   a           com        [^č]a is:dative is:plural
 SFX A   0           tám        . is:dative is:plural
+SFX A   a           ence       [č]a is:accusative is:plural
+SFX A   0           nce        úbä is:accusative is:plural
+SFX A   a           ce         [^č]a is:accusative is:plural
+SFX A   0           tá         . is:accusative is:plural
 SFX A   a           ence       [č]a is:accusative is:plural
 SFX A   0           nce        úbä is:accusative is:plural
 SFX A   a           ce         [^č]a is:accusative is:plural
@@ -913,7 +950,7 @@ SFX H   a           ov         a is:accusative is:plural
 SFX H   a           och        a is:locative is:plural
 SFX H   0           mi         a is:instrumental is:plural
 
-SFX B Y 214
+SFX B Y 215
 SFX B   0           a          [áéíóúý]rod is:genitive
 SFX B   0           u          [^áéíóúý]rod is:genitive
 SFX B   0           u          [^r]od is:genitive
@@ -960,6 +997,7 @@ SFX B   0           u          [^u]s is:dative
 SFX B   0           u          [^áéíóúý]vet is:dative
 SFX B   0           u          o[hlm]ov is:dative
 SFX B   og          gu         zog is:dative
+SFX B   0           0          . is:accusative
 SFX B   0           e          [áéíóúý]rod is:locative
 SFX B   0           e          [^r]od is:locative
 SFX B   0           e          [^o]d is:locative
