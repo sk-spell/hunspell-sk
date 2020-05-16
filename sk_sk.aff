@@ -6,7 +6,7 @@ TRY aoeintsvrlkmdpuhjzácbyčžíšýúťéľôďgfňäóŕxĺwěřqůAOEINTSVRL
 # - multicharacter suggestions
 # - well-sorted suggestions 
 
-REP 52
+REP 53
 REP a á
 REP á a
 REP í i
@@ -59,6 +59,7 @@ REP ľ l
 REP ĺ l
 REP ĺ ľ
 REP ľ ĺ
+REP ds c
 
 PFX N Y 1     # predpona ne-
 PFX N   0           ne         .
