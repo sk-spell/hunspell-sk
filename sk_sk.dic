@@ -6630,6 +6630,7 @@ bezdomovo
 bezdomovský/YN po:adjective
 bezdomovstvo/M po:noun is:neuter
 bezdomový/YN po:adjective
+bezdotykový/Y po:adjective
 bezdrevný/YN po:adjective
 bezdrôtovo
 bezdrôtový/YN po:adjective
@@ -8527,7 +8528,7 @@ Bolešov
 Bolešova
 Bolešove
 bolešovského
-boli st:byť po:verb is:plural is:past
+boli/N st:byť po:verb is:plural is:past
 boliaci
 Boliarov
 bolid
@@ -8535,7 +8536,7 @@ bolier
 bolievať/XN
 bolieť/RN
 bolivian
-bolo
+bolo/N st:byť po:verb s:neuter is:past
 Bologna/U po:noun is:feminine
 bolomete
 bolonský/YN po:adjective
@@ -8623,6 +8624,7 @@ bonsajistika/zZ po:noun is:feminine
 bonsajový/YN po:adjective
 bontón/B po:noun is:masculine
 bonus/B po:noun is:masculine
+bonusový/V po:adjective
 bonviván/C po:noun is:masculine
 bonvivánsky
 bonvivánstvo
@@ -25144,7 +25146,7 @@ epidemický/Y po:adjective
 epidemiologicky
 epidemiologický/Y po:adjective
 epidemiologička/zZ po:noun is:feminine
-epidemiológ/C po:noun is:masculine
+epidemiológ/c po:noun is:masculine
 epidemiológia/U po:noun is:feminine
 epiderma/zZ po:noun is:feminine
 epidermický/YN po:adjective
@@ -29724,6 +29726,7 @@ gastronómia/U po:noun is:feminine
 gastronómka/zZ po:noun is:feminine
 gastronómovia
 gastropatia
+gastroprevádzka/Zz po:noun is:feminine
 Gastroskop
 gastroskop
 gastroskopia
@@ -31448,6 +31451,8 @@ Hace
 hach
 hacienda/zZ po:noun is:feminine
 hacker/C po:noun is:masculine
+hackerský/Y po:adjective
+hackovať/WN po:verb
 hackera
 hackeri
 hackermi
@@ -38882,10 +38887,12 @@ Iľja/H po:noun is:masculine
 iľjušin/B po:noun is:masculine
 Iľku
 Iňa
-išiel
-išla
-išli
-išlo
+išiel/N po:verb st:ísť is:1st_person is:past
+išiel/N po:verb st:ísť is:2nd_person is:past
+išiel/N po:verb st:ísť is:3rd_person is:masculine is:past
+išla/N po:verb st:ísť is:3rd_person is:feminine is:past
+išli/N po:verb st:ísť is:plural is:past
+išlo/N po:verb st:ísť is:3rd_person is:neuter is:past
 išpán/C po:noun is:masculine
 išpánsky/YN po:adjective
 išpánstvach
@@ -106049,7 +106056,7 @@ nakupovaný/YN po:adjective
 nakupovač/C po:noun is:masculine
 nakupovačka/zZ po:noun is:feminine
 nakupovať/WN
-nakupujúci
+nakupujúci/Y po:adjective
 nakustriť
 nakučeriť
 nakuť/WN
@@ -111076,10 +111083,6 @@ neistôt
 neiď
 neiďme
 neiďte
-neišiel
-neišla
-neišli
-neišlo
 nej po:pronoun is:3rd_person is:feminine is:genitive
 nej po:pronoun is:3rd_person is:feminine is:dative
 nej po:pronoun is:3rd_person is:feminine is:locative
@@ -145786,6 +145789,7 @@ peši
 pešiacky/Y po:adjective
 pešiak/C po:noun is:masculine
 pešiakový/YN po:adjective
+pexeso/M po:noun is:neuter
 Pešina
 pešky
 pešovať
@@ -161887,7 +161891,7 @@ prevádzkovať/WN
 prevádzkovo
 prevádzkovotechnický/Y po:adjective
 prevádzkový/YN po:adjective
-prevádzkujúci
+prevádzkujúci/YN po:adjective
 prevádzkyschopnosť/K po:noun is:feminine
 prevádzkyschopný/YN po:adjective
 prevádzkár
@@ -204193,6 +204197,7 @@ videodísk
 videofilm/B po:noun is:masculine
 videofón
 videofónov
+videohovor/B po:noun is:masculine
 videohra
 videokamera/zZ po:noun is:feminine
 videokamier
@@ -215072,6 +215077,7 @@ weismannizmus
 wellingtonia
 wellingtonský/YN po:adjective
 welshteriér
+wellness/B po:noun is:masculine
 welter
 welšský/Y po:adjective
 wenlock
@@ -232898,6 +232904,7 @@ zžívať/XN
 ľudožrútstvam
 ľudožrútstvo/M po:noun is:neuter
 ľudskosť/K po:noun is:feminine
+ľudskoprávny/Y po:adjective
 ľudsky
 ľudský/YN po:adjective
 ľudstvo/M po:noun is:neuter
@@ -234128,7 +234135,9 @@ zžívať/XN
 šidielko/M po:noun is:neuter
 šidielok
 šidlo/M po:noun is:neuter
-šiel/N
+šiel/N po:verb st:ísť is:1st_person is:past
+šiel/N po:verb st:ísť is:2nd_person is:past
+šiel/N po:verb st:ísť is:3rd_person is:masculine is:past
 šiestacký/YN po:adjective
 šiestak/C po:noun is:masculine
 šiestačka/zZ po:noun is:feminine
@@ -234935,7 +234944,7 @@ zžívať/XN
 šlichtovacieho
 šlichtovanie
 šlik
-šlo/N
+šlo/N po:verb st:ísť is:3rd_person is:neuter is:past
 šlohla
 šlohli
 šlohlo
