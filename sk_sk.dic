@@ -26074,7 +26074,8 @@ exotický/YN po:adjective
 exotika/zZ po:noun is:feminine
 exotizmus
 exozoochória
-expander/D po:noun is:feminine
+expander/b po:noun is:masculine
+expandera po:noun is:masculine is:genitive
 expandia
 expandit
 expandoval
@@ -151246,7 +151247,7 @@ polotovarových
 polotuhý/YN po:adjective
 polotučne
 polotučný/YN po:adjective
-polotvar/D po:noun is:feminine
+polotvar/b po:noun is:masculine
 polotvarmi
 polotvaroch
 polotvarom
@@ -151881,7 +151882,7 @@ pomykať/EN
 pomyknúť/WN
 pomykov/B po:noun is:masculine
 pomykávať/XN
-pomysel/D po:noun is:feminine
+pomysel/O po:noun is:masculine
 pomyselne
 pomyselný/YN po:adjective
 pomyslami
