@@ -76,7 +76,9 @@ SFX z   a           e          [^euo]a is:locative
 SFX z   a           i          [euo]a is:locative
 SFX z   a           ou         a is:instrumental
 
-SFX Z Y 159     # vzor žena množné číslo
+SFX Z Y 165     # vzor žena množné číslo
+SFX Z   ina         ín         ina is:genitive is:plural
+SFX Z   a           0          ína is:genitive is:plural
 SFX Z   a           y          a is:nominative is:plural
 SFX Z   a           í          [euo]a is:genitive is:plural
 SFX Z   ka          k          [^áéíóúýô].oka is:genitive is:plural
@@ -218,6 +220,8 @@ SFX Z   a           ám         [aeuoiyä][brs][ckrt][hmn]a is:dative is:plural
 SFX Z   a           ám         [bčdfkmprsštv][klrstv][cčknrstvzž][bdhkmntv]a is:dative is:plural
 SFX Z   a           ám         [^i][aeuoiyä][bcčdďfghjklľmnprsštťvxzž][bcčdďfghjklľmnňprsštvxzž]a is:dative is:plural
 SFX Z   a           ám         [^iť][aeuoiyä][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž]a is:dative is:plural
+SFX Z   a           ám         ina is:dative is:plural
+SFX Z   a           am         ína is:dative is:plural
 SFX Z   a           y          a is:accusative is:plural
 SFX Z   0           ch         [áéíóŕúýô].a is:locative is:plural
 SFX Z   0           ch         i[aeu].a is:locative is:plural
@@ -236,6 +240,8 @@ SFX Z   a           ách        [bčdfkmprsštv][klrstv][cčknrstvzž][bdhkmntv]
 SFX Z   a           ách        [^i][aeuoiyä][bcčdďfghjklľmnprsštťvxzž][bcčdďfghjklľmnňprsštvxzž]a is:locative is:plural
 SFX Z   a           ách        [^iť][aeuoiyä][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž][bcčdďfghjklľmnprsštvxzž]a is:locative is:plural
 SFX Z   a           ami        a is:instrumental is:plural
+SFX Z   a           ách        ina is:locative is:plural
+SFX Z   a           ach        ína is:locative is:plural
 
 SFX U Y 48
 SFX U   a           e          [^ďťňľ]a is:genitive
