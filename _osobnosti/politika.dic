@@ -1,15 +1,23 @@
 1000
 Babiš/c po:noun is:masculine
 Babišov/Y po:adjective
+Balciar/c po:noun is:masculine
+Balciarov/Y po:adjective
+Bašternák/c po:noun is:masculine
+Bašternákov/Y po:adjective
 Beblavého/Y po:adjective
 Beblavý/Y po:noun is:masculine
 Beneš/c po:noun is:masculine
 Benešov/Y po:adjective
+Bödör/c po:noun is:masculine
+Bödörov/Y po:adjective
 Bugár/c po:noun is:masculine
 Bugárov/Y po:adjective
 Clinton/c po:noun is:masculine
 Clintonov/Y po:adjective
 Čaputová/Y po:noun is:feminine
+Čentéš/c po:noun is:masculine
+Čentéšov/Y po:adjective
 Čižnár/c po:noun is:masculine
 Čižnárov/Y po:adjective
 Danko/c po:noun is:masculine
@@ -27,6 +35,8 @@ Havel/c po:noun is:masculine
 Havlov/Y po:adjective
 Jahnátek/L po:noun is:masculine
 Jahnátkov/Y po:adjective
+Jankovská/Y po:noun is:masculine
+Kaliňák/c po:noun is:masculine
 Kiska/H po:noun is:masculine
 Kiskov/Y po:adjective
 Klaus/C po:noun is:masculine
@@ -41,31 +51,56 @@ Kováč/c po:noun is:masculine
 Kováčov/Y po:adjective
 Kuciak/c po:noun is:masculine
 Kuciakov/Y po:adjective
+Kuffa/H po:noun is:masculine
+Kuffov/Y po:adjective
+Kurz/c po:noun is:masculine
+Kurzov/Y po:adjective
+Kušnírová/Y po:noun is:masculine
+Lipšic/c po:noun is:masculine
+Lipšicov/Y po:adjective
+Lučanský/Y po:noun is:masculine
 Lukašenko/c po:noun is:masculine
 Lukašenkov/Y
 Macron/c po:noun is:masculine
 Macronov/Y po:adjective
 Matovič/c po:noun is:masculine
 Matovičov/Y po:adjective
+Mayová/Y po:noun is:feminine
 Mečiar/c po:noun is:masculine
 Mečiarov/Y po:adjective
+Medvedev/c po:noun is:masculine
 Merkelová/Y po:noun is:feminine
+Mihál/c po:noun is:masculine
+Mihálov/Y po:adjective
+Mikloš/c po:noun is:masculine
+Miklošov/Y po:adjective
 Nečas/C po:noun is:masculine
 Nečasov/Y po:adjective
 Obama/c po:noun is:masculine
 Obamov/Y po:adjective
+Orbán/c po:noun is:masculine
+Orbánov/Y po:adjective
 Paroubek/c po:noun is:masculine
 Paroubkov/Y po:adjective
+Paška/H po:noun is:masculine
+Paškov/Y po:adjective
 Pellegrini/c po:noun is:masculine
 Pellegriniho/Y po:adjective
+Počiatek/c po:noun is:masculine
+Počiatkov/Y po:adjective
+Porošenko/c po:noun is:masculine
+Porošenkov/Y po:adjective
 Putin/c po:noun is:masculine
 Putinov/Y po:adjective
+Radičová/Y po:noun is:feminine
 Remišová/Y po:noun is:feminine
-Remišová/Y po:noun is:feminine
+Richter/c po:noun is:masculine
+Richterov/Y po:adjective
 Schuster/c po:noun is:masculine
 Schusterov/Y po:adjective
 Slota/H po:noun is:masculine
 Slotov/Y po:adjective
+Široký/Y po:noun is:masculine
 Tomanová/Y po:noun is:feminine
 Topolánek/c po:noun is:masculine
 Topolánkov/Y po:adjective
