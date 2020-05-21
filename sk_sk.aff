@@ -2506,7 +2506,7 @@ SFX W   úť          ula        [aeilľory]núť is:3rd_person is:feminine is:p
 SFX W   úť          ulo        [aeilľory]núť is:3rd_person is:neuter is:past
 SFX W   úť          uli        [aeilľory]núť is:3rd_person is:plural is:past
 
-SFX T Y 193
+SFX T Y 195
 SFX T   ať          iam        [cčzrš]ať is:1st_person
 SFX T   ať          iaš        [cčzrš]ať is:2nd_person
 SFX T   ať          ia         [cčzrš]ať is:3rd_person
@@ -2567,6 +2567,8 @@ SFX T   ať          úc         [^ks]lať is:participle
 SFX T   ať          i          [^ks]lať is:2nd_person is:plural is:imperative
 SFX T   ať          ime        [^ks]lať is:1st_person is:plural is:imperative
 SFX T   ať          ite        [^ks]lať is:2nd_person is:plural is:imperative
+SFX T   ať          0          [^rj]bať is:2nd_person is:imperative
+SFX T   ať          i          [rj]bať is:2nd_person is:imperative
 SFX T   ľať         lem        ľať is:1st_person
 SFX T   ľať         leš        ľať is:2nd_person
 SFX T   ľať         le         ľať is:3rd_person
