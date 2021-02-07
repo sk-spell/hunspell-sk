@@ -293,7 +293,7 @@ SFX U   ťa          tiach      ťa is:locative is:plural
 SFX U   a           iach       [^ďťňľi]a is:locative is:plural
 SFX U   a           ami        a is:instrumental is:plural
 
-SFX D Y 201
+SFX D Y 197
 SFX D   ec          ce         ec is:genitive
 SFX D   ď           de         ď is:genitive
 SFX D   eľ          le         seľ is:genitive
@@ -405,8 +405,7 @@ SFX D   eň          ňam        [áýí]zeň is:dative is:plural
 SFX D   eň          ňam        priazeň is:dative is:plural
 SFX D   eň          ňam        báseň is:dative is:plural
 SFX D   eň          ňam        i[ae]reň is:dative is:plural
-SFX D   eň          ňam        ec is:dative is:plural
-SFX D   ľ           liam       [^s][ye][ľl] is:dative is:plural
+SFX D   ľ           liam       [^s][ye][ľ] is:dative is:plural
 SFX D   el          liam       sel is:dative is:plural
 SFX D   eľ          liam       myseľ is:dative is:plural
 SFX D   eľ          le         seľ is:accusative is:plural
@@ -455,7 +454,6 @@ SFX D   ď           diach      [eoru]ď is:locative is:plural
 SFX D   ď           diach      [^i]aď is:locative is:plural
 SFX D   ň           niach      lebeň is:locative is:plural
 SFX D   ň           niach      [alou]ň is:locative is:plural
-SFX D   ň           niach      eňa is:locative is:plural
 SFX D   ň           niach      čeň is:locative is:plural
 SFX D   ň           niach      jeseň is:locative is:plural
 SFX D   ň           niach      [^á]leň is:locative is:plural
@@ -477,8 +475,7 @@ SFX D   eň          ňach       [áýí]zeň is:locative is:plural
 SFX D   eň          ňach       priazeň is:locative is:plural
 SFX D   eň          ňach       báseň is:locative is:plural
 SFX D   eň          ňach       i[ae]reň is:locative is:plural
-SFX D   eň          ňach       ec is:locative is:plural
-SFX D   ľ           liach      [^s][ye][ľl] is:locative is:plural
+SFX D   ľ           liach      [^s][ye][ľ] is:locative is:plural
 SFX D   el          liach      sel is:locative is:plural
 SFX D   eľ          liach      myseľ is:locative is:plural
 SFX D   ec          ciach      ec is:locative is:plural
