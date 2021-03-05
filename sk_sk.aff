@@ -1033,7 +1033,7 @@ SFX H   a           ov         a is:accusative is:plural
 SFX H   a           och        a is:locative is:plural
 SFX H   0           mi         a is:instrumental is:plural
 
-SFX B Y 215
+SFX B Y 214
 SFX B   0           a          [áéíóúý]rod is:genitive
 SFX B   0           u          [^áéíóúý]rod is:genitive
 SFX B   0           u          [^r]od is:genitive
@@ -1415,7 +1415,7 @@ SFX J   ôž          ožmi       ôž is:instrumental is:plural
 SFX J   0           mi         [e][^cľňr] is:instrumental is:plural
 SFX J   0           mi         [^ceľňršž] is:instrumental is:plural
 
-SFX L Y 79
+SFX L Y 77
 SFX L   ec          ca         ec is:genitive
 SFX L   o           a          o is:genitive
 SFX L   0           a          [tv]er is:genitive
@@ -1494,7 +1494,7 @@ SFX L   es          sami       es is:instrumental is:plural
 SFX L   0           mi         [^céior] is:instrumental is:plural
 SFX L   us          ami        us is:instrumental is:plural
 
-SFX O Y 102
+SFX O Y 97
 SFX O   ok          ka         ok is:genitive
 SFX O   el          lu         el is:genitive
 SFX O   ol          la         ol is:genitive
