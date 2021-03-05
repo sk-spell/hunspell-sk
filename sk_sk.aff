@@ -1170,7 +1170,6 @@ SFX B   0           om         [^r]od is:dative is:plural
 SFX B   0           om         [^o]d is:dative is:plural
 SFX B   0           om         to[klnv] is:dative is:plural
 SFX B   0           om         [^t]o[klnv] is:dative is:plural
-SFX B   0           om         [^t]o[klnv] is:dative is:plural
 SFX B   0           om         el is:dative is:plural
 SFX B   0           om         [^eoô]l is:dative is:plural
 SFX B   0           om         [^o][knv] is:dative is:plural
@@ -1249,7 +1248,6 @@ SFX B   0           mi         [^dgklmrstv] is:instrumental is:plural
 SFX B   0           ami        [m] is:instrumental is:plural
 SFX B   og          gmi        zog is:instrumental is:plural
 SFX B   0           mi         [^z]og is:instrumental is:plural
-
 
 SFX J Y 164
 SFX J   iec         ca         iec is:genitive
@@ -1443,7 +1441,6 @@ SFX L   0           om         [^e][cr] is:instrumental
 SFX L   es          som        es is:instrumental
 SFX L   0           om         [^céior] is:instrumental
 SFX L   us          om         us is:instrumental
-SFX L   us          om         us is:instrumental
 SFX L   0           e          č is:nominative is:plural
 SFX L   ec          ce         ec is:nominative is:plural
 SFX L   0           via        o is:nominative is:plural
@@ -1469,7 +1466,6 @@ SFX L   er          rom        [^tv]er is:dative is:plural
 SFX L   0           om         [^e][cr] is:dative is:plural
 SFX L   es          som        es is:dative is:plural
 SFX L   0           om         [^céior] is:dative is:plural
-SFX L   us          om         us is:dative is:plural
 SFX L   us          om         us is:dative is:plural
 SFX L   0           e          č is:accusative is:plural
 SFX L   ec          ce         ec is:accusative is:plural
@@ -1528,13 +1524,11 @@ SFX O   on          ne         on is:locative
 SFX O   ok          kom        ok is:instrumental
 SFX O   el          lom        el is:instrumental
 SFX O   ol          lom        ol is:instrumental
-SFX O   ol          lom        ol is:instrumental
 SFX O   em          mom        jem is:instrumental
 SFX O   en          nom        en is:instrumental
 SFX O   ietor       etrom      ietor is:instrumental
 SFX O   or          rom        [^t]or is:instrumental
 SFX O   et          tom        et is:instrumental
-SFX O   ov          vom        ov is:instrumental
 SFX O   ov          vom        ov is:instrumental
 SFX O   on          nom        on is:instrumental
 SFX O   ok          ky         ok is:nominative is:plural
@@ -1561,8 +1555,6 @@ SFX O   on          nov        on is:genitive is:plural
 SFX O   ok          kom        ok is:dative is:plural
 SFX O   el          lom        el is:dative is:plural
 SFX O   ol          lom        ol is:dative is:plural
-SFX O   ol          lom        ol is:dative is:plural
-SFX O   em          mom        jem is:dative is:plural
 SFX O   em          mom        jem is:dative is:plural
 SFX O   en          nom        en is:dative is:plural
 SFX O   ietor       etrom      ietor is:dative is:plural
@@ -1599,7 +1591,6 @@ SFX O   ietor       etrami     ietor is:instrumental is:plural
 SFX O   or          rami       [^t]or is:instrumental is:plural
 SFX O   et          tami       et is:instrumental is:plural
 SFX O   ov          vami       ov is:instrumental is:plural
-SFX O   on          nami       on is:instrumental is:plural
 SFX O   on          nami       on is:instrumental is:plural
 
 SFX Q Y 53
