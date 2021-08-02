@@ -618,13 +618,13 @@ SFX M   o           ami        [^áéíóŕúý].o is:instrumental is:plural
 SFX M   um          ami        ium is:instrumental is:plural
 SFX M   um          ami        [^i]um is:instrumental is:plural
 
-SFX S Y 27  #treba dorobit rytmický zákon pre -ia/a, iam/am a iach/ach
+SFX S Y 27  # treba dorobit rytmický zákon pre -ia/a, iam/am a iach/ach
 SFX S   e           a          [^t]e is:genitive
 SFX S   e           ťa         te is:genitive
 SFX S   e           a          i[aeu]..e is:genitive
-SFX S   e           a          i[aeu].eis:genitive
-SFX S   e           a          [ôáéíóúĺŕ]..eis:genitive
-SFX S   e           a          [ôáéíóúĺŕ].eis:genitive
+SFX S   e           a          i[aeu].e is:genitive
+SFX S   e           a          [ôáéíóúĺŕ]..e is:genitive
+SFX S   e           a          [ôáéíóúĺŕ].e is:genitive
 SFX S   e           u          [^t]e is:dative
 SFX S   e           ťu         te is:dative
 SFX S   0           0          . is:accusative
