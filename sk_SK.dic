@@ -1,4 +1,4 @@
-184886
+184829
 á
 Á
 à
@@ -4316,7 +4316,6 @@ atmosfér
 atmosférach
 atmosféram
 atmosféra/zZ po:noun is:feminine
-atmosferický/YN po:adjective
 atmosférický/YN po:adjective
 atmosferílie
 ATM po:acronym
@@ -5222,15 +5221,14 @@ bádanie/V po:noun is:neuter
 badaný/YN po:adjective
 bádateľ/c po:noun is:masculine
 bádateľka/zZ po:noun is:feminine
-badateľne
+badateľne po:adverb
 badateľný/YN po:adjective
 bádateľov/Y po:adjective
-bádateľsky
-badateľský/YN po:adjective
+bádateľsky po:adverb
 bádateľský/YN po:adjective
 badať/EN po:verb
 bádať/XN po:verb
-bádavo
+bádavo po:adverb
 bádavosť/K po:noun is:feminine
 bádavý/YN po:adjective
 baden
@@ -16730,6 +16728,7 @@ Danišom
 Danišová/Y po:adjective
 Danišovho
 Danišovia
+Danka/zZ po:noun is:feminine
 Dánka/zZ po:noun is:feminine
 dano
 dánom
@@ -34784,12 +34783,11 @@ hlbočizný/YN po:adjective
 hlbockej
 hĺbok
 hlbokánsky/YN po:adjective
-hlboko
-hlbokomorské
-hlbokomorských
-hlbokomyseľne
+hlbokomorský/YN po:adjective
+hlbokomyseľne po:adverb
 hlbokomyseľnosť/K po:noun is:feminine
 hlbokomyseľný/YN po:adjective
+hlboko po:adverb
 hlboký/YN po:adjective
 hlbší/PF po:adjective
 hlesnúť/WN
@@ -47224,18 +47222,9 @@ kondikcia
 kondolencia/U po:noun is:feminine
 kondolenčný/YN po:adjective
 kondolovať/WN po:verb
-kondom
 kondóm/B po:noun is:masculine
-kondomínia
-kondomíniá
-kondomíniách
-kondomínií
-kondomíniu
-kondomínium
-kondomov
+kondomínium/M po:noun is:neuter
 kondómový/Y po:adjective
-kondomu
-Kondomy
 kondor/B po:noun is:masculine
 kondorovi
 kondotiér
@@ -47248,7 +47237,6 @@ konduktor
 kondyl
 kondylóm
 kone
-kône
 konečník/B po:noun is:masculine
 konečníkový/YN po:adjective
 konečno/M po:noun is:neuter
@@ -47458,7 +47446,7 @@ Konkoľ
 konkordácia
 konkordancia
 konkordát/C po:noun is:masculine
-konkordáte
+konkordáte po:adverb
 konkordátny/YN po:adjective
 konkordátov/Y po:adjective
 konkordátu
@@ -47478,12 +47466,9 @@ konkrétnosť/K po:noun is:feminine
 konkrétny/YN po:adjective
 konkrétum/M po:noun is:neuter
 konkubín
-konkubína
 konkubinát/C po:noun is:masculine
-konkubináte
-konkubinátov/Y po:adjective
-konkubinátu
-konkubináty
+konkubinátny/Y po:adjective
+konkubína/zZ po:noun is:feminine
 konkurencia/U po:noun is:feminine
 konkurencieschopnosť/K po:noun is:feminine
 konkurencieschopný/Y po:adjective
@@ -47507,8 +47492,7 @@ konofikácia
 konofilm
 koňom
 konôp
-konopárske
-konopárskych
+konopársky/YN po:adjective
 konopa/zZ po:noun is:feminine
 konopí
 konopiach
@@ -47934,10 +47918,6 @@ konzervatívec/C po:noun is:masculine
 konzervativizmus/B po:noun is:masculine
 konzervatívnosť/K po:noun is:feminine
 konzervatívny/YN po:adjective
-konzervatizme
-konzervatizmom
-konzervatizmu
-konzervatizmus
 konzervátor/B po:noun is:masculine
 konzervátori
 konzervatorista/H po:noun is:masculine
@@ -48254,7 +48234,7 @@ korčuliar/C po:noun is:masculine
 korčuliarka/zZ po:noun is:feminine
 korčuliarov/Y po:adjective
 korčuliarsky/Y po:adjective
-korčulovačky
+korčulovačka/ZZ po:noun is:feminine
 korčuľovanie/VN po:noun is:neuter
 korčuľovať/WN po:verb
 Korda
@@ -48267,7 +48247,7 @@ Kordíky
 kordillera
 kordillersky
 Kordillery/Q
-kordomyóm
+kordomyóm/B po:noun is:masculine
 kordón/B po:noun is:masculine
 kordonet
 kordónový/YN po:adjective
@@ -48287,28 +48267,18 @@ koreferentov/Y po:adjective
 kórej
 Kórejčan/c po:noun is:masculine
 Kórejčanov/Y po:adjective
-kórejčin
-kórejčín
-kórejčinách
-kórejčinám
-kórejčinami
 kórejčina/z po:noun is:feminine
 Kórejcov/Y po:adjective
 Kórejec/C po:noun is:masculine
-kórejsky
+kórejsky po:adverb
 kórejský/YN po:adjective
 korekcia/U po:noun is:feminine
-korekčne
+korekčne po:adverb
 korekčný/YN po:adjective
-korektív
-korektívna
-korektívne
-korektívnej
-korektívnym
-korektívom
-korektívov
-korektívy
-korektne
+korektív/B po:noun is:masculine
+korektívne po:adverb
+korektívny/YN po:adjective
+korektne po:adverb
 korektnosť/K po:noun is:feminine
 korektný/YN po:adjective
 korektor/CB po:noun is:masculine
@@ -48357,13 +48327,9 @@ korepetičný/YN po:adjective
 korepetítor/C po:noun is:masculine
 korepetítorov/Y po:adjective
 korepetítorský/YN po:adjective
-korešpodencia
-korešpodencie
-korešpodencii
-korešpodenciou
-korešpodenciu
+korešpodencia/U po:noun is:feminine
 korešpondencia/U po:noun is:feminine
-korešpondenčne
+korešpondenčne po:adverb
 korešpondenčný/YN po:adjective
 korešpondent/C po:noun is:masculine
 korešpondentka/zZ po:noun is:feminine
@@ -48371,8 +48337,7 @@ korešpondentov/Y po:adjective
 korešpondentský/YN po:adjective
 korešpondovanie/VN po:noun is:neuter
 korešpondovať/WN po:verb
-korešpondujúce
-korešpondujúci
+korešpondujúci/YN po:adjective
 korfball
 korheľčiť
 korheľ/C po:noun is:masculine
@@ -48506,7 +48471,7 @@ korporačný/YN po:adjective
 korporativizmu
 korporativizmus
 korporatívny/YN po:adjective
-korporátnych
+korporátny/YN po:adjective
 korpulencia/U po:noun is:feminine
 korpulentne
 korpulentnosť/K po:noun is:feminine
@@ -48516,14 +48481,8 @@ korpuskula
 korpuskulárny/YN po:adjective
 korpusový/Y po:adjective
 korsak
-koršpondencia
 korte
-kortešačiek
-kortešačka
-kortešačkách
-kortešačkou
-kortešačku
-kortešačky
+kortešačka/zZ po:noun is:feminine
 korteš/J po:noun is:masculine
 kortešovanie/VN po:noun is:neuter
 kortešovať/WN po:verb
@@ -54172,7 +54131,7 @@ liečba/z po:noun is:feminine
 liečebňa/U po:noun is:feminine
 liečebno
 liečebný/YN po:adjective
-liečenie/V po:noun is:neuter
+liečenie/VN po:noun is:neuter
 liečený/YN po:adjective
 liečiaca
 liečiteľ/c po:noun is:masculine
@@ -57310,8 +57269,8 @@ mamuťou
 mamutov/Y po:adjective
 mamuty
 man
-mán
 má/N
+mán
 mana
 Maňa
 management/B po:noun is:masculine
@@ -88982,6 +88941,7 @@ odievačka
 odievanie/V po:noun is:neuter
 odievať/XN po:verb
 odievka
+odignorovať/WN po:verb
 Odin
 odinakadiaľ
 odinakiaľ
@@ -98006,9 +97966,9 @@ parotída
 parotis
 parotitída
 párov
-párovací
 párovacie
 párovacieho
+párovací/IN po:adjective
 párovanie/VN po:noun is:neuter
 párovaný/YN po:adjective
 párovať/WN po:verb
@@ -114836,21 +114796,8 @@ prepôn
 prepona/zZ po:noun is:feminine
 preponderancia
 preporodiť
-preposlal
-preposlala
-preposlali
-preposlalo
-preposlať
-prepošle
-prepošlem
-prepošleme
-prepošleš
-prepošlete
-prepošli
-prepošlime
-prepošlite
-prepošlú
-prepošlúc
+preposlaný/YN po:adjective
+preposlať/TN po:verb
 prepošstvo/M po:noun is:neuter
 prepošta
 prepošt/B po:noun is:masculine
@@ -118948,7 +118895,6 @@ prítomna
 prítomne
 prítomno
 prítomnosť/KN po:noun is:feminine
-prítomnosť/K po:noun is:feminine
 prítomnostný/YN po:adjective
 prítomnu
 prítomný/YN po:adjective
@@ -141428,7 +141374,7 @@ starožitník/C po:noun is:masculine
 starožitníkov/Y po:adjective
 starožitnosť/K po:noun is:feminine
 starožitný/YN po:adjective
-Staroznámu
+staroznámy/Y po:adjective
 staršina/H po:noun is:masculine
 staršinov/Y po:adjective
 starší/PF po:adjective
@@ -168293,12 +168239,7 @@ výslednicový/YN po:adjective
 výsledný/YN po:adjective
 výsledok/O po:noun is:masculine
 vysledovateľnosť/KN po:noun is:feminine
-výsledoviek
-výsledovka
-výsledovkách
-výsledovke
-výsledovku
-výsledovky
+výsledovka/zZ po:noun is:feminine
 vyšliapaný/YN po:adjective
 vyšliapať/TN po:verb
 vyšliapavala
