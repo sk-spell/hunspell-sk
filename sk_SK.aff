@@ -1631,7 +1631,7 @@ SFX Q   y           ami        [hkn]y is:instrumental is:plural
 SFX Q   asy         asmi       asy is:instrumental is:plural
 SFX Q   0           mi         ta is:instrumental is:plural
 
-SFX Y Y 499				# 339+160
+SFX Y Y 498				# 338+160
 SFX Y   e           ejšie      e po:adverb is:comparative
 SFX Y   e           ejšie      e po:adjective is:comparative is:neuter is:nominative is:plural
 SFX Y   e           ejšie      e po:adjective is:comparative is:feminine is:nominative is:plural
@@ -2028,7 +2028,7 @@ SFX Y   i           ejšom/Fs   i po:adjective is:comparative is:neuter is:locat
 SFX Y   i           ejšom/Fs   i po:adjective is:comparative is:feminine is:instrumental
 SFX Y   i           ejšou/Fs   i po:adjective is:comparative is:masculine is:instrumental is:plural
 SFX Y   i           ejšími/Fs  i po:adjective is:comparative is:neuter is:instrumental is:plural
-SFX Y   y           ejšími/Fs  ejšie/Fs   [klntv]y is:masculine is:nominative is:plural
+SFX Y   y           ejšie/Fs   [klntv]y is:masculine is:nominative is:plural
 SFX Y   y           ejšie/Fs   [bklmnprtv]y is:feminine is:nominative is:plural
 SFX Y   y           ejšie/Fs   [bklmnprtv]y is:neuter is:nominative is:plural
 SFX Y   y           ejšie/Fs   [bklmnprtv]y is:masculine is:accusative is:plural
@@ -2132,7 +2132,7 @@ SFX Y   ý           šími/Fs    [dh]ý is:masculine is:instrumental is:plural
 SFX Y   ý           šími/Fs    [dh]ý is:feminine is:instrumental is:plural
 SFX Y   ý           šími/Fs    [dh]ý is:neuter is:instrumental is:plural
 
-SFX I Y 99				# 62+37
+SFX I Y 98				# 61+37
 SFX I   í           ia         í is:feminine is:nominative
 SFX I   í           ie         í is:feminine is:nominative is:plural
 SFX I   í           ieho       í is:masculine is:genitive
@@ -2158,7 +2158,6 @@ SFX I   0           mi         í is:masculine is:instrumental is:plural
 SFX I   0           mi         í is:feminine is:instrumental is:plural
 SFX I   0           mi         í is:neuter is:instrumental is:plural
 SFX I   í           o          í po:adverb
-SFX I   í           ejšie      o po:adverb is:comparative
 SFX I   í           ejšie      í is:comparative is:feminine is:nominative is:plural
 SFX I   í           ejšie      í is:comparative is:neuter is:nominative is:plural
 SFX I   í           ejšie      í is:comparative is:feminine is:accusative is:plural
