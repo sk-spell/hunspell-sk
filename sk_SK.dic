@@ -123708,6 +123708,8 @@ resekčný/YN po:adjective
 rešelinatý/YN po:adjective
 resentiment/B po:noun is:masculine
 resentimentmi
+reset/B po:noun is:masculine
+resetovať/WN po:verb
 rešeršami
 rešerše
 rešerši
@@ -156495,6 +156497,7 @@ upozorňovacie
 upozorňovanie/VN po:noun is:neuter
 upozorňovaný/YN po:adjective
 upozorňovať/WN po:verb
+upozorňujíci/YN po:adjective
 Uppsala
 Uppsale
 upracovane/YN po:adjective
@@ -157298,16 +157301,12 @@ usoplený/YN po:adjective
 usopliť
 ÚSO po:acronym
 usoriť
-uspané
+uspaný/YN po:adjective
 uspanie/V po:noun is:neuter
+uspávanie/V po:noun is:neuter
 uspať/RN po:verb
 uspávací/I po:adjective
-uspávajúce
-uspávajúceho
-uspávajúci
-uspávajúcu
-uspávania
-uspávaniu
+uspávajúci/YN po:adjective
 uspávanka/zZ po:noun is:feminine
 uspávať/XN po:verb
 úspech/BN po:noun is:masculine
@@ -157324,18 +157323,18 @@ ušpiniť/EN po:verb
 uspite
 US po:acronym
 ÚS po:acronym
-uspokojene
+uspokojene po:adverb
 uspokojenie/V po:noun is:neuter
 uspokojenosť/K po:noun is:feminine
 uspokojený/YN po:adjective
 uspokojiť/EN po:verb
-uspokojivo
+uspokojivo po:adverb
 uspokojivý/YN po:adjective
 uspokojovanie/VN po:noun is:neuter
 uspokojovaný/YN po:adjective
 uspokojovať/WN po:verb
 uspokojujúci/YN po:adjective
-uspokojujúco
+uspokojujúco po:adverb
 uspor
 usporadovať/WN po:verb
 usporadúvanie/V po:noun is:neuter
@@ -173438,16 +173437,14 @@ zalomozte
 zalovením
 zaloviť/EN po:verb
 založenie/V po:noun is:neuter
-Založeno
 založený/YN po:adjective
-zaloziť
 založiť/EN po:verb
 záložka/zZ po:noun is:feminine
 záložkový/YN po:adjective
 záložkový/Y po:adjective
 záložňa/U po:noun is:feminine
 záložníčka/zZ po:noun is:feminine
-záložnícky
+záložnícky po:adverb
 záložník/C po:noun is:masculine
 záložníkov/Y po:adjective
 záložný/YN po:adjective
@@ -173458,7 +173455,7 @@ zaľúbencov/Y po:adjective
 zaľúbenec/C po:noun is:masculine
 zaľúbene/YN po:adjective
 zaľúbenie/V po:noun is:neuter
-zaľúbeno
+zaľúbeno po:adverb
 zaľúbenosť/K po:noun is:feminine
 zaľúbený/YN po:adjective
 zaľúbiť/XN po:verb
@@ -173470,7 +173467,7 @@ zaľubovať/WN po:verb
 žalúdkarka/zZ po:noun is:feminine
 žalúdkarov/Y po:adjective
 žalúdkový/YN po:adjective
-záludne
+záludne po:adverb
 zaľudnenie/V po:noun is:neuter
 zaľudnenosť/K po:noun is:feminine
 zaľudnený/YN po:adjective
@@ -183159,12 +183156,7 @@ zregulovaný/YN po:adjective
 zregulovať/WN po:verb
 zrejmosť/K po:noun is:feminine
 zrejmý/YN po:adjective
-zrejúce
-zrejúceho
-zrejúci
-zrejúcich
-zrejúcim
-zrejúcimi
+zrejúci/YN po:adjective
 zrekapitulovanie/VN po:noun is:neuter
 zrekapitulovaný/YN po:adjective
 zrekapitulovať/WN po:verb
@@ -183200,12 +183192,13 @@ zreparovať/WN po:verb
 zrepetiť/EN po:verb
 zrepetovať/WN po:verb
 zreprodukovať/WN po:verb
+zresetovať/WN po:verb
 zreštaurovanie/VN po:noun is:neuter
 zreštaurovaný/YN po:adjective
 zreštaurovať/WN po:verb
 zreštringovať/WN po:verb
 zreťaz
-zreťazene
+zreťazene po:adverb
 zreťazenie/V po:noun is:neuter
 zreťazený/YN po:adjective
 zreťazí
