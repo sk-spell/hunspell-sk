@@ -1631,7 +1631,7 @@ SFX Q   y           ami        [hkn]y is:instrumental is:plural
 SFX Q   asy         asmi       asy is:instrumental is:plural
 SFX Q   0           mi         ta is:instrumental is:plural
 
-SFX Y Y 498				# 338+160
+SFX Y Y 499				# 339+160
 SFX Y   e           ejšie      e po:adverb is:comparative
 SFX Y   e           ejšie      e po:adjective is:comparative is:neuter is:nominative is:plural
 SFX Y   e           ejšie      e po:adjective is:comparative is:feminine is:nominative is:plural
