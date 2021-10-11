@@ -1,4 +1,4 @@
-185132
+185037
 á
 Á
 à
@@ -23804,6 +23804,7 @@ Ede
 edém/B po:noun is:masculine
 edémový/Y po:adjective
 eden/B po:noun is:masculine
+Edge po:noun is:masculine
 edícia/U po:noun is:feminine
 edične
 edičný/Y po:adjective
@@ -30225,6 +30226,7 @@ gitarista/H po:noun is:masculine
 gitaristka/zZ po:noun is:feminine
 gitaristov/Y po:adjective
 gitarový/Y po:adjective
+Github/B po:noun is:masculine
 Gitku
 gitmi
 gitovanie/VN po:noun is:neuter
@@ -54202,6 +54204,7 @@ libier
 Libichava
 libra/zZ po:noun is:feminine
 librácia
+LibreOffice/B po:noun is:masculine
 Libresse
 libresso
 libretista/H po:noun is:masculine
@@ -62750,6 +62753,7 @@ Mozambik/B po:noun is:masculine
 mozgami
 mozgovo
 mozgový/YN po:adjective
+Mozilla/z po:noun is:feminine
 mozoček/B po:noun is:masculine
 mozočka
 mozočkami
@@ -63343,7 +63347,7 @@ mundúr/B po:noun is:masculine
 mungo
 munícia/U po:noun is:feminine
 municipalít
-municipalita
+municipalita/zZ po:noun is:feminine
 municipalitách
 municipalitám
 municipalitami
@@ -63360,14 +63364,14 @@ municipálnej
 municipálnemu
 municipálnou
 municipálnu
-municipálny
+municipálny/YN  po:adjective
 municipálnych
 municipálnym
 municipálnymi
 municípiá
 municipiálny/YN po:adjective
 municípií
-municipum
+municipium/M po:noun is:neuter
 muničný/YN po:adjective
 munificencia
 Mur
@@ -63739,10 +63743,10 @@ mysteriózny/YN po:adjective
 mystérium/M po:noun is:neuter
 mysticizmus/B po:noun is:masculine
 mystickosť/K po:noun is:feminine
-mysticky
+mysticky po:adverb
 mystický/YN po:adjective
 mystička/zZ po:noun is:feminine
-mystifikácia
+mystifikácia/U po:noun is:feminine
 mystifikáciám
 mystifikácie
 mystifikácií
@@ -63771,37 +63775,33 @@ myšlienka/zZ po:noun is:feminine
 myšlienkove
 myšlienkovo
 myšlienkový/YN po:adjective
-mýt
+mýt st:mýto is:plural is:genitive
 myť/XN po:verb
 mýtach
 mýtam
-myté
 mýtickosť/K po:noun is:feminine
-mýticky
+mýticky po:adverb
 mýtický/YN po:adjective
-mytie
-mytím
-Mýtina
+mýtina/zZ po:noun is:feminine
 mýtizovaný/YN po:adjective
 mýtizovať/WN po:verb
 mýtmi
-mýtnik/C po:noun is:masculine
+mýtnik/c po:noun is:masculine
 mýtnikov/Y po:adjective
 mýtny/Y po:adjective
-myto
 mýto/M po:noun is:neuter
 mýtografov
 mýtoch
 mytol
-mytológ
+mytológ/c po:noun is:masculin
 mytológa
 mytológia/U po:noun is:feminine
 mytologický/Y po:adjective
 mytológmi
 mýtománia
-mýtov
+mýtov st:mýtus is:plural is:genitive
 mýtus/B po:noun is:masculine
-mýty
+mýty st:mýtus is:plural is:nominative
 Mýval
 myxedém
 myxofibrosarkóm
@@ -63811,9 +63811,9 @@ myxomycéty
 myzofóbia
 MZ po:acronym
 mzda/zZ po:noun is:feminine
-mzdách
-mzdám
-mzdovo
+mzdách st:mzda is:plural is:genitive
+mzdám st:mzda is:plural is:dative
+mzdovo po:adverb
 mzdový/YN po:adjective
 MZV po:acronym
 MŽP po:acronym
@@ -63834,7 +63834,7 @@ nabací
 nabádanie/V po:noun is:neuter
 nabádaný/YN po:adjective
 nabádať/XN po:verb
-nabádavo
+nabádavo po:adverb
 nabádavý/YN po:adjective
 nabadúrený/YN po:adjective
 nabadúriť
@@ -63863,7 +63863,7 @@ nabehlina
 nabehline
 nabehnúť/WN
 nabehnutia
-nabehnutie
+nabehnutie/VN po:noun is:neuter
 nabehnutím
 nabehnutiu
 nabehnutý/YN po:adjective
@@ -63897,7 +63897,7 @@ nabielilo
 nabielim
 nabielime
 nabieliš
-nabieliť
+nabieliť/XN po:verb
 nabielite
 nabieľme
 nabielo
@@ -63920,37 +63920,36 @@ nabiť/WN
 nabitie/V po:noun is:neuter
 nabitý/YN po:adjective
 nabla
-nabledo
-nablízko
-nablízku
-nablížiť
+nabledo po:adverb
+nablízko po:adverb
+nablízku po:adverb
 nablýskaný/YN po:adjective
-nablýskať
-nabob
+nablýskať/XN po:verb
+nabob/C po:noun is:masculine
+nabobský/YN po:adjective
 nabodať/EN po:verb
-nabodávajúci
+nabodávajúci/YN po:adjective
 nabodávať/XN po:verb
 nabodnúť/WN
-nabodnutie
+nabodnutie/VN po:noun is:neuter
 nabohovať/WN po:verb
 náboj/J po:noun is:masculine
-nábojke
+nábojka/zZ po:noun is:feminine
 nábojnica/U po:noun is:feminine
-nábojnicovú
+nábojnicový/YN po:adjective
 nábojový/YN po:adjective
-nabok
-naboku
+nabok po:adverb
+naboku po:adverb
 nábor/B po:noun is:masculine
 náborový/YN po:adjective
-naboso
+naboso po:adverb
 náboženskosť/K po:noun is:feminine
-nábožensky
+nábožensky po:adverb
 náboženský/YN po:adjective
 náboženstvo/M po:noun is:neuter
-nábožne
+nábožne po:adverb
 nábožnosť/K po:noun is:feminine
 nábožný/YN po:adjective
-nábr
 nabranie/V po:noun is:neuter
 nabraný/YN po:adjective
 nabrať/RN po:verb
@@ -63976,7 +63975,7 @@ nabudená
 nabudené
 nabudenie/V po:noun is:neuter
 nabudí
-nabudiť
+nabudiť/EN po:verb
 nabudúce
 nabumbať
 nabúra
@@ -63992,12 +63991,12 @@ nabúralo
 nabúram
 nabúrame
 nabúrania
-nabúranie
+nabúranie/VN po:noun is:neuter
 nabúraním
 nabúraniu
 nabúraný/YN po:adjective
 nabúraš
-nabúrať
+nabúrať/XN po:verb
 nabúrate
 nabúriť
 nábytkár/C po:noun is:masculine
@@ -64018,7 +64017,7 @@ nacápať
 nacápe
 nacápem
 nacápeme
-nacápeš
+nacápeš/TN po:verb
 nacápete
 nacápme
 nacápte
@@ -64218,7 +64217,7 @@ naďapilo
 naďapím
 naďapíme
 naďapíš
-naďapiť
+naďapiť/EN po:verb
 naďapíte
 naďapme
 naďapte
@@ -64821,14 +64820,14 @@ nadvláda/zZ po:noun is:feminine
 nadvládach
 nadvládam
 nádvorie/V po:noun is:neuter
-Nádvorník
+nádvorník/C po:noun is:masculine
 Nádvorníka
 Nádvorníkov
-Nádvorníková/Y po:adjective
+nádvorníkov/Y po:adjective
+nádvorníková/Y po:adjective
 Nádvorníkovho
 Nádvorníkovi
 Nádvorníkovo
-Nádvorníkových
 nádvorný/YN po:adjective
 nadvýkon/B po:noun is:masculine
 nadvýrob
@@ -64856,7 +64855,7 @@ nadýmam
 nadýmame
 nadýmaný/YN po:adjective
 nadýmaš
-nadýmať
+nadýmať/XN po:verb
 nadýmate
 nadymiť/EN po:verb
 nadzemný/YN po:adjective
@@ -64906,34 +64905,19 @@ nafotilo
 nafotím
 nafotíme
 nafotíš
-nafotiť
+nafotiť/EN po:verb
 nafotíte
 nafoťme
 nafoťte
 nafŕkalo
-náft
-nafta/z po:noun is:feminine
-naftách
-Naftách
-naftalén
-naftaléne
+náft st:nafta is:plural :is:genitive
+nafta/zZ po:noun is:feminine
+naftalén/B po:noun is:masculine
+naftalénový/YN po:adjective
 naftalín/B po:noun is:masculine
 naftalínový/YN po:adjective
-naftám
-Naftám
-naftami
-naftár
-Naftár
-naftára
-Naftára
-naftári
-naftármi
-naftároch
-naftárom
-naftárov
-naftárovi
-Naftárovi
-naftárska
+naftár/C po:noun is:masculine
+naftársky/YN po:adjective
 naftén
 naftol
 naftonosné
@@ -64943,19 +64927,16 @@ naftovod
 naftovodné
 naftový/YN po:adjective
 nafučalo
-nafučane
+nafučane po:adverb
 nafučaný/YN po:adjective
 nafúkancov/Y po:adjective
-nafúkane
+nafúkane po:adverb
 nafúkanec/C po:noun is:masculine
 nafúkanosť/K po:noun is:feminine
 nafúkaný/YN po:adjective
 nafúkať/XN po:verb
 nafúknuť/WN
-nafúknutia
-nafúknutie
-nafúknutím
-nafúknutiu
+nafúknutie/V po:noun is:neuter
 nafúknutý/YN po:adjective
 nafukovací/I po:adjective
 nafukovačka/zZ po:noun is:feminine
@@ -75936,47 +75917,6 @@ nepreborte
 neprebudenosť/K po:noun is:feminine
 neprecenené
 neprecenením
-neprečísli
-neprečíslia
-neprečísliac
-neprečíslil
-neprečíslila
-neprečíslili
-neprečíslilo
-neprečíslim
-neprečíslime
-neprečísliš
-neprečísliť
-neprečíslite
-neprečíslováva
-neprečíslovávaj
-neprečíslovávajme
-neprečíslovávajte
-neprečíslovávajú
-neprečíslovávajúc
-neprečíslovával
-neprečíslovávala
-neprečíslovávali
-neprečíslovávalo
-neprečíslovávam
-neprečíslovávame
-neprečíslovávaš
-neprečíslovávať
-neprečíslovávate
-neprečisti
-neprečistia
-neprečistiac
-neprečistil
-neprečistila
-neprečistili
-neprečistilo
-neprečistím
-neprečistime
-neprečistíme
-neprečistíš
-neprečistiť
-neprečistite
-neprečistíte
 neprečíšťa
 neprečíšťaj
 neprečíšťajme
@@ -93243,6 +93183,7 @@ opeľovať/WN po:verb
 open
 Open
 OpenOffice
+OpenOffice/B po:noun is:masculine
 opera/zZ po:noun is:feminine
 operabilitu
 operabilný/YN po:adjective
@@ -112264,60 +112205,23 @@ prečiarknuť/WN
 prečiarknutie/V po:noun is:neuter
 prečiarknutý/YN po:adjective
 prečiarkovať/WN po:verb
-prečiarnuť
 Prečín
 prečin/B po:noun is:masculine
-prečísli
-prečíslia
-prečísliac
-prečíslil
-prečíslila
-prečíslili
-prečíslilo
-prečíslim
-prečíslime
-prečísliš
-prečísliť
-prečíslite
+prečísliš/XN po:verb
 prečíslovanie/VN po:noun is:neuter
 prečíslovaný/YN po:adjective
 prečíslovať/WN po:verb
-prečíslováva
-prečíslovávaj
-prečíslovávajme
-prečíslovávajte
-prečíslovávajú
-prečíslovávajúc
-prečíslovával
-prečíslovávala
-prečíslovávali
-prečíslovávalo
-prečíslovávam
-prečíslovávame
-prečíslovávaním
-prečíslovávaš
+prečíslovávanie/VN po:noun is:neuter
+prečíslovávaš/XN po:verb
 prečíslovávať
 prečíslovávate
 prečistenie/V po:noun is:neuter
 prečistený/YN po:adjective
-prečisti
-prečistia
-prečistiac
-prečistil
-prečistila
-prečistili
-prečistilo
-prečistím
-prečistime
-prečistíme
-prečistíš
-prečistiť
-prečistite
-prečistíte
-prečisťovacej
+prečistiť/EN po:verb
+prečisťovací/IN po:adjective
 prečisťovanie/VN po:noun is:neuter
 prečisťovať/WN po:verb
-prečisťujúci
+prečisťujúci/YN po:adjective
 prečistý/YN po:adjective
 prečíšťa
 prečíšťaj
@@ -112332,7 +112236,7 @@ prečíšťalo
 prečíšťam
 prečíšťame
 prečíšťaš
-prečíšťať
+prečíšťať/XN po:verb
 prečíšťate
 prečítanie/V po:noun is:neuter
 prečítaný/YN po:adjective
@@ -112397,7 +112301,7 @@ predbieham
 predbiehame
 predbiehanie/V po:noun is:neuter
 predbiehaš
-predbiehať/EN po:verb
+predbiehať/XN po:verb
 predbiehate
 predbojovník
 predcvičiť/EN po:verb
@@ -150129,6 +150033,7 @@ thrash
 Threema/z po:noun is:feminine
 thriller/B po:noun is:masculine
 thrilleri
+Thunderbird/B po:noun is:masculine
 thymus
 thyrsos
 THz

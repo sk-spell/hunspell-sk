@@ -5,9 +5,11 @@ browser/B po:noun is:masculine
 Canonical/B po:noun is:masculine
 cookie po:noun
 cookies po:noun
+Edge po:noun is:masculine
 Facebook/B po:noun is:masculine
 facebookový/Y po:adjective
 Firefox/B po:noun is:masculine
+Github/B po:noun is:masculine
 Gmail/B po:noun is:masculine
 Google/B po:noun is:masculine
 Chrome po:noun is:masculine
@@ -15,14 +17,18 @@ Instagram/B po:noun is:masculine
 Jabber/B po:noun is:masculine
 Java po:noun
 Javascript/B po:noun is:masculine
+LibreOffice/B po:noun is:masculine
+Mozilla/z po:noun is:feminine
 Netflix/B po:noun is:masculine
+Nvidia po:noun is:feminine
+OpenOffice/B po:noun is:masculine
 PlayStation/B po:noun is:masculine
 podcast/B po:noun is:masculine
 podcastový/Y po:adjective
 Python/B po:noun is:masculine
 Threema/z po:noun is:feminine
+Thunderbird/B po:noun is:masculine
 Twitter/J po:noun is:masculine
 web/B po:noun is:masculine
 Whatsapp/B po:noun is:masculine
 YouTube po:noun is:masculine
-Nvidia po:noun is:feminine
