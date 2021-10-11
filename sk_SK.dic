@@ -59,7 +59,7 @@ abiogénny/YN po:adjective
 abionóza/zZ po:noun is:feminine
 abiotický/YN po:adjective
 abiturient/C po:noun is:masculine
-abiturientiek
+abiturientiek st:abiturientka is:plural is:genitive
 abiturientka/zZ po:noun is:feminine
 abiturientov/Y po:adjective
 abiturientsky/YN po:adjective
@@ -73,7 +73,7 @@ ablatívny/YN po:adjective
 ablaut/B po:noun is:masculine
 ablefária/U po:noun is:feminine
 ablegácia/U po:noun is:feminine
-ablegát/U po:noun is:feminine
+ablegát/C po:noun is:masculine
 ablepsia/U po:noun is:feminine
 abnormalita/zZ po:noun is:feminine
 abnormálnosť/K po:noun is:feminine
@@ -6336,7 +6336,6 @@ Beatrica
 Beatrice
 beaufort
 beaujolais
-Beblavého/Y po:adjective
 Beblavý/Y po:noun is:masculine
 Bebrava/zZ po:noun is:feminine
 bebravský/YN po:adjective
@@ -29783,7 +29782,7 @@ gegne
 gegni
 gegyňa
 gejša/U po:noun is:feminine
-gejší/U po:noun is:feminine
+gejší st:gejša is:plural is:genitive
 Gejza/H po:noun is:masculine
 gejzír/B po:noun is:masculine
 gejzírový/Y po:adjective
@@ -30926,7 +30925,6 @@ grizlym
 grizlymu
 grizlyov/Y po:adjective
 grizlyovia
-grizzly/O po:noun is:masculine
 grman/C po:noun is:masculine
 grmane
 grmanov/Y po:adjective
@@ -40275,7 +40273,38 @@ islandský/YN po:adjective
 ismailiti
 ISO po:acronym
 Ispell
-ísť/RN po:verb
+ísť/N po:verb
+ísť
+ide
+idú
+išiel
+išla
+išlo
+šiel
+šla
+šlo
+iď
+choď
+poď
+pôjde
+pôjdu
+nejsť
+nejde
+nejdú
+nešiel
+nejdi
+neiď
+nechoď
+idúc
+idúci
+nejsť
+neísť
+nejde
+nejdú
+nejdi
+nechoď
+nešiel
+nešla
 Istanbul/B po:noun is:masculine
 istanbulský/YN po:adjective
 iste
@@ -64017,13 +64046,13 @@ nacápať
 nacápe
 nacápem
 nacápeme
-nacápeš/TN po:verb
+nacápať/TN po:verb
 nacápete
 nacápme
 nacápte
 nacápu
 nacápuc
-nacediť
+nacediť/EN po:verb
 nacelkom
 nacenganý/YN po:adjective
 nacengať/EN po:verb
@@ -99589,7 +99618,6 @@ pelikánovi
 Pelikánovi
 pelit
 Pellegrini/c po:noun is:masculine
-Pellegriniho/Y po:adjective
 pelmeny
 peľmi
 peľnica/U po:noun is:feminine
@@ -107019,16 +107047,11 @@ ponurný/YN po:adjective
 ponuro
 ponurosť/K po:noun is:feminine
 ponurý/YN po:adjective
-pony/O po:noun is:masculine
-ponyami
+pony
 ponyho
 ponym
 ponymu
-ponyoch
-ponyom
-ponyov
-ponyovia
-poobede
+poobede po:adverb
 poobedie/V po:noun is:neuter
 poobedná
 poobedňajší/I po:adjective
@@ -145090,7 +145113,6 @@ SZTK po:acronym
 škrtaných
 škrtať/EN po:verb
 Škrtel/c po:noun is:masculine
-Škrtel/Y po:adjective
 škrtenie/V po:noun is:neuter
 škrtený/YN po:adjective
 škrti
@@ -151168,7 +151190,7 @@ Torunčanov/Y po:adjective
 torunský/YN po:adjective
 torus
 Torus
-tory/H po:noun is:masculine
+tory/c po:noun is:masculine
 toryov/Y po:adjective
 toryovec
 toryovia
@@ -153998,8 +154020,8 @@ túžený/YN po:adjective
 túžiaci/YN po:adjective
 tužidlo/M po:noun is:neuter
 tužidlový/YN po:adjective
-túžievajúc
-túžievať/YN po:adjective
+túžievajúci/YN po:adjective
+túžievať/XN po:verb
 tužina/zZ po:noun is:feminine
 tužiť/EN po:verb
 túžiť/XN po:verb
@@ -170935,7 +170957,7 @@ xylylbromid
 xystos
 y
 Y
-ý/YN po:adjective
+ý
 Yam
 yama
 YAML
