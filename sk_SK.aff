@@ -1,6 +1,8 @@
 
-# verzia: 2.10-alpha, 2021-07-29
+# verzia: 2.10-alpha, 2021-10-11
 SET UTF-8
+LANG sk
+KEY qwertzuiopúä|asdfghjklô§ň|yxcvbnm,.-|;+ľščťžýáíé=
 TRY aoeintsvrlkmdpuhjzácbyčžíšýúťéľôďgfňäóŕxĺwěřqůAOEINTSVRLKMDPUHJZÁCBYČŽÍŠÝÚŤÉĽÔĎGFŇÄÓŔXĹWĚŘQŮ
 
 # replacenment table for
