@@ -1,4 +1,4 @@
-185037
+184709
 á
 Á
 à
@@ -231,7 +231,6 @@ abstrúzny/YN po:adjective
 absúrd po:noun st:absurdum is:genitive is:plural
 absurdít po:noun st:absurdita is:genitive is:plural
 absurdita/zZ po:noun is:feminine
-absurdna
 absurdne po:adverb
 absurdno/M po:noun is:neuter
 absurdnosť/K po:noun is:feminine
@@ -1061,7 +1060,6 @@ airsoft
 Airu
 Airy
 Aiwa
-AIX
 AIX po:acronym
 aj po:conjunction
 ajaj
@@ -1078,7 +1076,7 @@ ajnclík
 ajurvéda
 ajvaj
 ajznboňák
-ak
+ak po:conjunction
 akácia/U po:noun is:feminine
 akáciový/Y po:adjective
 akad
@@ -2762,7 +2760,6 @@ Annini
 Annino
 Anninu
 anno
-ANO
 áno
 ANO po:acronym
 anód
@@ -3949,7 +3946,6 @@ asasín
 ascendencia
 ascendent
 ascendentný/YN po:adjective
-ASCII
 ASCII po:acronym
 Ase
 aseizmický/YN po:adjective
@@ -6646,13 +6642,8 @@ Beneluxe
 Beneluxom
 Beneluxu
 Beneš/c po:noun is:masculine
-Benešov
 Benešov/Y po:adjective
-Benešova
-Benešove
-Benešovom
 benešovský/YN po:adjective
-Benešovu
 benevolencia/U po:noun is:feminine
 benevolentne
 benevolentnosť/K po:noun is:feminine
@@ -11150,7 +11141,6 @@ ccc
 CCD po:acronym
 CČSH po:acronym
 cd
-CD
 CD po:acronym
 CDDB po:acronym
 CDROM po:acronym
@@ -12288,7 +12278,6 @@ cmúľaní
 cmúľať/XN po:verb
 cmúlik
 cmuľkať
-CN
 CN po:acronym
 cnej
 cnejme
@@ -18511,7 +18500,6 @@ dmula
 dmuli
 dmulo
 dmúť/WN
-DN
 DN po:acronym
 dna/zZ po:noun is:feminine
 dneperský/YN po:adjective
@@ -20391,7 +20379,6 @@ dorzalgia
 dorzálny/YN po:adjective
 dorzoventrálny/YN po:adjective
 DoS
-DOS
 DOS po:acronym
 dosadania
 dosadať/EN po:verb
@@ -22171,20 +22158,16 @@ Držkove
 držkový/Y po:adjective
 držky/Q
 držné
-DS
 DS po:acronym
 DSA
 DSc
 DSF po:acronym
-DSL
 DSL po:acronym
 DSS po:acronym
 DTM po:acronym
-DTP
 DTP po:acronym
 dtto
 du
-DÚ
 DU po:acronym
 DÚ po:acronym
 duál/B po:noun is:masculine
@@ -22873,7 +22856,6 @@ dvanásťvalec
 dvanásty/YN po:adjective
 dvastaťdňový/YN po:adjective
 dvastaťhaliernik
-DVD
 DVD po:acronym
 dve
 dveraje
@@ -26174,7 +26156,6 @@ ezoterizmus/B po:noun is:masculine
 f
 F
 fa
-FA
 FA po:acronym
 faber
 Fabián
@@ -26792,7 +26773,6 @@ fazuľový/Y po:adjective
 FBI po:acronym
 FC po:acronym
 FCI po:acronym
-FDD
 FDD po:acronym
 FDP po:acronym
 Fe
@@ -29738,7 +29718,6 @@ gážam
 gáží
 gážový/Y po:adjective
 Gb
-GB
 GB po:acronym
 Gbel
 Gbeľanoch
@@ -30426,7 +30405,6 @@ gnozeológicky
 gnozeológický/Y po:adjective
 gnozeologický/YN po:adjective
 GNP po:acronym
-GNU
 GNU po:acronym
 gobelín/B po:noun is:masculine
 gobelínový/Y po:adjective
@@ -30540,7 +30518,6 @@ gonorea
 gonorhea
 gonozóm
 goodwill
-Google
 Google/B po:noun is:masculine
 gópuram
 goral/C po:noun is:masculine
@@ -30596,7 +30573,6 @@ government
 GP po:acronym
 GPa
 GPG
-GPL
 GPL po:acronym
 GPRS po:acronym
 GPS po:acronym
@@ -31023,7 +30999,6 @@ Gruzínka/zZ po:noun is:feminine
 Gruzínsko/M po:noun is:neuter
 gruzínsky/Y po:adjective
 gryf
-GSM
 GSM po:acronym
 GSv
 GT po:acronym
@@ -31057,7 +31032,6 @@ gučka/zZ po:noun is:feminine
 gudrónov
 Gudróny
 guerilla
-GUI
 GUI po:acronym
 guidon
 guilder
@@ -32161,7 +32135,6 @@ HBO po:acronym
 HBr
 HC po:acronym
 HCl
-HD
 HD po:acronym
 HDD po:acronym
 HDL po:acronym
@@ -32968,7 +32941,6 @@ hlaholiť/EN po:verb
 hlaholivý/YN po:adjective
 hlaholský/YN po:adjective
 hlaliský/YN po:adjective
-HLAS
 hlas/B po:noun is:masculine
 hlasá
 hlásajúci
@@ -35361,7 +35333,6 @@ HS po:acronym
 HSĽS po:acronym
 htm
 html
-HTML
 HTML po:acronym
 http
 HTTP
@@ -38135,7 +38106,6 @@ chyží
 chyžka/zZ po:noun is:feminine
 chyžná/Y po:adjective
 CHZJD po:acronym
-i
 í
 i po:conjunction
 ia
@@ -38164,7 +38134,6 @@ ibišom
 ibišov
 ibištek/B po:noun is:masculine
 ibišu
-IBM
 IBM po:acronym
 ibn
 IC po:acronym
@@ -38185,7 +38154,6 @@ idám
 Idám
 IDC po:acronym
 ide
-IDE
 idea/zZ po:noun is:feminine
 ideál/B po:noun is:masculine
 ideálčiť
@@ -40220,7 +40188,6 @@ is
 IS po:acronym
 ISA po:acronym
 ISBN po:acronym
-ISDN
 ISDN po:acronym
 Isfahán
 Isfaháne
@@ -40274,37 +40241,6 @@ ismailiti
 ISO po:acronym
 Ispell
 ísť/N po:verb
-ísť
-ide
-idú
-išiel
-išla
-išlo
-šiel
-šla
-šlo
-iď
-choď
-poď
-pôjde
-pôjdu
-nejsť
-nejde
-nejdú
-nešiel
-nejdi
-neiď
-nechoď
-idúc
-idúci
-nejsť
-neísť
-nejde
-nejdú
-nejdi
-nechoď
-nešiel
-nešla
 Istanbul/B po:noun is:masculine
 istanbulský/YN po:adjective
 iste
@@ -40351,7 +40287,6 @@ išpánstvach
 išpánstvam
 išpánstvo/M po:noun is:neuter
 it
-IT
 IT po:acronym
 ITA po:acronym
 Ital
@@ -44588,7 +44523,6 @@ kdekým
 kdesi
 kdeže
 kdežeby
-KDH
 KDH po:acronym
 KDU po:acronym
 ké
@@ -47642,7 +47576,6 @@ konkretizovať/WN po:verb
 konkrétnosť/K po:noun is:feminine
 konkrétny/YN po:adjective
 konkrétum/M po:noun is:neuter
-konkubín
 konkubína/zZ po:noun is:feminine
 konkubinát/C po:noun is:masculine
 konkubinátny/Y po:adjective
@@ -50797,7 +50730,6 @@ krytý/YN po:adjective
 Kržle
 ks
 KS po:acronym
-KSČ
 KSČ po:acronym
 ksí
 ksicht/B po:noun is:masculine
@@ -50818,7 +50750,6 @@ ksichtiť
 ksichtite
 ksichtíte
 ksichtmi
-KSS
 KSS po:acronym
 KSSZ po:acronym
 KST po:acronym
@@ -50899,7 +50830,6 @@ ktože
 ktožehovie
 ktoževie
 kú
-KÚ
 KÚ po:acronym
 ku po:preposition is:dative
 Kuala
@@ -58858,7 +58788,6 @@ mätežný/YN po:adjective
 mätový/YN po:adjective
 mätúci/YN po:adjective
 Mb
-MB
 MB po:acronym
 MBps
 MBq
@@ -62829,7 +62758,6 @@ Môž
 môžbyť
 môžno
 môžuc
-MP
 MP po:acronym
 MPa
 MPSVR po:acronym
@@ -63375,28 +63303,10 @@ mundánny/YN po:adjective
 mundúr/B po:noun is:masculine
 mungo
 munícia/U po:noun is:feminine
-municipalít
 municipalita/zZ po:noun is:feminine
-municipalitách
-municipalitám
-municipalitami
-municipalite
-municipalitou
-municipalitu
-municipality
 municipalizácii
 municipalizáciou
-Municipálna
-municipálne
-municipálneho
-municipálnej
-municipálnemu
-municipálnou
-municipálnu
 municipálny/YN  po:adjective
-municipálnych
-municipálnym
-municipálnymi
 municípiá
 municipiálny/YN po:adjective
 municípií
@@ -63776,11 +63686,6 @@ mysticky po:adverb
 mystický/YN po:adjective
 mystička/zZ po:noun is:feminine
 mystifikácia/U po:noun is:feminine
-mystifikáciám
-mystifikácie
-mystifikácií
-mystifikáciou
-mystifikáciu
 Mystifikátori
 mystifikovanie/VN po:noun is:neuter
 mystifikovať/WN po:verb
@@ -63823,10 +63728,8 @@ mýtografov
 mýtoch
 mytol
 mytológ/c po:noun is:masculin
-mytológa
 mytológia/U po:noun is:feminine
 mytologický/Y po:adjective
-mytológmi
 mýtománia
 mýtov st:mýtus is:plural is:genitive
 mýtus/B po:noun is:masculine
@@ -63891,10 +63794,7 @@ nabehávať/XN po:verb
 nabehlina
 nabehline
 nabehnúť/WN
-nabehnutia
 nabehnutie/VN po:noun is:neuter
-nabehnutím
-nabehnutiu
 nabehnutý/YN po:adjective
 nábehový/YN po:adjective
 nabehúvať/XN po:verb
@@ -63915,22 +63815,8 @@ nabiehacích
 nabiehanie/V po:noun is:neuter
 nabiehaný/YN po:adjective
 nabiehať/XN po:verb
-nabieľ
-nabieli
-nabielia
-nabieliac
-nabielil
-nabielila
-nabielili
-nabielilo
-nabielim
-nabielime
-nabieliš
 nabieliť/XN po:verb
-nabielite
-nabieľme
 nabielo
-nabieľte
 nabifľovaný/YN po:adjective
 nabifľovať/WN po:verb
 nabíjací/I po:adjective
@@ -64003,30 +63889,12 @@ nabubrieť
 nabudená
 nabudené
 nabudenie/V po:noun is:neuter
-nabudí
 nabudiť/EN po:verb
 nabudúce
 nabumbať
-nabúra
-nabúraj
-nabúrajme
-nabúrajte
-nabúrajú
-nabúrajúc
-nabúral
-nabúrala
-nabúrali
-nabúralo
-nabúram
-nabúrame
-nabúrania
 nabúranie/VN po:noun is:neuter
-nabúraním
-nabúraniu
 nabúraný/YN po:adjective
-nabúraš
 nabúrať/XN po:verb
-nabúrate
 nabúriť
 nábytkár/C po:noun is:masculine
 nábytkárka/zZ po:noun is:feminine
@@ -64037,21 +63905,7 @@ nábytkárstvam
 nábytkárstvo/M po:noun is:neuter
 nábytkový/YN po:adjective
 nábytok/O po:noun is:masculine
-nacáp
-nacápal
-nacápala
-nacápali
-nacápalo
-nacápať
-nacápe
-nacápem
-nacápeme
 nacápať/TN po:verb
-nacápete
-nacápme
-nacápte
-nacápu
-nacápuc
 nacediť/EN po:verb
 nacelkom
 nacenganý/YN po:adjective
@@ -64235,21 +64089,7 @@ naďalej
 naďaleko
 nadanie/V po:noun is:neuter
 nadaný/YN po:adjective
-naďap
-naďapí
-naďapia
-naďapiac
-naďapil
-naďapila
-naďapili
-naďapilo
-naďapím
-naďapíme
-naďapíš
 naďapiť/EN po:verb
-naďapíte
-naďapme
-naďapte
 nadar
 nadariť
 nadarmo
@@ -64850,13 +64690,8 @@ nadvládach
 nadvládam
 nádvorie/V po:noun is:neuter
 nádvorník/C po:noun is:masculine
-Nádvorníka
-Nádvorníkov
 nádvorníkov/Y po:adjective
 nádvorníková/Y po:adjective
-Nádvorníkovho
-Nádvorníkovi
-Nádvorníkovo
 nádvorný/YN po:adjective
 nadvýkon/B po:noun is:masculine
 nadvýrob
@@ -64870,22 +64705,8 @@ nadýchať/XN po:verb
 nadýchnuť/WN
 nadýchnutie/V po:noun is:neuter
 nadýchnutý/YN po:adjective
-nadýma
-nadýmaj
-nadýmajme
-nadýmajte
-nadýmajú
-nadýmajúc
-nadýmal
-nadýmala
-nadýmali
-nadýmalo
-nadýmam
-nadýmame
 nadýmaný/YN po:adjective
-nadýmaš
 nadýmať/XN po:verb
-nadýmate
 nadymiť/EN po:verb
 nadzemný/YN po:adjective
 nadzemsky
@@ -64923,21 +64744,7 @@ naforemný/YN po:adjective
 naformátovane
 naformátovaný/YN po:adjective
 naformátovať/WN po:verb
-nafoť
-nafotí
-nafotia
-nafotiac
-nafotil
-nafotila
-nafotili
-nafotilo
-nafotím
-nafotíme
-nafotíš
 nafotiť/EN po:verb
-nafotíte
-nafoťme
-nafoťte
 nafŕkalo
 náft st:nafta is:plural :is:genitive
 nafta/zZ po:noun is:feminine
@@ -66595,7 +66402,7 @@ napriekory
 naprieky
 Napriem
 naprikazovať/WN po:verb
-napríklad
+napríklad po:participle
 naprogramovanie/VN po:noun is:neuter
 naprogramovaný/YN po:adjective
 naprogramovať/WN po:verb
@@ -67710,7 +67517,6 @@ natĺkať/XN po:verb
 natmavo
 natni
 nato
-NATO
 NATO po:acronym
 natočene
 natočenie/V po:noun is:neuter
@@ -69011,7 +68817,6 @@ nečarbúc
 nečarte
 nečas/B po:noun is:masculine
 Nečas/C po:noun is:masculine
-Nečasa
 Nečasov/Y po:adjective
 nečasovo
 nečasovosť/K po:noun is:feminine
@@ -71644,53 +71449,6 @@ nemý/Y po:adjective
 nemyslením
 nemysliaci
 nemysliacim
-nenabehnutia
-nenabieľ
-nenabieli
-nenabielia
-nenabieliac
-nenabielil
-nenabielila
-nenabielili
-nenabielilo
-nenabielim
-nenabielime
-nenabieliš
-nenabieliť
-nenabielite
-nenabieľme
-nenabieľte
-nenabúra
-Nenabúra
-nenabúraj
-nenabúrajme
-nenabúrajte
-nenabúrajú
-nenabúrajúc
-nenabúral
-nenabúrala
-nenabúrali
-nenabúralo
-nenabúram
-nenabúrame
-nenabúraš
-nenabúrať
-nenabúrate
-nenacáp
-nenacápal
-nenacápala
-nenacápali
-nenacápalo
-nenacápať
-nenacápe
-nenacápem
-nenacápeme
-nenacápeš
-nenacápete
-nenacápme
-nenacápte
-nenacápu
-nenacápuc
 nenačarbime
 nenačarbite
 nenačarbú
@@ -71716,21 +71474,6 @@ nenačuchrite
 nenačuchrú
 nenačuchrúc
 nenadále
-nenaďap
-nenaďapí
-nenaďapia
-nenaďapiac
-nenaďapil
-nenaďapila
-nenaďapili
-nenaďapilo
-nenaďapím
-nenaďapíme
-nenaďapíš
-nenaďapiť
-nenaďapíte
-nenaďapme
-nenaďapte
 nenadarmo
 nenádeja
 nenádejam
@@ -71812,21 +71555,6 @@ nenadužijúc
 nenadužime
 nenadužite
 nenadviažuc
-nenadýma
-nenadýmaj
-nenadýmajme
-nenadýmajte
-nenadýmajú
-nenadýmajúc
-nenadýmal
-nenadýmala
-nenadýmali
-nenadýmalo
-nenadýmam
-nenadýmame
-nenadýmaš
-nenadýmať
-nenadýmate
 nenadžganec
 nenafajči
 nenafajčime
@@ -75946,30 +75674,10 @@ nepreborte
 neprebudenosť/K po:noun is:feminine
 neprecenené
 neprecenením
-neprečíšťa
-neprečíšťaj
-neprečíšťajme
-neprečíšťajte
-neprečíšťajú
-neprečíšťajúc
-neprečíšťal
-neprečíšťala
-neprečíšťali
-neprečíšťalo
-neprečíšťam
-neprečíšťame
-neprečíšťaš
-neprečíšťať
-neprečíšťate
 neprečitujú
 nepredajnosť/K po:noun is:feminine
 nepredaním
 nepredarmo
-nepredbieha
-nepredbieham
-nepredbiehame
-nepredbiehaš
-nepredbiehate
 nepredči
 nepredčime
 nepredčite
@@ -79494,20 +79202,6 @@ netušene
 netušenie/V po:noun is:neuter
 netušiace
 netušiaci
-netúžieva
-netúžievaj
-netúžievajme
-netúžievajte
-netúžievajú
-netúžievajúc
-netúžieval
-netúžievala
-netúžievali
-netúžievalo
-netúžievam
-netúžievame
-netúžievaš
-netúžievate
 netvor/B po:noun is:masculine
 netvorovi
 netvorte
@@ -90429,7 +90123,6 @@ odrušovať/WN po:verb
 odrýpať
 odrývať
 ods
-ODS
 ODS po:acronym
 odsabotovaný/YN po:adjective
 odsabotovať/WN po:verb
@@ -92259,7 +91952,6 @@ okružne
 okružný/YN po:adjective
 okružovanie/VN po:noun is:neuter
 okružovať/WN po:verb
-OKS
 OKS po:acronym
 okt
 oktaéder
@@ -93211,7 +92903,6 @@ opeľovanie/VN po:noun is:neuter
 opeľovať/WN po:verb
 open
 Open
-OpenOffice
 OpenOffice/B po:noun is:masculine
 opera/zZ po:noun is:feminine
 operabilitu
@@ -94902,7 +94593,6 @@ osmóza/zZ po:noun is:feminine
 osmŕdzať
 osmutnieť/XN po:verb
 osmutnievať/XN po:verb
-OSN
 OSN po:acronym
 osnova/zZ po:noun is:feminine
 osnovaný/YN po:adjective
@@ -98157,8 +97847,6 @@ Paroubek/c po:noun is:masculine
 Paroubkov/Y po:adjective
 párov
 párovací/IN po:adjective
-párovacie
-párovacieho
 párovanie/VN po:noun is:neuter
 párovaný/YN po:adjective
 párovať/WN po:verb
@@ -99312,7 +99000,6 @@ pätý/YN po:adjective
 päťzväzkový/YN po:adjective
 Pb
 PB po:acronym
-PC
 PC po:acronym
 PCB po:acronym
 PCl
@@ -112246,21 +111933,7 @@ prečisťovanie/VN po:noun is:neuter
 prečisťovať/WN po:verb
 prečisťujúci/YN po:adjective
 prečistý/YN po:adjective
-prečíšťa
-prečíšťaj
-prečíšťajme
-prečíšťajte
-prečíšťajú
-prečíšťajúc
-prečíšťal
-prečíšťala
-prečíšťali
-prečíšťalo
-prečíšťam
-prečíšťame
-prečíšťaš
 prečíšťať/XN po:verb
-prečíšťate
 prečítanie/V po:noun is:neuter
 prečítaný/YN po:adjective
 prečítať/XN po:verb
@@ -112318,14 +111991,9 @@ predbehovať/WN po:verb
 predbehúvať/XN po:verb
 predbežne
 predbežný/YN po:adjective
-predbieha
 predbiehajúci
-predbieham
-predbiehame
 predbiehanie/V po:noun is:neuter
-predbiehaš
 predbiehať/XN po:verb
-predbiehate
 predbojovník
 predcvičiť/EN po:verb
 predcvičovať/WN po:verb
@@ -120740,7 +120408,6 @@ prznime
 przniť/EN po:verb
 prznite
 przniteľ
-PS
 psalmódia
 psaltérium
 psamit
@@ -122275,7 +121942,6 @@ rallentando
 ralley
 rallye
 Ralskom
-RAM
 RAM po:acronym
 rám/B po:noun is:masculine
 Rama
@@ -124389,7 +124055,6 @@ režistov
 režný/YN po:adjective
 Rf
 RF po:acronym
-RGB
 RGB po:acronym
 Rh
 rheseasténia
@@ -124694,7 +124359,6 @@ riposta
 rips/B po:noun is:masculine
 ripsový/YN po:adjective
 RIS po:acronym
-RISC
 RISC po:acronym
 risk/B po:noun is:masculine
 riskantne
@@ -125104,7 +124768,6 @@ rolovane
 rolovanie/VN po:noun is:neuter
 rolovaný/YN po:adjective
 rolovať/WN po:verb
-ROM
 róm
 Róm/c po:noun is:masculine
 romadúr/C po:noun is:masculine
@@ -128469,7 +128132,6 @@ RSA
 RSDr
 RSFSR po:acronym
 RSR po:acronym
-RSS
 RSS po:acronym
 RTE po:acronym
 RTF
@@ -130395,7 +130057,6 @@ scivilňovanie/VN po:noun is:neuter
 scivilňovať/WN po:verb
 SCO po:acronym
 Scorpio
-SCP
 SCP po:acronym
 scraper/B po:noun is:masculine
 scrapera
@@ -130502,11 +130163,9 @@ sčitovanie/VN po:noun is:neuter
 sčitovať/WN po:verb
 SČK po:acronym
 sčupiť/EN po:verb
-SD
 SD po:acronym
 SDA po:acronym
 SDK po:acronym
-SDKÚ
 SDKÚ po:acronym
 SDĽ po:acronym
 SDR po:acronym
@@ -134657,7 +134316,6 @@ slota
 Slota/H po:noun is:masculine
 slote
 slotmi
-Slotom
 slotov
 Slotov/Y po:adjective
 slotu
@@ -134982,7 +134640,6 @@ smenný/YN po:adjective
 smenom
 smenovni
 smenový/YN po:adjective
-SMER
 smer/B po:noun is:masculine
 smerne
 smernica/U po:noun is:feminine
@@ -135193,7 +134850,6 @@ smrtnosť/K po:noun is:feminine
 smrtný/YN po:adjective
 smrtonosný/YN po:adjective
 sms
-SMS
 SMS po:acronym
 smtp
 smú/N
@@ -135400,7 +135056,6 @@ snôpky
 snôpok/B po:noun is:masculine
 SNP po:acronym
 SNR po:acronym
-SNS
 SNS po:acronym
 SNŠ po:acronym
 snúbencov/Y po:adjective
@@ -138148,7 +137803,6 @@ spytovaný/YN po:adjective
 spytovať/WN po:verb
 spyware
 spzvučný/YN po:adjective
-SQL
 SQL po:acronym
 square
 squash
@@ -143218,7 +142872,6 @@ sz
 SZ po:acronym
 SZĽH po:acronym
 SZM po:acronym
-SZS
 SZS po:acronym
 SZŠ po:acronym
 SZTK po:acronym
@@ -145113,6 +144766,7 @@ SZTK po:acronym
 škrtaných
 škrtať/EN po:verb
 Škrtel/c po:noun is:masculine
+Škrtelov/Y po:adjective
 škrtenie/V po:noun is:neuter
 škrtený/YN po:adjective
 škrti
@@ -151193,7 +150847,6 @@ Torus
 tory/c po:noun is:masculine
 toryov/Y po:adjective
 toryovec
-toryovia
 toryovský/YN po:adjective
 Torysa/z po:noun is:feminine
 Torysky
@@ -153512,8 +153165,10 @@ tsumebit
 tsunami
 TT po:acronym
 TTY
-tu
-tú
+tu po:adverb
+tú po:interjection
+tu po:particle
+tu po:pronoun
 tuan
 túb
 tuba/zZ po:noun is:feminine
@@ -154670,7 +154325,6 @@ Učníkom
 učňoch
 učňom
 učňov/YN po:adjective
-učňovi
 učňovka/zZ po:noun is:feminine
 učňovský/YN po:adjective
 učtáreň/D po:noun is:feminine
@@ -157197,7 +156851,6 @@ usalašených
 usalašiť/EN po:verb
 usalašovať/WN po:verb
 Usám
-USB
 USB po:acronym
 USD po:acronym
 úsečka/zZ po:noun is:feminine
@@ -160781,7 +160434,6 @@ vežovito
 vežovitý/YN po:adjective
 vežový/YN po:adjective
 VFAT
-VGA
 VGA po:acronym
 vhaczovať/WN po:verb
 vhadzovanie/VN po:noun is:neuter
@@ -163086,7 +162738,6 @@ vplývanie/V po:noun is:neuter
 vplývať/XN po:verb
 vplyvne
 vplyvný/YN po:adjective
-VPN
 VPN po:acronym
 vpochodovanie/VN po:noun is:neuter
 vpochodovať/WN po:verb
@@ -170808,7 +170459,6 @@ wulfenit
 würm
 wurtzit
 www
-WWW
 WWW po:acronym
 wwwAspell
 WXN po:acronym
