@@ -1,4 +1,4 @@
-184709
+184667
 á
 Á
 à
@@ -1105,7 +1105,7 @@ akatafázia
 akatalektický/YN po:adjective
 akatízia
 akawi
-akáže
+akáže po:pronaun
 akc
 akcelerácia/U po:noun is:feminine
 akceleračný/YN po:adjective
@@ -1168,16 +1168,18 @@ akčnosť/K po:noun is:feminine
 akčný/YN po:adjective
 akéhokoľvek
 akéhosi
+akéhože st:akýže
 akejkoľvek
 akejsi
-Akejže
+akejže po:pronoun st:akýže
 akékoľvek
 akémukoľvek
 akémusi
+akémuže st:akýže
 aker/B po:noun is:masculine
 akési
 akéto
-akéže
+akéže st: akáže is:plural is:nominative
 akija
 akíkoľvek
 akinakes
@@ -1185,6 +1187,7 @@ akineta
 akinéza
 akísi
 akiste
+akíže st: akýže is:plural is:nominativ is:masculine
 akja
 Akkra
 Akkre
@@ -1217,6 +1220,7 @@ akomodácia/U po:noun is:feminine
 akomodačný/YN po:adjective
 akomodovať/WN po:verb
 akomsi
+akomže st:akýže
 akonáhle
 akonitín
 akontácia/U po:noun is:feminine
@@ -1232,6 +1236,7 @@ akostne
 akostný/YN po:adjective
 akoukoľvek
 akousi
+akouže st:akýže
 akože
 akra
 akrálny/YN po:adjective
@@ -1414,7 +1419,7 @@ akuzácia
 akuzatív/B po:noun is:masculine
 akuzatíve
 akuzatívny/YN po:adjective
-Akúže
+akúže st:akýže
 akvabela
 akvacentrum
 akvadukt
@@ -1454,18 +1459,22 @@ akvizitéra
 Akvizitéri
 akvizitérov
 akvizítor
+aký po:pronaun
 aký/Y po:adjective
 akyanoblepsia
 akýchkoľvek
 akýchsi
+akýchže st:akýže
 akýkoľvek
 akýmikoľvek
 akýmisi
+akýmiže st:akýže
 akýmkoľvek
 akýmsi
+akýmže st:akýže
 akyn
 akýsi
-akýže
+akýže po:pronaun
 akže
 akživ
 al
@@ -48389,13 +48398,14 @@ korektúram
 korektúrový/YN po:adjective
 korela
 korelácia/U po:noun is:feminine
-korelačne
+korelačne po:adverb
 korelačný/YN po:adjective
 korelát/B po:noun is:masculine
 korelatívnosť/K po:noun is:feminine
 korelatívny/YN po:adjective
-korelovane
+korelovane po:adverb
 korelovaný/YN po:adjective
+korelovať/WN is:verb
 koreň/J po:noun is:masculine
 korenáč
 korenáčmi
@@ -61566,11 +61576,11 @@ mocnencu
 mocnenec/C po:noun is:masculine
 mocnieť/XN po:verb
 mocnina/zZ po:noun is:feminine
-mocninových
+mocninový/YN po:adjective
 mocniteľ/c po:noun is:masculine
-mocnitele
-mocniteli
-mocniteľu
+mocnitele st:mocniteľ is:plural is:nominative
+mocniteli st:mocniteľ is:singular is:locative
+mocniteľu st:mocniteľ is:singular is:dative
 mocno
 mocnosť/K po:noun is:feminine
 mocný/YN po:adjective
@@ -63264,6 +63274,7 @@ multiplikácii
 multiplikačne
 multiplikačný/YN po:adjective
 multiplikát
+multiplikatívny/YN po:adjective
 multiplikátor
 multiplikovať/WN po:verb
 Multiplum
@@ -64660,6 +64671,7 @@ nadužime
 nadužiť/EN po:verb
 nadužite
 nadužívanie/V po:noun is:neuter
+nadužívaný/YN po:adjective
 nadužívať/XN po:verb
 nadváh
 nadváha/zZ po:noun is:feminine
@@ -75664,7 +75676,6 @@ nepreblyskúvalo
 nepreblyskúvam
 nepreblyskúvame
 nepreblyskúvaš
-nepreblyskúvať
 nepreblyskúvate
 nepreboľ
 nepreboľme
@@ -75691,21 +75702,6 @@ nepredhrejme
 nepredhrejte
 nepredhrejú
 nepredhrejúc
-nepredchádza
-nepredchádzaj
-nepredchádzajme
-nepredchádzajte
-nepredchádzajú
-nepredchádzajúc
-nepredchádzal
-nepredchádzala
-nepredchádzali
-nepredchádzalo
-nepredchádzam
-nepredchádzame
-nepredchádzaš
-nepredchádzať
-nepredchádzate
 nepredíduc
 nepredimenzovávaní
 nepredkladaním
@@ -85106,6 +85102,7 @@ normalizátorský/YN po:adjective
 normalizovanie/VN po:noun is:neuter
 normalizovaný/YN po:adjective
 normalizovať/WN po:verb
+normalizujúci/YN po:adjective
 normálmi
 normálne/N
 normálnosť/K po:noun is:feminine
@@ -88194,6 +88191,7 @@ oddelený/YN po:adjective
 oddeliť/EN po:verb
 oddeliteľnosť/K po:noun is:feminine
 oddeliteľný/YN po:adjective
+oddeľovač/J po:noun is:masculine
 oddeľovanie/VN po:noun is:neuter
 oddeľovaný/YN po:adjective
 oddeľovať/WN po:verb
@@ -91024,6 +91022,8 @@ oferovať/WN po:verb
 oferta
 ofertórium
 off
+offline po:adverb
+off-line po:adverb
 offo
 ofialovieť/XN po:verb
 ofic
@@ -111551,7 +111551,7 @@ pravotočivý/Y po:adjective
 pravouhlosť/K po:noun is:feminine
 pravouhlý/YN po:adjective
 pravouholník/B po:noun is:masculine
-pravoverne
+pravoverne po:adverb
 pravovernosť/K po:noun is:feminine
 pravoverný/YN po:adjective
 pravšia
@@ -111652,14 +111652,8 @@ prebehávať/XN po:verb
 prebehlík/C po:noun is:masculine
 prebehlíkov/Y po:adjective
 prebehnúť/WN
-prebehnutí
-prebehnutia
-prebehnutie
-prebehnutom
-prebehnutou
-prebehnutú
-prebehnutých
-prebehnutým
+prebehnutie/VN po:noun is:neuter
+prebehnutý/YN po:adjective
 prebehovať/WN po:verb
 prebehu
 prebehy
@@ -111684,7 +111678,7 @@ preberateľa
 prebi
 prebiedenie/V po:noun is:neuter
 prebiediť/XN po:verb
-prebiedny
+prebiedny po:adverb
 prebiehajúci/Y po:adjective
 prebiehanie/V po:noun is:neuter
 prebiehať/XN po:verb
@@ -111711,8 +111705,7 @@ prebijúc
 prebime
 prebiť/EN po:verb
 prebite
-prebitia
-prebitie
+prebitie/V po:noun is:neuter
 prebitý/YN po:adjective
 preblahý/YN po:adjective
 preblednutý/YN po:adjective
@@ -111735,7 +111728,7 @@ preblyskúvalo
 preblyskúvam
 preblyskúvame
 preblyskúvaš
-preblyskúvať
+preblyskúvať/YN po:verb
 preblyskúvate
 preblysnúť/WN
 prebodal
@@ -111761,11 +111754,8 @@ prebor/B po:noun is:masculine
 preboreniami
 preborený/YN po:adjective
 preboriť/EN po:verb
-preborníčka
-preborník
-preborníkmi
-preborníkom
-preborte
+preborníčka/zZ po:noun is:feminine
+preborník/C po:noun is:masculine
 prebranie/VN po:noun is:neuter
 prebrániť/XN po:verb
 prebraný/YN po:adjective
@@ -111793,14 +111783,14 @@ prebudovať/WN po:verb
 prebudovávať/XN po:verb
 prebudúvať/XN po:verb
 prebúdzajúci/YN po:adjective
-prebúdzajúco
+prebúdzajúco po:adverb
 prebúdzanie/V po:noun is:neuter
 prebúdzaný/YN po:adjective
 prebúdzať/XN po:verb
-prebujnelo
+prebujnelo po:adverb
 prebujnelosť/K po:noun is:feminine
 prebujnelý/YN po:adjective
-prebujnene
+prebujnene po:adverb
 prebujnenie/V po:noun is:neuter
 prebujnenosť/K po:noun is:feminine
 prebujnený/YN po:adjective
@@ -111848,16 +111838,16 @@ precióznosť/K po:noun is:feminine
 preciózny
 precipitácia
 precitať/EN po:verb
-precítene
+precítene po:adverb
 precítenie/V po:noun is:neuter
 precítenosť/K po:noun is:feminine
 precítený/YN po:adjective
 precítiť/XN po:verb
-precitlivelo
+precitlivelo po:adverb
 precitlivelosť/K po:noun is:feminine
 precitlivelý/YN po:adjective
-precitlivene
-precitliveno
+precitlivene po:adverb
+precitliveno po:adverb
 precitlivenosť/K po:noun is:feminine
 precitlivený/YN po:adjective
 precitnúť/WN
@@ -111866,9 +111856,7 @@ precitnutie/V po:noun is:neuter
 precitnutých
 preciťovanie/VN po:noun is:neuter
 preciťovať/WN po:verb
-precizácia
-precizácie
-precizácii
+precizácia/U po:noun is:feminine
 precíznosť/K po:noun is:feminine
 precízny/YN po:adjective
 precizovanie/VN po:noun is:neuter
@@ -111917,14 +111905,12 @@ prečiarknutý/YN po:adjective
 prečiarkovať/WN po:verb
 Prečín
 prečin/B po:noun is:masculine
-prečísliš/XN po:verb
+prečísliť/XN po:verb
 prečíslovanie/VN po:noun is:neuter
 prečíslovaný/YN po:adjective
 prečíslovať/WN po:verb
 prečíslovávanie/VN po:noun is:neuter
-prečíslovávaš/XN po:verb
-prečíslovávať
-prečíslovávate
+prečíslovávať/XN po:verb
 prečistenie/V po:noun is:neuter
 prečistený/YN po:adjective
 prečistiť/EN po:verb
@@ -112048,10 +112034,7 @@ prederaviť/EN po:verb
 predesený/YN po:adjective
 predesiť/EN po:verb
 predestilovať/WN po:verb
-predestinácia
-predestinácie
-predestináciou
-predestináciu
+predestinácia/U
 predestinovaný/YN po:adjective
 predestinovať/WN po:verb
 predeterminácia
@@ -112098,32 +112081,12 @@ predhriatych
 predhrievač/J po:noun is:masculine
 predhrievanie/V po:noun is:neuter
 predhrievať/XN po:verb
-predchádza
-predchádzaj
-predchádzajme
-predchádzajte
-predchádzajú
-predchádzajúc
 predchádzajúci/YN po:adjective
 predchádzajúco
-predchádzal
-predchádzala
-predchádzali
-predchádzalo
-predchádzam
-Predchádzam
-predchádzame
 predchádzane
-predchádzaní
-predchádzania
-predchádzanie
-predchádzanieV
-predchádzaním
-predchádzaniu
+predchádzanie/VN po:noun is:neuter
 predchádzanom
-predchádzaš
-predchádzať
-predchádzate
+predchádzať/XN po:verb
 predchladenie/V po:noun is:neuter
 predchladenom
 predchladiť/EN po:verb
@@ -112168,9 +112131,7 @@ predikčný/YN po:adjective
 predikovanie/VN po:noun is:neuter
 predikovaný/YN po:adjective
 predikovať/WN po:verb
-prediktívna
-prediktívnej
-prediktívnu
+prediktívny/YN  po:adjective
 predilekcia
 predimenzovanie/VN po:noun is:neuter
 predimenzovanosť/K po:noun is:feminine
@@ -115732,15 +115693,8 @@ pretvárajúco
 pretváranie/V po:noun is:neuter
 pretváraný/YN po:adjective
 pretvárať/XN po:verb
-pretvárateľ/XN po:verb
-pretvárateľa
-pretváratelia
+pretvárateľ/c po:noun is:masculine
 pretvárateľka/zZ po:noun is:feminine
-pretvárateľmi
-pretvárateľoch
-pretvárateľom
-pretvárateľov
-pretvárateľovi
 pretvárateľský/YN po:adjective
 pretváravý/YN po:adjective
 pretvárka/zZ po:noun is:feminine
@@ -118321,9 +118275,7 @@ prisluhovačov/Y po:adjective
 prisluhovačský/YN po:adjective
 prisluhovanie/VN po:noun is:neuter
 prisluhovať/WN po:verb
-prislúchajúceho
-prislúchajúcej
-prislúchajúcu
+prislúchajúci/YN po:adjective
 prislúchať/XN po:verb
 prísluš
 príslušenstvo/M po:noun is:neuter
@@ -149496,6 +149448,11 @@ testamentový/YN po:adjective
 tesťami
 testátor/C po:noun is:masculine
 testátorov/Y po:adjective
+tester/b po:noun is:masculine
+testera st:tester is:singular is:genitive
+testeri st:tester is:plural is:plural
+testeri st:tester is:singular is:locative
+testery st:tester is:plural is:plural
 testikula
 testimonium
 testiná/Y po:adjective
@@ -156638,8 +156595,9 @@ urči
 určime
 Určime
 určiť/EN po:verb
-určite
-určito
+určite po:adverb
+určiteľný/YN po:adjective
+určito po:adverb
 určitosť/K po:noun is:feminine
 určitý/YN po:adjective
 určovacej
