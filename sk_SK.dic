@@ -1,4 +1,4 @@
-183957
+182318
 á
 Á
 à
@@ -37,7 +37,7 @@ abdukcia/U po:noun is:feminine
 Abeba/z po:noun is:feminine
 abeceda/zZ po:noun is:feminine
 abecedár/J po:noun is:masculine
-abecedne
+abecedne po:adverb
 abecedno
 abecedný/YN po:adjective
 Ábel/C po:noun is:masculine
@@ -15341,30 +15341,16 @@ debaklov
 debaklu
 debardér
 debarkadér
-debať
 debata/zZ po:noun is:feminine
 debatér/C po:noun is:masculine
 debatérka/zZ po:noun is:feminine
 debatérov/Y po:adjective
 debatérsky/Y po:adjective
-debatí
-debatia
-debatiac
-debatil
-debatila
-debatili
-debatilo
-debatím
-debatíme
-debatíš
-debatiť
-debatíte
-debaťme
+debatiť/EN po:verb
 debatný/Y po:adjective
 debatovanie/VN po:noun is:neuter
 debatovať/WN po:verb
 debatovávať
-debaťte
 debatúvať/XN po:verb
 debelácia
 debet/B po:noun is:masculine
@@ -21963,21 +21949,7 @@ drsnosť/K po:noun is:feminine
 drsnúť
 drsný/YN po:adjective
 DRSR po:acronym
-drť
-drtí
-drtia
-drtiac
-drtil
-drtila
-drtili
-drtilo
-drtím
-drtíme
-drtíš
-drtiť
-drtíte
-drťme
-drťte
+drtiť/EN po:verb
 drubieľ
 drúc
 drúci
@@ -26442,20 +26414,9 @@ Fanči
 fandango
 fandenie/V po:noun is:neuter
 fandi
-fandí
-fandia
-fandiac
-fandil
-fandila
-fandili
-fandilo
-fandím
 fandime
-fandíme
-fandíš
-fandiť
+fandiť/EN po:verb
 fandite
-fandíte
 fanerofyt/B po:noun is:masculine
 fanfár
 fanfára/zZ po:noun is:feminine
@@ -50704,21 +50665,10 @@ KSČ po:acronym
 ksí
 ksicht/B po:noun is:masculine
 ksichti
-ksichtí
-ksichtia
-ksichtiac
 ksichtík/B po:noun is:masculine
-ksichtil
-ksichtila
-ksichtili
-ksichtilo
-ksichtím
 ksichtime
-ksichtíme
-ksichtíš
-ksichtiť
+ksichtiť/EN po:verb
 ksichtite
-ksichtíte
 ksichtmi
 KSS po:acronym
 KSSZ po:acronym
@@ -53241,21 +53191,7 @@ leasingový/YN po:adjective
 leasingu
 leasingy
 lebečný/YN po:adjective
-lebeď
-lebedí
-lebedia
-lebediac
-lebedil
-lebedila
-lebedili
-lebedilo
-lebedím
-lebedíme
-lebedíš
-lebediť
-lebedíte
-lebeďme
-lebeďte
+lebediť/EN po:verb
 lebeň/D po:noun is:feminine
 lebeňa/U po:noun is:feminine
 lebení
@@ -69692,21 +69628,6 @@ nedrobči
 nedrobčime
 nedrobčite
 nedrobení
-nedrť
-nedrtí
-nedrtia
-nedrtiac
-nedrtil
-nedrtila
-nedrtili
-nedrtilo
-nedrtím
-nedrtíme
-nedrtíš
-nedrtiť
-nedrtíte
-nedrťme
-nedrťte
 nedrúc
 nedružď
 nedružďal
@@ -69797,20 +69718,8 @@ nefajčite
 nefalšovane
 nefalšovanosť/K po:noun is:feminine
 nefandi
-nefandí
-nefandia
-nefandiac
-nefandil
-nefandila
-nefandili
-nefandilo
-nefandím
 nefandime
-nefandíme
-nefandíš
-nefandiť
 nefandite
-nefandíte
 nefarbi
 nefarbime
 nefarbite
@@ -70896,20 +70805,8 @@ nekryštalizujúci
 nekrytia
 nekrytie
 neksichti
-neksichtí
-neksichtia
-neksichtiac
-neksichtil
-neksichtila
-neksichtili
-neksichtilo
-neksichtím
 neksichtime
-neksichtíme
-neksichtíš
-neksichtiť
 neksichtite
-neksichtíte
 nektár/B po:noun is:masculine
 nektáre
 nektárinka/zZ po:noun is:feminine
@@ -71031,21 +70928,6 @@ neľapci
 neľapcime
 neľapcite
 neláska/zZ po:noun is:feminine
-nelebeď
-nelebedí
-nelebedia
-nelebediac
-nelebedil
-nelebedila
-nelebedili
-nelebedilo
-nelebedím
-nelebedíme
-nelebedíš
-nelebediť
-nelebedíte
-nelebeďme
-nelebeďte
 nelegálnosť/K po:noun is:feminine
 nelej
 neleje
@@ -71057,6 +70939,7 @@ nelejme
 nelejte
 nelejú
 nelejúc
+neleniť/EN po:verb
 nelepši
 nelepšime
 nelepšite
@@ -72058,21 +71941,6 @@ nenažiť
 nenažite
 nenažrancov/Y po:adjective
 nenažranec/C po:noun is:masculine
-neneleň
-nenelení
-nenelenia
-neneleniac
-nenelenil
-nenelenila
-nenelenili
-nenelenilo
-nenelením
-neneleníme
-neneleníš
-neneleniť
-neneleníte
-neneleňme
-neneleňte
 nenenáviď
 neneobrezaný/Y po:adjective
 nengó
@@ -72217,21 +72085,6 @@ neobkradnú
 neobkradnúc
 neobkradnúť
 neobkradol
-neobkresli
-neobkreslí
-neobkreslia
-neobkresliac
-neobkreslil
-neobkreslila
-neobkreslili
-neobkreslilo
-neobkreslím
-neobkreslime
-neobkreslíme
-neobkreslíš
-neobkresliť
-neobkreslite
-neobkreslíte
 neobľahči
 neobľahčime
 neobľahčite
@@ -72576,20 +72429,8 @@ neodhovor
 neodhovorte
 neodhrabané
 neodhrdzi
-neodhrdzí
-neodhrdzia
-neodhrdziac
-neodhrdzil
-neodhrdzila
-neodhrdzili
-neodhrdzilo
-neodhrdzím
 neodhrdzime
-neodhrdzíme
-neodhrdzíš
-neodhrdziť
 neodhrdzite
-neodhrdzíte
 neodhrm
 neodhrň
 neodhrnie
@@ -72701,21 +72542,6 @@ neodkrývaš
 neodkrývať
 neodkrývate
 neodkúpenia
-neodlaď
-neodladí
-neodladia
-neodladiac
-neodladil
-neodladila
-neodladili
-neodladilo
-neodladím
-neodladíme
-neodladíš
-neodladiť
-neodladíte
-neodlaďme
-neodlaďte
 neodľahči
 neodľahčime
 neodľahčite
@@ -73436,20 +73262,8 @@ neopŕchavaš
 neopŕchavať
 neopŕchavate
 neoprosti
-neoprostí
-neoprostia
-neoprostiac
-neoprostil
-neoprostila
-neoprostili
-neoprostilo
-neoprostím
 neoprostime
-neoprostíme
-neoprostíš
-neoprostiť
 neoprostite
-neoprostíte
 neoprš
 neoprúc
 neopuchá
@@ -73503,21 +73317,6 @@ neoslepnite
 neoslepnú
 neoslepnúc
 neoslepol
-neoslň
-neoslní
-neoslnia
-neoslniac
-neoslnil
-neoslnila
-neoslnili
-neoslnilo
-neoslním
-neoslníme
-neoslníš
-neoslniť
-neoslníte
-neoslňme
-neoslňte
 neosob
 neosobne
 neosobnosť/K po:noun is:feminine
@@ -73880,20 +73679,6 @@ nepatogénny
 nepatrne
 nepatrnosť/K po:noun is:feminine
 nepatrný/Y po:adjective
-nepäť
-nepätia
-nepätiac
-nepätil
-nepätila
-nepätili
-nepätilo
-nepätím
-nepätíme
-nepätíš
-nepätiť
-nepätíte
-nepäťme
-nepäťte
 nepechor
 nepechorte
 nepekne
@@ -74047,20 +73832,8 @@ nepobime
 nepobite
 nepobozkaná
 nepocti
-nepoctí
-nepoctia
-nepoctiac
-nepoctil
-nepoctila
-nepoctili
-nepoctilo
-nepoctím
 nepoctime
-nepoctíme
-nepoctíš
-nepoctiť
 nepoctite
-nepoctíte
 nepoctivo
 nepoctivosť/K po:noun is:feminine
 nepočar
@@ -74152,20 +73925,8 @@ nepodleť
 nepodložene
 nepodloženosť/K po:noun is:feminine
 nepodmasti
-nepodmastí
-nepodmastia
-nepodmastiac
-nepodmastil
-nepodmastila
-nepodmastili
-nepodmastilo
-nepodmastím
 nepodmastime
-nepodmastíme
-nepodmastíš
-nepodmastiť
 nepodmastite
-nepodmastíte
 nepodmášťa
 nepodmášťaj
 nepodmášťajme
@@ -74434,24 +74195,9 @@ nepohašter
 nepohašterte
 nepohlavne
 nepohlcujúci
-nepohmožď
 nepohmoždi
-nepohmoždí
-nepohmoždia
-nepohmoždiac
-nepohmoždil
-nepohmoždila
-nepohmoždili
-nepohmoždilo
-nepohmoždím
 nepohmoždime
-nepohmoždíme
-nepohmoždíš
-nepohmoždiť
 nepohmoždite
-nepohmoždíte
-nepohmožďme
-nepohmožďte
 nepohnute
 nepohnuto
 nepohodla
@@ -74734,24 +74480,9 @@ nepomastime
 nepomastite
 nepomernosť/K po:noun is:feminine
 nepomerte
-nepomesť
 nepomesti
-nepomestí
-nepomestia
-nepomestiac
-nepomestil
-nepomestila
-nepomestili
-nepomestilo
-nepomestím
 nepomestime
-nepomestíme
-nepomestíš
-nepomestiť
 nepomestite
-nepomestíte
-nepomesťme
-nepomesťte
 nepomešti
 nepomeštime
 nepomeštite
@@ -75011,21 +74742,6 @@ neposkytnutia
 neposkytnutie
 neposkytnutím
 neposkytnutiu
-neposliň
-neposliní
-neposlinia
-neposliniac
-neposlinil
-neposlinila
-neposlinili
-neposlinilo
-neposliním
-neposliníme
-neposliníš
-neposliniť
-neposliníte
-neposliňme
-neposliňte
 neposlovenči
 neposlovenčime
 neposlovenčite
@@ -75037,21 +74753,6 @@ neposlušne
 neposlušnica/U po:noun is:feminine
 neposlušník/C po:noun is:masculine
 neposlušníkov/Y po:adjective
-neposoľ
-neposolí
-neposolia
-neposoliac
-neposolil
-neposolila
-neposolili
-neposolilo
-neposolím
-neposolíme
-neposolíš
-neposoliť
-neposolíte
-neposoľme
-neposoľte
 nepospávali
 nepospi
 nepospime
@@ -75233,21 +74934,6 @@ nepotlačenom
 nepotlačenú
 nepotlačených
 nepotlačenými
-nepotrať
-nepotratí
-nepotratia
-nepotratiac
-nepotratil
-nepotratila
-nepotratili
-nepotratilo
-nepotratím
-nepotratíme
-nepotratíš
-nepotratiť
-nepotratíte
-nepotraťme
-nepotraťte
 nepotrebne
 nepotrebujúci
 nepotrel
@@ -75920,20 +75606,8 @@ nepremlčateľné
 nepremlčateľnými
 nepremokavosť/K po:noun is:feminine
 nepremosti
-nepremostí
-nepremostia
-nepremostiac
-nepremostil
-nepremostila
-nepremostili
-nepremostilo
-nepremostím
 nepremostime
-nepremostíme
-nepremostíš
-nepremostiť
 nepremostite
-nepremostíte
 nepremožiteľne
 nepremožiteľnosť/K po:noun is:feminine
 nepremôž
@@ -76026,21 +75700,6 @@ neprerec
 neprerecme
 neprerecte
 nepreriednu
-neprerozdeľ
-neprerozdelí
-neprerozdelia
-neprerozdeliac
-neprerozdelil
-neprerozdelila
-neprerozdelili
-neprerozdelilo
-neprerozdelím
-neprerozdelíme
-neprerozdelíš
-neprerozdeliť
-neprerozdelíte
-neprerozdeľme
-neprerozdeľte
 neprerúba
 neprerúbaj
 neprerúbajme
@@ -76072,10 +75731,6 @@ nepresádžuc
 nepreseď
 nepresiahnutie
 nepresídleniu
-nepreskli
-nepresklí
-nepresklia
-nepreskliac
 nepresklieva
 nepresklievaj
 nepresklievajme
@@ -76091,17 +75746,6 @@ nepresklievame
 nepresklievaš
 nepresklievať
 nepresklievate
-nepresklil
-nepresklila
-nepresklili
-nepresklilo
-nepresklím
-nepresklime
-nepresklíme
-nepresklíš
-nepreskliť
-nepresklite
-nepresklíte
 nepreskúmania
 nepresne
 nepresnených
@@ -76544,24 +76188,9 @@ nepriplichtite
 nepripodobni
 nepripodobnime
 nepripodobnite
-nepripoisť
 nepripoisti
-nepripoistí
-nepripoistia
-nepripoistiac
-nepripoistil
-nepripoistila
-nepripoistili
-nepripoistilo
-nepripoistím
 nepripoistime
-nepripoistíme
-nepripoistíš
-nepripoistiť
 nepripoistite
-nepripoistíte
-nepripoisťme
-nepripoisťte
 nepripojenie/V po:noun is:neuter
 nepripravene
 nepripravenosť/K po:noun is:feminine
@@ -76630,21 +76259,6 @@ neprisviedčam
 neprisviedčame
 neprisviedčaš
 neprisviedčate
-neprisvoj
-neprisvoja
-neprisvojac
-neprisvojí
-neprisvojil
-neprisvojila
-neprisvojili
-neprisvojilo
-neprisvojím
-neprisvojíme
-neprisvojíš
-neprisvojiť
-neprisvojíte
-neprisvojme
-neprisvojte
 neprisypú
 neprisypúc
 nepriši
@@ -77300,21 +76914,6 @@ nerozplynieš
 nerozplyniete
 nerozplyňme
 nerozplyňte
-nerozpoľ
-nerozpolí
-nerozpolia
-nerozpoliac
-nerozpolil
-nerozpolila
-nerozpolili
-nerozpolilo
-nerozpolím
-nerozpolíme
-nerozpolíš
-nerozpoliť
-nerozpolíte
-nerozpoľme
-nerozpoľte
 nerozpolti
 nerozpoltime
 nerozpoltite
@@ -77517,21 +77116,6 @@ nesáčme
 nesáčte
 nesáču
 nesáčuc
-nesadz
-nesadzí
-nesadzia
-nesadziac
-nesadzil
-nesadzila
-nesadzili
-nesadzilo
-nesadzím
-nesadzíme
-nesadzíš
-nesadziť
-nesadzíte
-nesadzme
-nesadzte
 nesádžu
 nesádžuc
 nesamostatnosť/K po:noun is:feminine
@@ -77540,23 +77124,8 @@ nescafé
 nescivilni
 nescivilnime
 nescivilnite
-nescudz
-nescudzí
-nescudzia
-nescudziac
-nescudzil
-nescudzila
-nescudzili
-nescudzilo
-nescudzím
-nescudzíme
-nescudzíš
-nescudziť
-nescudzíte
 nescudziteľné
 nescudziteľnej
-nescudzme
-nescudzte
 nescupotajúc
 nesčerí
 nesčerím
@@ -77572,40 +77141,13 @@ neseď
 nesenie/V po:noun is:neuter
 nesený/YN po:adjective
 neserióznosť/K po:noun is:feminine
-nesfakli
-nesfaklí
-nesfaklia
-nesfakliac
-nesfaklil
-nesfaklila
-nesfaklili
-nesfaklilo
-nesfaklím
-nesfaklime
-nesfaklíme
-nesfaklíš
-nesfakliť
-nesfaklite
-nesfaklíte
 nesfarbi
 nesfarbime
 nesfarbite
 nesfič
 nesfunkčni
-nesfunkční
-nesfunkčnia
-nesfunkčniac
-nesfunkčnil
-nesfunkčnila
-nesfunkčnili
-nesfunkčnilo
-nesfunkčním
 nesfunkčnime
-nesfunkčníme
-nesfunkčníš
-nesfunkčniť
 nesfunkčnite
-nesfunkčníte
 neschabre
 neschabrem
 neschabreme
@@ -77832,20 +77374,8 @@ nesociate
 nesolídnosť/K po:noun is:feminine
 nesolventnosť/K po:noun is:feminine
 nesopti
-nesoptí
-nesoptia
-nesoptiac
-nesoptil
-nesoptila
-nesoptili
-nesoptilo
-nesoptím
 nesoptime
-nesoptíme
-nesoptíš
-nesoptiť
 nesoptite
-nesoptíte
 nesp
 nespálením
 nespanštej
@@ -78027,55 +77557,19 @@ nesprehľadni
 nesprehľadnime
 nesprehľadnite
 nesprejazdni
-nesprejazdní
-nesprejazdnia
-nesprejazdniac
-nesprejazdnil
-nesprejazdnila
-nesprejazdnili
-nesprejazdnilo
-nesprejazdním
 nesprejazdnime
-nesprejazdníme
-nesprejazdníš
-nesprejazdniť
 nesprejazdnite
-nesprejazdníte
 nesprenever
 nespreneverte
 nespresni
 nespresnime
 nespresnite
 nespriehľadni
-nespriehľadní
-nespriehľadnia
-nespriehľadniac
-nespriehľadnil
-nespriehľadnila
-nespriehľadnili
-nespriehľadnilo
-nespriehľadním
 nespriehľadnime
-nespriehľadníme
-nespriehľadníš
-nespriehľadniť
 nespriehľadnite
-nespriehľadníte
 nespriechodni
-nespriechodní
-nespriechodnia
-nespriechodniac
-nespriechodnil
-nespriechodnila
-nespriechodnili
-nespriechodnilo
-nespriechodním
 nespriechodnime
-nespriechodníme
-nespriechodníš
-nespriechodniť
 nespriechodnite
-nespriechodníte
 nespriemyselni
 nespriemyselnime
 nespriemyselnite
@@ -78149,20 +77643,8 @@ nestava
 nestavbová
 nesteľ
 nestelesni
-nestelesní
-nestelesnia
-nestelesniac
-nestelesnil
-nestelesnila
-nestelesnili
-nestelesnilo
-nestelesním
 nestelesnime
-nestelesníme
-nestelesníš
-nestelesniť
 nestelesnite
-nestelesníte
 nestemni
 nestemnime
 nestemnite
@@ -78462,21 +77944,6 @@ nešantite
 nešelesti
 nešelestime
 nešelestite
-nešemoň
-nešemoní
-nešemonia
-nešemoniac
-nešemonil
-nešemonila
-nešemonili
-nešemonilo
-nešemoním
-nešemoníme
-nešemoníš
-nešemoniť
-nešemoníte
-nešemoňme
-nešemoňte
 nešepci
 nešepcime
 nešepcite
@@ -78567,22 +78034,7 @@ nešklbúc
 neškodenie/V po:noun is:neuter
 neškodne
 neškodnosť/K po:noun is:feminine
-neškoľ
 neškolenosť/K po:noun is:feminine
-neškolí
-neškolia
-neškoliac
-neškolil
-neškolila
-neškolili
-neškolilo
-neškolím
-neškolíme
-neškolíš
-neškoliť
-neškolíte
-neškoľme
-neškoľte
 neškrabotajúc
 neškrč
 neškreč
@@ -79208,20 +78660,8 @@ neukoristi
 neukoristime
 neukoristite
 neukotvi
-neukotví
-neukotvia
-neukotviac
-neukotvil
-neukotvila
-neukotvili
-neukotvilo
-neukotvím
 neukotvime
-neukotvíme
-neukotvíš
-neukotviť
 neukotvite
-neukotvíte
 neukrivdi
 neukrivdime
 neukrivdite
@@ -79341,20 +78781,8 @@ neuprednostni
 neuprednostnime
 neuprednostnite
 neupresni
-neupresní
-neupresnia
-neupresniac
-neupresnil
-neupresnila
-neupresnili
-neupresnilo
-neupresním
 neupresnime
-neupresníme
-neupresníš
-neupresniť
 neupresnite
-neupresníte
 neúprimnosť/K po:noun is:feminine
 neúprosne
 neúprosnosť/K po:noun is:feminine
@@ -79481,20 +78909,8 @@ neusporiadanosť/K po:noun is:feminine
 neusporte
 neustajne
 neustajni
-neustajní
-neustajnia
-neustajniac
-neustajnil
-neustajnila
-neustajnili
-neustajnilo
-neustajním
 neustajnime
-neustajníme
-neustajníš
-neustajniť
 neustajnite
-neustajníte
 neustál
 neustálenosť/K po:noun is:feminine
 neustály/Y po:adjective
@@ -79552,20 +78968,8 @@ neústupčivosť/K po:noun is:feminine
 neústupne
 neústupnosť/K po:noun is:feminine
 neusústavni
-neusústavní
-neusústavnia
-neusústavniac
-neusústavnil
-neusústavnila
-neusústavnili
-neusústavnilo
-neusústavním
 neusústavnime
-neusústavníme
-neusústavníš
-neusústavniť
 neusústavnite
-neusústavníte
 neusúvzťažni
 neusúvzťažnime
 neusúvzťažnite
@@ -80085,21 +79489,6 @@ nevržď
 nevržďme
 nevržďte
 nevský/YN po:adjective
-nevstreľ
-nevstrelí
-nevstrelia
-nevstreliac
-nevstrelil
-nevstrelila
-nevstrelili
-nevstrelilo
-nevstrelím
-nevstrelíme
-nevstrelíš
-nevstreliť
-nevstrelíte
-nevstreľme
-nevstreľte
 nevstúpenie/V po:noun is:neuter
 nevsugerúva
 nevsugerúvaj
@@ -80782,21 +80171,8 @@ nevypratajúc
 nevyprázdnenie/V po:noun is:neuter
 nevyprázdnieva
 nevyprosť/K po:noun is:feminine
-nevyprostia
-nevyprostiac
-nevyprostil
-nevyprostila
-nevyprostili
-nevyprostilo
-nevyprostím
 nevyprostime
-nevyprostíme
-nevyprostíš
-nevyprostiť
 nevyprostite
-nevyprostíte
-nevyprosťme
-nevyprosťte
 nevyprš
 nevyprúc
 nevypusti
@@ -80942,20 +80318,8 @@ nevysychajúcim
 nevysypú
 nevysypúc
 nevyšanti
-nevyšantí
-nevyšantia
-nevyšantiac
-nevyšantil
-nevyšantila
-nevyšantili
-nevyšantilo
-nevyšantím
 nevyšantime
-nevyšantíme
-nevyšantíš
-nevyšantiť
 nevyšantite
-nevyšantíte
 nevyši
 nevyšibaj
 nevyšibajme
@@ -81104,21 +80468,6 @@ nevytrúc
 nevytvor
 nevytvorenie/V po:noun is:neuter
 nevytvorte
-nevytvrď
-nevytvrdí
-nevytvrdia
-nevytvrdiac
-nevytvrdil
-nevytvrdila
-nevytvrdili
-nevytvrdilo
-nevytvrdím
-nevytvrdíme
-nevytvrdíš
-nevytvrdiť
-nevytvrdíte
-nevytvrďme
-nevytvrďte
 nevyúčtovávali
 nevyúdi
 nevyúdim
@@ -82154,20 +81503,8 @@ nezasluhujúci
 nezaslúžene
 nezasmrď
 nezasni
-nezasní
-nezasnia
-nezasniac
-nezasnil
-nezasnila
-nezasnili
-nezasnilo
-nezasním
 nezasnime
-nezasníme
-nezasníš
-nezasniť
 nezasnite
-nezasníte
 nezaspi
 nezaspime
 nezaspite
@@ -82336,21 +81673,6 @@ nezaťaženie/V po:noun is:neuter
 nezatemni
 nezatemnime
 nezatemnite
-nezatepli
-nezateplí
-nezateplia
-nezatepliac
-nezateplil
-nezateplila
-nezateplili
-nezateplilo
-nezateplím
-nezateplime
-nezateplíme
-nezateplíš
-nezatepliť
-nezateplite
-nezateplíte
 nezatieni
 nezatienim
 nezatienime
@@ -82490,24 +81812,9 @@ nezavinene
 nezávis
 nezávisle
 nezávislo
-nezávoď
-nezávodí
-nezávodia
-nezávodiac
-nezávodil
-nezávodila
-nezávodili
-nezávodilo
-nezávodím
-nezávodíme
-nezávodíš
-nezávodiť
-nezávodíte
-nezávoďme
 nezavodni
 nezavodnime
 nezavodnite
-nezávoďte
 nezavráti
 nezavrátim
 nezavrátime
@@ -82528,20 +81835,8 @@ nezavržď
 nezavržďme
 nezavržďte
 nezavzdušni
-nezavzdušní
-nezavzdušnia
-nezavzdušniac
-nezavzdušnil
-nezavzdušnila
-nezavzdušnili
-nezavzdušnilo
-nezavzdušním
 nezavzdušnime
-nezavzdušníme
-nezavzdušníš
-nezavzdušniť
 nezavzdušnite
-nezavzdušníte
 nezavzdychá
 nezavzdychaj
 nezavzdychajme
@@ -82699,20 +81994,8 @@ nezdôd
 nezdôver
 nezdôverte
 nezdôveryhodni
-nezdôveryhodní
-nezdôveryhodnia
-nezdôveryhodniac
-nezdôveryhodnil
-nezdôveryhodnila
-nezdôveryhodnili
-nezdôveryhodnilo
-nezdôveryhodním
 nezdôveryhodnime
-nezdôveryhodníme
-nezdôveryhodníš
-nezdôveryhodniť
 nezdôveryhodnite
-nezdôveryhodníte
 nezdôvodni
 nezdôvodnime
 nezdôvodnite
@@ -82727,20 +82010,8 @@ nezdružstevnime
 nezdružstevnite
 nezdržanlivosť/K po:noun is:feminine
 nezduchaplni
-nezduchaplní
-nezduchaplnia
-nezduchaplniac
-nezduchaplnil
-nezduchaplnila
-nezduchaplnili
-nezduchaplnilo
-nezduchaplním
 nezduchaplnime
-nezduchaplníme
-nezduchaplníš
-nezduchaplniť
 nezduchaplnite
-nezduchaplníte
 nezdúchla
 nezdúchli
 nezdúchlo
@@ -82789,20 +82060,8 @@ nezhmotnime
 nezhmotnite
 nezhodnosť/K po:noun is:feminine
 nezhodnoverni
-nezhodnoverní
-nezhodnovernia
-nezhodnoverniac
-nezhodnovernil
-nezhodnovernila
-nezhodnovernili
-nezhodnovernilo
-nezhodnoverním
 nezhodnovernime
-nezhodnoverníme
-nezhodnoverníš
-nezhodnoverniť
 nezhodnovernite
-nezhodnoverníte
 nezhor
 nezhoršenie/V po:noun is:neuter
 nezhorši
@@ -83176,20 +82435,8 @@ neznedeľnievaš
 neznedeľnievať
 neznedeľnievate
 neznefunkčni
-neznefunkční
-neznefunkčnia
-neznefunkčniac
-neznefunkčnil
-neznefunkčnila
-neznefunkčnili
-neznefunkčnilo
-neznefunkčním
 neznefunkčnime
-neznefunkčníme
-neznefunkčníš
-neznefunkčniť
 neznefunkčnite
-neznefunkčníte
 neznehybni
 neznehybnime
 neznehybnite
@@ -83218,56 +82465,20 @@ nezneistela
 nezneisteli
 nezneistelo
 nezneisti
-nezneistí
-nezneistia
-nezneistiac
 nezneistie
 nezneistiem
 nezneistieme
 nezneistieš
 nezneistieť
 nezneistiete
-nezneistil
-nezneistila
-nezneistili
-nezneistilo
-nezneistím
 nezneistime
-nezneistíme
-nezneistíš
-nezneistiť
 nezneistite
-nezneistíte
 neznejasni
-neznejasní
-neznejasnia
-neznejasniac
-neznejasnil
-neznejasnila
-neznejasnili
-neznejasnilo
-neznejasním
 neznejasnime
-neznejasníme
-neznejasníš
-neznejasniť
 neznejasnite
-neznejasníte
 neznekvalitni
-neznekvalitní
-neznekvalitnia
-neznekvalitniac
-neznekvalitnil
-neznekvalitnila
-neznekvalitnili
-neznekvalitnilo
-neznekvalitním
 neznekvalitnime
-neznekvalitníme
-neznekvalitníš
-neznekvalitniť
 neznekvalitnite
-neznekvalitníte
 neznelosť/K po:noun is:feminine
 neznemožni
 neznemožnime
@@ -83302,35 +82513,11 @@ nezneuctime
 nezneuctite
 nezneviď
 neznevýhodni
-neznevýhodní
-neznevýhodnia
-neznevýhodniac
-neznevýhodnil
-neznevýhodnila
-neznevýhodnili
-neznevýhodnilo
-neznevýhodním
 neznevýhodnime
-neznevýhodníme
-neznevýhodníš
-neznevýhodniť
 neznevýhodnite
-neznevýhodníte
 neznezreteľni
-neznezreteľní
-neznezreteľnia
-neznezreteľniac
-neznezreteľnil
-neznezreteľnila
-neznezreteľnili
-neznezreteľnilo
-neznezreteľním
 neznezreteľnime
-neznezreteľníme
-neznezreteľníš
-neznezreteľniť
 neznezreteľnite
-neznezreteľníte
 nezničiteľne
 nezničiteľnosť/K po:noun is:feminine
 nezníme
@@ -83346,26 +82533,14 @@ nezobecnela
 nezobecneli
 nezobecnelo
 nezobecni
-nezobecní
-nezobecnia
-nezobecniac
 nezobecnie
 nezobecniem
 nezobecnieme
 nezobecnieš
 nezobecnieť
 nezobecniete
-nezobecnil
-nezobecnila
-nezobecnili
-nezobecnilo
-nezobecním
 nezobecnime
-nezobecníme
-nezobecníš
-nezobecniť
 nezobecnite
-nezobecníte
 nezodpovednosť/K po:noun is:feminine
 nezodrúc
 nezohľadni
@@ -83429,39 +82604,9 @@ nezopäla
 nezopäli
 nezopälo
 nezoradenia
-nezosaď
-nezosadí
-nezosadia
-nezosadiac
-nezosadil
-nezosadila
-nezosadili
-nezosadilo
-nezosadím
-nezosadíme
-nezosadíš
-nezosadiť
-nezosadíte
-nezosaďme
-nezosaďte
 nezosilni
 nezosilnime
 nezosilnite
-nezosmoľ
-nezosmolí
-nezosmolia
-nezosmoliac
-nezosmolil
-nezosmolila
-nezosmolili
-nezosmolilo
-nezosmolím
-nezosmolíme
-nezosmolíš
-nezosmoliť
-nezosmolíte
-nezosmoľme
-nezosmoľte
 nezosmrď
 nezosňalo
 nezosobni
@@ -83499,22 +82644,7 @@ nezostrihol
 nezostručni
 nezostručnime
 nezostručnite
-nezosúlaď
 nezosúladenie/V po:noun is:neuter
-nezosúladí
-nezosúladia
-nezosúladiac
-nezosúladil
-nezosúladila
-nezosúladili
-nezosúladilo
-nezosúladím
-nezosúladíme
-nezosúladíš
-nezosúladiť
-nezosúladíte
-nezosúlaďme
-nezosúlaďte
 nezosuň
 nezosunie
 nezosuniem
@@ -83543,20 +82673,8 @@ nezosúvaš
 nezosúvať
 nezosúvate
 nezosvetšti
-nezosvetští
-nezosvetštia
-nezosvetštiac
-nezosvetštil
-nezosvetštila
-nezosvetštili
-nezosvetštilo
-nezosvetštím
 nezosvetštime
-nezosvetštíme
-nezosvetštíš
-nezosvetštiť
 nezosvetštite
-nezosvetštíte
 nezosychá
 nezosychaj
 nezosychajme
@@ -83775,24 +82893,9 @@ nezurkotáte
 nezúrodni
 nezúrodnime
 nezúrodnite
-nezušľachť
 nezušľachti
-nezušľachtí
-nezušľachtia
-nezušľachtiac
-nezušľachtil
-nezušľachtila
-nezušľachtili
-nezušľachtilo
-nezušľachtím
 nezušľachtime
-nezušľachtíme
-nezušľachtíš
-nezušľachtiť
 nezušľachtite
-nezušľachtíte
-nezušľachťme
-nezušľachťte
 nezútulnej
 nezútulnejme
 nezútulnejte
@@ -86083,21 +85186,7 @@ obkradnúť
 obkradol
 obkratný/YN po:adjective
 obkreslené
-obkresli
-obkreslí
-obkreslia
-obkresliac
-obkreslil
-obkreslila
-obkreslili
-obkreslilo
-obkreslím
-obkreslime
-obkreslíme
-obkreslíš
-obkresliť
-obkreslite
-obkreslíte
+obkresliť/EN po:verb
 obkresľovať/WN po:verb
 obkríknuť
 obkročenie/V po:noun is:neuter
@@ -88090,20 +87179,9 @@ odhrčať
 odhrčkať
 odhrdzavenie/V po:noun is:neuter
 odhrdzi
-odhrdzí
-odhrdzia
-odhrdziac
-odhrdzil
-odhrdzila
-odhrdzili
-odhrdzilo
-odhrdzím
 odhrdzime
-odhrdzíme
-odhrdzíš
-odhrdziť
+odhrdziť/EN po:verb
 odhrdzite
-odhrdzíte
 odhrdzovač/J po:noun is:masculine
 odhrdzovať/WN po:verb
 odhrkotať/TN po:verb
@@ -88521,27 +87599,13 @@ odkývať/XN po:verb
 odkývnuť/WN
 odl
 odla
-odlaď
 odladenie/V po:noun is:neuter
 odladený/YN po:adjective
-odladí
-odladia
-odladiac
-odladil
-odladila
-odladili
-odladilo
-odladím
-odladíme
-odladíš
-odladiť
-odladíte
-odlaďme
+odladiť/EN po:verb
 odlaďovač
 odlaďovači
 odlaďovanie/VN po:noun is:neuter
 odlaďovať/WN po:verb
-odlaďte
 odľahčene
 odľahčenie/V po:noun is:neuter
 odľahčený/YN po:adjective
@@ -89261,20 +88325,7 @@ odplavovať/WN po:verb
 odplaziť/EN po:verb
 odplekať
 odplichti
-odplichtí
-odplichtia
-odplichtiac
-odplichtil
-odplichtila
-odplichtili
-odplichtilo
-odplichtím
-odplichtíme
-odplichtíš
-odplichtiť
-odplichtíte
-odplichťme
-odplichťte
+odplichtiť/EN po:verb
 odpľuť/WN
 odpľúva
 odpľúvaj
@@ -92987,20 +92038,9 @@ oprieť/XN po:verb
 oprobovať/WN po:verb
 oprostená
 oprosti
-oprostí
-oprostia
-oprostiac
-oprostil
-oprostila
-oprostili
-oprostilo
-oprostím
 oprostime
-oprostíme
-oprostíš
-oprostiť
+oprostiť/EN po:verb
 oprostite
-oprostíte
 oproti
 oprotiidúceho
 oprotiidúci
@@ -94081,27 +93121,13 @@ oslík
 oslíka
 oslíkom
 oslíkovi
-oslň
 oslnenie/V po:noun is:neuter
 oslnený/YN po:adjective
-oslní
-oslnia
-oslniac
-oslnil
-oslnila
-oslnili
-oslnilo
-oslním
-oslníme
-oslníš
-oslniť
-oslníte
+oslniť/EN po:verb
 oslnivo
 oslnivý/YN po:adjective
-oslňme
 oslňovanie/VN po:noun is:neuter
 oslňovať/WN po:verb
-oslňte
 oslňujúci/YN po:adjective
 oslňujúco
 Oslo/M po:noun is:neuter
@@ -98224,21 +97250,11 @@ päťhektárový/YN po:adjective
 päťhodinový/YN po:adjective
 päťhran/B po:noun is:masculine
 päťhranný/YN po:adjective
-pätia
-pätiac
 pätica/U po:noun is:feminine
 pätička/zZ po:noun is:feminine
-pätil
-pätila
-pätili
-pätilo
-pätím
-pätíme
 pätina/zZ po:noun is:feminine
 pätinový/YN po:adjective
-pätíš
-pätiť
-pätíte
+pätiť/EN po:verb
 päťizbový/YN po:adjective
 päťjadrový/YN po:adjective
 pätka/zZ po:noun is:feminine
@@ -98259,7 +97275,6 @@ pätkový/YN po:adjective
 päťkový/YN po:adjective
 päťkrát
 päťlitrový/YN po:adjective
-päťme
 päťmesačný/YN po:adjective
 päťmetrovej
 päťmiestny/YN po:adjective
@@ -98529,7 +97544,6 @@ päťstránkový/YN po:adjective
 päťstrannej
 päťstupňový/YN po:adjective
 päťstý/YN po:adjective
-päťte
 päťtisíc/č
 Päťtisíci
 päťtisícina
@@ -101808,20 +100822,9 @@ poco
 pocta/zZ po:noun is:feminine
 poctený/YN po:adjective
 pocti
-poctí
-poctia
-poctiac
-poctil
-poctila
-poctili
-poctilo
-poctím
 poctime
-poctíme
-poctíš
-poctiť
+poctiť/EN po:verb
 poctite
-poctíte
 poctivcov/Y po:adjective
 poctivec/C po:noun is:masculine
 poctivo
@@ -102498,20 +101501,9 @@ podmaslie/V po:noun is:neuter
 podmastené
 podmasteného
 podmasti
-podmastí
-podmastia
-podmastiac
-podmastil
-podmastila
-podmastili
-podmastilo
-podmastím
 podmastime
-podmastíme
-podmastíš
-podmastiť
+podmastiť/EN po:verb
 podmastite
-podmastíte
 podmasťovať/WN po:verb
 podmášťa
 podmášťaj
@@ -103745,25 +102737,11 @@ pohmatkať
 pohmatmi
 pohmkať/EN po:verb
 pohmkávať/XN po:verb
-pohmožď
 pohmoždenina/zZ po:noun is:feminine
 pohmoždi
-pohmoždí
-pohmoždia
-pohmoždiac
-pohmoždil
-pohmoždila
-pohmoždili
-pohmoždilo
-pohmoždím
 pohmoždime
-pohmoždíme
-pohmoždíš
-pohmoždiť
+pohmoždiť/EN po:verb
 pohmoždite
-pohmoždíte
-pohmožďme
-pohmožďte
 pohnaný/YN po:adjective
 pohnať/WN
 pohnať/XN po:verb
@@ -105830,24 +104808,10 @@ pomerný/YN po:adjective
 pomerový/YN po:adjective
 pomerte
 pomery/Q
-pomesť
 pomesti
-pomestí
-pomestia
-pomestiac
-pomestil
-pomestila
-pomestili
-pomestilo
-pomestím
 pomestime
-pomestíme
-pomestíš
-pomestiť
+pomestiť/EN po:verb
 pomestite
-pomestíte
-pomesťme
-pomesťte
 pomeškať
 pomešti
 pomeštime
@@ -107881,24 +106845,10 @@ poslíčkovi
 poslíčkovia
 poslík/c po:noun is:masculine
 poslíkov/Y po:adjective
-posliň
 poslinenie/V po:noun is:neuter
-posliní
-poslinia
-posliniac
-poslinil
-poslinila
-poslinili
-poslinilo
-posliním
-posliníme
-posliníš
-posliniť
-posliníte
-posliňme
+posliniť/EN po:verb
 poslintaný/YN po:adjective
 poslintať
-posliňte
 poslň
 posloch
 poslom
@@ -108002,26 +106952,12 @@ posnívať
 posnul
 posnula
 Posobášne
-posoľ
 posol/c po:noun is:masculine
 posolenie/V po:noun is:neuter
 posolený/YN po:adjective
-posolí
-posolia
-posoliac
-posolil
-posolila
-posolili
-posolilo
-posolím
-posolíme
-posolíš
-posoliť
-posolíte
-posoľme
+posoliť/EN po:verb
 posolov/Y po:adjective
 posolstvo/M po:noun is:neuter
-posoľte
 posortírovať/WN po:verb
 posošiť/EN po:verb
 posotenie/V po:noun is:neuter
@@ -108986,27 +107922,13 @@ potrafiť/EN po:verb
 potraktovať/WN po:verb
 potrápiť/XN po:verb
 potrasenie/V po:noun is:neuter
-potrať
 potrat/B po:noun is:masculine
 potratený/YN po:adjective
-potratí
-potratia
-potratiac
-potratil
-potratila
-potratili
-potratilo
-potratím
-potratíme
-potratíš
-potratiť
-potratíte
-potraťme
+potratiť/EN po:verb
 potratmi
 potratová
 potratové
 potratového
-potraťte
 potrav
 potráv
 potrava/z po:noun is:feminine
@@ -113527,21 +112449,9 @@ premortálny/YN po:adjective
 premostenie/V po:noun is:neuter
 premostený/YN po:adjective
 premosti
-premostí
-premostia
-Premostia
-premostiac
-premostil
-premostila
-premostili
-premostilo
-premostím
 premostime
-premostíme
-premostíš
-premostiť
+premostiť/EN po:verb
 premostite
-premostíte
 premosťovanie/VN po:noun is:neuter
 premosťovaný/YN po:adjective
 premosťovať/WN po:verb
@@ -114293,25 +113203,11 @@ prerokúvať/XN po:verb
 preromantizmus
 preroň
 preroní
-prerozdeľ
 prerozdelenie/V po:noun is:neuter
 prerozdelený/Y po:adjective
-prerozdelí
-prerozdelia
-prerozdeliac
-prerozdelil
-prerozdelila
-prerozdelili
-prerozdelilo
-prerozdelím
-prerozdelíme
-prerozdelíš
-prerozdeliť
-prerozdelíte
-prerozdeľme
+prerozdeliť/EN po:verb
 prerozdeľovanie/VN po:noun is:neuter
 prerozdeľovať/WN po:verb
-prerozdeľte
 prerozkošný/YN po:adjective
 prerozpráva
 prerozprával
@@ -114487,10 +113383,6 @@ preskákať/WN
 preskakovanie/VN po:noun is:neuter
 preskakovaný/YN po:adjective
 preskakovať/WN po:verb
-preskli
-presklí
-presklia
-preskliac
 presklieva
 presklievaj
 presklievajme
@@ -114506,17 +113398,7 @@ presklievame
 presklievaš
 presklievať
 presklievate
-presklil
-presklila
-presklili
-presklilo
-presklím
-presklime
-presklíme
-presklíš
-preskliť
-presklite
-presklíte
+preskliť/EN po:verb
 preskočenie/V po:noun is:neuter
 preskočený/YN po:adjective
 preskočiť/EN po:verb
@@ -117429,24 +116311,11 @@ pripodobniť/EN po:verb
 pripodobnite
 pripodobňovať/WN po:verb
 pripochodovať/WN po:verb
-pripoisť
 pripoistenie/V po:noun is:neuter
 pripoisti
-pripoistí
-pripoistia
-pripoistiac
-pripoistil
-pripoistila
-pripoistili
-pripoistilo
-pripoistím
 pripoistime
-pripoistíme
-pripoistíš
-pripoistiť
+pripoistiť/EN po:verb
 pripoistite
-pripoistíte
-pripoisťme
 pripoisťovacej
 pripoisťovací
 pripoisťovacia
@@ -117458,7 +116327,6 @@ pripoisťovacím
 pripoisťovacími
 pripoisťovaciu
 pripoisťovacom
-pripoisťte
 prípoj/J po:noun is:masculine
 pripojene
 pripojenie/V po:noun is:neuter
@@ -117997,25 +116865,11 @@ prisvietiť
 prísviť
 prísvit/B po:noun is:masculine
 prísvitmi
-prisvoj
-prisvoja
-prisvojac
 prisvojenie/V po:noun is:neuter
 prisvojený/YN po:adjective
-prisvojí
-prisvojil
-prisvojila
-prisvojili
-prisvojilo
-prisvojím
-prisvojíme
-prisvojíš
-prisvojiť
-prisvojíte
-prisvojme
+prisvojiť/EN po:verb
 prisvojovanie/VN po:noun is:neuter
 prisvojovať/WN po:verb
-prisvojte
 prisychať/EN po:verb
 prisypať/TN po:verb
 prisýpať/XN po:verb
@@ -123513,7 +122367,6 @@ rhizo
 Rhôna/zZ po:noun is:feminine
 rhônsky/YN po:adjective
 rhyton
-ria
 RIA po:acronym
 riad/B po:noun is:masculine
 riadene/YN po:adjective
@@ -123728,7 +122581,6 @@ rikšiam
 rikšou
 rikšov/Y po:adjective
 rilasciando
-rím
 Rím/B po:noun is:masculine
 Ríma
 Riman/c po:noun is:masculine
@@ -123821,19 +122673,15 @@ risposta
 riss
 ristringendo
 risvegliato
-ríš
 Riša
 ríša/U po:noun is:feminine
 ríšach
 ríšam
 Rišňovský/YN po:adjective
 ríšsky/YN po:adjective
-riť
+riť/EN po:verb
 riťami
 ritardando
-rite
-Rite
-ríte
 ritenendo
 riti
 rití
@@ -126358,27 +125206,13 @@ rozpojiteľnosť/K po:noun is:feminine
 rozpojiteľný/YN po:adjective
 rozpojovanie/VN po:noun is:neuter
 rozpojovať/WN po:verb
-rozpoľ
 rozpolcovať/WN po:verb
 rozpolenie/V po:noun is:neuter
 rozpolený/YN po:adjective
-rozpolí
-rozpolia
-rozpoliac
-rozpolil
-rozpolila
-rozpolili
-rozpolilo
-rozpolím
-rozpolíme
-rozpolíš
-rozpoliť
-rozpolíte
-rozpoľme
+rozpoliť/EN po:verb
 rozpoľovanie/VN po:noun is:neuter
 rozpoľovať/WN po:verb
 rozpoloženie/V po:noun is:neuter
-rozpoľte
 rozpoltene/YN po:adjective
 rozpoltenie/V po:noun is:neuter
 rozpoltenosť/K po:noun is:feminine
@@ -128513,7 +127347,6 @@ Sadská
 Sadské
 Sadskej
 saducej
-sadz
 sadza/U po:noun is:feminine
 sádzací/I po:adjective
 sadzač/C po:noun is:masculine
@@ -128528,29 +127361,16 @@ sádzanie/V po:noun is:neuter
 sádzať/TN po:verb
 sadzba/zZ po:noun is:feminine
 sadzbový/YN po:adjective
-sadzí
-sadzia
-sadziac
 sadziareň/D po:noun is:feminine
 sadziarenský/YN po:adjective
 sadzička/zZ po:noun is:feminine
-sadzil
-sadzila
-sadzili
-sadzilo
-sadzím
-sadzíme
-sadzíš
-sadziť
-sadzíte
+sadziť/EN po:verb
 sádzka/Z po:noun is:feminine
 sádzka/zZ po:noun is:feminine
-sadzme
 sadzobňa
 sadzobník/B po:noun is:masculine
 sadzobný/YN po:adjective
 sadzový/YN po:adjective
-sadzte
 sádžu
 sádžuc
 safaládka/Z po:noun is:feminine
@@ -129506,26 +128326,12 @@ screeningov
 screeningu
 screeningy
 SCSI po:acronym
-scudz
 scudzené
 scudzenie/V po:noun is:neuter
-scudzí
-scudzia
-scudziac
-scudzil
-scudzila
-scudzili
-scudzilo
-scudzím
-scudzíme
-scudzíš
-scudziť
-scudzíte
-scudzme
+scudziť/EN po:verb
 scudzoložiť/EN po:verb
 scudzovanie/VN po:noun is:neuter
 scudzovať/WN po:verb
-scudzte
 scukornatenie/V po:noun is:neuter
 scukornatený/YN po:adjective
 scukornatieť/XN po:verb
@@ -130961,21 +129767,7 @@ sezónnosť/K po:noun is:feminine
 sezónny/Y po:adjective
 SF po:acronym
 sfackať/EN po:verb
-sfakli
-sfaklí
-sfaklia
-sfakliac
-sfaklil
-sfaklila
-sfaklili
-sfaklilo
-sfaklím
-sfaklime
-sfaklíme
-sfaklíš
-sfakliť
-sfaklite
-sfaklíte
+sfakliť/EN po:verb
 sfalerit
 sfalšovane
 sfalšovanie/VN po:noun is:neuter
@@ -131045,20 +129837,9 @@ sfúknutý/YN po:adjective
 sfukovať/WN po:verb
 sfumato
 sfunkčni
-sfunkční
-sfunkčnia
-sfunkčniac
-sfunkčnil
-sfunkčnila
-sfunkčnili
-sfunkčnilo
-sfunkčním
 sfunkčnime
-sfunkčníme
-sfunkčníš
-sfunkčniť
+sfunkčniť/EN po:verb
 sfunkčnite
-sfunkčníte
 sfunkčňovať/WN po:verb
 sfušovanie/VN po:noun is:neuter
 sfušovaný/YN po:adjective
@@ -135039,21 +133820,10 @@ sopránový/YN po:adjective
 sopránu
 soprány
 sopti
-soptí
-soptia
-soptiac
 soptiaca
-soptil
-soptila
-soptili
-soptilo
-soptím
 soptime
-soptíme
-soptíš
-soptiť
+soptiť/EN po:verb
 soptite
-soptíte
 Sopúch
 sorabistika
 sorbát
@@ -136836,20 +135606,9 @@ sprehľadňovať/WN po:verb
 sprehýbaný/YN po:adjective
 sprej/J po:noun is:masculine
 sprejazdni
-sprejazdní
-sprejazdnia
-sprejazdniac
-sprejazdnil
-sprejazdnila
-sprejazdnili
-sprejazdnilo
-sprejazdním
 sprejazdnime
-sprejazdníme
-sprejazdníš
-sprejazdniť
+sprejazdniť/EN po:verb
 sprejazdnite
-sprejazdníte
 sprejazdňovať/WN po:verb
 sprejer/C po:noun is:masculine
 sprejera
@@ -136948,37 +135707,15 @@ spríbuznený/YN po:adjective
 spriečenie/V po:noun is:neuter
 spriečiť/XN po:verb
 spriehľadni
-spriehľadní
-spriehľadnia
-spriehľadniac
-spriehľadnil
-spriehľadnila
-spriehľadnili
-spriehľadnilo
-spriehľadním
 spriehľadnime
-spriehľadníme
-spriehľadníš
-spriehľadniť
+spriehľadniť/EN po:verb
 spriehľadnite
-spriehľadníte
 spriehľadňovanie/VN po:noun is:neuter
 spriehľadňovať/WN po:verb
 spriechodni
-spriechodní
-spriechodnia
-spriechodniac
-spriechodnil
-spriechodnila
-spriechodnili
-spriechodnilo
-spriechodním
 spriechodnime
-spriechodníme
-spriechodníš
-spriechodniť
+spriechodniť/EN po:verb
 spriechodnite
-spriechodníte
 spriechodňovať/WN po:verb
 spriemerkovanie/VN po:noun is:neuter
 spriemerkovaný/YN po:adjective
@@ -138106,20 +136843,9 @@ stelecký/YN po:adjective
 stelesnenie/V po:noun is:neuter
 stelesnený/YN po:adjective
 stelesni
-stelesní
-stelesnia
-stelesniac
-stelesnil
-stelesnila
-stelesnili
-stelesnilo
-stelesním
 stelesnime
-stelesníme
-stelesníš
-stelesniť
+stelesniť/EN po:verb
 stelesnite
-stelesníte
 stelesňovanie/VN po:noun is:neuter
 stelesňovaný/YN po:adjective
 stelesňovať/WN po:verb
@@ -142878,21 +141604,7 @@ SZTK po:acronym
 šeltia
 šely
 šém/B po:noun is:masculine
-šemoň
-šemoní
-šemonia
-šemoniac
-šemonil
-šemonila
-šemonili
-šemonilo
-šemoním
-šemoníme
-šemoníš
-šemoniť
-šemoníte
-šemoňme
-šemoňte
+šemoniť/EN po:verb
 šemotiť/EN po:verb
 šenk/B po:noun is:masculine
 šenkár/C po:noun is:masculine
@@ -143911,7 +142623,6 @@ SZTK po:acronym
 Škoch
 škoklovať/WN po:verb
 škol
-škoľ
 škola/zZ po:noun is:feminine
 školácky/YN po:adjective
 školáčik/c po:noun is:masculine
@@ -143923,27 +142634,15 @@ SZTK po:acronym
 školenie/V po:noun is:neuter
 školenosť/K po:noun is:feminine
 školený/YN po:adjective
-školí
-školia
-školiac
 školiace
 školiacich
 školička/zZ po:noun is:feminine
-školil
-školila
-školili
-školilo
-školím
-školíme
-školíš
-školiť
-školíte
+školiť/EN po:verb
 školiteľ/c po:noun is:masculine
 školiteľka/zZ po:noun is:feminine
 školiteľov/Y po:adjective
 školiteľský/YN po:adjective
 školiteľstvo/M po:noun is:neuter
-škoľme
 školné/Y po:adjective
 školnícky/YN po:adjective
 školníctvach
@@ -143966,7 +142665,6 @@ SZTK po:acronym
 školsky
 školský/YN po:adjective
 školstvo/M po:noun is:neuter
-škoľte
 škom
 škop/B po:noun is:masculine
 škopa
@@ -154632,21 +153330,9 @@ ukoristite
 ukotvenie/V po:noun is:neuter
 ukotvený/YN po:adjective
 ukotvi
-ukotví
-ukotvia
-ukotviac
-ukotvil
-ukotvila
-Ukotvila
-ukotvili
-ukotvilo
-ukotvím
 ukotvime
-ukotvíme
-ukotvíš
-ukotviť
+ukotviť/EN po:verb
 ukotvite
-ukotvíte
 uková
 ukovať/WN po:verb
 ukr
@@ -155866,22 +154552,10 @@ uprený/YN po:adjective
 upresnenie/V po:noun is:neuter
 upresnený/YN po:adjective
 upresni
-upresní
-upresnia
-upresniac
-upresnil
-upresnila
-upresnili
-upresnilo
-upresním
 upresnime
 Upresnime
-upresníme
-upresníš
-upresniť
+upresniť/EN po:verb
 upresnite
-upresníte
-Upresníte
 upresňovanie/VN po:noun is:neuter
 upresňovaný/YN po:adjective
 upresňovať/WN po:verb
@@ -156570,20 +155244,9 @@ ust
 ustajnenie/V po:noun is:neuter
 ustajnený/YN po:adjective
 ustajni
-ustajní
-ustajnia
-ustajniac
-ustajnil
-ustajnila
-ustajnili
-ustajnilo
-ustajním
 ustajnime
-ustajníme
-ustajníš
-ustajniť
+ustajniť/EN po:verb
 ustajnite
-ustajníte
 ustajňovacej
 ustajňovacie
 ustajňovacích
@@ -156786,20 +155449,9 @@ usúkaný/YN po:adjective
 usúkať/XN po:verb
 ususfruktus
 usústavni
-usústavní
-usústavnia
-usústavniac
-usústavnil
-usústavnila
-usústavnili
-usústavnilo
-usústavním
 usústavnime
-usústavníme
-usústavníš
-usústavniť
+usústavniť/EN po:verb
 usústavnite
-usústavníte
 usústavňovať/WN po:verb
 usušenie/V po:noun is:neuter
 usušený/YN po:adjective
@@ -162818,21 +161470,7 @@ vstrekovať/WN po:verb
 vstrekový/YN po:adjective
 vstreku
 vstreky
-vstreľ
-vstrelí
-vstrelia
-vstreliac
-vstrelil
-vstrelila
-vstrelili
-vstrelilo
-vstrelím
-vstrelíme
-vstrelíš
-vstreliť
-vstrelíte
-vstreľme
-vstreľte
+vstreliť/EN po:verb
 vstrieknuť/WN
 vstrkávať
 vstrkovať/WN po:verb
@@ -164064,23 +162702,9 @@ vyformovanie/VN po:noun is:neuter
 vyformovaný/YN po:adjective
 vyformovať/WN po:verb
 vyforsírovať/WN po:verb
-vyfoť
-vyfotí
-vyfotia
-vyfotiac
-vyfotil
-vyfotila
-vyfotili
-vyfotilo
-vyfotím
-vyfotíme
-vyfotíš
-vyfotiť
-vyfotíte
-vyfoťme
+vyfotiť/EN po:verb
 vyfotografovaný/YN po:adjective
 vyfotografovať/WN po:verb
-vyfoťte
 vyfrézovanie/VN po:noun is:neuter
 vyfrézovať/WN po:verb
 vyfrflať
@@ -166669,20 +165293,9 @@ vyproseným
 vyprosiť/EN po:verb
 vyprosovať/WN po:verb
 vyprosť/K po:noun is:feminine
-vyprostia
-vyprostiac
-vyprostil
-vyprostila
-vyprostili
-vyprostilo
-vyprostím
 vyprostime
-vyprostíme
-vyprostíš
-vyprostiť
+vyprostiť/EN po:verb
 vyprostite
-vyprostíte
-vyprosťme
 vyprosťovací
 vyprosťovacia
 vyprosťovacie
@@ -166690,7 +165303,6 @@ vyprosťovacích
 vyprosťovacími
 vyprosťovanie/VN po:noun is:neuter
 vyprosťovať/WN po:verb
-vyprosťte
 vyprovokovanie/VN po:noun is:neuter
 vyprovokovaný/YN po:adjective
 vyprovokovať/WN po:verb
@@ -167845,20 +166457,9 @@ vysypú
 vysypúc
 výš/D po:noun is:feminine
 vyšanti
-vyšantí
-vyšantia
-vyšantiac
-vyšantil
-vyšantila
-vyšantili
-vyšantilo
-vyšantím
 vyšantime
-vyšantíme
-vyšantíš
-vyšantiť
+vyšantiť/EN po:verb
 vyšantite
-vyšantíte
 výšava/zZ po:noun is:feminine
 vyše
 vyšedivený/YN po:adjective
@@ -168533,22 +167134,8 @@ vytvorenie/V po:noun is:neuter
 vytvorený/YN po:adjective
 vytvoriť/EN po:verb
 vytvorte
-vytvrď
 vytvrdený/YN po:adjective
-vytvrdí
-vytvrdia
-vytvrdiac
-vytvrdil
-vytvrdila
-vytvrdili
-vytvrdilo
-vytvrdím
-vytvrdíme
-vytvrdíš
-vytvrdiť
-vytvrdíte
-vytvrďme
-vytvrďte
+vytvrdiť/EN po:verb
 vytvrdzovanie/VN po:noun is:neuter
 vytvrdzovaný/YN po:adjective
 vytvrdzovať/WN po:verb
@@ -174331,20 +172918,9 @@ zasnežený/YN po:adjective
 zasnežiť/EN po:verb
 zasnežovať/WN po:verb
 zasni
-zasní
-zasnia
-zasniac
-zasnil
-zasnila
-zasnili
-zasnilo
-zasním
 zasnime
-zasníme
-zasníš
-zasniť
+zasniť/EN po:verb
 zasnite
-zasníte
 zasnívane
 zasnívano
 zasnívanosť/K po:noun is:feminine
@@ -175085,21 +173661,7 @@ zatemňujúci
 zatemňujúcu
 zateniť
 zateoretizovať/WN po:verb
-zatepli
-zateplí
-zateplia
-zatepliac
-zateplil
-zateplila
-zateplili
-zateplilo
-zateplím
-zateplime
-zateplíme
-zateplíš
-zatepliť
-zateplite
-zateplíte
+zatepliť/EN po:verb
 zatepľovať/WN po:verb
 zatesnenie/V po:noun is:neuter
 zatesniť/EN po:verb
@@ -175775,23 +174337,13 @@ zavliecť/RN po:verb
 zavliekať/XN po:verb
 zavlneniam
 zavlniť/EN po:verb
-závoď
 závod/B po:noun is:masculine
 závodenie/V po:noun is:neuter
-závodiac
 závodiaci
 závodie/V po:noun is:neuter
-závodil
-závodila
-závodili
-závodilo
-závodíme
 závodísk
 závodisko/M po:noun is:neuter
-závodíš
-závodiť
-závodíte
-závoďme
+závodiť/EN po:verb
 závodne
 zavodnenie/V po:noun is:neuter
 zavodnený/YN po:adjective
@@ -175807,7 +174359,6 @@ zavodňovanie/VN po:noun is:neuter
 zavodňovať/WN po:verb
 závodný/YN po:adjective
 Závodský/YN po:adjective
-závoďte
 závoj/J po:noun is:masculine
 závojček/B po:noun is:masculine
 závojový/YN po:adjective
@@ -175915,20 +174466,9 @@ zavzať
 zavzatý/YN po:adjective
 zavzdať
 zavzdušni
-zavzdušní
-zavzdušnia
-zavzdušniac
-zavzdušnil
-zavzdušnila
-zavzdušnili
-zavzdušnilo
-zavzdušním
 zavzdušnime
-zavzdušníme
-zavzdušníš
-zavzdušniť
+zavzdušniť/EN po:verb
 zavzdušnite
-zavzdušníte
 zavzdušňovanie/VN po:noun is:neuter
 zavzdušňovať/WN po:verb
 zavzdychá
@@ -176749,20 +175289,9 @@ zdôveriť/EN po:verb
 zdôverovať/WN po:verb
 zdôverte
 zdôveryhodni
-zdôveryhodní
-zdôveryhodnia
-zdôveryhodniac
-zdôveryhodnil
-zdôveryhodnila
-zdôveryhodnili
-zdôveryhodnilo
-zdôveryhodním
 zdôveryhodnime
-zdôveryhodníme
-zdôveryhodníš
-zdôveryhodniť
+zdôveryhodniť/EN po:verb
 zdôveryhodnite
-zdôveryhodníte
 zdôveryhodňovať/WN po:verb
 zdôvodnenie/V po:noun is:neuter
 zdôvodnený/YN po:adjective
@@ -176924,20 +175453,9 @@ zdržovať/WN po:verb
 zdržujúci
 ZDŠ po:acronym
 zduchaplni
-zduchaplní
-zduchaplnia
-zduchaplniac
-zduchaplnil
-zduchaplnila
-zduchaplnili
-zduchaplnilo
-zduchaplním
 zduchaplnime
-zduchaplníme
-zduchaplníš
-zduchaplniť
+zduchaplniť/EN po:verb
 zduchaplnite
-zduchaplníte
 zdúchať
 zdúchla
 zdúchli
@@ -177455,20 +175973,9 @@ zhodnotenie/V po:noun is:neuter
 zhodnotený/YN po:adjective
 zhodnotiť/EN po:verb
 zhodnoverni
-zhodnoverní
-zhodnovernia
-zhodnoverniac
-zhodnovernil
-zhodnovernila
-zhodnovernili
-zhodnovernilo
-zhodnoverním
 zhodnovernime
-zhodnoverníme
-zhodnoverníš
-zhodnoverniť
+zhodnoverniť/EN po:verb
 zhodnovernite
-zhodnoverníte
 zhodnoverňovať/WN po:verb
 zhodnúť/WN
 Zhodnutie
@@ -179345,20 +177852,9 @@ znedeľnievať
 znedeľnievate
 znedo
 znefunkčni
-znefunkční
-znefunkčnia
-znefunkčniac
-znefunkčnil
-znefunkčnila
-znefunkčnili
-znefunkčnilo
-znefunkčním
 znefunkčnime
-znefunkčníme
-znefunkčníš
-znefunkčniť
+znefunkčniť/EN po:verb
 znefunkčnite
-znefunkčníte
 znefunkčňovať/WN po:verb
 znehodnocovacej
 znehodnocovacieho
@@ -179415,62 +177911,29 @@ zneistela
 zneisteli
 zneistelo
 zneisti
-zneistí
-zneistia
-zneistiac
 zneistie
 zneistiem
 zneistieme
 zneistieš
 zneistieť
 zneistiete
-zneistil
-zneistila
-zneistili
-zneistilo
-zneistím
 zneistime
-zneistíme
-zneistíš
-zneistiť
+zneistiť/EN po:verb
 zneistite
-zneistíte
 znejasnenie/V po:noun is:neuter
 znejasnený/YN po:adjective
 znejasni
-znejasní
-znejasnia
-znejasniac
-znejasnil
-znejasnila
-znejasnili
-znejasnilo
-znejasním
 znejasnime
-znejasníme
-znejasníš
-znejasniť
+znejasniť/EN po:verb
 znejasnite
-znejasníte
 znejasňovanie/VN po:noun is:neuter
 znejasňovať/WN po:verb
 zneje
 znejúci/Y po:adjective
 znekvalitni
-znekvalitní
-znekvalitnia
-znekvalitniac
-znekvalitnil
-znekvalitnila
-znekvalitnili
-znekvalitnilo
-znekvalitním
 znekvalitnime
-znekvalitníme
-znekvalitníš
-znekvalitniť
+znekvalitniť/EN po:verb
 znekvalitnite
-znekvalitníte
 znekvalitňovať/WN po:verb
 znelka/zZ po:noun is:feminine
 znelkový/YN po:adjective
@@ -179654,38 +178117,16 @@ zneviď
 znevidieť/RN po:verb
 znevýhodnenie/V po:noun is:neuter
 znevýhodni
-znevýhodní
-znevýhodnia
-znevýhodniac
-znevýhodnil
-znevýhodnila
-znevýhodnili
-znevýhodnilo
-znevýhodním
 znevýhodnime
-znevýhodníme
-znevýhodníš
-znevýhodniť
+znevýhodniť/EN po:verb
 znevýhodnite
-znevýhodníte
 znevýhodňovaný/YN po:adjective
 znevýhodňovať/WN po:verb
 znezrady
 znezreteľni
-znezreteľní
-znezreteľnia
-znezreteľniac
-znezreteľnil
-znezreteľnila
-znezreteľnili
-znezreteľnilo
-znezreteľním
 znezreteľnime
-znezreteľníme
-znezreteľníš
-znezreteľniť
+znezreteľniť/EN po:verb
 znezreteľnite
-znezreteľníte
 znezreteľňovať/WN po:verb
 znežnela
 znežneli
@@ -179760,9 +178201,7 @@ znovunastolenie/V po:noun is:neuter
 znovunaštudovanie/VN po:noun is:neuter
 znovuobjavenie/V po:noun is:neuter
 znovuobjavený/YN po:adjective
-znovuobjavila
-znovuobjavíš
-znovuobjaviť
+znovuobjaviť/EN po:verb
 znovuobnovenie/V po:noun is:neuter
 znovuobnovený/YN po:adjective
 znovuobnovila
@@ -179838,26 +178277,15 @@ zobecneli
 zobecnelo
 zobecnená
 zobecni
-zobecní
-zobecnia
-zobecniac
 zobecnie
 zobecniem
 zobecnieme
 zobecnieš
 zobecnieť
 zobecniete
-zobecnil
-zobecnila
-zobecnili
-zobecnilo
-zobecním
 zobecnime
-zobecníme
-zobecníš
-zobecniť
+zobecniť/EN po:verb
 zobecnite
-zobecníte
 zoberanie/V po:noun is:neuter
 zoberať/EN po:verb
 zobjektivizovanie/VN po:noun is:neuter
@@ -180232,29 +178660,15 @@ zorov
 zorove
 zorvi
 zós/B po:noun is:masculine
-zosaď
 zosadaním
 zosadať/EN po:verb
 zosadenie/V po:noun is:neuter
 zosadený/YN po:adjective
-zosadí
-zosadia
-zosadiac
-zosadil
-zosadila
-zosadili
-zosadilo
-zosadím
-zosadíme
-zosadíš
-zosadiť
-zosadíte
+zosadiť/EN po:verb
 zosadlovatieť
 zosadlovieť
-zosaďme
 zosadnúť/WN
 zosadnutia
-zosaďte
 zosádzať/XN po:verb
 zosadzovanie/VN po:noun is:neuter
 zosadzovať/WN po:verb
@@ -180334,22 +178748,8 @@ zosmiešňovanie/VN po:noun is:neuter
 zosmiešňovaný/YN po:adjective
 zosmiešňovať/WN po:verb
 zosmiešňujúci/YN po:adjective
-zosmoľ
 zosmolený/YN po:adjective
-zosmolí
-zosmolia
-zosmoliac
-zosmolil
-zosmolila
-zosmolili
-zosmolilo
-zosmolím
-zosmolíme
-zosmolíš
-zosmoliť
-zosmolíte
-zosmoľme
-zosmoľte
+zosmoliť/EN po:verb
 zosmradiť
 zosmradnúť/WN
 zosmrď
@@ -180523,23 +178923,9 @@ zosúkavací/I po:adjective
 zosúkavaný/YN po:adjective
 zosúkavať/XN po:verb
 zosul
-zosúlaď
 zosúladenie/V po:noun is:neuter
 zosúladený/YN po:adjective
-zosúladí
-zosúladia
-zosúladiac
-zosúladil
-zosúladila
-zosúladili
-zosúladilo
-zosúladím
-zosúladíme
-zosúladíš
-zosúladiť
-zosúladíte
-zosúlaďme
-zosúlaďte
+zosúladiť/EN po:verb
 zosumarizovať/WN po:verb
 zosumírovať/WN po:verb
 zosumovať/WN po:verb
@@ -180595,20 +178981,9 @@ zosužovať/WN po:verb
 zosvetlenie/V po:noun is:neuter
 zosvetliť
 zosvetšti
-zosvetští
-zosvetštia
-zosvetštiac
-zosvetštil
-zosvetštila
-zosvetštili
-zosvetštilo
-zosvetštím
 zosvetštime
-zosvetštíme
-zosvetštíš
-zosvetštiť
+zosvetštiť/EN po:verb
 zosvetštite
-zosvetštíte
 zosvetšťovať/WN po:verb
 zosychá
 zosychaj
@@ -181733,29 +180108,15 @@ zurvalsky
 zurvalský/YN po:adjective
 zurvalstvo/M po:noun is:neuter
 ZUŠ po:acronym
-zušľachť
 zušľachtenie/V po:noun is:neuter
 zušľachtený/YN po:adjective
 zušľachti
-zušľachtí
-zušľachtia
-zušľachtiac
-zušľachtil
-zušľachtila
-zušľachtili
-zušľachtilo
-zušľachtím
 zušľachtime
-zušľachtíme
-zušľachtíš
-zušľachtiť
+zušľachtiť/EN po:verb
 zušľachtite
-zušľachtíte
-zušľachťme
 zušľachťovací/I po:adjective
 zušľachťovanie/VN po:noun is:neuter
 zušľachťovať/WN po:verb
-zušľachťte
 zušľachťujúce
 zutekanie/V po:noun is:neuter
 zutekať/EN po:verb
