@@ -1,4 +1,4 @@
-182318
+181930
 á
 Á
 à
@@ -34914,7 +34914,7 @@ hriebla
 hriebli
 hrieblo
 hriebol
-hriebsť/XN po:verb
+hriebsť/ po:verb
 hriedlko
 hriech/B po:noun is:masculine
 hriecha
@@ -64287,22 +64287,8 @@ nadplánovane
 nadplánovaný/YN po:adjective
 nadplánový/YN po:adjective
 nadplatky
-nadpleť
 nadpletať/EN po:verb
-nadpletie
-nadpletiem
-nadpletieme
-nadpletieš
-nadpletiete
-nadpleťme
-nadpleťte
-nadpletú
-nadpletúc
-nadpliesť/XN po:verb
-nadplietla
-nadplietli
-nadplietlo
-nadplietol
+nadpliesť/RN po:verb
 nadpočetný/YN po:adjective
 nadpodnikové
 nadpodnikového
@@ -66088,21 +66074,7 @@ naplavovaný/YN po:adjective
 naplavovať/WN po:verb
 náplavový/YN po:adjective
 náplecník/B po:noun is:masculine
-napleť
-napletie
-napletiem
-napletieme
-napletieš
-napletiete
-napleťme
-napleťte
-napletú
-napletúc
-napliesť/XN po:verb
-naplietla
-naplietli
-naplietlo
-naplietol
+napliesť/RN po:verb
 náplň/D po:noun is:feminine
 napĺňajúci/YN po:adjective
 napĺňanie/VN po:noun is:neuter
@@ -71348,20 +71320,6 @@ nenadobudnutia
 nenadobudnutie
 nenadpíšu
 nenadpíšuc
-nenadpleť
-nenadpletie
-nenadpletiem
-nenadpletieme
-nenadpletieš
-nenadpletiete
-nenadpleťme
-nenadpleťte
-nenadpletú
-nenadpletúc
-nenadplietla
-nenadplietli
-nenadplietlo
-nenadplietol
 nenadrúc
 nenadsadí
 nenadsadil
@@ -71595,20 +71553,6 @@ nenapíšu
 nenapíšuc
 nenaplačú
 nenaplačúc
-nenapleť
-nenapletie
-nenapletiem
-nenapletieme
-nenapletieš
-nenapletiete
-nenapleťme
-nenapleťte
-nenapletú
-nenapletúc
-nenaplietla
-nenaplietli
-nenaplietlo
-nenaplietol
 nenapočúval
 nenapodobiteľne
 nenapodobiteľnosť/K po:noun is:feminine
@@ -71986,20 +71930,6 @@ neobhrnieš
 neobhrniete
 neobhrňme
 neobhrňte
-neobhryz
-neobhryzie
-neobhryziem
-neobhryzieme
-neobhryzieš
-neobhryziete
-neobhrýzla
-neobhrýzli
-neobhrýzlo
-neobhryzme
-neobhrýzol
-neobhryzte
-neobhryzú
-neobhryzúc
 neobíduc
 neobiogenéza
 neobjasnenie/V po:noun is:neuter
@@ -72562,16 +72492,6 @@ neodlúpuc
 neodmasti
 neodmastime
 neodmastite
-neodmeť
-neodmetie
-neodmetiem
-neodmetieme
-neodmetieš
-neodmetiete
-neodmeťme
-neodmeťte
-neodmetú
-neodmetúc
 Neodmietnutie
 neodmlč
 neodmocni
@@ -72989,20 +72909,6 @@ neohrnieš
 neohrniete
 neohrňme
 neohrňte
-neohryz
-neohryzie
-neohryziem
-neohryzieme
-neohryzieš
-neohryziete
-neohrýzla
-neohrýzli
-neohrýzlo
-neohryzme
-neohrýzol
-neohryzte
-neohryzú
-neohryzúc
 neohundre
 neohundrem
 neohundreme
@@ -73201,20 +73107,6 @@ neoplejme
 neoplejte
 neoplejú
 neoplejúc
-neopleť
-neopletie
-neopletiem
-neopletieme
-neopletieš
-neopletiete
-neopleťme
-neopleťte
-neopletú
-neopletúc
-neoplietla
-neoplietli
-neoplietlo
-neoplietol
 neoplodni
 neoplodnime
 neoplodnite
@@ -74009,20 +73901,6 @@ nepodpíšu
 nepodpíšuc
 nepodplatiteľne
 nepodplatne
-nepodpleť
-nepodpletie
-nepodpletiem
-nepodpletieme
-nepodpletieš
-nepodpletiete
-nepodpleťme
-nepodpleťte
-nepodpletú
-nepodpletúc
-nepodplietla
-nepodplietli
-nepodplietlo
-nepodplietol
 nepodpor
 nepodporenie/V po:noun is:neuter
 nepodporte
@@ -74225,20 +74103,6 @@ nepohrnieme
 nepohrnieš
 nepohrniete
 nepohrnú
-nepohryz
-nepohryzie
-nepohryziem
-nepohryzieme
-nepohryzieš
-nepohryziete
-nepohrýzla
-nepohrýzli
-nepohrýzlo
-nepohryzme
-nepohrýzol
-nepohryzte
-nepohryzú
-nepohryzúc
 nepohundre
 nepohundrem
 nepohundreme
@@ -74575,20 +74439,6 @@ nepopíšu
 nepopíšuc
 nepoplačú
 nepoplačúc
-nepopleť
-nepopletie
-nepopletiem
-nepopletieme
-nepopletieš
-nepopletiete
-nepopleťme
-nepopleťte
-nepopletú
-nepopletúc
-nepoplietla
-nepoplietli
-nepoplietlo
-nepoplietol
 nepoplneným
 nepopoľšti
 nepopoľštime
@@ -75223,20 +75073,6 @@ neprebijú
 neprebijúc
 neprebime
 neprebite
-nepreblyskúva
-nepreblyskúvaj
-nepreblyskúvajme
-nepreblyskúvajte
-nepreblyskúvajú
-nepreblyskúvajúc
-nepreblyskúval
-nepreblyskúvala
-nepreblyskúvali
-nepreblyskúvalo
-nepreblyskúvam
-nepreblyskúvame
-nepreblyskúvaš
-nepreblyskúvate
 nepreboľ
 nepreboľme
 nepreboľte
@@ -75413,20 +75249,6 @@ neprehrnieš
 neprehrniete
 neprehrňme
 neprehrňte
-neprehryz
-neprehryzie
-neprehryziem
-neprehryzieme
-neprehryzieš
-neprehryziete
-neprehrýzla
-neprehrýzli
-neprehrýzlo
-neprehryzme
-neprehrýzol
-neprehryzte
-neprehryzú
-neprehryzúc
 neprehusti
 neprehustime
 neprehustite
@@ -75649,20 +75471,6 @@ neprepíšuc
 nepreplačú
 nepreplačúc
 nepreplatenie/V po:noun is:neuter
-neprepleť
-neprepletie
-neprepletiem
-neprepletieme
-neprepletieš
-neprepletiete
-neprepleťme
-neprepleťte
-neprepletú
-neprepletúc
-nepreplietla
-nepreplietli
-nepreplietlo
-nepreplietol
 neprepojenie/V po:noun is:neuter
 neprepracovanosť/K po:noun is:feminine
 neprepuká
@@ -76119,7 +75927,6 @@ neprimäla
 neprimälo
 neprimerane
 neprimeranosť/K po:noun is:feminine
-neprimeť
 neprimetá
 neprimetaj
 neprimetajme
@@ -76135,19 +75942,6 @@ neprimetáme
 neprimetáš
 neprimetať
 neprimetáte
-neprimetie
-neprimetiem
-neprimetieme
-neprimetieš
-neprimetiete
-neprimeťme
-neprimeťte
-neprimetú
-neprimetúc
-neprimietla
-neprimietli
-neprimietlo
-neprimietol
 neprimus
 nepripáš
 nepripáše
@@ -76168,20 +75962,6 @@ nepripevnime
 nepripevnite
 nepripíšu
 nepripíšuc
-nepripleť
-nepripletie
-nepripletiem
-nepripletieme
-nepripletieš
-nepripletiete
-nepripleťme
-nepripleťte
-nepripletú
-nepripletúc
-nepriplietla
-nepriplietli
-nepriplietlo
-nepriplietol
 nepriplichti
 nepriplichtime
 nepriplichtite
@@ -84862,28 +84642,14 @@ obhrniete
 obhrňme
 obhrňte
 obhrnúť/WN
-obhryz
 obhrýzanie/V po:noun is:neuter
 obhrýzať/XN po:verb
 obhryzená
 obhryzené
 obhryzenie/V po:noun is:neuter
 obhryzenou
-obhryzie
-obhryziem
-obhryzieme
-obhryzieš
-obhryziete
-obhrýzla
-obhrýzli
-obhrýzlo
-obhryzme
 obhryzok
-obhrýzol
-obhrýzť/XN po:verb
-obhryzte
-obhryzú
-obhryzúc
+obhrýzť/RN po:verb
 obch
 obchádzajúci
 obchádzanie/V po:noun is:neuter
@@ -85296,7 +85062,6 @@ oblička/zZ po:noun is:feminine
 obličkovitý/YN po:adjective
 obličkový/YN po:adjective
 obliecť/RN po:verb
-obliecť/XN po:verb
 obliečik/B po:noun is:masculine
 obliečka/zZ po:noun is:feminine
 obliehajúci/YN po:adjective
@@ -87819,23 +87584,13 @@ odmeriavanie/V po:noun is:neuter
 odmeriavať/XN po:verb
 odmerka/zZ po:noun is:feminine
 odmerný/YN po:adjective
-odmeť
 odmetať/EN po:verb
-odmetie
-odmetiem
-odmetieme
-odmetieš
-odmetiete
-odmeťme
 odmetok
-odmeťte
-odmetú
-odmetúc
 odmieňanie/V po:noun is:neuter
 odmieňať/XN po:verb
 odmienkach
 odmienky
-odmiesť/XN po:verb
+odmiesť/RN po:verb
 odmietajúce
 odmietajúci
 odmietanie/V po:noun is:neuter
@@ -90015,25 +89770,11 @@ ohrozovať/WN po:verb
 ohrozovateľmi
 ohrozovateľovi
 ohrozujúci/YN po:adjective
-ohryz
 ohrýzanie/V po:noun is:neuter
 ohrýzať/XN po:verb
-ohryzie
-ohryziem
-ohryzieme
-ohryzieš
-ohryziete
-ohrýzla
-ohrýzli
-ohrýzlo
-ohryzme
 ohryzok/O po:noun is:masculine
-ohrýzol
 ohryzovať/WN po:verb
-ohrýzť/XN po:verb
-ohryzte
-ohryzú
-ohryzúc
+ohrýzť/RN po:verb
 ohundrať/TN po:verb
 ohundrávať/XN po:verb
 ohundre
@@ -91733,29 +91474,15 @@ oplesnivený/YN po:adjective
 oplesnivieť/XN po:verb
 oplešivený/YN po:adjective
 oplešivieť/XN po:verb
-opleť
 opletačka/zZ po:noun is:feminine
 opletaný/YN po:adjective
 opletať/EN po:verb
 opletenie/V po:noun is:neuter
 opletených
-opletie
-opletiem
-opletieme
-opletieš
-opletiete
-opleťme
-opleťte
-opletú
-opletúc
 oplieskať/XN po:verb
 oplieskavate
-opliesť/XN po:verb
+opliesť/RN po:verb
 oplieť/XN po:verb
-oplietla
-oplietli
-oplietlo
-oplietol
 oplocovanie/VN po:noun is:neuter
 oplodie/V po:noun is:neuter
 oplodnenie/V po:noun is:neuter
@@ -100177,7 +99904,6 @@ plieskavá
 pliesko/M po:noun is:neuter
 pliesok
 pliesť/RN po:verb
-pliesť/XN po:verb
 pliešok/O po:noun is:masculine
 plieštek/B po:noun is:masculine
 plieť/XN po:verb
@@ -101912,22 +101638,8 @@ podplatiteľný/YN po:adjective
 podplatnosť/K po:noun is:feminine
 podplatný/YN po:adjective
 podplávať
-podpleť
 podpletať/EN po:verb
-podpletie
-podpletiem
-podpletieme
-podpletieš
-podpletiete
-podpleťme
-podpleťte
-podpletú
-podpletúc
-podpliesť/XN po:verb
-podplietla
-podplietli
-podplietlo
-podplietol
+podpliesť/RN po:verb
 podplukovnícky/YN po:adjective
 podplukovníčka/zZ po:noun is:feminine
 podplukovník/C po:noun is:masculine
@@ -102893,28 +102605,14 @@ pohrúžením
 pohrúžený/YN po:adjective
 pohrúžiť/XN po:verb
 pohružovať/WN po:verb
-pohryz
 pohryzenej
 pohryzení
-pohryzie
-pohryziem
-pohryzieme
-pohryzieš
-pohryziete
 pohryzkávať
-pohrýzla
-pohrýzli
-pohrýzlo
-pohryzme
 pohryznúť
 pohryznutí
 pohryznutie
 pohryzol
-pohrýzol
-pohrýzť/XN po:verb
-pohryzte
-pohryzú
-pohryzúc
+pohrýzť/RN po:verb
 pohubil
 pohubiť
 pohuckať
@@ -105656,7 +105354,6 @@ poplatok/O po:noun is:masculine
 poplávať/XN po:verb
 poplaz
 poplesnieť
-popleť
 popletať/EN po:verb
 popletene
 popletenec
@@ -105665,21 +105362,8 @@ popletenina/zZ po:noun is:feminine
 popleteno
 popletenosť/K po:noun is:feminine
 popletený/YN po:adjective
-popletie
-popletiem
-popletieme
-popletieš
-popletiete
-popleťme
 popleto
-popleťte
-popletú
-popletúc
-popliesť/XN po:verb
-poplietla
-poplietli
-poplietlo
-poplietol
+popliesť/RN po:verb
 poplnil
 popľúcnic
 popľúcnica/U po:noun is:feminine
@@ -110163,21 +109847,7 @@ prebleskúvať/XN po:verb
 preblesnúť/WN
 preblysknúť/WN
 preblyskovať/WN po:verb
-preblyskúva
-preblyskúvaj
-preblyskúvajme
-preblyskúvajte
-preblyskúvajú
-preblyskúvajúc
-preblyskúval
-preblyskúvala
-preblyskúvali
-preblyskúvalo
-preblyskúvam
-preblyskúvame
-preblyskúvaš
-preblyskúvať/YN po:verb
-preblyskúvate
+preblyskúvať/XN po:verb
 preblysnúť/WN
 prebodal
 prebodávať/XN po:verb
@@ -111538,24 +111208,10 @@ prehrniete
 prehrňme
 prehrňte
 prehrnúť/WN
-prehryz
 prehrýzať/XN po:verb
 prehryzáva
-prehryzie
-prehryziem
-prehryzieme
-prehryzieš
-prehryziete
-prehrýzla
-prehrýzli
-prehrýzlo
-prehryzme
 prehryznúť/WN
-prehrýzol
-prehrýzť/XN po:verb
-prehryzte
-prehryzú
-prehryzúc
+prehrýzť/RN po:verb
 prehučať
 prehupnúť/WN
 prehupnutie
@@ -112883,30 +112539,16 @@ preplaviť/EN po:verb
 preplavovanie/VN po:noun is:neuter
 preplavovať/WN po:verb
 preplaziť/EN po:verb
-prepleť
 prepletanie/V po:noun is:neuter
 prepletaný/YN po:adjective
 prepletať/EN po:verb
 prepletenia
 prepletením
 prepletený/YN po:adjective
-prepletie
-prepletiem
-prepletieme
-prepletieš
-prepletiete
-prepleťme
-prepleťte
-prepletú
-prepletúc
-prepliesť/XN po:verb
+prepliesť/RN po:verb
 preplietaná
 preplietanie/V po:noun is:neuter
 preplietať/XN po:verb
-preplietla
-preplietli
-preplietlo
-preplietol
 preplievajúci
 preplisovanie/VN po:noun is:neuter
 preplisovaný/YN po:adjective
@@ -114027,7 +113669,6 @@ pretras/B po:noun is:masculine
 pretŕčať/XN po:verb
 pretrénovane
 pretrénovanosť/K po:noun is:feminine
-pretrénovanosť/XN po:verb
 pretrénovaný/YN po:adjective
 pretrepať
 pretrepávanie/V po:noun is:neuter
@@ -115977,7 +115618,6 @@ prímesok/O po:noun is:masculine
 prímesou
 prímestrský/YN po:adjective
 prímestský/YN po:adjective
-primeť
 primetá
 primetaj
 primetajme
@@ -115993,15 +115633,6 @@ primetáme
 primetáš
 primetať
 primetáte
-primetie
-primetiem
-primetieme
-primetieš
-primetiete
-primeťme
-primeťte
-primetú
-primetúc
 primícia
 primíciách
 primíciám
@@ -116010,7 +115641,7 @@ primície/Q
 primícií
 primičný/YN po:adjective
 primiesiť/XN po:verb
-primiesť/XN po:verb
+primiesť/RN po:verb
 primiešanie/V po:noun is:neuter
 primiešanina/zZ po:noun is:feminine
 primiešaný/YN po:adjective
@@ -116019,11 +115650,7 @@ primiešavané
 primiešavaní
 primiešavania
 primiešavať/XN po:verb
-primietla
-primietli
-primietlo
 primietne
-primietol
 primilo
 primín
 primipara
@@ -116272,21 +115899,7 @@ priplavené
 priplaviť/EN po:verb
 priplaziť/EN po:verb
 priplesnúť
-pripleť
-pripletie
-pripletiem
-pripletieme
-pripletieš
-pripletiete
-pripleťme
-pripleťte
-pripletú
-pripletúc
-pripliesť/XN po:verb
-priplietla
-priplietli
-priplietlo
-priplietol
+pripliesť/RN po:verb
 priplichti
 priplichtime
 priplichtiť/EN po:verb
@@ -135473,7 +135086,6 @@ spracovane
 spracovanie/VN po:noun is:neuter
 spracovaný/YN po:adjective
 spracovať/WN po:verb
-spracováť/XN po:verb
 spracovateľ/c po:noun is:masculine
 spracovateľka/zZ po:noun is:feminine
 spracovateľne
@@ -153443,7 +153055,6 @@ ulahodiť/EN po:verb
 uľakaný/YN po:adjective
 uľaknutý/YN po:adjective
 ulakomiť/EN po:verb
-ulakomiť/WN
 ulakomovať/WN po:verb
 ulalgia
 ulamovať/WN po:verb
