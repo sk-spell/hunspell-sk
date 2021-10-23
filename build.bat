@@ -1,4 +1,4 @@
-@Echo off
+@ECHO off
 
 CHCP 65001
 SET LC_ALL=sk_SK.UTF-8
@@ -14,9 +14,9 @@ SET hunspell="F:\Project-Personal\sk-spell\devel\hunspell\msvc\Release\hunspell\
 
 REM BUILD Process
 REM ***** get rid of all the old files in the build folder
-IF exist build ( rd /S /Q build)
-mkdir build
-copy /y NUL build\dict >NUL
+IF EXIST build (RD /S /Q build)
+MKDIR build
+COPY /y NUL build\dict >NUL
 
 %sed% 1,1d _osobnosti/sport.dic >>build/dict
 %sed% 1,1d _osobnosti/politika.dic >>build/dict
@@ -33,16 +33,24 @@ copy /y NUL build\dict >NUL
 %grep% -v "/" build/temp.dic | %grep% ":" >build/sk_fl.tmp
 %grep% "/" build/temp.dic >>build/sk_fl.tmp
 %wc% -l < build/sk_fl.tmp | %cat% - build/sk_fl.tmp | %sort% -u >build/sk_fl.dic
-copy sk_SK.aff build\sk_fl.aff
+COPY sk_SK.aff build\sk_fl.aff
 
 %hunspell% -d build/sk_fl -l build/sk_noflag.dic >build/add.words
 %dos2unix% build/add.words
 %sed% 1,1d build/sk_fl.dic > build/temp.dic
 %cat% build/add.words >> build/temp.dic
 %sort% -u <build/temp.dic >build/sk_SK.dic
-%wc% -l < build/sk_SK.dic | %cat% - build/sk_SK.dic >sk_SK.new.dic
+
+FOR /f "tokens=2 delims==" %%a IN ('wmic OS Get localdatetime /value') DO SET "dt=%%a"
+SET "YYYY=%dt:~0,4%" & SET "MM=%dt:~4,2%" & SET "DD=%dt:~6,2%"
+SET "datestamp=%YYYY%%MM%%DD%"
+IF NOT EXIST "sk_SK.dic-%datestamp%.bak" (
+    IF EXIST sk_SK.dic (ren "sk_SK.dic" "sk_SK.dic-%datestamp%.bak")
+)
+
+%wc% -l < build/sk_SK.dic | %cat% - build/sk_SK.dic >sk_SK.dic
 
 REM Clean up
 REM rmdir /s/q build
 
-echo Finished.
+ECHO Finished.
