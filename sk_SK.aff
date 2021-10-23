@@ -1234,12 +1234,13 @@ SFX B   0           ami        [m] is:instrumental is:plural
 SFX B   og          gmi        zog is:instrumental is:plural
 SFX B   0           mi         [^z]og is:instrumental is:plural
 
-SFX J Y 189
+SFX J Y 199
 SFX J   iec         ca         iec is:genitive
 SFX J   ec          ca         [^i]ec is:genitive
 SFX J   0           a          [^e]c is:genitive
 SFX J   ol          la         ol is:genitive
-SFX J   0           a          [^o]l is:genitive
+SFX J   el          la         el is:genitive
+SFX J   0           a          [^eo]l is:genitive
 SFX J   eľ          ľa         [gz]eľ is:genitive
 SFX J   0           a          [^pgz]eľ is:genitive
 SFX J   eň          ňa         [dž]eň is:genitive
@@ -1256,7 +1257,8 @@ SFX J   iec         cu         iec is:dative
 SFX J   ec          cu         [^i]ec is:dative
 SFX J   0           u          [^e]c is:dative
 SFX J   ol          lu         ol is:dative
-SFX J   0           u          [^o]l is:dative
+SFX J   el          lu         el is:dative
+SFX J   0           u          [^eo]l is:dative
 SFX J   eľ          ľu         [gz]eľ is:dative
 SFX J   eň          ňu         [dž]eň is:dative
 SFX J   ň           ňu         [^dž]eň is:dative
@@ -1272,7 +1274,8 @@ SFX J   iec         ci         iec is:locative
 SFX J   ec          ci         [^i]ec is:locative
 SFX J   0           i          [^e]c is:locative
 SFX J   ol          li         ol is:locative
-SFX J   0           i          [^o]l is:locative
+SFX J   el          li         el is:locative
+SFX J   0           i          [^eo]l is:locative
 SFX J   eľ          li         [gz]eľ is:locative
 SFX J   ľ           li         [^gz]eľ is:locative
 SFX J   eň          ni         [dž]eň is:locative
@@ -1287,8 +1290,9 @@ SFX J   0           i          [e][^cľňr] is:locative
 SFX J   0           i          [^ceľňršž] is:locative
 SFX J   ec          com        [^i]ec is:instrumental
 SFX J   0           om         [^e]c is:instrumental
+SFX J   el          lom        el is:instrumental
 SFX J   ol          lom        ol is:instrumental
-SFX J   0           om         [^o]l is:instrumental
+SFX J   0           om         [^eo]l is:instrumental
 SFX J   eľ          ľom        [gz]eľ is:instrumental
 SFX J   eň          ňom        [dž]eň is:instrumental
 SFX J   ň           ňom        [^dž]eň is:instrumental
@@ -1303,8 +1307,9 @@ SFX J   0           om         [^ceľňršž] is:instrumental
 SFX J   iec         ce         iec is:nominative is:plural
 SFX J   ec          ce         [^i]ec is:nominative is:plural
 SFX J   0           e          [^e]c is:nominative is:plural
+SFX J   el          le         el is:nominative is:plural
 SFX J   ol          le         ol is:nominative is:plural
-SFX J   0           e          [^o]l is:nominative is:plural
+SFX J   0           e          [^eo]l is:nominative is:plural
 SFX J   eľ          le         [gz]eľ is:nominative is:plural
 SFX J   ľ           le         [^gz]eľ is:nominative is:plural
 SFX J   eň          ne         žeň is:nominative is:plural
@@ -1320,8 +1325,9 @@ SFX J   0           e          [^ceľňršž] is:nominative is:plural
 SFX J   iec         cov        iec is:genitive is:plural
 SFX J   ec          cov        [^i]ec is:genitive is:plural
 SFX J   0           ov         [^e]c is:genitive is:plural
+SFX J   el          lov        el is:genitive is:plural
 SFX J   ol          lov        ol is:genitive is:plural
-SFX J   0           ov         [^o]l is:genitive is:plural
+SFX J   0           ov         [^oe]l is:genitive is:plural
 SFX J   eľ          ľov        [gz]eľ is:genitive is:plural
 SFX J   eň          ňov        žeň is:genitive is:plural
 SFX J   0           ov         [^dž]eň is:genitive is:plural
@@ -1336,8 +1342,9 @@ SFX J   0           ov         [^ceľňršž] is:genitive is:plural
 SFX J   iec         com        iec is:dative is:plural
 SFX J   ec          com        [^i]ec is:dative is:plural
 SFX J   0           om         [^e]c is:dative is:plural
+SFX J   el          lom        el is:dative is:plural
 SFX J   ol          lom        ol is:dative is:plural
-SFX J   0           om         [^o]l is:dative is:plural
+SFX J   0           om         [^eo]l is:dative is:plural
 SFX J   eľ          ľom        [gz]eľ is:dative is:plural
 SFX J   eň          ňom        [dž]eň is:dative is:plural
 SFX J   ň           ňom        [^dž]eň is:dative is:plural
@@ -1353,7 +1360,8 @@ SFX J   iec         ce         iec is:accusative is:plural
 SFX J   ec          ce         [^i]ec is:accusative is:plural
 SFX J   0           e          [^e]c is:accusative is:plural
 SFX J   ol          le         ol is:accusative is:plural
-SFX J   0           e          [^o]l is:accusative is:plural
+SFX J   el          le         el is:accusative is:plural
+SFX J   0           e          [^eo]l is:accusative is:plural
 SFX J   eľ          le         [gz]eľ is:accusative is:plural
 SFX J   ľ           le         [^gz]eľ is:accusative is:plural
 SFX J   eň          ne         žeň is:accusative is:plural
@@ -1369,8 +1377,9 @@ SFX J   0           e          [^ceľňršž] is:accusative is:plural
 SFX J   iec         coch       iec is:locative is:plural
 SFX J   ec          coch       [^i]ec is:locative is:plural
 SFX J   0           och        [^e]c is:locative is:plural
+SFX J   el          loch       el is:locative is:plural
 SFX J   ol          loch       ol is:locative is:plural
-SFX J   0           och        [^o]l is:locative is:plural
+SFX J   0           och        [^eo]l is:locative is:plural
 SFX J   eľ          ľoch       [gz]eľ is:locative is:plural
 SFX J   eň          ní         deň is:locative is:plural
 SFX J   eň          ňoch       [dž]eň is:locative is:plural
@@ -1386,8 +1395,9 @@ SFX J   0           och        [^ceľňršž] is:locative is:plural
 SFX J   iec         cami       iec is:instrumental is:plural
 SFX J   ec          cami       [^i]ec is:instrumental is:plural
 SFX J   0           mi         [^e]c is:instrumental is:plural
+SFX J   el          lami       el is:instrumental is:plural
 SFX J   ol          lami       ol is:instrumental is:plural
-SFX J   0           ami        [^o]l is:instrumental is:plural
+SFX J   0           ami        [^eo]l is:instrumental is:plural
 SFX J   eľ          ľami       [gz]eľ is:instrumental is:plural
 SFX J   eň          ňami       [dž]eň is:instrumental is:plural
 SFX J   0           mi         [^dž]eň is:instrumental is:plural
