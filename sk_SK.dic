@@ -1307,7 +1307,6 @@ aksamietový/YN po:adjective
 aksamít
 akt/B po:noun is:masculine
 akta
-aktá/Q
 aktách
 aktám
 aktér/C po:noun is:masculine
@@ -1372,7 +1371,6 @@ aktualizovať/WN po:verb
 aktuálnosť/K po:noun is:feminine
 aktuálny/YN po:adjective
 aktulizáciám
-akty/Q
 akúkoľvek
 akulit
 Akulit
@@ -2380,7 +2378,7 @@ analógovo
 analógový/YN po:adjective
 análoch
 análom
-análov
+análový/YN  po:adjective
 analsex
 Aňalské
 anály/Q
@@ -3671,7 +3669,8 @@ archivácia/U po:noun is:feminine
 archivačný/YN po:adjective
 archiválie/Q
 archiválií
-archiválny
+archiválne po:adverb
+archiválny/YN po:adjective
 archivár/C po:noun is:masculine
 archivárka/zZ po:noun is:feminine
 archivárov/Y po:adjective
@@ -3875,14 +3874,6 @@ artičoka/zZ po:noun is:feminine
 artificializmus/B po:noun is:masculine
 artificiálny/YN po:adjective
 artikel/J po:noun is:masculine
-artikla
-artiklami
-artikle
-artikli
-artikloch
-artiklom
-artiklov
-artiklu
 artikul/B po:noun is:masculine
 artikula
 artikulácia/U po:noun is:feminine
@@ -27238,14 +27229,14 @@ financie/Q
 financií
 financmi
 financov/Y po:adjective
-financovane
+financovane po:adverb
 financovanie/VN po:noun is:neuter
 financovaný/YN po:adjective
 financovať/WN po:verb
 financovateľ/c po:noun is:masculine
 financovateľka/zZ po:noun is:feminine
 financovateľov/Y po:adjective
-finančne
+finančne po:adverb
 finančnícky/Y po:adjective
 finančníctva
 finančníctve
@@ -27333,24 +27324,10 @@ fitcentrum/M po:noun is:neuter
 fiťfiriť/c po:noun is:masculine
 fiťfiriťov/Y po:adjective
 fiting
-fitnes/Q
+fitnes/B po:noun is:masculine
 fitnescentier
 fitnescentrum/M po:noun is:neuter
-fitnese
-fitnesmi
-fitnesoch
-fitnesom
-fitnesov
-fitness/Q
-fitnesse
-fitnessmi
-fitnessoch
-fitnessom
-fitnessov
-fitnessu
-fitnessy
-fitnesu
-fitnesy
+fitness/B
 fitónia
 fiu
 fix
@@ -39063,11 +39040,7 @@ inseminátor
 inseminovať/WN po:verb
 insenzibilita
 insert
-insígniách
-insígniám
-insígniami
-insígnie/Q
-insígnií
+insígnia/U po:noun is:feminine
 insinuácia/U po:noun is:feminine
 insinuovanie/VN po:noun is:neuter
 insinuovať/WN po:verb
@@ -50122,7 +50095,6 @@ krupinský/YN po:adjective
 krúpka/zZ po:noun is:feminine
 krúpkový/YN po:adjective
 krúpnatý/YN po:adjective
-krupobitie/Q
 krupobitie/V po:noun is:neuter
 krupón/B po:noun is:masculine
 kruponár/C po:noun is:masculine
@@ -54426,7 +54398,6 @@ líštička/zZ po:noun is:feminine
 lištový/YN po:adjective
 lit
 lita
-litánia/U po:noun is:feminine
 litánie/Q
 Litava
 Litave
@@ -60296,11 +60267,7 @@ mineráliám
 mineráliami
 minerálie/Q
 minerálií
-mineralizácia
-mineralizácie
-mineralizácii
-mineralizáciou
-mineralizáciu
+mineralizácia/U po:noun is:feminine
 mineralizovaný/YN po:adjective
 mineralizovať/WN po:verb
 minerálka/zZ po:noun is:feminine
@@ -60503,8 +60470,7 @@ miserere
 Miserere
 miserére
 misia/U po:noun is:feminine
-misie/Q
-misijne
+misijne po:adverb
 misijný/Y po:adjective
 misionár/C po:noun is:masculine
 misionárka/zZ po:noun is:feminine
@@ -60801,14 +60767,7 @@ mliasknuť/WN
 mliaždiť/XN po:verb
 mlie
 mlieč/J po:noun is:masculine
-mliečí
-mliečia
-mliečiach
-mliečiam
-mliečiami
-mliečie/Q
-mliečím
-mliečiu
+mliečie/V po:noun is:neuter
 mliečko/M po:noun is:neuter
 mliečňak/L po:noun is:masculine
 mliečňakov/Y po:adjective
@@ -63356,14 +63315,7 @@ nabranie/V po:noun is:neuter
 nabraný/YN po:adjective
 nabrať/RN po:verb
 nabrechať
-nábreží
-nábrežia
-nábrežiach
-nábrežiam
-nábrežiami
-nábrežie/Q
-nábrežím
-nábrežiu
+nábrežie/V po:noun is:neuter
 nábrežný/YN po:adjective
 nabronzovo
 nabrúsene
@@ -67025,9 +66977,9 @@ naturáliami
 naturálie/Q
 naturálií
 naturalista/H po:noun is:masculine
-naturalisticky
+naturalisticky po:adverb
 naturalistický/YN po:adjective
-naturalistka
+naturalistka/zZ po:noun is:feminine
 naturalistov/Y po:adjective
 naturalizácia/U po:noun is:feminine
 naturalizačný/YN po:adjective
@@ -91277,7 +91229,6 @@ orgazmus/B po:noun is:masculine
 orgia/U po:noun is:feminine
 orgiastický/YN po:adjective
 orgiazmus
-orgie/Q
 orgován/B po:noun is:masculine
 orgovánovo
 orgovánový/YN po:adjective
@@ -93206,19 +93157,18 @@ ováciám
 ováciami
 ovácie/Q
 ovácií
-ovačná
+ovačný/YN po:adjective
 ovad/B po:noun is:masculine
 ovada
 ovadovi
 ovádzať
 ovakovať/WN po:verb
-oval/B po:noun is:masculine
-ovál/B po:noun is:masculine
+oval/b po:noun is:masculine
+ovál/b po:noun is:masculine
+ovále st:oval is:locative
+ovále st:ovál is:locative
 ovalený/YN po:adjective
-ováli
 ovaliť/EN po:verb
-ovalmi
-oválmi
 oválny/YN po:adjective
 oválový/YN po:adjective
 ovanie/VN po:noun is:neuter
@@ -97270,42 +97220,34 @@ persiflážny
 persiflovať/WN po:verb
 Perský/YN po:adjective
 persolvovať/WN po:verb
-persón
-persona
-persóna
+persón st:persóna is:genitive is:plural
+persona/
+persóna/zZ po:noun is:feminine
 persónach
-personál/B po:noun is:masculine
-personáli
+personál/b po:noun is:masculine
+personáli st: personál
 personáliách
 personáliám
 personáliami
-personálie/Q
+personálie/Q po:noun is:feminine
 personálií
 personalista/H po:noun is:masculine
 personalistický/YN po:adjective
 personalistov/Y po:adjective
-personalita
-Personality
-personalizmu
-personalizmus
+personalita/zZ po:noun is:feminine
+personalizmus/B po:noun is:masculine
 personalizovaný/YN po:adjective
-personálmi
 personálny/YN po:adjective
 persónam
 personami
-persónami
-persóne
 personifikácia/U po:noun is:feminine
 personifikačný/Y po:adjective
 personifikovanie/VN po:noun is:neuter
 personifikovaný/YN po:adjective
 personifikovať/WN po:verb
 personou
-persónou
 personu
-persónu
 persony
-persóny
 perspektív
 perspektíva/zZ po:noun is:feminine
 perspektívach
@@ -117691,8 +117633,6 @@ pudiť/EN po:verb
 pudlík/B po:noun is:masculine
 pudlíkovi
 pudlo/M po:noun is:neuter
-pudloch
-pudlov
 pudlovi
 pudor
 pudosť/K po:noun is:feminine
@@ -119352,7 +119292,6 @@ reál/B po:noun is:masculine
 realgár
 reáli
 reália/U po:noun is:feminine
-reálie/Q
 realimentácia
 realista/H po:noun is:masculine
 realistickosť/K po:noun is:feminine
@@ -120348,7 +120287,6 @@ rep/B po:noun is:masculine
 repa/zZ po:noun is:feminine
 repár/C po:noun is:masculine
 reparácia/U po:noun is:feminine
-reparácie/Q
 reparačný/Y po:adjective
 reparametrizácia
 reparát/B po:noun is:masculine
@@ -125725,7 +125663,6 @@ rysovňa/U po:noun is:feminine
 rysovní
 rysu
 rysujúce
-Rysy/Q
 rysych
 ryšavcov/Y po:adjective
 ryšavec/C po:noun is:masculine
@@ -137806,7 +137743,6 @@ suchotinárka/zZ po:noun is:feminine
 suchotinárov/Y po:adjective
 suchotinársky/YN po:adjective
 suchotiny/Q
-suchoty/Q
 Suchovský/YN po:adjective
 suchozemcov/Y po:adjective
 suchozemec/C po:noun is:masculine
@@ -155684,7 +155620,6 @@ väzný/YN po:adjective
 väzobne
 väzobný/YN po:adjective
 väzový/YN po:adjective
-väzy/Q
 VB po:acronym
 vbehnúť/WN
 vbehovať/WN po:verb
@@ -179587,7 +179522,6 @@ zžívať/XN po:verb
 želéovitý/YN po:adjective
 želéový/YN po:adjective
 želez
-železá/Q
 železiar/C po:noun is:masculine
 železiareň/D po:noun is:feminine
 železiarenský/YN po:adjective
@@ -179633,7 +179567,7 @@ zžívať/XN po:verb
 želiarov/Y po:adjective
 želiarsky/YN po:adjective
 želieť/XN po:verb
-želiez
+želiez st:železo is:genitive is:plural
 želiezko/M po:noun is:neuter
 želiezok
 Želiezovce/Q
