@@ -1,4 +1,4 @@
-181345
+181041
 á
 Á
 à
@@ -6430,11 +6430,7 @@ behavioristov/Y po:adjective
 behaviorizmus/B po:noun is:masculine
 Behúl
 behúľ/J po:noun is:masculine
-behúľa
-Behúľa
-behúle
 Behúlom
-Behúľom
 behúň/C po:noun is:masculine
 behúne
 behúni
@@ -10544,12 +10540,6 @@ bumtarata
 Buna
 bunda/zZ po:noun is:feminine
 bundáš/J po:noun is:masculine
-bundáša
-bundáše
-bundášmi
-bundášoch
-bundášom
-bundášov
 bundášovi
 bundatý/YN po:adjective
 bundeslíg
@@ -11410,17 +11400,9 @@ cemeterium
 Cemjate
 cena/zZ po:noun is:feminine
 cencúľ/J po:noun is:masculine
-cencúľa
-cencúle
-cencúli
 cencúlik/B po:noun is:masculine
-cencúľmi
-cencúľoch
-cencúľom
-cencúľov
 cencúľovitý/YN po:adjective
 cencúľový/Y po:adjective
-cencúľu
 cenenie/V po:noun is:neuter
 cenený/YN po:adjective
 ceng
@@ -13317,14 +13299,6 @@ CZV po:acronym
 čarbúc
 čárda/zZ po:noun is:feminine
 čardáš/J po:noun is:masculine
-čardáša
-čardáše
-čardáši
-čardášmi
-čardášoch
-čardášom
-čardášov
-čardášu
 čaringa
 čariť/EN po:verb
 Čarný/YN po:adjective
@@ -29251,13 +29225,6 @@ galil
 Galileo/C po:noun is:masculine
 Galileov/Y po:adjective
 galimatiáš/J po:noun is:masculine
-galimatiáše
-galimatiáši
-galimatiášmi
-galimatiášoch
-galimatiášom
-galimatiášov
-galimatiášu
 Galina/zZ po:noun is:feminine
 galión
 Galiu
@@ -31003,26 +30970,10 @@ gulagy
 gúľanie/V po:noun is:neuter
 guláš/J po:noun is:masculine
 guľáš/J po:noun is:masculine
-guláša
-guľáša
-guláše
-guľáše
-guláši
-guľáši
 gulášik/B po:noun is:masculine
 guľášik/B po:noun is:masculine
-gulášmi
-guľášmi
-gulášoch
-guľášoch
-gulášom
-guľášom
-gulášov
-guľášov
 gulášový/Y po:adjective
 guľášový/Y po:adjective
-gulášu
-guľášu
 gúľať/XN po:verb
 guľata
 guľatieť/XN po:verb
@@ -31146,14 +31097,7 @@ Guyanka/zZ po:noun is:feminine
 guyanský/YN po:adjective
 Gvardián
 gvaš/J po:noun is:masculine
-gvaše
-gvaši
-gvašmi
-gvašoch
-gvašom
-gvašov
 gvašový/Y po:adjective
-gvašu
 GWb
 GWh
 Gy
@@ -34735,20 +34679,12 @@ hrbľovatý/YN po:adjective
 hŕbočka/zZ po:noun is:feminine
 hŕbok/B po:noun is:masculine
 hrboľ/J po:noun is:masculine
-hrboľa
 hrboľatý/YN po:adjective
 hrbolček
 hrboľček/B po:noun is:masculine
-hrbole
 hrbolec/J po:noun is:masculine
-hrboli
-hrboľmi
 hrboľnatý/YN po:adjective
-hrboľoch
-hrboľom
-hrboľov
 Hrboltová/Y po:adjective
-hrboľu
 hrbú
 hŕč
 hrča/U po:noun is:feminine
@@ -35220,16 +35156,8 @@ Hrúzik
 hrúzovi
 hrúžiť/XN po:verb
 hrvoľ/J po:noun is:masculine
-hrvoľa
 hrvoľček/B po:noun is:masculine
-hrvole
-hrvoli
-hrvoľmi
-hrvoľoch
-hrvoľom
-hrvoľov
 hrvoľový/YN po:adjective
-hrvoľu
 hryzadiel
 hryzadlá
 hryzadlách
@@ -37090,15 +37018,7 @@ Chodove
 chodový/YN po:adjective
 chodský/YN po:adjective
 chodúľ/J po:noun is:masculine
-chodúľa
-chodúle
-chodúli
 chodúľka/zZ po:noun is:feminine
-chodúľmi
-chodúľoch
-chodúľom
-chodúľov
-chodúľu
 chochláč/C po:noun is:masculine
 chochláče
 chochlačka/zZ po:noun is:feminine
@@ -48206,19 +48126,13 @@ Korál
 koral/B po:noun is:masculine
 koráľ/J po:noun is:masculine
 korala
-koráľa
 korále/Q
-koráli
 korálik/B po:noun is:masculine
 koralit
 korálka
 koralmi
 korálmi
-koráľmi
-koráľoch
 korálom
-koráľom
-koráľov
 koralovec
 koralovi
 koralovitý/YN po:adjective
@@ -48226,7 +48140,6 @@ koralovka
 koralový/YN po:adjective
 korálový/YN po:adjective
 koráľový/YN po:adjective
-koráľu
 korán/B po:noun is:masculine
 korázia
 korba/zZ po:noun is:feminine
@@ -48868,14 +48781,7 @@ koťúh
 koťuha/zZ po:noun is:feminine
 kotúľ/J po:noun is:masculine
 kotúľať/XN po:verb
-kotúle
-kotúli
 kotúľka/zZ po:noun is:feminine
-kotúľmi
-kotúľoch
-kotúľom
-kotúľov
-kotúľu
 kotunnit
 koturn
 kotva/zZ po:noun is:feminine
@@ -49956,17 +49862,9 @@ Kristy
 Krišna
 Krišpín
 krištáľ/J po:noun is:masculine
-krištáľa
-krištále
-krištáli
-krištáľmi
-krištáľoch
-krištáľom
-krištáľov
 krištáľovo
 krišťáľovú
 krištáľový/YN po:adjective
-krištáľu
 Krištof/c po:noun is:masculine
 Krištofov/Y po:adjective
 kritérium/M po:noun is:neuter
@@ -50819,15 +50717,8 @@ kudlatý/YN po:adjective
 kudliť/EN po:verb
 kúdol/B po:noun is:masculine
 kúdoľ/J po:noun is:masculine
-kúdoľa
 kúdolček/B po:noun is:masculine
-kúdoli
 kúdoliť/EN po:verb
-kúdoľmi
-kúdoľoch
-kúdoľom
-kúdoľov
-kúdoľu
 kudrliniek
 Kudrna
 kudrnavých
@@ -50902,15 +50793,7 @@ kuklový/YN po:adjective
 Kukluxklan
 kuknúť/WN
 kúkoľ/J po:noun is:masculine
-kúkoľa
-kúkole
-kúkoli
-kúkoľmi
-kúkoľoch
-kúkoľom
-kúkoľov
 kúkoľový/YN po:adjective
-kúkoľu
 Kuková/Y po:adjective
 Kuks
 kuku
@@ -52665,16 +52548,8 @@ lampáreň/D po:noun is:feminine
 lampárov/Y po:adjective
 lampas/B po:noun is:masculine
 lampáš/J po:noun is:masculine
-lampáša
-lampáše
-lampáši
 lampášik/B po:noun is:masculine
-lampášmi
-lampášoch
-lampášom
-lampášov
 lampášový/YN po:adjective
-lampášu
 lampička/zZ po:noun is:feminine
 lampiek
 lampión/B po:noun is:masculine
@@ -57730,15 +57605,7 @@ mariánskolázňanský/YN po:adjective
 mariánsky/YN po:adjective
 Mariany
 mariáš/J po:noun is:masculine
-mariáša
-mariáše
-mariáši
-mariášmi
-mariášoch
-mariášom
-mariášov
 mariášový/YN po:adjective
-mariášu
 maribo
 Maribor
 Maribore
@@ -60910,13 +60777,6 @@ miškovecký/YN po:adjective
 miškovský/YN po:adjective
 Mišku
 mišmaš/J po:noun is:masculine
-mišmaše
-mišmaši
-mišmašmi
-mišmašoch
-mišmašom
-mišmašov
-mišmašu
 mišna
 Mišo
 mišpuľa/U po:noun is:feminine
@@ -61915,14 +61775,10 @@ Molinu
 molitan/B po:noun is:masculine
 molitanový/YN po:adjective
 moll
-moľmi
 mólo/M po:noun is:neuter
-moľoch
 Moloch/B po:noun is:masculine
 moloch/L po:noun is:masculine
 molochov/Y po:adjective
-moľom
-moľov
 moľovi
 moľovitý/YN po:adjective
 molový/YN po:adjective
@@ -62616,20 +62472,12 @@ mozočku
 mozočky
 mozog/B po:noun is:masculine
 mozoľ/J po:noun is:masculine
-mozoľa
-mozole
-mozoli
 mozoliť/EN po:verb
-mozoľmi
 mozoľnatý/YN po:adjective
 mozoľne
 mozoľný/YN po:adjective
-mozoľoch
-mozoľom
-mozoľov
 mozoľovatý/YN po:adjective
 mozoľovitý/YN po:adjective
-mozoľu
 mozzarella
 možne
 možno/N
@@ -63081,7 +62929,6 @@ múl
 mul/B po:noun is:masculine
 múľ/J po:noun is:masculine
 Muľa
-múľa
 mula/U po:noun is:feminine
 mulách
 mulám
@@ -63091,9 +62938,7 @@ mulatov/Y po:adjective
 mulatovať/WN po:verb
 mulčovanie/VN po:noun is:neuter
 mulčujú
-múle
 mulec
-múli
 mulica/U po:noun is:feminine
 mulilaterálny
 muliné
@@ -63102,10 +62947,6 @@ mulit
 mull
 mulláh
 mulmi
-múľmi
-múľoch
-múľom
-múľov
 mulovi
 mulovu
 mulový/YN po:adjective
@@ -63175,7 +63016,6 @@ multiužívateľských
 multivesmír
 multivitamín/B po:noun is:masculine
 multivitamínový/YN po:adjective
-múľu
 mumaj
 mumák/C po:noun is:masculine
 mumákov/Y po:adjective
@@ -89681,18 +89521,11 @@ okadiť/EN po:verb
 okaká
 Okál
 okáľ/J po:noun is:masculine
-okáľa
-okále
 okaličiť
 okálisko/M po:noun is:neuter
 okáliť/XN po:verb
-okáľmi
 okáloch
-okáľoch
-okáľom
-okáľov
 okáľovať/WN po:verb
-okáľu
 okamih/B po:noun is:masculine
 okamihnutie
 okamihový/YN po:adjective
@@ -90107,14 +89940,6 @@ Olči
 Olču
 Olda
 oldomáš/J po:noun is:masculine
-oldomáša
-oldomáše
-oldomáši
-oldomášmi
-oldomášoch
-oldomášom
-oldomášov
-oldomášu
 Oldrich/c po:noun is:masculine
 Oldrichov/Y po:adjective
 Oľdza
@@ -93259,24 +93084,8 @@ otcovský/YN po:adjective
 otcovstvo/M po:noun is:neuter
 otcuprisám
 otčenáš/J po:noun is:masculine
-otčenáša
-Otčenáša
-otčenáše
-Otčenáše
-otčenáši
-Otčenáši
 otčenášik/B po:noun is:masculine
 Otčenášik/B po:noun is:masculine
-otčenášmi
-Otčenášmi
-otčenášoch
-Otčenášoch
-otčenášom
-Otčenášom
-otčenášov
-Otčenášov
-otčenášu
-Otčenášu
 otčestvo/M po:noun is:neuter
 otčim/c po:noun is:masculine
 otčimami
@@ -95270,14 +95079,6 @@ paprička/zZ po:noun is:feminine
 paprika/zZ po:noun is:feminine
 Paprikáreň
 paprikáš/J po:noun is:masculine
-paprikáša
-paprikáše
-paprikáši
-paprikášmi
-paprikášoch
-paprikášom
-paprikášov
-paprikášu
 paprikovať/WN po:verb
 paprikový/YN po:adjective
 paprime
@@ -119481,14 +119282,6 @@ rámp
 rampa/zZ po:noun is:feminine
 rampár
 rampáš/J po:noun is:masculine
-rampáša
-rampáše
-rampáši
-rampášmi
-rampášoch
-rampášom
-rampášov
-rampášu
 Ramu
 rámus/B po:noun is:masculine
 rámuse
@@ -122432,14 +122225,6 @@ rotvajler
 Route
 rov/B po:noun is:masculine
 rováš/J po:noun is:masculine
-rováša
-rováše
-rováši
-rovášmi
-rovášoch
-rovášom
-rovášov
-rovášu
 roveň/D po:noun is:feminine
 Rovenský/YN po:adjective
 rover
@@ -124747,14 +124532,7 @@ rozsmútiť
 rozsnívaný/YN po:adjective
 rozsnovať/WN po:verb
 rozsobáš/J po:noun is:masculine
-rozsobáša
-rozsobáše
 rozsobášiť/XN po:verb
-rozsobášmi
-rozsobášoch
-rozsobášom
-rozsobášov
-rozsobášu
 rozsortírovať/WN po:verb
 rozsotiť
 rozspievať/XN po:verb
@@ -125582,18 +125360,8 @@ rubár/C po:noun is:masculine
 rubárov/Y po:adjective
 rubársky/YN po:adjective
 rubáš/J po:noun is:masculine
-rubáša
-rubáše
-Rubáše
-rubáši
 rubáška
 rubaška/zZ po:noun is:feminine
-rubášmi
-rubášoch
-rubášom
-Rubášom
-rubášov
-rubášu
 rúbať/TN po:verb
 rubato
 rubeľ/J po:noun is:masculine
@@ -126620,11 +126388,7 @@ sálanie/V po:noun is:neuter
 salár
 Salár
 salaš/J po:noun is:masculine
-salaša
-salaše
-salaši
 salašík/B po:noun is:masculine
-salašmi
 salašnícky/YN po:adjective
 salašníctvach
 salašníctvam
@@ -126632,11 +126396,7 @@ salašníctvo/M po:noun is:neuter
 salašník/C po:noun is:masculine
 salašníkov/Y po:adjective
 salašný/Y po:adjective
-salašoch
-salašom
-salašov
 salašový/YN po:adjective
-salašu
 sálať/XN po:verb
 sálavať/XN po:verb
 sálavosť/K po:noun is:feminine
@@ -132437,36 +132197,21 @@ soaré
 sob/B po:noun is:masculine
 soba
 sobáš/J po:noun is:masculine
-sobáša
-sobáše
 sobášenie/V po:noun is:neuter
 sobášený/YN po:adjective
 sobášiť/XN po:verb
-sobášmi
 sobášnosť/K po:noun is:feminine
 sobášny/YN po:adjective
-sobášoch
-sobášom
 sobášosť/K po:noun is:feminine
-sobášov
-sobášu
 sobí/I po:adjective
 Soblahov
 Soblahova
 Soblahove
 Soblahovský/YN po:adjective
 soboľ/J po:noun is:masculine
-soboľa
-Soboľa
-sobole
 sobolí/I po:adjective
 sobolina/zZ po:noun is:feminine
-soboľmi
-soboľoch
-soboľom
-Soboľom
 soboľou
-soboľov
 soboľovi
 Soboľovi
 sobora
@@ -147969,7 +147714,6 @@ topoch
 topochémia
 topoi
 topoľ/J po:noun is:masculine
-topoľa
 Topolánek/c po:noun is:masculine
 Topolánkov/Y po:adjective
 Topoľčancov/Y po:adjective
@@ -147981,10 +147725,6 @@ Topoľčany/Q
 Topoľčian
 Topoľčianka/zZ po:noun is:feminine
 topoľčiansky/YN po:adjective
-topole
-topoli
-Topoli
-topoľmi
 Topoľnica
 Topoľníkoch
 Topoľníky
@@ -147994,15 +147734,11 @@ topológie
 topológii
 topológiou
 topológiu
-topoľoch
-topoľom
 Topoľou
-topoľov
 Topoľovka
 Topoľovke
 Topoľovky
 topoľový/YN po:adjective
-topoľu
 topom
 toponarkóza
 toponeuróza
@@ -152563,7 +152299,6 @@ ukváriť
 ukvasiť
 ul
 úľ/J po:noun is:masculine
-úľa
 uľahčene
 uľahčenie/V po:noun is:neuter
 uľahčený/Y po:adjective
@@ -152602,7 +152337,6 @@ uľavovať/WN po:verb
 ulcerácia
 ulcerózny/YN po:adjective
 ulcus
-úle
 ULE po:acronym
 ulema
 ulepiť/EN po:verb
@@ -152619,7 +152353,6 @@ uletúvať/XN po:verb
 ulexit
 uležaný/YN po:adjective
 uležať/RN po:verb
-úli
 uliahnuť/WN
 uliať/XN po:verb
 uliata
@@ -152685,7 +152418,6 @@ ullmanit
 Ulm
 ulma
 Ulme
-úľmi
 ulmifikácia
 ulmit
 Ulmu
@@ -152694,16 +152426,13 @@ ulna
 úloha/zZ po:noun is:feminine
 úlohovanie/VN po:noun is:neuter
 úlohového
-úľoch
 úlom
-úľom
 úlomček/B po:noun is:masculine
 ulomenie/V po:noun is:neuter
 ulomiť/EN po:verb
 úlomkovitý/YN po:adjective
 úlomkový/YN po:adjective
 úlomok/O po:noun is:masculine
-úľov
 ulovená
 ulovené
 uloveného
@@ -152806,7 +152535,6 @@ ultrasonografický/YN po:adjective
 ultrazvuk/B po:noun is:masculine
 ultrazvukový/YN po:adjective
 ultražiarenie/V po:noun is:neuter
-úľu
 úľuba/zZ po:noun is:feminine
 ulúpenie/V po:noun is:neuter
 ulúpený/YN po:adjective
@@ -156084,16 +155812,8 @@ vanilka/zZ po:noun is:feminine
 vanilkový/YN po:adjective
 vanitas
 vankúš/J po:noun is:masculine
-vankúša
-vankúše
-vankúši
 vankúšik/B po:noun is:masculine
-vankúšmi
-vankúšoch
-vankúšom
-vankúšov
 vankúšový/Y po:adjective
-vankúšu
 vánok/O po:noun is:masculine
 vanov
 vaňový/YN po:adjective
@@ -163515,15 +163235,7 @@ vymodliť/EN po:verb
 vymokať/EN po:verb
 vymoknúť/WN
 výmoľ/J po:noun is:masculine
-výmoľa
-výmole
-výmoli
-výmoľmi
-výmoľoch
-výmoľom
-výmoľov
 výmoľový/YN po:adjective
-výmoľu
 vymontovanie/VN po:noun is:neuter
 vymontovaný/YN po:adjective
 vymontovať/WN po:verb
@@ -178906,14 +178618,6 @@ zubadlový/YN po:adjective
 Zubák
 Zubáka
 zubáľ/J po:noun is:masculine
-zubáľa
-zubále
-zubáli
-zubáľmi
-zubáľoch
-zubáľom
-zubáľov
-zubáľu
 zubami
 zubaňa/U po:noun is:feminine
 zubaní
@@ -181331,15 +181035,7 @@ zžívať/XN po:verb
 žuvaný/YN po:adjective
 žuvať/WN
 žúžoľ/J po:noun is:masculine
-žúžoľa
-žúžole
-žúžoli
-žúžoľmi
-žúžoľoch
-žúžoľom
-žúžoľov
 žúžoľový/YN po:adjective
-žúžoľu
 žužu
 žvacheľ
 žviakať/XN po:verb
