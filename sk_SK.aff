@@ -2532,7 +2532,7 @@ SFX E   ť           la         iť is:3rd_person is:feminine is:past
 SFX E   ť           lo         iť is:3rd_person is:neuter is:past
 SFX E   ť           li         iť is:3rd_person is:plural is:past
 
-SFX W Y 215
+SFX W Y 229
 SFX W   ať          nem        čať is:1st_person
 SFX W   ať          neš        čať is:2nd_person
 SFX W   ať          ne         čať is:3rd_person
@@ -2748,6 +2748,20 @@ SFX W   úť          ul         [aeilľory]núť is:3rd_person is:masculine is:
 SFX W   úť          ula        [aeilľory]núť is:3rd_person is:feminine is:past
 SFX W   úť          ulo        [aeilľory]núť is:3rd_person is:neuter is:past
 SFX W   úť          uli        [aeilľory]núť is:3rd_person is:plural is:past
+SFX W   iť          ijem       [šv]iť is:1st_person
+SFX W   iť          iješ       [šv]iť is:2nd_person
+SFX W   iť          ije        [šv]iť is:3rd_person
+SFX W   iť          ijeme      [šv]iť is:1st_person is:plural
+SFX W   iť          ijete      [šv]iť is:2nd_person is:plural
+SFX W   iť          ijú        [šv]iť is:3rd_person is:plural
+SFX W   iť          ijúc       [šv]iť is:participle
+SFX W   iť          i          [šv]iť is:2nd_person is:imperative
+SFX W   iť          ime        [šv]iť is:1st_person is:plural is:imperative
+SFX W   iť          ite        [šv]iť is:2nd_person is:plural is:imperative
+SFX W   iť          il         [šv]iť is:1st_person is:masculine is:past
+SFX W   iť          ila        [šv]iť is:2nd_person is:feminine is:past
+SFX W   iť          ilo        [šv]iť is:3rd_person is:neuter is:past
+SFX W   iť          il         [šv]iť is:1st_person is:past
 
 SFX T Y 195
 SFX T   ať          iam        [cčzrš]ať is:1st_person

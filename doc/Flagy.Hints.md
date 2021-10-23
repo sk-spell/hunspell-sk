@@ -56,6 +56,7 @@ Zoradené podľa slovných druhov. Slúži len na rýchlu orientáciu, po doplne
         vz. hynúť (hyn-ie, hyn-ú)
         vz. pracovať (pracuj-e, pracuj-ú)
         vz. žuť (žuj-e, žuj-ú)
+        vz. šiť (šij-e, šij-ú)
     T - vz. česať (češ-e, češ-ú)
         vz. žať (žn-e, žn-ú)
     V - vz. vidieť (vid-í, vid-ia)
