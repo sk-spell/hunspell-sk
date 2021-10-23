@@ -12,6 +12,8 @@ SET grep="C:\Program Files\Git\usr\bin\grep.exe"
 SET dos2unix="C:\Program Files\Git\usr\bin\dos2unix.exe"
 SET hunspell="F:\Project-Personal\sk-spell\devel\hunspell\msvc\Release\hunspell\hunspell.exe"
 
+IF NOT EXIST Backups (MKDIR Backups)
+
 REM BUILD Process
 REM ***** get rid of all the old files in the build folder
 IF EXIST build (RD /S /Q build)
@@ -44,8 +46,8 @@ COPY sk_SK.aff build\sk_fl.aff
 FOR /f "tokens=2 delims==" %%a IN ('wmic OS Get localdatetime /value') DO SET "dt=%%a"
 SET "YYYY=%dt:~0,4%" & SET "MM=%dt:~4,2%" & SET "DD=%dt:~6,2%"
 SET "datestamp=%YYYY%%MM%%DD%"
-IF NOT EXIST "sk_SK.dic-%datestamp%.bak" (
-    IF EXIST sk_SK.dic (ren "sk_SK.dic" "sk_SK.dic-%datestamp%.bak")
+IF NOT EXIST "Backups/sk_SK.dic-%datestamp%.bak" (
+    IF EXIST sk_SK.dic (move "sk_SK.dic" "Backups/sk_SK.dic-%datestamp%.bak")
 )
 
 %wc% -l < build/sk_SK.dic | %cat% - build/sk_SK.dic >sk_SK.dic
