@@ -1,4 +1,4 @@
-180650
+180413
 á
 Á
 à
@@ -1767,7 +1767,7 @@ alkalicelulózy
 alkalickosť/K po:noun is:feminine
 alkalicky
 alkalický/YN po:adjective
-alkálie/Q
+alkálie/Q po:noun is:feminine
 alkalimetria
 alkalita/zZ po:noun is:feminine
 alkalizácia
@@ -3667,8 +3667,7 @@ architráv
 archív/B po:noun is:masculine
 archivácia/U po:noun is:feminine
 archivačný/YN po:adjective
-archiválie/Q
-archiválií
+archiválie/Q po:noun is:feminine
 archiválne po:adverb
 archiválny/YN po:adjective
 archivár/C po:noun is:masculine
@@ -5443,11 +5442,7 @@ bakarat
 bakelit/B po:noun is:masculine
 bakelitmi
 bakelitový/Y po:adjective
-bakchanáliách
-bakchanáliám
-bakchanáliami
-bakchanálie/Q
-bakchanálií
+bakchanálie/Q po:noun is:feminine
 bakchantka
 bakchantský/YN po:adjective
 bakchický/YN po:adjective
@@ -7350,7 +7345,7 @@ biceps/B po:noun is:masculine
 bicepsami
 bicepsový/Y po:adjective
 bicí/I po:adjective
-bicie/Q
+bicie/Q po:noun is:masculine
 bicykel/J po:noun is:masculine
 bicyklebal/B po:noun is:masculine
 bicyklebalista/H po:noun is:masculine
@@ -11472,11 +11467,7 @@ cerberovský/YN po:adjective
 cerberus
 Cerberus
 cercle
-cereáliách
-cereáliám
-cereáliami
-cereálie/Q
-cereálií
+cereálie/Q po:noun is:feminine
 cereálny/Y po:adjective
 cerebellum
 cerebrálny/YN po:adjective
@@ -25599,11 +25590,7 @@ exemplárny/YN po:adjective
 exemplifikácia/U po:noun is:feminine
 exemplifikovať/WN po:verb
 exequatur
-exercíciách
-exercíciám
-exercíciami
-exercície/Q
-exercícií
+exercície/Q po:noun is:feminine
 exercičný/YN po:adjective
 exergia
 exfoliácia
@@ -26642,11 +26629,7 @@ fejtonistka/zZ po:noun is:feminine
 fejtonistov/Y po:adjective
 fejtónovitý/YN po:adjective
 fejtónový/Y po:adjective
-fekáliách
-fekáliám
-fekáliami
-fekálie/Q
-fekálií
+fekálie/Q po:noun is:feminine
 fekálny/Y po:adjective
 fekundácia
 fekundita
@@ -27222,11 +27205,7 @@ finalizmus
 finálny/YN po:adjective
 finálový/Y po:adjective
 financ/C po:noun is:masculine
-financiách
-financiám
-financiami
-financie/Q
-financií
+financie/Q po:noun is:feminine
 financmi
 financov/Y po:adjective
 financovane po:adverb
@@ -29655,11 +29634,7 @@ genialita/zZ po:noun is:feminine
 geniálnosť/K po:noun is:feminine
 geniálny/YN po:adjective
 genitál
-genitáliách
-genitáliám
-genitáliami
-genitálie/Q
-genitálií
+genitálie/Q po:noun is:feminine
 genitálny/Y po:adjective
 genitív/B po:noun is:masculine
 genitíve
@@ -38009,13 +37984,10 @@ ihlicovito
 ihlicovitý/YN po:adjective
 ihlicový/YN po:adjective
 ihličí
-ihličia
 ihličiach
 ihličiam
-ihličiami
-ihličie/Q
+ihličie/q po:noun is:neuter
 ihličím
-ihličiu
 ihlička/zZ po:noun is:feminine
 ihličkovitý/YN po:adjective
 ihličkový/Y po:adjective
@@ -41913,11 +41885,7 @@ jutový/YN po:adjective
 Jutrík
 jutro/M po:noun is:neuter
 juvenálie
-juveníliách
-juveníliám
-juveníliami
-juvenílie/Q
-juvenílií
+juvenílie/Q po:noun is:feminine
 juvenilný/YN po:adjective
 juvenoid
 juventiológia
@@ -48869,15 +48837,9 @@ kôrnatý/YN po:adjective
 kôročka/zZ po:noun is:feminine
 kôrovcov/Y po:adjective
 kôrovec/CL po:noun is:masculine
-kôrovia
-kôroviach
-kôroviam
-kôroviami
-kôrovie/Q
-kôrovím
+kôrovie/V po:noun is:neuter
 kôrovitosť/K po:noun is:feminine
 kôrovitý/YN po:adjective
-kôroviu
 kôrový/YN po:adjective
 kôs
 kôstka/zZ po:noun is:feminine
@@ -54398,7 +54360,7 @@ líštička/zZ po:noun is:feminine
 lištový/YN po:adjective
 lit
 lita
-litánie/Q
+litánie/Q po:noun is:feminine
 Litava
 Litave
 litavský/YN po:adjective
@@ -54818,15 +54780,12 @@ lopúch/B po:noun is:masculine
 lopúcha
 lopúchový/YN po:adjective
 lopúší
-lopúšia
 lopúšiach
 lopúšiam
-lopúšiami
-lopúšie/Q
+lopúšie/q po:noun is:neuter
 lopúším
 lopúšina
 lopušina/zZ po:noun is:feminine
-lopúšiu
 Lopušná
 Lopušné
 Lopušnej
@@ -60262,11 +60221,7 @@ minér
 míner/B po:noun is:masculine
 minerál/B po:noun is:masculine
 mineráli
-mineráliách
-mineráliám
-mineráliami
-minerálie/Q
-minerálií
+minerálie/Q po:noun is:feminine
 mineralizácia/U po:noun is:feminine
 mineralizovaný/YN po:adjective
 mineralizovať/WN po:verb
@@ -63358,11 +63313,7 @@ nacifikácia
 nacigániť/XN po:verb
 nacionál
 nacionále
-nacionáliách
-nacionáliám
-nacionáliami
-nacionálie/Q
-nacionálií
+nacionálie/Q po:noun is:feminine
 nacionalista/H po:noun is:masculine
 nacionalisticky
 nacionalistický/YN po:adjective
@@ -66971,11 +66922,7 @@ natúkať
 natupírovať/WN po:verb
 nátur
 nátura/zZ po:noun is:feminine
-naturáliách
-naturáliám
-naturáliami
-naturálie/Q
-naturálií
+naturálie/Q po:noun is:feminine
 naturalista/H po:noun is:masculine
 naturalisticky po:adverb
 naturalistický/YN po:adjective
@@ -93152,11 +93099,7 @@ ouvertúr
 ouvertúra/zZ po:noun is:feminine
 ouvertúrach
 ouvertúram
-ováciách
-ováciám
-ováciami
-ovácie/Q
-ovácií
+ovácie/Q po:noun is:feminine
 ovačný/YN po:adjective
 ovad/B po:noun is:masculine
 ovada
@@ -95616,12 +95559,8 @@ pášete
 paši
 paší
 pašiach
-pašiách
 pašiam
-pašiám
-pašiami
-pašie/Q
-pašií
+pašie/Q po:noun is:feminine
 pašiový/YN po:adjective
 Paška/H po:noun is:masculine
 paškál/B po:noun is:masculine
@@ -97226,11 +97165,7 @@ persóna/zZ po:noun is:feminine
 persónach
 personál/b po:noun is:masculine
 personáli st: personál
-personáliách
-personáliám
-personáliami
 personálie/Q po:noun is:feminine
-personálií
 personalista/H po:noun is:masculine
 personalistický/YN po:adjective
 personalistov/Y po:adjective
@@ -114642,11 +114577,7 @@ primetáš
 primetať
 primetáte
 primícia
-primíciách
-primíciám
-primíciami
-primície/Q
-primícií
+primície/Q po:noun is:feminine
 primičný/YN po:adjective
 primiesiť/XN po:verb
 primiesť/RN po:verb
@@ -120368,11 +120299,7 @@ Repove
 repový/YN po:adjective
 repozícia/U po:noun is:feminine
 repozičný/YN po:adjective
-represáliách
-represáliám
-represáliami
-represálie/Q
-represálií
+represálie/Q st:represália po:noun is:feminine
 represia/U po:noun is:feminine
 represívny/YN po:adjective
 represor

@@ -1613,7 +1613,7 @@ SFX O   et          tami       et is:instrumental is:plural
 SFX O   ov          vami       ov is:instrumental is:plural
 SFX O   on          nami       on is:instrumental is:plural
 
-SFX Q Y 53
+SFX Q Y 57
 SFX Q   ia          í          čia is:genitive is:plural
 SFX Q   esia        ies        esia is:genitive is:plural
 SFX Q   ia          í          dia is:genitive is:plural
@@ -1667,6 +1667,16 @@ SFX Q   0           mi         ti is:instrumental is:plural
 SFX Q   y           ami        [hkn]y is:instrumental is:plural
 SFX Q   asy         asmi       asy is:instrumental is:plural
 SFX Q   0           mi         ta is:instrumental is:plural
+SFX Q   e           í          ie is:genitive is:plural is:feminine
+SFX Q   e           ám         ie is:dative is:plural is:feminine
+SFX Q   e           ách        ie is:locative is:plural is:feminine
+SFX Q   e           ami        ie is:instrumental is:plural is:feminine
+
+SFX q Y 4
+SFX q   e           a          ie is:genitive is:plural is:neuter
+SFX q   e           u          ie is:dative is:plural is:neuter
+SFX q   e           í          ie is:locative is:plural is:neuter
+SFX q   e           čím        ie is:instrumental is:plural is:neuter
 
 SFX Y Y 499				# 339+160
 SFX Y   e           ejšie      e po:adverb is:comparative
