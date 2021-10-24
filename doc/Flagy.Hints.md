@@ -9,6 +9,7 @@ Zoradené podľa slovných druhov. Slúži len na rýchlu orientáciu, po doplne
 ## Prípony:
 
 ## Podstatné mená:
+
 ### Mužský rod:
     c - vz. chlap a kuli, živ. podstatné mená, ak N plurálu končí na -ia
     C - vz. chlap, živ. podstatné mená, ak N plurálu končí na -i (+hosť)
@@ -33,6 +34,12 @@ Zoradené podľa slovných druhov. Slúži len na rýchlu orientáciu, po doplne
     V - vz. vysvedčenie
     S - vz. srdce
     A - vz. dievča 
+
+### Pomnožné:
+    q - stredný a mužský rod, končiace na -ie, -y
+    Q - ostatné
+
+*Poznámka:* v prípadne potreby by asi by bolo možné tieto Flagy uvoľniť a riešiť pomnožné slová cez Flagy podstatných mient
 
 ## Prídavné mená:
     I - vz. cudzí/páví

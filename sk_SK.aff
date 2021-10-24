@@ -1613,7 +1613,7 @@ SFX O   et          tami       et is:instrumental is:plural
 SFX O   ov          vami       ov is:instrumental is:plural
 SFX O   on          nami       on is:instrumental is:plural
 
-SFX Q Y 57
+SFX Q Y 81
 SFX Q   ia          í          čia is:genitive is:plural
 SFX Q   esia        ies        esia is:genitive is:plural
 SFX Q   ia          í          dia is:genitive is:plural
@@ -1664,19 +1664,56 @@ SFX Q   e           ami        [^á]re is:instrumental is:plural
 SFX Q   e           mi         ze is:instrumental is:plural
 SFX Q   0           ami        či is:instrumental is:plural
 SFX Q   0           mi         ti is:instrumental is:plural
-SFX Q   y           ami        [hkn]y is:instrumental is:plural
+SFX Q   y           ami        [bdgfhklmnprstvz]y is:instrumental is:plural
 SFX Q   asy         asmi       asy is:instrumental is:plural
 SFX Q   0           mi         ta is:instrumental is:plural
 SFX Q   e           í          ie is:genitive is:plural is:feminine
 SFX Q   e           ám         ie is:dative is:plural is:feminine
 SFX Q   e           ách        ie is:locative is:plural is:feminine
 SFX Q   e           ami        ie is:instrumental is:plural is:feminine
+SFX Q   ory         ôr         [^z]ory is:genitive is:plural is:feminine
+SFX Q   ory         or         zory is:genitive is:plural is:feminine
+SFX Q   y           0          [áeémno][blrtsv]y is:genitive is:plural is:feminine
+SFX Q   y           0          [fm]y is:genitive is:plural is:feminine
+SFX Q   amy         ám         amy is:genitive is:plural is:feminine
+SFX Q   udy         úd         udy is:genitive is:plural is:feminine
+SFX Q   uby         úb         uby is:genitive is:plural is:feminine
+SFX Q   ydy         ýd         ydy is:genitive is:plural is:feminine
+SFX Q   ivy         ív         ivy is:genitive is:plural is:feminine
+SFX Q   ily         íl         ily is:genitive is:plural is:feminine
+SFX Q   dly         diel       dly is:genitive is:plural is:feminine
+SFX Q   rdy         ŕd         rdy is:genitive is:plural is:feminine
+SFX Q   ajdy        ájd        ajdy is:genitive is:plural is:feminine
+SFX Q   oty         ôt         oty is:genitive is:plural is:feminine
+SFX Q   uzzy        úzz        uzzy is:genitive is:plural is:feminine
+SFX Q   uggy        úgg        uggy is:genitive is:plural is:feminine
+SFX Q   y           am         [^uo][brs]y is:dative is:plural is:feminine
+SFX Q   y           am         émy is:dative is:plural is:feminine
+SFX Q   y           ám         [^áé][bfdglmprtvz]y is:dative is:plural is:feminine
+SFX Q   y           ách        [^áé][bdfglmprtvz]y is:locative is:plural is:feminine
+SFX Q   y           ach        ary is:locative is:plural is:feminine
+SFX Q   y           ach        áby is:locative is:plural is:feminine
+SFX Q   y           ach        émy is:locative is:plural is:feminine
+SFX Q   y           ach        ínsy is:locative is:plural is:feminine
 
-SFX q Y 4
+SFX q Y 17
 SFX q   e           a          ie is:genitive is:plural is:neuter
 SFX q   e           u          ie is:dative is:plural is:neuter
 SFX q   e           í          ie is:locative is:plural is:neuter
 SFX q   e           čím        ie is:instrumental is:plural is:neuter
+SFX q   y           ov         [^eoa][prst]y is:genitive is:plural is:masculine
+SFX q   y           ov         [^r]dy is:genitive is:plural is:masculine
+SFX q   y           ov         [bglsv]y is:genitive is:plural is:masculine
+SFX q   aty         át         aty is:genitive is:plural is:masculine
+SFX q   y           ier        ery is:genitive is:plural is:masculine
+SFX q   y           0          ory is:genitive is:plural is:masculine
+SFX q   y           0          rdy is:genitive is:plural is:masculine
+SFX q   y           0          ágy is:genitive is:plural is:masculine
+SFX q   y           om         [bdglprstv]y is:dative is:plural is:masculine
+SFX q   y           och        [bdglprstv]y is:locative is:plural is:masculine
+SFX q   y           mi         [^n][bdlprstv]y is:instrumental is:plural is:masculine
+SFX q   y           mi         ngy is:instrumental is:plural is:masculine
+SFX q   y           ami        n[gs]y is:instrumental is:plural is:masculine
 
 SFX Y Y 499				# 339+160
 SFX Y   e           ejšie      e po:adverb is:comparative
