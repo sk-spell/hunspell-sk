@@ -1,4 +1,4 @@
-180269
+180197
 á
 Á
 à
@@ -2979,6 +2979,8 @@ antikvárny/YN po:adjective
 antikvita
 antikvovať/WN po:verb
 antilátka
+Antilčan/c po:noun is:feminine
+Antilčanka/zZ po:noun is:feminine
 Antiliberálna
 antiliberálne
 antiliberálnych
@@ -9503,6 +9505,8 @@ brekoty
 Brekov
 brekyňa/U po:noun is:feminine
 bremä/A po:noun is:neuter
+Brémčan/c po:noun is:masculine
+Brémčanka/zZ po:noun is:feminine
 bremeni
 bremeno/M po:noun is:neuter
 bremien
@@ -9883,6 +9887,9 @@ bručte
 brud/B po:noun is:masculine
 Brudno
 brudný/YN po:adjective
+Bruggčan/c po:noun is:masculine
+Bruggčanka/zZ po:noun is:feminine
+bruggský/YN po:adjective
 Bruggy/Q po:noun is:feminine
 brúch
 brucháč/C po:noun is:masculine
@@ -15738,20 +15745,15 @@ delcredere
 deleatur
 delegácia/U po:noun is:feminine
 delegačka/zZ po:noun is:feminine
-delegačne
+delegačne po:adverb
 delegačný/Y po:adjective
 delegát/C po:noun is:masculine
 delegátka/zZ po:noun is:feminine
 delegátov/Y po:adjective
 delegátsky/YN po:adjective
 delegatúr
-delegatúra
+delegatúra/zZ po:noun is:feminine
 delegatúrach
-delegatúrami
-delegatúre
-delegatúrou
-delegatúru
-delegatúry
 delegovanie/VN po:noun is:neuter
 delegovaný/YN po:adjective
 delegovať/WN po:verb
@@ -15761,7 +15763,7 @@ delenie/V po:noun is:neuter
 deleno
 delený/YN po:adjective
 delfín/B po:noun is:masculine
-delfínovi
+delfínov/YN po:adjective
 delfský/YN po:adjective
 Delfy/Q po:noun is:feminine
 deliaci/YN po:adjective
@@ -23465,6 +23467,7 @@ Džingischánov/Y po:adjective
 džinizmus
 džinov/Y po:adjective
 džinový/Y po:adjective
+džínsový/YN  po:adjective
 džínsy/Q po:noun is:feminine
 džínsy/q po:noun is:masculine
 džinu
@@ -50818,6 +50821,7 @@ kuriérskym
 kuriérskymi
 kuriev
 Kurilčan/c po:noun is:masculine
+Kurilčanka/zZ po:noun is:feminine
 Kurilčanov/Y po:adjective
 kurilský/YN po:adjective
 Kurily/Q po:noun is:feminine
@@ -56885,11 +56889,8 @@ mango/M po:noun is:neuter
 mangold
 mangovník/B po:noun is:masculine
 mangrove
-mangrovmi
-mangrovoch
-mangrovom
-mangrovov
-mangrovy/Q
+mangrovový/YN po:adjective
+mangrovy/q po:noun is:masculine
 mangusta
 Manchester/J po:noun is:masculine
 manchesterský/YN po:adjective
@@ -124979,16 +124980,13 @@ rumun
 Rumun/C po:noun is:masculine
 rumunčina/zZ po:noun is:feminine
 rumunizmus
-Rumunka
-Rumunku
+Rumunka/zZ po:noun is:feminine
 Rumunov/Y po:adjective
 Rumunsko/M po:noun is:neuter
-rumunsky
+rumunsky po:adverb
 rumunský/YN po:adjective
-rumy/Q
 run
-rún
-runa
+runa/zZ po:noun is:feminine
 rúnach
 rúnam
 runcovať/WN po:verb
@@ -124999,7 +124997,6 @@ rúno/M po:noun is:neuter
 runom
 runov
 rúnový/YN po:adjective
-runu
 runway
 rup
 Rupert
@@ -128024,6 +128021,9 @@ sexuologický/YN po:adjective
 sexuologička/zZ po:noun is:feminine
 sexuológov/Y po:adjective
 sexus
+Seychelčan/c po:noun is:masculine
+Seychelčan/zZ po:noun is:feminine
+seychelský/YN po:adjective
 Seychely/Q po:noun is:feminine
 sezam/B po:noun is:masculine
 sezamový/YN po:adjective
@@ -134527,18 +134527,13 @@ stánkový/YN po:adjective
 stanný/YN po:adjective
 Stano
 stánok/O po:noun is:masculine
-Stanova
-stanovách
-stanovám
-stanovami
+Stanov/Y po:adjective
 stanovanie/VN po:noun is:neuter
 stanovaný/YN po:adjective
 stanovať/WN po:verb
-Stanove
 stanovene
 stanovenie/V po:noun is:neuter
 stanovený/YN po:adjective
-Stanovi
 stanoviny
 stanovísk
 stanovisko/M po:noun is:neuter
@@ -134556,7 +134551,6 @@ stanovo
 stanovovanie/VN po:noun is:neuter
 stanovovaný/YN po:adjective
 stanovovať/WN po:verb
-Stanovu
 stanovy/Q po:noun is:feminine
 stanový/YN po:adjective
 stanóza
