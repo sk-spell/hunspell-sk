@@ -527,7 +527,7 @@ SFX K   0           iach       [^áďťňľ] is:locative is:plural
 SFX K   á           ami        á is:instrumental is:plural
 SFX K   0           ami        [^á] is:instrumental is:plural
 
-SFX M Y 95
+SFX M Y 96
 SFX M   ďo          de         ďo is:genitive
 SFX M   ťo          te         ťo is:genitive
 SFX M   ňo          ne         ňo is:genitive
@@ -587,6 +587,7 @@ SFX M   um          í          [ei]um is:genitive is:plural
 SFX M   um          ier        [^ei]um is:genitive is:plural
 SFX M   o           0          gesto is:genitive is:plural
 SFX M   o           0          geto is:genitive is:plural
+SFX M   ro          ier        dro is:genitive is:plural
 SFX M   o           am         i[aeou]..o is:dative is:plural
 SFX M   o           ám         [^i][aeiouy]..o is:dative is:plural
 SFX M   o           am         [áéíóŕúý]..o is:dative is:plural
@@ -1613,7 +1614,7 @@ SFX O   et          tami       et is:instrumental is:plural
 SFX O   ov          vami       ov is:instrumental is:plural
 SFX O   on          nami       on is:instrumental is:plural
 
-SFX Q Y 81
+SFX Q Y 105
 SFX Q   ia          í          čia is:genitive is:plural
 SFX Q   esia        ies        esia is:genitive is:plural
 SFX Q   ia          í          dia is:genitive is:plural
@@ -1695,12 +1696,46 @@ SFX Q   y           ach        ary is:locative is:plural is:feminine
 SFX Q   y           ach        áby is:locative is:plural is:feminine
 SFX Q   y           ach        émy is:locative is:plural is:feminine
 SFX Q   y           ach        ínsy is:locative is:plural is:feminine
+SFX Q   iská        ísk        iská is:genitive is:plural is:feminine
+SFX Q   dlá         diel       dlá is:genitive is:plural is:feminine
+SFX Q   ná          ien        ná is:genitive is:plural
+SFX Q   0           m          á is:dative is:plural
+SFX Q   0           ch         á is:locative is:plural
+SFX Q   á           ami        á is:instrumental is:plural
+SFX Q   ka          ok         ka is:genitive is:plural is:feminine
+SFX Q   0           m          a is:dative is:plural is:feminine
+SFX Q   0           ch         a is:locative is:plural is:feminine
+SFX Q   0           mi         a is:instrumental is:plural is:feminine
+SFX Q   e           í          e is:genitive is:plural is:feminine
+SFX Q   e           am         je is:dative is:plural is:feminine
+SFX Q   e           ach        je is:locative is:plural is:feminine
+SFX Q   e           ami        [čj]e is:instrumental is:plural is:feminine
+SFX Q   e           iam        [^š][čnt]e is:dative is:plural is:feminine
+SFX Q   te          ťam        šte is:dative is:plural is:feminine
+SFX Q   e           iach       [^š][čnt]e is:locative is:plural is:feminine
+SFX Q   te          ťach       šte is:locative is:plural is:feminine
+SFX Q   ne          ňami       ne is:instrumental is:plural is:feminine
+SFX Q   te          ťami       te is:instrumental is:plural is:feminine
+SFX Q   i           0          i is:genitive is:plural is:feminine
+SFX Q   i           ám         i is:dative is:plural is:feminine
+SFX Q   i           ách        i is:locative is:plural is:feminine
+SFX Q   i           ami        i is:instrumental is:plural is:feminine
 
-SFX q Y 17
+SFX q Y 27
 SFX q   e           a          ie is:genitive is:plural is:neuter
 SFX q   e           u          ie is:dative is:plural is:neuter
 SFX q   e           í          ie is:locative is:plural is:neuter
 SFX q   e           čím        ie is:instrumental is:plural is:neuter
+SFX q   i           ov         i is:genitive is:plural is:masculine
+SFX q   i           om         i is:dative is:plural is:masculine
+SFX q   i           och        i is:locative is:plural is:masculine
+SFX q   i           ami        i is:instrumental is:plural is:masculine
+SFX q   e           ov         [^i]e is:genitive is:plural is:masculine
+SFX q   e           om         [^i]e is:dative is:plural is:masculine
+SFX q   e           och        [^i]e is:locative is:plural is:masculine
+SFX q   e           ami        [^á]če is:instrumental is:plural is:masculine
+SFX q   e           mi         áče is:instrumental is:plural is:masculine
+SFX q   e           mi         íže is:instrumental is:plural is:masculine
 SFX q   y           ov         [^eoa][prst]y is:genitive is:plural is:masculine
 SFX q   y           ov         [^r]dy is:genitive is:plural is:masculine
 SFX q   y           ov         [bglsv]y is:genitive is:plural is:masculine

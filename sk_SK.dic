@@ -6357,7 +6357,6 @@ bedňa
 bedne
 bedovanie/VN po:noun is:neuter
 bedovať/WN po:verb
-bedrá/Q
 bedro/M po:noun is:neuter
 bedrovník/B po:noun is:masculine
 bedrový/YN po:adjective
@@ -28951,11 +28950,10 @@ galčina
 galea
 galéa
 galeassa
-galeja
+galeja/U po:noun is:feminine
 galejach
 galejam
 galejami
-galeje/Q
 galejí
 galejnícky/Y po:adjective
 galejníctvach
@@ -29273,7 +29271,7 @@ gaštanovohnedý/YN po:adjective
 gaštanový/Y po:adjective
 gat
 gaťa/U po:noun is:feminine
-gate/Q
+gate/Q po:noun is:feminine
 gáter
 Gates
 gatí
@@ -31937,9 +31935,7 @@ Helsinčan/c po:noun is:masculine
 Helsinčanka/zZ po:noun is:feminine
 Helsinčanov/Y po:adjective
 Helsínk
-Helsinki/Q
-Helsinky/Q
-Helsinsky
+Helsinki/Q po:noun is:feminine
 helsinský/YN po:adjective
 helvet
 helvét
@@ -32360,7 +32356,7 @@ Hildegardou
 HIM po:acronym
 Himalájach
 Himalájami
-Himaláje/Q
+Himaláje/Q po:noun is:feminine is:plural
 Himalájí
 himalájsky/YN po:adjective
 Himalaya
@@ -43473,7 +43469,6 @@ Kasanom
 kasár/C po:noun is:masculine
 kasáreň/D po:noun is:feminine
 kasárenský/YN po:adjective
-kasárne/Q
 kasárov/Y po:adjective
 kasársky/YN po:adjective
 kasárstvach
@@ -44261,7 +44256,7 @@ kí
 kiahňach
 kiahňam
 kiahňami
-kiahne/Q
+kiahne/Q po:noun is:feminine is:plural
 kiahní
 kiahňový/YN po:adjective
 Kiarov
@@ -44915,7 +44910,7 @@ kliešť/L po:noun is:masculine
 kliešťach
 kliešťam
 kliešťami
-kliešte/Q
+kliešte/Q po:noun is:feminine
 klieštenec
 klieští
 klieštikmi
@@ -45304,7 +45299,7 @@ kmotroch
 kmotrom
 kmotrov/Y po:adjective
 kmotrovcami
-kmotrovci/Q
+kmotrovci/q po:noun is:masculine
 kmotrovcoch
 kmotrovcom
 kmotrovcov
@@ -49604,7 +49599,6 @@ krízový/Y po:adjective
 kríž/J po:noun is:masculine
 krížalka/zZ po:noun is:feminine
 Krížany
-kríže/Q
 krížence
 krížencov/Y po:adjective
 kríženec/C po:noun is:masculine
@@ -49787,7 +49781,7 @@ krosienkami
 krosienku
 krosienok
 Krosna
-krosná/Q
+krosná/Q po:noun is:neuter
 krosnách
 krosnám
 krosnami
@@ -57528,7 +57522,7 @@ masíve
 masívnosť/K po:noun is:feminine
 masívny/YN po:adjective
 maska/zZ po:noun is:feminine
-maskáče/Q
+maskáče/q po:noun is:masculine
 maskáčmi
 maskáčoch
 maskáčom
@@ -91681,7 +91675,7 @@ osiatym
 osičina/zZ po:noun is:feminine
 osička/zZ po:noun is:feminine
 osídel
-osídla/Q
+osídiel
 osídlach
 osídlam
 osídlencov/Y po:adjective
@@ -94183,7 +94177,7 @@ pančovanie/VN po:noun is:neuter
 pančovaný/YN po:adjective
 pančovať/WN po:verb
 pančucha/zZ po:noun is:feminine
-pančucháče/Q
+pančucháče/q po:noun is:masculin
 pančucháčmi
 pančucháčoch
 pančucháčom
@@ -103495,7 +103489,7 @@ pompách
 pompám
 pompami
 Pompejami
-Pompeje/Q
+Pompeje/Q po:noun is:feminine is:plural
 pompejský/YN po:adjective
 pompel
 Pompelu
@@ -103548,12 +103542,11 @@ pomútiť/XN po:verb
 pomutovanie/VN po:noun is:neuter
 pomutovaný/YN po:adjective
 pomutovať/WN po:verb
-pomýj
 pomyjach
 pomyjam
 pomyjami
-pomyje/Q
-pomyjí
+pomyje/Q po:noun is:feminine is:plural
+pomýj st:pomyje is:genitive is:plural is:feminine
 pomykať/EN po:verb
 pomykávať/XN po:verb
 pomyknúť/WN
@@ -117829,7 +117822,7 @@ pýre
 pyrén
 Pyrenejach
 Pyrenejami
-Pyreneje/Q
+Pyreneje/Q po:noun is:feminine is:plural
 Pyrenejí
 pyrenejský/YN po:adjective
 pýrenie/V po:noun is:neuter
@@ -120561,9 +120554,10 @@ Revúcky
 revúckych
 Revúcou
 Revúcu
-revue/Q
-revui
-revuí
+revue po:noun is:feminine
+revuálny/YN po:adjective
+revui st:revue po:noun is:dative is:singular is:feminine
+revuí st:revue po:noun is:genitive is:plural is:feminine
 revulzia
 révy
 rex
@@ -126164,7 +126158,7 @@ Sandru
 Sandry
 Sandwichove
 sandžak
-sane/Q
+sane/Q po:noun is:feminine is:plural
 sanforizácia
 sanforizovanie/VN po:noun is:neuter
 sanfranciský/YN po:adjective
@@ -146543,7 +146537,7 @@ tlkotajúc
 tlkotať/TN po:verb
 tlkotmi
 tĺkovi
-Tlmače/Q
+Tlmače/q po:noun is:masculine
 Tlmačmi
 Tlmačoch
 Tlmačom
@@ -156133,7 +156127,7 @@ veraikon
 verajach
 verajam
 verajami
-veraje/Q
+veraje/Q po:noun is:feminine is:plural
 verají
 veranda/zZ po:noun is:feminine
 verandička/zZ po:noun is:feminine
@@ -158845,7 +158839,6 @@ vracaných
 vracať/TN po:verb
 vradil
 vradiť
-vradlá/Q
 vraďovať/WN po:verb
 vrah/c po:noun is:masculine
 vrahyňa/U po:noun is:feminine
@@ -178494,7 +178487,7 @@ ZVL po:acronym
 zvlač
 zvlačami
 zvláčať/XN po:verb
-zvlače/Q
+zvlače/Q po:noun is:feminine
 zvlačí
 zvlačiach
 zvlačiam
