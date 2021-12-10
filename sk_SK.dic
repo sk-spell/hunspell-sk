@@ -26067,7 +26067,7 @@ faksimilný/YN po:adjective
 faksimilový/Y po:adjective
 fakt/B po:noun is:masculine
 faktickosť/K po:noun is:feminine
-fakticky
+fakticky po:adverb
 faktický/YN po:adjective
 faktmi
 faktografia/U po:noun is:feminine
@@ -26077,7 +26077,7 @@ faktor/B po:noun is:masculine
 faktoriál/B po:noun is:masculine
 faktoriálny/Y po:adjective
 faktoring
-Faktorová/Y po:adjective
+faktorový/Y po:adjective
 Faktorove
 faktorovej
 Faktorovi
@@ -26089,7 +26089,7 @@ faktový/Y po:adjective
 faktúr
 faktúra/zZ po:noun is:feminine
 fakturácia/U po:noun is:feminine
-fakturačne
+fakturačne po:adverb
 fakturačný/YN po:adjective
 faktúrach
 faktúram
@@ -26097,14 +26097,14 @@ fakturant/C po:noun is:masculine
 fakturantka/zZ po:noun is:feminine
 fakturantov/Y po:adjective
 fakturovanie/VN po:noun is:neuter
-faktúrovanie/VN po:noun is:neuter
+refakturovanie/VN po:noun is:neuter
 fakturovaný/YN po:adjective
-faktúrovaný/YN po:adjective
+refakturovaný/YN po:adjective
 fakturovať/WN po:verb
-faktúrovať/WN po:verb
-faktúrovo
+refakturovať/WN po:verb
 faktúrový/YN po:adjective
-fakula
+fakula/zZ po:noun is:feminine
+fakulový/YN po:adjective
 fakúlt
 fakulta/zZ po:noun is:feminine
 fakultatívnosť/K po:noun is:feminine
@@ -119495,10 +119495,10 @@ reglementy
 regolit
 regradácia
 regredient
-regres
+regres/B po:noun is:masculine
 regresát
 regrese
-regresia
+regresia/U po:noun is:feminine
 regresie
 regresiu
 regresívnosť/K po:noun is:feminine
@@ -119524,16 +119524,15 @@ regulačno
 regulačný/YN po:adjective
 regulách
 regulám
-regulárne/YN po:adjective
+regulárne po:adverb
 regulárnosť/K po:noun is:feminine
 regulárny/YN po:adjective
-regulatív
-Regulatíve
+regulatív/B po:noun is:masculine
 regulatívmi
-regulatívne
+regulatívne po:adverb
 regulatívnej
 regulatívnou
-regulatívny
+regulatívny/YN po:adjective
 regulatívnych
 regulatívnym
 regulatívnymi
@@ -119545,7 +119544,7 @@ regulatívy
 regulátnosť/K po:noun is:feminine
 regulátor/B po:noun is:masculine
 regulí
-regulovane
+regulovane po:adverb
 regulovanie/VN po:noun is:neuter
 regulovaný/YN po:adjective
 regulovať/WN po:verb
@@ -131192,7 +131191,6 @@ smriečok/O po:noun is:masculine
 smrkať/EN po:verb
 smrknúť/WN
 smrknutý/YN po:adjective
-Smrkom
 smršť/D po:noun is:feminine
 smrť/K po:noun is:feminine
 smrteľne/YN po:adjective
@@ -131203,43 +131201,39 @@ smrteľnosť/K po:noun is:feminine
 smrteľnosť/KN po:noun is:feminine
 smrteľný/YN po:adjective
 smrtiaci/YN po:adjective
-smrtiek
+smrtiek st:smrtka is:genitive is:plural
 smrtihlav/L po:noun is:masculine
 smrtihlavov/Y po:adjective
 smrtka/zZ po:noun is:feminine
-smrtkiným
+smrtkin/Y po:adjective
 smrtnosť/K po:noun is:feminine
 smrtný/YN po:adjective
 smrtonosný/YN po:adjective
-sms
 SMS po:acronym
 smtp
 smú/N
 smúc
 smud
 smudiť
-smútiaci
+smútiaci/YN  po:adjective
 smútievať/XN po:verb
 smútiť/XN po:verb
-smutne/YN po:adjective
+smutne po:adverb
 smutnieť/XN po:verb
-smutno
-smutnohru
+smutno po:adverb
+smutnohra/zZ po:noun is:feminine
 smutný/YN po:adjective
 smútočne/YN po:adjective
 smútočný/YN po:adjective
 smútok/O po:noun is:masculine
-smuty
 smyk/B po:noun is:masculine
 Smýkal
 Smýkala
 smykovanie/VN po:noun is:neuter
 smykovať/WN po:verb
-Smyrne
+Smyrna/z po:noun is:feminine
 SN po:acronym
-snáď
-snadno
-snadný/YN po:adjective
+snáď po:participle
 snaha/zZ po:noun is:feminine
 snách
 snajper
