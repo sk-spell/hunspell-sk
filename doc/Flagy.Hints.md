@@ -74,6 +74,9 @@ Zoradené podľa slovných druhov. Slúži len na rýchlu orientáciu, po doplne
 
     č - číslovky - -násobný (stonásobný, dvojnásobný…)
 
+## NOSUGGEST
+    ř - slovo s príznakom NOSUGGEST nebude medzi návrhmi (napríklad vulgárne alebo obscénne slová)
+
 # Tipy
 
 ## aspell funkcie

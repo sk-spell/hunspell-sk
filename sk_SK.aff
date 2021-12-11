@@ -5,6 +5,9 @@ LANG sk
 KEY qwertzuiopúä|asdfghjklô§ň|yxcvbnm,.-|;+ľščťžýáíé=
 TRY aoeintsvrlkmdpuhjzácbyčžíšýúťéľôďgfňäóŕxĺwěřqůAOEINTSVRLKMDPUHJZÁCBYČŽÍŠÝÚŤÉĽÔĎGFŇÄÓŔXĹWĚŘQŮ
 
+# don't suggest word with NOSUGGEST flag (for example vulgar or obscene words)
+NOSUGGEST ř
+
 # replacenment table for
 # - multicharacter suggestions
 # - well-sorted suggestions
