@@ -1,4 +1,4 @@
-179998
+179946
 á
 Á
 à
@@ -1594,8 +1594,8 @@ alegorickosť/K po:noun is:feminine
 alegoricky po:adverb
 alegorický/YN po:adjective
 alegorizácia/U po:noun is:feminine
-alegorizačný/U po:noun is:feminine
-alegorizovať/YN po:adjective
+alegorizačný/YN po:adjective
+alegorizovať/WN po:verb
 aleja/U po:noun is:feminine
 alejach
 alejam
@@ -15249,11 +15249,11 @@ decénium/M po:noun is:neuter
 decentne
 decentnosť/K po:noun is:feminine
 decentný/YN po:adjective
-decentralisticky
+decentralisticky po:adverb
 decentralizácia/U po:noun is:feminine
 decentralizačný/Y po:adjective
-decentralizmus
-decentralizovane
+decentralizmus/B po:noun is:masculine
+decentralizovane po:adverb
 decentralizovaný/YN po:adjective
 decentralizovať/WN po:verb
 decepcia
@@ -15987,6 +15987,8 @@ démotický/YN po:adjective
 demotivácia
 demotivovať/WN po:verb
 demultiplexor
+demystifikácia/U po:noun is:feminine
+demystifikovať/WN po:verb
 deň/J po:noun is:masculine
 denacifikácia/U po:noun is:feminine
 denacifikačný/YN po:adjective
@@ -26077,12 +26079,9 @@ faktor/B po:noun is:masculine
 faktoriál/B po:noun is:masculine
 faktoriálny/Y po:adjective
 faktoring
-faktorový/Y po:adjective
 Faktorove
-faktorovej
 Faktorovi
-faktorových
-Faktorovými
+faktorový/Y po:adjective
 faktotum
 faktovo
 faktový/Y po:adjective
@@ -26097,11 +26096,8 @@ fakturant/C po:noun is:masculine
 fakturantka/zZ po:noun is:feminine
 fakturantov/Y po:adjective
 fakturovanie/VN po:noun is:neuter
-refakturovanie/VN po:noun is:neuter
 fakturovaný/YN po:adjective
-refakturovaný/YN po:adjective
 fakturovať/WN po:verb
-refakturovať/WN po:verb
 faktúrový/YN po:adjective
 fakula/zZ po:noun is:feminine
 fakulový/YN po:adjective
@@ -62928,7 +62924,7 @@ mysticky po:adverb
 mystický/YN po:adjective
 mystička/zZ po:noun is:feminine
 mystifikácia/U po:noun is:feminine
-Mystifikátori
+mystifikátor/C po:noun is:masculine
 mystifikovanie/VN po:noun is:neuter
 mystifikovať/WN po:verb
 mystik/C po:noun is:masculine
@@ -94139,33 +94135,21 @@ Pančuchársky
 pančuchový/YN po:adjective
 pančuška/zZ po:noun is:feminine
 pančuškový/YN po:adjective
-panda
-Panda
+panda/zZ po:noun is:feminine
 pandán
 pandántiv
-Pande
-pandémia
-pandemicky
+pandémia/U po:noun is:feminine
+pandemicky po:adverb
 pandemický/YN po:adjective
-pandémie
-pandémii
-pandémiou
-pandémiu
 pandemónium
 pandermit
 pandit
-pandora
-Pandora
-Pandorina
-Pandorinej
-Pandorinou
-Pandorinu
+pandora/Z
+Pandorin/Y po:adjective
 pandrava/zZ po:noun is:feminine
-Pandu
 pandúr/C po:noun is:masculine
 pandúrov/Y po:adjective
 pandúrsky/YN po:adjective
-pandy
 pandž
 pane
 panebože
@@ -94182,27 +94166,17 @@ panelárov/Y po:adjective
 panelček/B po:noun is:masculine
 panele
 panelmi
-panelovo
+panelovo po:adverb
 panelový/Y po:adjective
 panendoskop
 panenka/zZ po:noun is:feminine
 panenskosť/K po:noun is:feminine
-panensky
+panensky po:adverb
 panenský/YN po:adjective
 panenstvo/M po:noun is:neuter
 panenteizmus
 Paneurópa
-paneurópska
-paneurópske
-paneurópskeho
-paneurópskej
-paneurópski
-paneurópskom
-Paneurópskou
-paneurópsku
-paneurópsky
-paneurópskych
-paneurópskym
+paneurópsky/Y po:adjective
 panfóbia
 pangenéza
 pangermanizmus
@@ -94221,7 +94195,7 @@ paniam
 paniami
 panic/C po:noun is:masculine
 panickosť/K po:noun is:feminine
-panicky
+panicky po:adverb
 panický/YN po:adjective
 panicov/Y po:adjective
 panictvo/M po:noun is:neuter
@@ -94330,7 +94304,7 @@ panovnícky/YN po:adjective
 panovníčka/zZ po:noun is:feminine
 panovník/C po:noun is:masculine
 panovníkov/Y po:adjective
-pansky
+pansky po:adverb
 panský/YN po:adjective
 pánsky/YN po:adjective
 pansláv/B po:noun is:masculine
@@ -94384,7 +94358,7 @@ pantomíma/zZ po:noun is:feminine
 pantomímach
 pantomímam
 pantomimici
-pantomimicky
+pantomimicky po:adverb
 pantomimický/YN po:adjective
 pantomimik
 pantomimista
@@ -119320,6 +119294,9 @@ reeskontu
 reeskonty
 reexport
 ref
+refakturovanie/VN po:noun is:neuter
+refakturovaný/YN po:adjective
+refakturovať/WN po:verb
 refál
 refektár
 refektári
@@ -119497,20 +119474,11 @@ regradácia
 regredient
 regres/B po:noun is:masculine
 regresát
-regrese
 regresia/U po:noun is:feminine
-regresie
-regresiu
 regresívnosť/K po:noun is:feminine
 regresívny/YN po:adjective
-regresmi
 regresne
 regresný/YN po:adjective
-regresoch
-regresom
-regresov
-regresu
-regresy
 regrút/C po:noun is:masculine
 regrútov/Y po:adjective
 regrutovanie/VN po:noun is:neuter
@@ -119528,19 +119496,8 @@ regulárne po:adverb
 regulárnosť/K po:noun is:feminine
 regulárny/YN po:adjective
 regulatív/B po:noun is:masculine
-regulatívmi
 regulatívne po:adverb
-regulatívnej
-regulatívnou
 regulatívny/YN po:adjective
-regulatívnych
-regulatívnym
-regulatívnymi
-regulatívoch
-regulatívom
-regulatívov
-regulatívu
-regulatívy
 regulátnosť/K po:noun is:feminine
 regulátor/B po:noun is:masculine
 regulí
@@ -179947,25 +179904,24 @@ zžívať/XN po:verb
 žúp
 župa/zZ po:noun is:feminine
 župan/CB po:noun is:masculine
-županka
+županka/zZ po:noun is:feminine
 županov/Y po:adjective
 županový/Y po:adjective
 županský/YN po:adjective
 županstvo/M po:noun is:neuter
 Župčany/Q
-Župina
-Župinu
-Župkov
+Župina/z po:noun is:feminine
+Župkov/B po:noun is:masculine
+Župkovčan/c po:noun is:masculine
+Župkovčanka/zZ po:noun is:feminine
+župkovskýYN po:adjective
 župný/YN po:adjective
 žúr/B po:noun is:masculine
-žurčať
-žúriť
-žúrka
-žurkotať
-žurn
+žurčať/RN po:verb
+žúrka/zZ po:noun is:feminine
 žurnál/B po:noun is:masculine
 žurnalista/H po:noun is:masculine
-žurnalisticky
+žurnalisticky po: adverb
 žurnalistický/YN po:adjective
 žurnalistika/zZ po:noun is:feminine
 žurnalistka/zZ po:noun is:feminine
@@ -179974,9 +179930,7 @@ zžívať/XN po:verb
 žurnálmi
 žurnálový/YN po:adjective
 žuť/WN
-žutie
-žutím
-žuto
+žutie/V po:noun is:neuter
 žutý/YN po:adjective
 žuvací/I po:adjective
 žuvačka/zZ po:noun is:feminine
@@ -179987,7 +179941,7 @@ zžívať/XN po:verb
 žuvať/WN
 žúžoľ/J po:noun is:masculine
 žúžoľový/YN po:adjective
-žužu
+žužu po:noun is:neuter
 žvacheľ
 žviakať/XN po:verb
 žžonka/zZ po:noun is:feminine
