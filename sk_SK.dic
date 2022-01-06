@@ -1,4 +1,4 @@
-179946
+179902
 á
 Á
 à
@@ -19357,8 +19357,8 @@ doliať/XN po:verb
 doliatie
 doličný/YN po:adjective
 dolie
-doliečená
 doliečenie/V po:noun is:neuter
+doliečený/Y po:adjective
 doliečiť/XN po:verb
 doliečovanie/VN po:noun is:neuter
 doliečovať/WN po:verb
@@ -19400,26 +19400,14 @@ dolniakov/Y po:adjective
 dolník/C po:noun is:masculine
 dolníkov/Y po:adjective
 dolníky
-dolnodunajské
-dolnodunajskej
-dolnodunajských
-dolnodunajským
-Dolnohámorskí
+dolnodunajský/Y po:adjective
+dolnohámorský/Y po:adjective
 dolnohričovský/Y po:adjective
-dolnokubínska
-dolnokubínske
-Dolnokubínskeho
-dolnokubínskej
-dolnokubínskemu
-dolnokubínski
-Dolnokubínskom
-dolnokubínsku
-Dolnokubínsky
-dolnokubínskym
-dolnoliptovské
+dolnokubínsky/Y po:adjective
+dolnoliptovský/Y po:adjective
 dolnolopašovský/Y po:adjective
 dolnolužický/YN po:adjective
-Dolnonemecky
+dolnonemecky po:adverb
 dolnonemecký/YN po:adjective
 dolnooravskom
 dolnooravských
@@ -19427,8 +19415,8 @@ dolnorakúsky/YN po:adjective
 Dolnorakúšan/c po:noun is:masculine
 Dolnorakúšanka/zZ po:noun is:feminine
 Dolnorakúšanov/Y po:adjective
-dolnosaské
-dolnosasky
+dolnosasky po:adverb
+dolnosaský/Y po:adjective
 dolnosliezskej
 Dolnosúčan/c po:noun is:masculine
 Dolnosúčanka/zZ po:noun is:feminine
@@ -19501,15 +19489,11 @@ doménam
 Domeník
 domenovaný/YN po:adjective
 doménový/Y po:adjective
-domerajú
-domerali
 domeraná
 domerané
-domerania
-domeranie
+domeranie/VN po:noun is:neuter
 domeraných
-domerať
-Domeriame
+domerať/TN po:verb
 domeriavajú
 domeriavanie/V po:noun is:neuter
 domeriavať
@@ -19570,17 +19554,14 @@ domky
 domlátiť/XN po:verb
 domliaždiť/XN po:verb
 domlieť/RN po:verb
-domnele
-domnelo
+domnele po:adverb
+domnelo po:adverb
 domnelý/YN po:adjective
 domnenie/V po:noun is:neuter
 domnienka/zZ po:noun is:feminine
 domnievať/XN po:verb
 domobrán
-domobrana/z po:noun is:feminine
-domobranách
-domobranám
-domobranami
+domobrana/zZ po:noun is:feminine
 domobrancov/Y po:adjective
 domobranec/C po:noun is:masculine
 domobranecký/Y po:adjective
@@ -19591,10 +19572,9 @@ domontovanie/VN po:noun is:neuter
 domordovať/WN po:verb
 domorodcov/Y po:adjective
 domorodec/C po:noun is:masculine
-domorodka
-Domorodky
+domorodka/zZ po:noun is:feminine
 domorodkyňa/U po:noun is:feminine
-domorodo
+domorodo po:adverb
 domorodý/YN po:adjective
 domotaný/YN po:adjective
 domotať/ETN
@@ -57453,33 +57433,27 @@ mascarpone
 maselnica/U po:noun is:feminine
 maselnička/zZ po:noun is:feminine
 maselný/YN po:adjective
-maser/C po:noun is:masculine
+maser/b po:noun is:masculine
 masér/C po:noun is:masculine
 masera
-maseri
+maseri st:maser is:singular is:locative 
 masérka/zZ po:noun is:feminine
-masermi
-maseroch
-maserom
-maserov
 masérov/Y po:adjective
 masérsky/YN po:adjective
-maseru
 maseruský/YN po:adjective
-masery
 masielko/M po:noun is:neuter
-masielok
+masielok st:masielko is:plural is:genitive
 Masini
 masírovanie/VN po:noun is:neuter
 masírovaný/YN po:adjective
 masírovať/WN po:verb
 masív/B po:noun is:masculine
-masíve
+masíve po:adverb
 masívnosť/K po:noun is:feminine
 masívny/YN po:adjective
 maska/zZ po:noun is:feminine
 maskáče/q po:noun is:masculine
-maskara
+maskara/zZ po:noun is:feminine
 maskarón
 Maskat
 maskatský/YN po:adjective
@@ -57490,19 +57464,9 @@ maskérsky/YN po:adjective
 maskérstvach
 maskérstvam
 maskérstvo/M po:noun is:neuter
-maskot/B po:noun is:masculine
-maskota
-maskoti
-maskotmi
-maskotovi
-maskovací
-maskovacia
-maskovacie
-maskovacích
-maskovacím
-maskovaciu
-maskovacou
-maskovane
+maskot/C po:noun is:masculine
+maskovací/I po:adjective
+maskovane po:adverb
 maskovanie/VN po:noun is:neuter
 maskovaný/YN po:adjective
 maskovať/WN po:verb
@@ -57510,8 +57474,8 @@ maskový/YN po:adjective
 maskulín
 maskulínach
 maskulínam
-maskulinita
-maskulinizácia
+maskulinita/zZ po:noun is:feminine
+maskulinizácia/U po:noun is:feminin
 maskulínum/M po:noun is:neuter
 maslan/B po:noun is:masculine
 masliačik/B po:noun is:masculine
@@ -57526,7 +57490,7 @@ masliarstvam
 masliarstvo/M po:noun is:neuter
 maslo/M po:noun is:neuter
 maslovka/zZ po:noun is:feminine
-maslovo
+maslovo po:adverb
 maslový/YN po:adjective
 masmediálny/YN po:adjective
 masmédium/M po:noun is:neuter
@@ -110549,6 +110513,8 @@ preliaty
 preliatych
 preliatym
 prelíčenie/V po:noun is:neuter
+preliečený/Y po:adjective
+preliečiť/XN po:verb
 preliepať/XN po:verb
 prelietanie/V po:noun is:neuter
 prelietať/XN po:verb
@@ -122716,6 +122682,8 @@ rozmarne/YN po:adjective
 rozmárniť
 rozmarnosť/K po:noun is:feminine
 rozmarný/YN po:adjective
+rozmasírovanie/VN po:noun is:neuter
+rozmasírovať/WN po:verb
 rozmávať
 rozmazane/YN po:adjective
 rozmazanie/V po:noun is:neuter
@@ -133986,7 +133954,7 @@ spúnsky
 spupne/YN po:adjective
 spupnosť/K po:noun is:feminine
 spupný/YN po:adjective
-spurne
+spurne pod:adverb
 spurno
 spurnosť/K po:noun is:feminine
 spurný/YN po:adjective
@@ -134001,8 +133969,7 @@ spustite
 spustiteľný/Y po:adjective
 spustlý/YN po:adjective
 spustnúť/WN
-spustnutie
-spustnutiu
+spustnutie/V po:noun is:neuter
 spustnuto
 spustnutosť/K po:noun is:feminine
 spustnutý/YN po:adjective
@@ -134033,11 +134000,10 @@ sputnávanie/V po:noun is:neuter
 sputnávať/XN po:verb
 sputnik/B po:noun is:masculine
 sputnikový/YN po:adjective
-sputum
-spútum
+spútum/M po:noun is:neuter
 spyšnieť/XN po:verb
 spýtať/XN po:verb
-spýtavo
+spýtavo po:adverb
 spýtavý/YN po:adjective
 spytovanie/VN po:noun is:neuter
 spytovaný/YN po:adjective
@@ -134045,11 +134011,10 @@ spytovať/WN po:verb
 spyware
 spzvučný/YN po:adjective
 SQL po:acronym
-square
 squash
 squaw
 SR po:acronym
-sráč
+sráč/C po:noun is:masculine
 sračka/zZ po:noun is:feminine
 sraľo/c po:noun is:masculine
 sraľov/Y po:adjective
@@ -134058,22 +134023,14 @@ srandovný/YN po:adjective
 sráž
 srb
 Srb/C po:noun is:masculine
-srbčín
-srbčina/z po:noun is:feminine
-srbčinách
-srbčinám
-srbčinami
+srbčina/zZ po:noun is:feminine
 Srbka/zZ po:noun is:feminine
-srbochorvátčin
 srbochorvátčina/z po:noun is:feminine
-srbochorvátčinách
-srbochorvátčinám
-srbochorvátčinami
 srbochorvátsky/YN po:adjective
 Srbov/Y po:adjective
 Srbová/Y po:adjective
 Srbsko/M po:noun is:neuter
-srbsky
+srbsky po:adverb
 srbský/YN po:adjective
 srd/B po:noun is:masculine
 srďa
@@ -134081,7 +134038,7 @@ srdce/S po:noun is:neuter
 srdcelomne
 srdcelomný/YN po:adjective
 srdcervúci/YN po:adjective
-srdcervúco
+srdcervúco po:adverb
 srdciami
 srdciar/C po:noun is:masculine
 srdciarov/Y po:adjective
@@ -170241,22 +170198,21 @@ zarastite
 zarátanie/VN po:noun is:neuter
 zarátaný/YN po:adjective
 zarátať/XN po:verb
+zarátavať/XN po:verb
 zaratovať/WN po:verb
 zaratúvanie/V po:noun is:neuter
 zaratúvaný/YN po:adjective
 zaratúvať/XN po:verb
-záraz
-zarazene/YN po:adjective
+zarazene po:adverb
 zarazenie/V po:noun is:neuter
-zarazeno
+zarazeno po:adverb
 zarazenosť/K po:noun is:feminine
 zarazený/YN po:adjective
 zaraziť/EN po:verb
 zarážajúci/YN po:adjective
 zarážať/XN po:verb
-záražec
+záražec/L po:noun is:masculine
 zarážka/zZ po:noun is:feminine
-zarbyniť
 zareagovanie/VN po:noun is:neuter
 zareagovaný/YN po:adjective
 zareagovať/WN po:verb
@@ -170290,7 +170246,7 @@ zarezonovať/WN po:verb
 zárezový/YN po:adjective
 zárežec/J po:noun is:masculine
 zariad
-zariadene
+zariadene po:adverb
 zariadenie/V po:noun is:neuter
 zariadený/YN po:adjective
 zariadiť/XN po:verb
