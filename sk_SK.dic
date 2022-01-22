@@ -7144,24 +7144,24 @@ bezúročný/YN po:adjective
 bezúspešne
 bezúspešnosť/K po:noun is:feminine
 bezúspešný/YN po:adjective
-bezútešne
+bezútešne po:adverb
 bezútešnosť/K po:noun is:feminine
 bezútešný/Y po:adjective
-bezuzdne
+bezuzdne po:adverb
 bezuzdnosť/K po:noun is:feminine
 bezuzdný/YN po:adjective
-bezvadne
+bezvadne po:adverb
 bezvadný/YN po:adjective
 bezváhový/YN po:adjective
 bezvedomie/V po:noun is:neuter
 bezvedomý/YN po:adjective
 bezvercov/Y po:adjective
 bezverec/C po:noun is:masculine
-bezverectvo
+bezverectvo po:adverb
 bezveternosť/K po:noun is:feminine
 bezveterný/YN po:adjective
 bezvetrie/V po:noun is:neuter
-bezvízovo
+bezvízovo po:adverb
 bezvízový/Y po:adjective
 bezvládie/V po:noun is:neuter
 bezvládnosť/K po:noun is:feminine
@@ -7169,36 +7169,36 @@ bezvládny/YN po:adjective
 bezvlasý/YN po:adjective
 bezvodný/YN po:adjective
 bezvodý/YN po:adjective
-bezvýhľadne
+bezvýhľadne po:adverb
 bezvýhľadnosť/K po:noun is:feminine
 bezvýhľadný/Y po:adjective
 bezvýhľadný/YN po:adjective
-bezvýhradne
+bezvýhradne po:adverb
 bezvýhradnosť/K po:noun is:feminine
 bezvýhradný/YN po:adjective
-bezvýchodiskovo
+bezvýchodiskovo po:adverb
 bezvýchodiskovosť/K po:noun is:feminine
 bezvýchodiskový/YN po:adjective
-bezvýchodne
+bezvýchodne po:adverb
 bezvýchodnosť/K po:noun is:feminine
 bezvýchodný/YN po:adjective
-bezvýnimočne
+bezvýnimočne po:adverb
 bezvýnimočnosť/K po:noun is:feminine
 bezvýnimočný/YN po:adjective
-bezvýrazne
+bezvýrazne po:adverb
 bezvýraznosť/K po:noun is:feminine
 bezvýrazný/YN po:adjective
-bezvýsledne
+bezvýsledne po:adverb
 bezvýslednosť/K po:noun is:feminine
 bezvýsledný/YN po:adjective
-bezvýznamne
+bezvýznamne po:adverb
 bezvýznamnosť/K po:noun is:feminine
 bezvýznamný/YN po:adjective
-bezzákladne
+bezzákladne po:adverb
 bezzákladný/YN po:adjective
 bezzákonnosť/K po:noun is:feminine
 bezzákonný/YN po:adjective
-bezzásadovo
+bezzásadovo po:adverb
 bezzásadovosť/K po:noun is:feminine
 bezzásadový/YN po:adjective
 bezzemka
@@ -32963,7 +32963,7 @@ hnedkavý/YN po:adjective
 hnedky
 hnednúť/WN
 hnednutie
-hnedo
+hnedo po:adverb
 hnedočervený/Y po:adjective
 hnedočervený/YN po:adjective
 hnedo-červený/YN po:adjective
