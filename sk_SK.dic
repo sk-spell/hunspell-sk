@@ -12313,6 +12313,7 @@ countryový/Y po:adjective
 countyový/YN po:adjective
 cousin
 cousine
+covid
 CP po:acronym
 CPAN
 CPU po:acronym
@@ -87755,7 +87756,7 @@ odteraz
 odterigať
 odtiahnú
 odtiahnuť/WN
-odtiahnutá
+odtiahnutý/YN po:adjective
 odtiahnuté
 odtiahnutého
 odtiahnutí
@@ -95105,6 +95106,7 @@ pasportoch
 pasportom
 pasportov
 pasporty
+pass
 passim
 Passionara
 passionato
@@ -119965,12 +119967,8 @@ resolvens
 resorbens
 resorbovať/WN po:verb
 resorpcia
-resp
-respektíve
-respektívne
-respirácia
-respirácie
-respirácii
+respektíve po:particle
+respirácia/U po:noun is:feminine
 respiračný/YN po:adjective
 respirátor/B po:noun is:masculine
 respíriách
@@ -119990,12 +119988,7 @@ restovaný/YN po:adjective
 restovať/WN po:verb
 resumé
 résumé
-resuscitácia
-Resuscitácia
-resuscitácie
-resuscitácii
-resuscitáciou
-resuscitáciu
+resuscitácia/U po:noun is:feminine
 resuscitačno
 resuscitačný/YN po:adjective
 resuscitátor
@@ -120230,7 +120223,7 @@ revízorov/Y po:adjective
 revízorský/YN po:adjective
 revme
 revnivosť/K po:noun is:feminine
-revokácia
+revokácia/U po:noun is:feminine
 revokácie
 revokácii
 revokáciou
@@ -120269,7 +120262,7 @@ revúca
 Revúcach
 Revúce
 revúcej
-revúci
+revúci/YN po:adjective
 revúcim
 revúcimi
 revúcka
@@ -120339,7 +120332,7 @@ rezervovaný/YN po:adjective
 rezervovať/WN po:verb
 rezidencia/U po:noun is:feminine
 rezidenčný/YN po:adjective
-rezident
+rezident/C po:noun is:masculine
 rezidenta
 rezidenti
 rezidentmi
