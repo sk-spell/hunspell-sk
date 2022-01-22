@@ -19446,7 +19446,7 @@ doložený/YN po:adjective
 doložiť/EN po:verb
 doložka/zZ po:noun is:feminine
 dolunižšie
-Dolupodpísaný/YN po:adjective
+dolupodpísaný/YN po:adjective
 dolus
 doluznačky
 dom/B po:noun is:masculine
@@ -45092,7 +45092,7 @@ kľučkovať/WN po:verb
 kľúčny/Y po:adjective
 Kľúčovec
 kľúčovo
-Kľúčovská
+kľúčovský/YN po:adjective
 kľúčový/Y po:adjective
 kľúčový/YN po:adjective
 kľud/B po:noun is:masculine
@@ -65401,7 +65401,7 @@ napodobni
 napodobnime
 napodobniť/EN po:verb
 napodobnite
-napodobniteľ
+napodobniteľ/c po:noun is:masculine
 napodobniteľný/YN po:adjective
 napodobňovanie/VN po:noun is:neuter
 napodobňovaný/YN po:adjective
@@ -65409,36 +65409,34 @@ napodobňovať/WN po:verb
 napodobňovateľ/c po:noun is:masculine
 napodobňovateľka/zZ po:noun is:feminine
 napodobňovateľov/Y po:adjective
-napodobňujúci
+napodobňujúci/Y po:adjective
 napodobovanie/VN po:noun is:neuter
 napodobovať/WN po:verb
 napodobovateľ/c po:noun is:masculine
 napodobovateľka/zZ po:noun is:feminine
 napodobovateľov/Y po:adjective
-nápodobu
-nápodoby
-napohľad
-napochytre
-napochytro
+napohľad po:adverb
+napochytre po:adverb
+napochytro po:adverb
 nápoj/J po:noun is:masculine
-napojacej
 napojenie/V po:noun is:neuter
 napojený/YN po:adjective
 napojiť/EN po:verb
 napojovať/WN po:verb
 nápojový/YN po:adjective
-napokon
+napokon po:adverb
+napokon po:particle
 Napoleon/c po:noun is:masculine
 Napoleonov/Y po:adjective
 napoleonský/YN po:adjective
 napolitánka/zZ po:noun is:feminine
 napolitánkový/YN po:adjective
-napolo
-napoludnie
-napoly
+napolo po:adverb
+napoludnie po:adverb
+napoly po:adverb
 napomádovaný/YN po:adjective
 napomáhajúce
-napomáhajúci
+napomáhajúci/YN po:adjective
 napomáhanie/V po:noun is:neuter
 napomáhaný/Y po:adjective
 napomáhaný/YN po:adjective
@@ -81948,21 +81946,20 @@ niekdy
 niekedy
 niekoho
 niekoľko/č
-niekoľkocentimetrový/YN po:adjective
-niekoľkočlenný/YN po:adjective
-niekoľkodenný/YN po:adjective
-niekoľkodielny/YN po:adjective
-niekoľkodňový/YN po:adjective
-niekoľkofázový/YN po:adjective
-niekoľkohodinový/YN po:adjective
-niekoľkokilometrový/YN po:adjective
+niekoľkocentimetrový/Y po:adjective
+niekoľkočlenný/Y po:adjective
+niekoľkodenný/Y po:adjective
+niekoľkodielny/Y po:adjective
+niekoľkodňový/Y po:adjective
+niekoľkofázový/Y po:adjective
+niekoľkohodinový/Y po:adjective
+niekoľkokilometrový/Y po:adjective
 niekoľkokrát
 niekoľkomesačný/Y po:adjective
-niekoľkomesačný/YN po:adjective
-niekoľkometrový/YN po:adjective
-niekoľkomiestnymi
-niekoľkomiliónový/YN po:adjective
-niekoľkominútový/YN po:adjective
+niekoľkometrový/Y po:adjective
+niekoľkomiestny/Y po:adjective
+niekoľkomiliónový/Y po:adjective
+niekoľkominútový/Y po:adjective
 niekoľkonásobkami
 niekoľkonásobkoch
 niekoľkonásobkom
@@ -81976,30 +81973,29 @@ niekoľkorako
 niekoľkorakosť/K po:noun is:feminine
 niekoľkoraký/YN po:adjective
 niekoľkoráz
-niekoľkoriadkový/YN po:adjective
-niekoľkoročný/YN po:adjective
-niekoľkoslovný/YN po:adjective
-niekoľkostoročná
+niekoľkoriadkový/Y po:adjective
+niekoľkoročný/Y po:adjective
+niekoľkoslovný/Y po:adjective
+niekoľkostoročný/Y po:adjective
 niekoľkostoročnej
 niekoľkostoročnou
 niekoľkostoročnými
-niekoľkostránkový/YN po:adjective
-niekoľkostranový/YN po:adjective
-niekoľkostupňový/YN po:adjective
+niekoľkostránkový/Y po:adjective
+niekoľkostranový/Y po:adjective
+niekoľkostupňový/Y po:adjective
 niekoľkotisícový/Y po:adjective
-niekoľkotisícový/YN po:adjective
-niekoľkotisícročnú
+niekoľkotisícročný/Y po:adjective
 niekoľkotónový/YN po:adjective
-niekoľkotýždenný/YN po:adjective
-niekoľkotýždňový/YN po:adjective
-niekoľkozväzkový/YN po:adjective
+niekoľkotýždenný/Y po:adjective
+niekoľkotýždňový/Y po:adjective
+niekoľkozväzkový/Y po:adjective
 niekoľký/Y po:adjective
 niekoľkýkrát
 niekom
 niekomu
 niekt
 niekto
-niektorý/YN po:adjective
+niektorý/Y po:adjective
 niekym
 niekým
 nielen po:conjunction
@@ -87658,7 +87654,7 @@ odsudzovaný/YN po:adjective
 odsudzovať/WN po:verb
 odsudzujúce
 odsudzujúci
-odsúhlasenie/V po:noun is:neuter
+odsúhlasenie/VN po:noun is:neuter
 odsúhlasený/Y po:adjective
 odsúhlasený/YN po:adjective
 odsúhlasiť/EN po:verb
@@ -137432,7 +137428,7 @@ súkromnoprávnej
 súkromnoprávnemu
 súkromnoprávnou
 súkromnoprávnu
-súkromnoprávny
+súkromnoprávny/YN po:adjective
 súkromnoprávnych
 súkromnoprávnym
 súkromnoprávnymi
@@ -138902,7 +138898,7 @@ syntetickosť/K po:noun is:feminine
 synteticky
 syntetický/Y po:adjective
 syntetický/YN po:adjective
-syntetizácie
+syntetizácia/U po:noun is:feminine
 syntetizátor/B po:noun is:masculine
 syntetizovať/WN po:verb
 syntetizujúca
@@ -141025,7 +141021,7 @@ SZTK po:acronym
 šľachovitý/YN po:adjective
 šľachový/YN po:adjective
 šľácht
-šľachta/z po:noun is:feminine
+šľachta/zZ po:noun is:feminine
 šľachtách
 šľachtám
 šľachtami
