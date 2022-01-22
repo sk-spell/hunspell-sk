@@ -1,4 +1,4 @@
-179902
+179663
 á
 Á
 à
@@ -927,7 +927,7 @@ agresorov/Y po:adjective
 agresorský/YN po:adjective
 agrikultúra/zZ po:noun is:feminine
 agrikultúrny
-agrobiológ
+agrobiológ/c po:noun is:masculine
 agrobiológia/U po:noun is:feminine
 agrobiologický/YN po:adjective
 agrobiologička
@@ -951,7 +951,7 @@ agrochémiu
 agrokombinát
 agrokomplex/B po:noun is:masculine
 agrokybernetika
-agrológ
+agrológ/c po:noun is:masculine
 agrológia
 agrometeorológia
 agrometeorologických
@@ -1101,7 +1101,7 @@ akantóm
 akantóza
 akapnia
 akarinóza
-akarológ
+akarológ/c po:noun is:masculine
 akarológia
 akási
 akatafázia
@@ -1214,7 +1214,7 @@ akoazma
 akoby po:conjunction
 akokoľvek
 akoláda
-akológ
+akológ/c po:noun is:masculine
 akológia
 akomak
 akomik
@@ -2078,7 +2078,8 @@ ambícia/U po:noun is:feminine
 ambicióznosť/K po:noun is:feminine
 ambiciózny/YN po:adjective
 ambidextria
-ambient
+ambient/J po:noun is:masculine
+ambientný/YN po:adjective
 ambiguita
 ambiofónia
 ambiopia
@@ -5591,11 +5592,10 @@ balného
 balnému
 balneo
 balneografia
-balneológ
+balneológ/c po:noun is:masculine
 balneológia/U po:noun is:feminine
 Balneologicky
 balneologický/YN po:adjective
-balneológov
 balneotechnika
 balneotechnikov
 balneotechniky
@@ -15379,10 +15379,8 @@ defenzívny/Y po:adjective
 defenzor
 deferalizovaný/YN po:adjective
 deferenciačne
-deferenciačný/Y po:adjective
-deferenciálna
-deferenciálne
-deferenciálny
+deferenciačný/YN po:adjective
+deferenciálny/YN po:adjecti
 deferenčne
 deferenčný/Y po:adjective
 deferent
@@ -15397,7 +15395,7 @@ defibrilátormi
 defibrilátorov
 defibrilátory
 deficiencia
-deficient
+deficient/c po:noun is:masculine
 deficit/B po:noun is:masculine
 deficitmi
 deficitne
@@ -15595,7 +15593,7 @@ dekagram/B po:noun is:masculine
 dekagramový/Y po:adjective
 dekalcifikácia
 dekalo
-dekalóg
+dekalóg/c po:noun is:masculine
 dekameron/B po:noun is:masculine
 dekameter
 dekan/C po:noun is:masculine
@@ -16010,7 +16008,7 @@ denaturovať/WN po:verb
 dendácia/U po:noun is:feminine
 dendrit
 dendrolit
-dendrológ
+dendrológ/c po:noun is:masculine
 dendrológia/U po:noun is:feminine
 dendrologický/YN po:adjective
 dendrometria
@@ -16244,19 +16242,14 @@ dermálny/YN po:adjective
 dermatitída/zZ po:noun is:feminine
 dermatoglyfika
 dermatoid
-dermatológ
+dermatológ/c po:noun is:masculine
 dermatológia/U po:noun is:feminine
 dermatologický/YN po:adjective
-dermatológmi
-dermatológov
-dermatológovia
 dermatomykóza/zZ po:noun is:feminine
 dermatoplastika
-dermatovenerológ
+dermatovenerológ/c po:noun is:masculine
 dermatovenerológia
 dermatovenerológii
-dermatovenerológov
-dermatovenerológovia
 dermatóza
 dermatózami
 dermatozoonóza
@@ -17101,7 +17094,7 @@ diabetik/C po:noun is:masculine
 diabetikov/Y po:adjective
 diabetmi
 diabetoch
-diabetológ
+diabetológ/c po:noun is:masculine
 diabetológia
 diabetom
 diabetov
@@ -17448,7 +17441,7 @@ dietkastý/YN po:adjective
 dietky
 diétny/Y po:adjective
 dietok
-dietológ
+dietológ/c po:noun is:masculine
 dietológia
 diev
 dievča/A po:noun is:neuter
@@ -32382,7 +32375,7 @@ histogenéza
 histografia
 histografii
 histogram/B po:noun is:masculine
-histológ
+histológ/c po:noun is:masculine
 histológia/U po:noun is:feminine
 histologický/YN po:adjective
 histolýza
@@ -33594,7 +33587,7 @@ homokarpia
 Homola
 homoľa/U po:noun is:feminine
 homolí
-homológ
+homológ/c po:noun is:masculine
 homologácia
 homológia/U po:noun is:feminine
 homologický/YN po:adjective
@@ -35490,7 +35483,7 @@ hydroagregátov
 hydroalternátor
 hydroalternátorov
 hydroavión
-hydrobiológ
+hydrobiológ/c po:noun is:masculine
 hydrobiológia/U po:noun is:feminine
 hydrobiologický/YN po:adjective
 hydrobiont
@@ -38547,7 +38540,7 @@ infekčne
 infekčnosť/K po:noun is:feminine
 infekčný/Y po:adjective
 infekt
-infektológ
+infektológ/c po:noun is:masculine
 infektológia
 infektológie
 infektológii
@@ -38873,7 +38866,7 @@ insekticíd/B po:noun is:masculine
 insekticídny/YN po:adjective
 insekticídy/YN po:adjective
 insektivora
-insektológ
+insektológ/c po:noun is:masculine
 insektológia
 inseminácia/U po:noun is:feminine
 inseminačný/YN po:adjective
@@ -39290,7 +39283,7 @@ intervalový/YN po:adjective
 intervencia/U po:noun is:feminine
 intervenčne
 intervenčný/YN po:adjective
-intervenient
+intervenient/c po:noun is:masculine
 intervenovanie/VN po:noun is:neuter
 intervenovaný/YN po:adjective
 intervenovať/WN po:verb
@@ -49387,7 +49380,7 @@ kriminálnička/zZ po:noun is:feminine
 kriminálnik/C po:noun is:masculine
 kriminálnikov/Y po:adjective
 kriminálny/YN po:adjective
-kriminológ
+kriminológ/c po:noun is:masculine
 kriminológia
 kriminologická
 kriminologické
@@ -49395,8 +49388,6 @@ kriminologickej
 kriminológie
 kriminológii
 kriminológiu
-kriminológov
-kriminológovia
 krimiseriál/B po:noun is:masculine
 krimiseriálmi
 krinolína/zZ po:noun is:feminine
@@ -52299,7 +52290,7 @@ laryngitídach
 laryngitídam
 laryngofaryngitída
 laryngofón
-laryngológ
+laryngológ/c po:noun is:masculine
 laryngológia
 laryngotómia
 larynx
@@ -56250,7 +56241,7 @@ malapropizmus
 malária/U po:noun is:feminine
 malarický/YN po:adjective
 malarik
-maláriológ
+maláriológ/c po:noun is:masculine
 maláriológia
 maláriový/YN po:adjective
 Málaš
@@ -59136,7 +59127,7 @@ metodistické
 metodistickej
 metodistov/Y po:adjective
 Metodka
-metodológ
+metodológ/c po:noun is:masculine
 metodológia/U po:noun is:feminine
 metodologicky
 metodologický/YN po:adjective
@@ -61635,7 +61626,7 @@ morfínu
 morfiový/YN po:adjective
 morfium/M po:noun is:neuter
 morfogenéza
-morfológ
+morfológ/c po:noun is:masculine
 morfológia/U po:noun is:feminine
 morfologicky
 morfologický/YN po:adjective
@@ -62794,7 +62785,7 @@ myringotómia
 myriofilum
 myrmekogamia
 myrmekochória
-myrmekológ
+myrmekológ/c po:noun is:masculine
 myrmekológia
 mýrt
 myrta/zZ po:noun is:feminine
@@ -65375,7 +65366,6 @@ napolo po:adverb
 napoludnie po:adverb
 napoly po:adverb
 napomádovaný/YN po:adjective
-napomáhajúce
 napomáhajúci/YN po:adjective
 napomáhanie/V po:noun is:neuter
 napomáhaný/YN po:adjective
@@ -72158,7 +72148,7 @@ neonacistka
 neonacistov/Y po:adjective
 neonacizmus/B po:noun is:masculine
 neonatálny/Y po:adjective
-neonatológ
+neonatológ/c po:noun is:masculine
 neonatológia
 neondi
 neondiac
@@ -77585,7 +77575,7 @@ neurodermatitída
 neurodermitída
 neuroendokrinológia
 neurofibróm
-neurofyziológ
+neurofyziológ/c po:noun is:masculine
 neurofyziológia
 neurohormón
 neurochémia
@@ -81913,9 +81903,6 @@ niekoľkoriadkový/Y po:adjective
 niekoľkoročný/Y po:adjective
 niekoľkoslovný/Y po:adjective
 niekoľkostoročný/Y po:adjective
-niekoľkostoročnej
-niekoľkostoročnou
-niekoľkostoročnými
 niekoľkostránkový/Y po:adjective
 niekoľkostranový/Y po:adjective
 niekoľkostupňový/Y po:adjective
@@ -84977,7 +84964,7 @@ oceanita
 oceánograf
 oceánografia
 oceánografický/YN po:adjective
-oceánológ
+oceánológ/c po:noun is:masculine
 oceánológia
 oceánsky/YN po:adjective
 ocecnenia
@@ -88297,12 +88284,9 @@ oftalmia
 oftalmitída
 oftalmodynamometer
 oftalmochirurgia
-oftalmológ
+oftalmológ/c po:noun is:masculine
 oftalmológia
 oftalmologický/YN po:adjective
-oftalmológom
-oftalmológov
-oftalmológovia
 oftalmoplégia
 oftalmoskop
 oftalmoskopia
@@ -90986,11 +90970,9 @@ ornica/U po:noun is:feminine
 ornitín
 ornitogamia
 ornitochoria
-ornitológ
-ornitológa
+ornitológ/c po:noun is:masculine
 ornitológia/U po:noun is:feminine
 ornitologický/YN po:adjective
-ornitológov
 ornitóza
 orný/YN po:adjective
 oročka
@@ -92591,7 +92573,7 @@ otočka/zZ po:noun is:feminine
 otočne/YN po:adjective
 otočný/YN po:adjective
 otofón
-otolaryngológ
+otolaryngológ/c po:noun is:masculine
 otolaryngológia
 otolit
 otolitiáza
@@ -92608,7 +92590,7 @@ otoneuralgia
 otopexia
 otoragia
 otorea
-otorinolaryngológ
+otorinolaryngológ/c po:noun is:masculine
 otorinolaryngológia
 otoskleróza
 otoskop
@@ -93700,7 +93682,7 @@ pálenkový/YN po:adjective
 pálený/YN po:adjective
 paleoantropológia
 paleoarktický/YN po:adjective
-paleobiológ
+paleobiológ/c po:noun is:masculine
 paleobiológia
 paleobotanik
 paleobotanika
@@ -93732,7 +93714,7 @@ Paleozoické
 paleozoickým
 paleozoikom
 paleozoikum
-paleozoológ
+paleozoológ/c po:noun is:masculine
 paleozoológia
 palermský/Y po:adjective
 Palestína/zZ po:noun is:feminine
@@ -95314,7 +95296,7 @@ patitul
 patizón/B po:noun is:masculine
 patmi
 patofóbia
-patofyziológ
+patofyziológ/c po:noun is:masculine
 patofyziológia
 patofyziológiou
 patogén
@@ -96143,7 +96125,7 @@ pediment
 pedipálp st:pedipalpy is:genitive is:plural
 pedipalpy/Q po:noun is:feminine
 pedkér
-pedobiológ
+pedobiológ/c po:noun is:masculine
 pedobiológia
 pedofil/C po:noun is:masculine
 pedofília/U po:noun is:feminine
@@ -96161,7 +96143,7 @@ pedológov/Y po:adjective
 pedometer
 pedometria
 pedopatológia
-pedopsychológ
+pedopsychológ/c po:noun is:masculine
 pedopsychológia
 pedosféra
 pedum
@@ -98584,13 +98566,13 @@ plieniteľov
 plienka/zZ po:noun is:feminine
 plienkový/YN po:adjective
 plienočka/zZ po:noun is:feminine
-pliensbach
-plient
+pliensbach/J
+plient st:plenta is:plural is:genitive
 plieseň/D po:noun is:feminine
 plieskanica
 plieskanie/V po:noun is:neuter
 plieskať/XN po:verb
-plieskavá
+plieskavýYN po:adjective
 pliesko/M po:noun is:neuter
 pliesok
 pliesť/RN po:verb
@@ -98989,7 +98971,7 @@ pneumokokové
 pneumokokovým
 pneumokonióza
 pneumolitiáza
-pneumológ
+pneumológ/c po:noun is:masculine
 pneumológia
 pneumónia/U po:noun is:feminine
 pneumonitída
@@ -117024,7 +117006,7 @@ psychoanalýzam
 psychodráma
 psychofarmakológia
 psychofarmakum
-psychofyziológ
+psychofyziológ/c po:noun is:masculine
 psychofyziológia
 psychogénia
 psychohygiena
@@ -117046,7 +117028,7 @@ psychopaticky
 psychopatický/YN po:adjective
 psychopatička
 psychopatka/zZ po:noun is:feminine
-psychopatológ
+psychopatológ/c po:noun is:masculine
 psychopatológia
 psychopatov/Y po:adjective
 psychopédia
@@ -117934,7 +117916,7 @@ rádioamatérstvo/M po:noun is:neuter
 rádioaparát
 rádioastronóm
 rádioastronómia
-rádiobiológ
+rádiobiológ/c po:noun is:masculine
 rádiobiológia
 rádiodiagnostika
 rádioekológia
@@ -118988,15 +118970,12 @@ recidivita
 recidívny/YN po:adjective
 recidivovať/WN po:verb
 recifívny
-recipient
-recipienta
+recipient/c po:noun is:masculine
 recipienti
-recipientmi
-recipientom
-recipientov
-Recipientovi
+recipientka/zZ po:noun is:feminine
+recipientový/YN po:adjective
+recipientsky po:adverb
 recipovanie/VN po:noun is:neuter
-Recipovanie/VN po:noun is:neuter
 recipovať/WN po:verb
 reciprocita/zZ po:noun is:feminine
 recipročne/YN po:adjective
@@ -119332,7 +119311,7 @@ reglementu
 reglementy
 regolit
 regradácia
-regredient
+regredient/c po:noun is:masculine
 regres/B po:noun is:masculine
 regresát
 regresia/U po:noun is:feminine
@@ -120187,7 +120166,7 @@ reumatička/zZ po:noun is:feminine
 reumatik/C po:noun is:masculine
 reumatikov/Y po:adjective
 reumatizmus/B po:noun is:masculine
-reumatológ
+reumatológ/c po:noun is:masculine
 reumatológia
 rev/B po:noun is:masculine
 réva
@@ -123710,9 +123689,7 @@ rozstrúc
 rozstup/B po:noun is:masculine
 rozstúpiť/XN po:verb
 rozstupovať/WN po:verb
-rozsúdené
 rozsúdenie/V po:noun is:neuter
-rozsúdenú
 rozsúdený/YN po:adjective
 rozsúdiť/XN po:verb
 rozsudkový/YN po:adjective
@@ -127208,7 +127185,7 @@ sémantika/zZ po:noun is:feminine
 sémantikov/Y po:adjective
 sémantizácia
 sematiologický/YN po:adjective
-semaziológ
+semaziológ/c po:noun is:masculine
 sémaziológia
 semaziológia/U po:noun is:feminine
 semaziologický/YN po:adjective
@@ -127535,7 +127512,7 @@ serióznosť/K po:noun is:feminine
 seriózny/YN po:adjective
 sermon
 sérodiagnostika
-sérológ
+sérológ/c po:noun is:masculine
 sérológia
 Sérologické
 sérologického
@@ -137286,17 +137263,7 @@ súkromno
 súkromnohospodársky/YN po:adjective
 súkromnokapitalistický/YN po:adjective
 súkromnopodnikateľský/YN po:adjective
-súkromnoprávna
-súkromnoprávne
-súkromnoprávneho
-súkromnoprávnej
-súkromnoprávnemu
-súkromnoprávnou
-súkromnoprávnu
 súkromnoprávny/YN po:adjective
-súkromnoprávnych
-súkromnoprávnym
-súkromnoprávnymi
 súkromnosť/K po:noun is:feminine
 súkromnovlastnícky/YN po:adjective
 súkromný/YN po:adjective
@@ -140874,9 +140841,6 @@ SZTK po:acronym
 šľachový/YN po:adjective
 šľácht
 šľachta/zZ po:noun is:feminine
-šľachtách
-šľachtám
-šľachtami
 šľachtenec/J po:noun is:masculine
 šľachtenie/V po:noun is:neuter
 šľachtený/YN po:adjective
@@ -146881,12 +146845,11 @@ toxigenita
 toxigénny/YN po:adjective
 toxiká
 toxikogenita
-toxikológ
+toxikológ/c po:noun is:masculine
 toxikológia
 toxikologický/YN po:adjective
 toxikológie
 toxikológiu
-toxikológov
 toxikoman/C po:noun is:masculine
 toxikománia/U po:noun is:feminine
 toxikomanka/zZ po:noun is:feminine
@@ -149821,7 +149784,7 @@ typograficky
 typografický/YN po:adjective
 typografka/zZ po:noun is:feminine
 typografov/Y po:adjective
-typológ
+typológ/c po:noun is:masculine
 typológia/U po:noun is:feminine
 typologicky
 typologický/YN po:adjective
@@ -155651,7 +155614,7 @@ venerabilis
 venerabilný/YN po:adjective
 venerický/YN po:adjective
 venerik
-venerológ
+venerológ/c po:noun is:masculine
 venerológia
 venerologické
 venerológie
