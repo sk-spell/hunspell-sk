@@ -1,5 +1,4 @@
-179171
-inovatívnejší/PF po:adjective
+179112
 á
 Á
 à
@@ -34,7 +33,6 @@ abdikovaný/YN po:adjective
 abdikovať/WN po:verb
 abdómen/B po:noun is:masculine
 abdominálny/YN po:adjective
-
 abdov/Y po:adjective
 abdukcia/U po:noun is:feminine
 Abeba/z po:noun is:feminine
@@ -2676,9 +2674,7 @@ anhydrit
 ani po:conjunction
 anibohovi
 Anička/zZ po:noun is:feminine
-Aničke
 Aničkin
-Aničky
 Aniek
 Anien
 anihilácia
@@ -2726,13 +2722,11 @@ anízovka
 anízový/YN po:adjective
 anjel/C po:noun is:masculine
 anjeliček/c po:noun is:masculine
-anjeličkov/Y po:adjective
 anjelička
 anjeličkami
 anjeličkoch
 anjeličkom
-anjeličkov
-anjeličkovi
+anjeličkov/Y po:adjective
 anjeličkovia
 anjeličky
 anjelik/C po:noun is:masculine
@@ -13359,7 +13353,6 @@ CZV po:acronym
 čemera
 čemeri
 Čemerička/zZ po:noun is:feminine
-Čemeričku
 Čenkov
 Čenkovské
 Čenkovských
@@ -15102,12 +15095,9 @@ dažde
 daždi
 dáždiček/B po:noun is:masculine
 dáždička/zZ po:noun is:feminine
-dáždičkami
 dáždičkoch
 dáždičkom
 dáždičkov
-dáždičku
-dáždičky
 dáždik/B po:noun is:masculine
 daždivo
 daždivý/YN po:adjective
@@ -21984,7 +21974,6 @@ dubnícky
 dubnický/YN po:adjective
 dubníckych
 Dubnička/zZ po:noun is:feminine
-Dubničku
 Dubník
 Dubníka
 Dubníku
@@ -23728,8 +23717,6 @@ ekologizácia/U po:noun is:feminine
 ekologizačný/YN po:adjective
 ekológov/Y po:adjective
 ekomonička/zZ po:noun is:feminine
-ekomoničke
-ekomoničky
 ekomorfóza
 ekon
 ekonóm/c po:noun is:masculine
@@ -28248,7 +28235,6 @@ Fricka
 Fricke
 Fricky
 Frička/zZ po:noun is:feminine
-Fričke
 Fričovský/YN po:adjective
 Frídku
 Fridolín
@@ -31073,12 +31059,9 @@ hajenkať
 hájených
 hájiček/B po:noun is:masculine
 hájička/zZ po:noun is:feminine
-hájičkami
 hájičkoch
 hájičkom
 hájičkov
-hájičku
-hájičky
 hájik/B po:noun is:masculine
 hajinkať/EN po:verb
 hájiť/XN po:verb
@@ -38814,6 +38797,7 @@ inovati
 inovatí
 inovatiach
 inovatiam
+inovatívnejší/PF po:adjective
 inovatívny/YN po:adjective
 inovatka
 inovaťou
@@ -43121,13 +43105,9 @@ karí/I po:adjective
 karib
 karibský/YN po:adjective
 karibu
-káričiek
-kárička/zZ po:noun is:feminine
 karička/zZ po:noun is:feminine
-káričke
-káričkou
+kárička/zZ po:noun is:feminine
 karičkový/YN po:adjective
-káričky
 karier
 kariér
 kariéra/zZ po:noun is:feminine
@@ -45742,7 +45722,6 @@ koľajišťu
 koľajnica/U po:noun is:feminine
 koľajnicový/YN po:adjective
 koľajnička/zZ po:noun is:feminine
-koľajničkách
 koľajový/YN po:adjective
 kolamín
 kolaps/B po:noun is:masculine
@@ -46618,9 +46597,6 @@ koncentrák/B po:noun is:masculine
 koncentrát/B po:noun is:masculine
 koncentrátmi
 koncentrátor/B po:noun is:masculine
-koncentrátormi
-koncentrátorov
-koncentrátory
 koncentricky
 koncentrický/YN po:adjective
 koncentrovane
@@ -47090,7 +47066,6 @@ konšpiračný/YN po:adjective
 konšpiratívnosť/K po:noun is:feminine
 konšpiratívny/YN po:adjective
 konšpirátor/C po:noun is:masculine
-Konšpirátori
 konšpirovanie/VN po:noun is:neuter
 konšpirovať/WN po:verb
 konštalácie
@@ -47515,7 +47490,6 @@ kooperatívov
 Kooperatívu
 Kooperatívy
 kooperátor/C po:noun is:masculine
-kooperátorov
 kooperovanie/VN po:noun is:neuter
 kooperovaný/YN po:adjective
 Kooperovaný/YN po:adjective
@@ -49134,8 +49108,6 @@ kremnický/Y po:adjective
 Kremnicou
 Kremnicu
 Kremnička/zZ po:noun is:feminine
-Kremničke
-Kremničky
 kremonky
 krémova
 krémovať/WN po:verb
@@ -50811,12 +50783,9 @@ Kušnírová/Y po:noun is:masculine
 kušte
 kúštiček/B po:noun is:masculine
 kúštička/zZ po:noun is:feminine
-kúštičkami
 kúštičkoch
 kúštičkom
 kúštičkov
-kúštičku
-kúštičky
 kúštik/B po:noun is:masculine
 kút/B po:noun is:masculine
 kuť/WN
@@ -54470,8 +54439,6 @@ Lomnický/YN po:adjective
 Lomnicou
 Lomnicu
 Lomnička/zZ po:noun is:feminine
-Lomničke
-Lomničky
 lomný/YN po:adjective
 lomový/YN po:adjective
 lomoz/B po:noun is:masculine
@@ -61749,7 +61716,6 @@ motorček/B po:noun is:masculine
 motorest/B po:noun is:masculine
 motorestmi
 motorgenerátor/B po:noun is:masculin
-motorgenerátory
 motorickosť/K po:noun is:feminine
 motoricky
 motorický/YN po:adjective
@@ -64185,7 +64151,6 @@ nájach
 najašiť
 najať/TN po:verb
 najatie/V po:noun is:neuter
-najatím
 najatý/YN po:adjective
 najavo
 nájazd/B po:noun is:masculine
@@ -116821,7 +116786,6 @@ PŠC po:acronym
 pšen
 pšenica/U po:noun is:feminine
 pšenička/zZ po:noun is:feminine
-Pšeničku
 pšenično
 pšeničný/YN po:adjective
 pšenný/YN po:adjective
@@ -119305,8 +119269,6 @@ rekuperáciou
 rekuperáciu
 rekuperačný/YN po:adjective
 rekuperátor/B po:noun is:masculine
-rekuperátormi
-rekuperátory
 rekurencia
 rekurentný/YN po:adjective
 rekurz
@@ -127117,10 +127079,6 @@ separátne/YN po:adjective
 separátny/YN po:adjective
 separator
 separátor/B po:noun is:masculine
-separátormi
-separátorov
-separátoru
-separátory
 separé
 separovane
 separovanie/VN po:noun is:neuter
@@ -127969,7 +127927,6 @@ sikatív
 Sikenica
 Sikenice
 Sikenička/zZ po:noun is:feminine
-Sikeničke
 Sikha
 Sikhovia
 Siku
@@ -129795,7 +129752,6 @@ slangy
 Slanická
 Slanickej
 slanička/zZ po:noun is:feminine
-Slaničku
 Slaním
 slanina/zZ po:noun is:feminine
 slaninka/zZ po:noun is:feminine
@@ -141578,9 +141534,6 @@ SZTK po:acronym
 Štiavničianka/zZ po:noun is:feminine
 štiavničiansky/YN po:adjective
 Štiavnička/zZ po:noun is:feminine
-Štiavničkách
-Štiavničke
-Štiavničky
 Štiavnik
 Štiavnika
 Štiavniku
@@ -144671,11 +144624,7 @@ Teplici
 Tepliciach
 Tepliciam
 teplický/YN po:adjective
-Tepličiek
 Teplička/zZ po:noun is:feminine
-Tepličke
-Tepličku
-Tepličky
 teplistý/YN po:adjective
 teplo/M po:noun is:neuter
 teplofikácia
@@ -147045,12 +146994,9 @@ trávnic
 trávnica/U po:noun is:feminine
 trávniček/B po:noun is:masculine
 trávnička/zZ po:noun is:feminine
-trávničkami
 trávničkoch
 trávničkom
 trávničkov
-trávničku
-trávničky
 trávnik/B po:noun is:masculine
 trávnikový/YN po:adjective
 trávny/YN po:adjective
