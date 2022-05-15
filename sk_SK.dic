@@ -1,4 +1,5 @@
 179171
+inovatívnejší/PF po:adjective
 á
 Á
 à
@@ -33,6 +34,7 @@ abdikovaný/YN po:adjective
 abdikovať/WN po:verb
 abdómen/B po:noun is:masculine
 abdominálny/YN po:adjective
+
 abdov/Y po:adjective
 abdukcia/U po:noun is:feminine
 Abeba/z po:noun is:feminine
@@ -930,7 +932,7 @@ agrikultúrny
 agrobiológ/c po:noun is:masculine
 agrobiológia/U po:noun is:feminine
 agrobiologický/YN po:adjective
-agrobiologička
+agrobiologička/zZ po:noun is:feminine
 agrobotanika
 agroekológia
 Agrofóra
@@ -2464,7 +2466,7 @@ Anči
 Ančí
 Ančina
 Ančine
-ančovička
+ančovička/zZ po:noun is:feminine
 ančovka
 Anču
 and
@@ -2673,7 +2675,7 @@ anhydridy
 anhydrit
 ani po:conjunction
 anibohovi
-Anička
+Anička/zZ po:noun is:feminine
 Aničke
 Aničkin
 Aničky
@@ -2724,7 +2726,7 @@ anízovka
 anízový/YN po:adjective
 anjel/C po:noun is:masculine
 anjeliček/c po:noun is:masculine
-anjeličekov/Y po:adjective
+anjeličkov/Y po:adjective
 anjelička
 anjeličkami
 anjeličkoch
@@ -3186,7 +3188,7 @@ Apálska
 apanáž/D po:noun is:feminine
 aparát/B po:noun is:masculine
 aparátmi
-aparátnička
+aparátnička/zZ po:noun is:feminine
 aparátnik/C po:noun is:masculine
 aparátnikov/Y po:adjective
 aparatúr
@@ -4074,7 +4076,7 @@ astáza
 astázia
 asténia/U po:noun is:feminine
 astenický/YN po:adjective
-astenička
+astenička/zZ po:noun is:feminine
 astenik/C po:noun is:masculine
 astenikov/Y po:adjective
 astenopia
@@ -4085,7 +4087,7 @@ astí
 astiem
 astier
 astigmatický/YN po:adjective
-astigmatička
+astigmatička/zZ po:noun is:feminine
 astigmatik
 astigmatizmus/B po:noun is:masculine
 astma/zZ po:noun is:feminine
@@ -5462,7 +5464,7 @@ bakteriológ/c po:noun is:masculine
 bakteriológia/U po:noun is:feminine
 bakteriologicky
 bakteriologický/YN po:adjective
-bakteriologička
+bakteriologička/zZ po:noun is:feminine
 bakteriológov/Y po:adjective
 bakteriolyzín
 bakteriostatický/YN po:adjective
@@ -8281,7 +8283,7 @@ blúz
 blúza/zZ po:noun is:feminine
 blúzach
 blúzam
-blúzička
+blúzička/zZ po:noun is:feminine
 blúzka/zZ po:noun is:feminine
 blúznenie/V po:noun is:neuter
 blúzniaci
@@ -9206,7 +9208,7 @@ bradáčov/Y po:adjective
 Bradáčová/Y po:adjective
 bradatý/Y po:adjective
 bradavica/U po:noun is:feminine
-bradavička
+bradavička/zZ po:noun is:feminine
 bradavičnatosť/K po:noun is:feminine
 bradavičnatý/YN po:adjective
 bradavka/zZ po:noun is:feminine
@@ -9564,7 +9566,7 @@ Brezovici
 Brezovický/YN po:adjective
 Brezovicou
 Brezovicu
-Brezovička
+Brezovička/zZ po:noun is:feminine
 Brezovka
 Brezovo
 brezovská
@@ -10497,7 +10499,7 @@ Burián
 Buriatska
 Buriatskej
 burič/C po:noun is:masculine
-burička
+burička/zZ po:noun is:feminine
 buričov/Y po:adjective
 buričsky
 buričský/YN po:adjective
@@ -11121,7 +11123,7 @@ celiaci
 celiakia
 celibát/B po:noun is:masculine
 celibátmi
-celička
+celička/zZ po:noun is:feminine
 celieť/XN po:verb
 celina/zZ po:noun is:feminine
 celinový/YN po:adjective
@@ -12727,7 +12729,7 @@ cviker/J po:noun is:masculine
 cvikiel
 cvikla/zZ po:noun is:feminine
 cvikli
-cviklička
+cviklička/zZ po:noun is:feminine
 cviklo
 cviklovočervený/Y po:adjective
 cviklový/Y po:adjective
@@ -13356,7 +13358,7 @@ CZV po:acronym
 čemer/B po:noun is:masculine
 čemera
 čemeri
-Čemerička
+Čemerička/zZ po:noun is:feminine
 Čemeričku
 Čenkov
 Čenkovské
@@ -15099,7 +15101,7 @@ dažďami
 dažde
 daždi
 dáždiček/B po:noun is:masculine
-dáždička
+dáždička/zZ po:noun is:feminine
 dáždičkami
 dáždičkoch
 dáždičkom
@@ -16193,7 +16195,7 @@ deputácia/U po:noun is:feminine
 deputát/B po:noun is:masculine
 deputátmi
 deputátnický/YN po:adjective
-deputátnička
+deputátnička/zZ po:noun is:feminine
 deputátnik/C po:noun is:masculine
 deputátnikov/Y po:adjective
 deputátny/YN po:adjective
@@ -17133,7 +17135,7 @@ diag
 diagenéza
 diagnosticky
 diagnostický/Y po:adjective
-diagnostička
+diagnostička/zZ po:noun is:feminine
 diagnostik/C po:noun is:masculine
 diagnostiká
 diagnostika/zZ po:noun is:feminine
@@ -17320,7 +17322,7 @@ dictum
 DIČ po:acronym
 didakticky
 didaktický/Y po:adjective
-didaktička
+didaktička/zZ po:noun is:feminine
 didaktik/C po:noun is:masculine
 didaktika/zZ po:noun is:feminine
 didaktikov/Y po:adjective
@@ -21981,7 +21983,7 @@ Dubnícke
 dubnícky
 dubnický/YN po:adjective
 dubníckych
-Dubnička
+Dubnička/zZ po:noun is:feminine
 Dubničku
 Dubník
 Dubníka
@@ -23725,7 +23727,7 @@ ekologička/zZ po:noun is:feminine
 ekologizácia/U po:noun is:feminine
 ekologizačný/YN po:adjective
 ekológov/Y po:adjective
-ekomonička
+ekomonička/zZ po:noun is:feminine
 ekomoničke
 ekomoničky
 ekomorfóza
@@ -28245,7 +28247,7 @@ frfravý/YN po:adjective
 Fricka
 Fricke
 Fricky
-Frička
+Frička/zZ po:noun is:feminine
 Fričke
 Fričovský/YN po:adjective
 Frídku
@@ -31070,7 +31072,7 @@ hájenie/V po:noun is:neuter
 hajenkať
 hájených
 hájiček/B po:noun is:masculine
-hájička
+hájička/zZ po:noun is:feminine
 hájičkami
 hájičkoch
 hájičkom
@@ -34567,7 +34569,7 @@ hrmiaci
 hrmiacou
 hrmieť/RN po:verb
 hrmoliť/EN po:verb
-hrmonička
+hrmonička/zZ po:noun is:feminine
 hrmoský/YN po:adjective
 hrmot/B po:noun is:masculine
 hrmotajúc
@@ -34865,7 +34867,7 @@ hubica/U po:noun is:feminine
 hubické
 hubickom
 hubicový/YN po:adjective
-Hubička
+Hubička/zZ po:noun is:feminine
 hubičku
 Hubina
 hubiť/EN po:verb
@@ -42135,7 +42137,7 @@ kalibrovať/WN po:verb
 kalibrový/YN po:adjective
 kalič/C po:noun is:masculine
 kaličiť/EN po:verb
-kalička
+kalička/zZ po:noun is:feminine
 kaličov/Y po:adjective
 kaličský/YN po:adjective
 kalif/C po:noun is:masculine
@@ -43120,7 +43122,7 @@ karib
 karibský/YN po:adjective
 karibu
 káričiek
-kárička
+kárička/zZ po:noun is:feminine
 karička/zZ po:noun is:feminine
 káričke
 káričkou
@@ -45307,7 +45309,7 @@ knižničný/YN po:adjective
 knižnosť/K po:noun is:feminine
 knižný/Y po:adjective
 knižočka/zZ po:noun is:feminine
-knižtička
+knižtička/zZ po:noun is:feminine
 knokaut/B po:noun is:masculine
 knokautmi
 knokautovaný/YN po:adjective
@@ -45739,7 +45741,7 @@ koľajišťom
 koľajišťu
 koľajnica/U po:noun is:feminine
 koľajnicový/YN po:adjective
-koľajnička
+koľajnička/zZ po:noun is:feminine
 koľajničkách
 koľajový/YN po:adjective
 kolamín
@@ -47709,7 +47711,7 @@ korbáč/J po:noun is:masculine
 korbáčik/B po:noun is:masculine
 korbáčovať/WN po:verb
 korbáčový/YN po:adjective
-korbička
+korbička/zZ po:noun is:feminine
 Korbin
 Korbini
 Korbinu
@@ -49131,7 +49133,7 @@ Kremnici
 kremnický/Y po:adjective
 Kremnicou
 Kremnicu
-Kremnička
+Kremnička/zZ po:noun is:feminine
 Kremničke
 Kremničky
 kremonky
@@ -49608,7 +49610,7 @@ krokodíly
 krokoit
 krokovať/WN po:verb
 Krokove
-krokovička
+krokovička/zZ po:noun is:feminine
 krokovo
 krokový/YN po:adjective
 krókus/B po:noun is:masculine
@@ -50808,7 +50810,7 @@ kušnier
 Kušnírová/Y po:noun is:masculine
 kušte
 kúštiček/B po:noun is:masculine
-kúštička
+kúštička/zZ po:noun is:feminine
 kúštičkami
 kúštičkoch
 kúštičkom
@@ -52297,7 +52299,7 @@ lastúra/zZ po:noun is:feminine
 lastúrach
 lastúram
 lastúrničiar
-lastúrnička
+lastúrnička/zZ po:noun is:feminine
 lastúrnik/C po:noun is:masculine
 lastúrnikov/Y po:adjective
 lastúrniky
@@ -54020,7 +54022,7 @@ listera
 listeri
 listerióza
 listerový/YN po:adjective
-lístička
+lístička/zZ po:noun is:feminine
 lístie/V po:noun is:neuter
 listina/zZ po:noun is:feminine
 listinný/YN po:adjective
@@ -54286,7 +54288,7 @@ lod
 loď/D po:noun is:feminine
 lodenica/U po:noun is:feminine
 lodenicový/YN po:adjective
-lodenička
+lodenička/zZ po:noun is:feminine
 lodiar/C po:noun is:masculine
 lodiarenský/YN po:adjective
 lodiarní
@@ -54467,7 +54469,7 @@ Lomnici
 Lomnický/YN po:adjective
 Lomnicou
 Lomnicu
-Lomnička
+Lomnička/zZ po:noun is:feminine
 Lomničke
 Lomničky
 lomný/YN po:adjective
@@ -64182,7 +64184,7 @@ najáda
 nájach
 najašiť
 najať/TN po:verb
-najatie
+najatie/V po:noun is:neuter
 najatím
 najatý/YN po:adjective
 najavo
@@ -64204,7 +64206,6 @@ nájdene
 nájdenec/C po:noun is:masculine
 nájdenie/V po:noun is:neuter
 nájdený/YN po:adjective
-najdierovanie/VN po:noun is:neuter
 nájduc
 najdúch/C po:noun is:masculine
 najdúchov/Y po:adjective
@@ -83298,7 +83299,7 @@ obetovať/WN po:verb
 obetujúci/YN po:adjective
 obetúvať/XN po:verb
 obezita/zZ po:noun is:feminine
-obezlička
+obezlička/zZ po:noun is:feminine
 obézny/YN po:adjective
 obežív
 obeživo/M po:noun is:neuter
@@ -86253,7 +86254,7 @@ odľúvať
 odmagnetizovač
 odmáhať
 odmala
-odmalička
+odmalička po:adverb
 odmaľovanie/VN po:noun is:neuter
 odmaľovaný/YN po:adjective
 odmaľovať/WN po:verb
@@ -88760,7 +88761,7 @@ okcident
 okcidentál
 okefovať/WN po:verb
 okenica/U po:noun is:feminine
-okenička
+okenička/zZ po:noun is:feminine
 okenit
 okenný/YN po:adjective
 oker/J po:noun is:masculine
@@ -89360,7 +89361,7 @@ olupovanie/VN po:noun is:neuter
 olupovať/WN po:verb
 oľutovanie/VN po:noun is:neuter
 oľutovať/WN po:verb
-olymionička
+olymionička/zZ po:noun is:feminine
 olymp
 Olymp/B po:noun is:masculine
 Olympia/U po:noun is:feminine
@@ -96416,7 +96417,7 @@ perforačný/YN po:adjective
 perforátor/B po:noun is:masculine
 performancia
 perforovač
-perforovačka
+perforovačka/zZ po:noun is:feminine
 perforovanie/VN po:noun is:neuter
 perforovaný/YN po:adjective
 perforovať/WN po:verb
@@ -97732,7 +97733,7 @@ plachát
 pláchať/XN po:verb
 Plachetka
 plachetnica/U po:noun is:feminine
-plachetnička
+plachetnička/zZ po:noun is:feminine
 plachiet
 plachietka/zZ po:noun is:feminine
 placho
@@ -116781,7 +116782,7 @@ psychopat/C po:noun is:masculine
 psychopatia/U po:noun is:feminine
 psychopaticky
 psychopatický/YN po:adjective
-psychopatička
+psychopatička/zZ po:noun is:feminine
 psychopatka/zZ po:noun is:feminine
 psychopatológ/c po:noun is:masculine
 psychopatológia
@@ -116819,7 +116820,7 @@ psychrometer
 PŠC po:acronym
 pšen
 pšenica/U po:noun is:feminine
-Pšenička
+pšenička/zZ po:noun is:feminine
 Pšeničku
 pšenično
 pšeničný/YN po:adjective
@@ -117709,7 +117710,7 @@ rádioliečob
 rádiológ/c po:noun is:masculine
 rádiológia/U po:noun is:feminine
 rádiologický/YN po:adjective
-rádiologička
+rádiologička/zZ po:noun is:feminine
 rádiológov/Y po:adjective
 rádiolokácia/U po:noun is:feminine
 rádiolokačne
@@ -117826,7 +117827,7 @@ radok/O po:noun is:masculine
 Radola
 Radoma
 Radome
-rádomechanička
+rádomechanička/zZ po:noun is:feminine
 Radomil
 Radomila
 Radomilom
@@ -119687,7 +119688,7 @@ reptanie/V po:noun is:neuter
 reptať/ETN
 reptavý/YN po:adjective
 reptílie
-Republička
+republička/zZ po:noun is:feminine
 republika/zZ po:noun is:feminine
 republikán/C po:noun is:masculine
 republikánka
@@ -120860,7 +120861,6 @@ roľníctvam
 roľníctvo/M po:noun is:neuter
 roľníčenia
 roľníčiť/XN po:verb
-rolnička
 roľníčka/zZ po:noun is:feminine
 rolničkami
 roľník/C po:noun is:masculine
@@ -127968,7 +127968,7 @@ síkať/XN po:verb
 sikatív
 Sikenica
 Sikenice
-Sikenička
+Sikenička/zZ po:noun is:feminine
 Sikeničke
 Sikha
 Sikhovia
@@ -129794,7 +129794,7 @@ slangu
 slangy
 Slanická
 Slanickej
-slanička
+slanička/zZ po:noun is:feminine
 Slaničku
 Slaním
 slanina/zZ po:noun is:feminine
@@ -136176,7 +136176,6 @@ STS po:acronym
 stsl
 stu
 STU po:acronym
-stucnička
 stučnieť/XN po:verb
 stud/B po:noun is:masculine
 studena
@@ -137561,7 +137560,6 @@ svätica/U po:noun is:feminine
 svätievať/XN po:verb
 svätiť/EN po:verb
 svätnica
-svätnička
 sväto
 svätodušný/YN po:adjective
 svätojánsky/YN po:adjective
@@ -137849,7 +137847,6 @@ Svidnícky
 svidníckych
 svidníckym
 svidníckymi
-Svidnička
 Svidník
 Svidníka
 Svidníkom
@@ -140988,7 +140985,7 @@ SZTK po:acronym
 šperk/B po:noun is:masculine
 šperkami
 šperkovnica/U po:noun is:feminine
-šperkovnička
+šperkovnička/zZ po:noun is:feminine
 šperkový/YN po:adjective
 Špeta
 špetej
@@ -141580,7 +141577,7 @@ SZTK po:acronym
 Štiavničanov/Y po:adjective
 Štiavničianka/zZ po:noun is:feminine
 štiavničiansky/YN po:adjective
-Štiavnička
+Štiavnička/zZ po:noun is:feminine
 Štiavničkách
 Štiavničke
 Štiavničky
@@ -144122,7 +144119,7 @@ tehotnosť/K po:noun is:feminine
 tehotný/YN po:adjective
 tech
 techa
-techička
+techička/zZ po:noun is:feminine
 technécium
 technicko
 technickoadministratívne
@@ -144675,7 +144672,7 @@ Tepliciach
 Tepliciam
 teplický/YN po:adjective
 Tepličiek
-Teplička
+Teplička/zZ po:noun is:feminine
 Tepličke
 Tepličku
 Tepličky
@@ -147047,8 +147044,7 @@ trávnatý/YN po:adjective
 trávnic
 trávnica/U po:noun is:feminine
 trávniček/B po:noun is:masculine
-trávnička
-Trávnička
+trávnička/zZ po:noun is:feminine
 trávničkami
 trávničkoch
 trávničkom
@@ -148371,14 +148367,14 @@ troskotá
 troskotajú
 troskotať
 troskový/YN po:adjective
-trošička
-trošíčka
-trošičku
-trošíčku
-trošilinka
-trošilinku
-trošinka
-trošinku
+trošička po:adverb
+trošíčka po:adverb
+trošičku po:adverb
+trošíčku po:adverb
+trošilinka po:adverb
+trošilinku po:adverb
+trošinka po:adverb
+trošinku po:adverb
 troška/zZ po:noun is:feminine
 troškár
 troškáriť
@@ -149145,7 +149141,6 @@ tutúkať
 tutulus
 tutvetit
 Tuvalu
-tuvička
 tuvon
 túz/B po:noun is:masculine
 túza
@@ -158218,11 +158213,11 @@ vrešťte
 vrešťúň
 vretenica/U po:noun is:feminine
 vreteničí/I po:adjective
-Vretenička
+vretenička/zZ po:noun is:feminine
 vretenný/YN po:adjective
 vreteno/M po:noun is:neuter
-vretenovite
-vretenovito
+vretenovite po:adverb
+vretenovito po:adverb
 vretenovitý/YN po:adjective
 vretenový/YN po:adjective
 vretien
