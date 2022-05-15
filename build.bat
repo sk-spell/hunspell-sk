@@ -10,7 +10,7 @@ SET sed="C:\Program Files\Git\usr\bin\sed.exe"
 SET sort="C:\Program Files\Git\usr\bin\sort.exe"
 SET grep="C:\Program Files\Git\usr\bin\grep.exe"
 SET dos2unix="C:\Program Files\Git\usr\bin\dos2unix.exe"
-SET hunspell="F:\Project-Personal\sk-spell\devel\hunspell\msvc\Release\hunspell\hunspell.exe"
+SET hunspell="F:\Projects\Personal\sk-spell\devel\hunspell\msvc\Release\hunspell\hunspell.exe"
 
 IF NOT EXIST Backups (MKDIR Backups)
 
