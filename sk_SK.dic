@@ -1,4 +1,4 @@
-179070
+178986
 á
 Á
 à
@@ -203,7 +203,7 @@ abstinencia/U po:noun is:feminine
 abstinenčný/YN po:adjective
 abstinent/C po:noun is:masculine
 abstinentka/zZ po:noun is:feminine
-abstinentný
+abstinentný/YN po:adjective
 abstinentov/Y po:adjective
 abstinentský/YN po:adjective
 abstinovanie/VN po:noun is:neuter
@@ -6839,41 +6839,40 @@ betónovaný/YN po:adjective
 betónovať/WN po:verb
 betónovo
 betónový/YN po:adjective
-Betuša
+Betuša/z po:noun is:feminine
 bétyl
 bez po:preposition is:genitive
 bezalkoholický/YN po:adjective
-bezatomový/YN po:adjective
 bezatómový/YN po:adjective
-bezbariérovo
+bezbariérovo po:adverb
 bezbariérovosť/K po:noun is:feminine
 bezbariérový/YN po:adjective
-bezbolestne
+bezbolestne po:adverb
 bezbolestnosť/K po:noun is:feminine
 bezbolestný/YN po:adjective
-bezbožne
-bezbožnícky
+bezbožne po:adverb
+bezbožnícky/Y po:adjective
 bezbožník/C po:noun is:masculine
 bezbožníkov/Y po:adjective
 bezbožnosť/K po:noun is:feminine
 bezbožný/YN po:adjective
-bezbranne
+bezbranne po:adverb
 bezbrannosť/K po:noun is:feminine
 bezbranný/YN po:adjective
-bezbreho
+bezbreho po:adverb
 bezbrehosť/K po:noun is:feminine
 bezbrehý/YN po:adjective
 bezcennosť/K po:noun is:feminine
 bezcenný/YN po:adjective
 bezcieľnosť/K po:noun is:feminine
 bezcieľny/YN po:adjective
-bezcitne
-bezcitník
+bezcitne po:adverb
+bezcitník/C po:noun is:masculine
 bezcitnosť/K po:noun is:feminine
 bezcitný/YN po:adjective
-bezcolne
+bezcolne po:adverb
 bezcolný/Y po:adjective
-bezčíselným
+bezčíselný/Y po:adjective
 bezdaždivý/YN po:adjective
 bezdetnosť/K po:noun is:feminine
 bezdetný/YN po:adjective
@@ -6884,74 +6883,74 @@ bezdomovec/C po:noun is:masculine
 bezdomovecký/YN po:adjective
 bezdomovectvo/M po:noun is:neuter
 bezdomovkyňa/U po:noun is:feminine
-bezdomovo
+bezdomovo po:adverb
 bezdomovský/YN po:adjective
 bezdomovstvo/M po:noun is:neuter
 bezdomový/YN po:adjective
 bezdotykový/Y po:adjective
-bezdôvodne
+bezdôvodne po:adverb
 bezdôvodnosť/K po:noun is:feminine
 bezdôvodný/YN po:adjective
 bezdrevný/YN po:adjective
-bezdrôtovo
+bezdrôtovo po:adverb
 bezdrôtový/YN po:adjective
-bezducho
+bezducho po:adverb
 bezduchosť/K po:noun is:feminine
 bezduchý/YN po:adjective
 bezdušový/YN po:adjective
 bezemšon
 bezfarbý/YN po:adjective
-bezfarebne
+bezfarebne po:adverb
 bezfarebnosť/K po:noun is:feminine
 bezfarebný/YN po:adjective
 bezforemný/YN po:adjective
-bezhlasne
+bezhlasne po:adverb
 bezhlasný/YN po:adjective
 bezhlasý/YN po:adjective
-bezhlavo
+bezhlavo po:adverb
 bezhlavosť/K po:noun is:feminine
 bezhlavý/YN po:adjective
 bezhlučný/YN po:adjective
-bezhotovostne
+bezhotovostne po:adverb
 bezhotovostný/YN po:adjective
-bezhranične
+bezhranične po:adverb
 bezhraničnosť/K po:noun is:feminine
 bezhraničný/YN po:adjective
-bezhrmotne
+bezhrmotne po:adverb
 bezhrmotný/YN po:adjective
-bezhviezdnej
-bezcharakterne
+bezhviezdny/YN po:adjective
+bezcharakterne po:adverb
 bezcharakternosť/K po:noun is:feminine
 bezcharakterný/YN po:adjective
 bezcholesterolový/YN po:adjective
 bezchvostý/YN po:adjective
-bezchybne
+bezchybne po:adverb
 bezchybnosť/K po:noun is:feminine
 bezchybný/YN po:adjective
-bezideovo
+bezideovo po:adverb
 bezideovosť/K po:noun is:feminine
 bezideový/YN po:adjective
 bezjadrový/YN po:adjective
 bezkofeinový/Y po:adjective
 bezkonečný/YN po:adjective
+bezkonfliktne po:adverb
 bezkonfliktnosť/K po:noun is:feminine
-bezkonfliktovo
 bezkonfliktovosť/K po:noun is:feminine
 bezkonfliktový/YN po:adjective
-bezkonkurenčne
+bezkonkurenčne po:adverb
 bezkonkurenčný/YN po:adjective
 bezkontaktný/Y po:adjective
 bezkoristný/YN po:adjective
 bezkrídly/YN po:adjective
 bezkrký/YN po:adjective
-bezkrvne
+bezkrvne po:adverb
 bezkrvnosť/K po:noun is:feminine
 bezkrvný/YN po:adjective
 bezkvetý/YN po:adjective
 bezlepkový/Y po:adjective
 bezletový/YN po:adjective
 bezlistý/YN po:adjective
-bezmajetný
+bezmajetný/YN po:adjective
 bezmála
 bezmäsitý/YN po:adjective
 bezmäsý/Y po:adjective
@@ -7707,10 +7706,7 @@ bisexualita/zZ po:noun is:feminine
 bisexuálnosť/K po:noun is:feminine
 bisexuálny/YN po:adjective
 biskup/C po:noun is:masculine
-biskupická
-Biskupické
-Biskupického
-biskupickej
+biskupický/Y po:adjective
 biskupov/Y po:adjective
 Biskupová/Y po:adjective
 biskupský/YN po:adjective
@@ -7719,15 +7715,8 @@ biskvit/B po:noun is:masculine
 biskvitový/Y po:adjective
 Bissau
 bistier
-bistra
-bistrá
-bistrách
-bistrám
-bistrami
-bistre
-bistro
-bistrom
-bistru
+bistro/M po:noun is:neuter
+bistrý/Y po:adjective
 bisťu
 bisťubohu
 bisťudade
@@ -7827,8 +7816,7 @@ blahobytne
 blahobytný/YN po:adjective
 blahodajný/YN po:adjective
 blahodárna
-blahodarne
-blahodárne
+blahodarne po:adverb
 blahodárnej
 blahodarnosť/K po:noun is:feminine
 blahodarný/YN po:adjective
@@ -20735,6 +20723,7 @@ dovtedajší/I po:adjective
 dovtedy
 dovtípiť/XN po:verb
 dovy
+dovyberať/EN po:verb
 dovyli
 dovysoka
 down
@@ -41229,15 +41218,7 @@ Jičín
 Jičína
 Jičíne
 Jičínom
-jičínska
-jičínskeho
-jičínskej
-jičínski
-jičínskom
-jičínskou
-Jičínsku
-jičínsky
-Jičínskym
+jičínsky/YN po:adjective
 Jičínu
 jidiš
 Jihlava/zZ po:noun is:feminine
@@ -41387,19 +41368,8 @@ Jordáni
 Jordánka
 Jordánke
 Jordánom
-jordánska
-jordánske
-jordánskeho
-jordánskej
-jordánski
 Jordánsko/M po:noun is:neuter
-jordánskom
-jordánskou
-jordánsku
-jordánsky
-jordánskych
-jordánskym
-jordánskymi
+jordánsky/YN po:adjective
 Jordánu
 jot
 jota/z po:noun is:feminine
@@ -53151,6 +53121,7 @@ Levanta
 Levante
 levantín
 levantským
+Leváre/Q
 levárskeho
 leve
 level
@@ -65952,8 +65923,8 @@ naspať
 naspäť
 naspi
 naspí
-naspievané
 naspievanie/V po:noun is:neuter
+naspievaný/YN po:adjective
 naspievať/XN po:verb
 naspodku po:preposition is:genitive
 naspodok
@@ -72678,7 +72649,6 @@ nepočeštime
 nepočeštite
 nepočetnosť/K po:noun is:feminine
 nepočkania
-nepočum
 nepočuteľne
 nepočuteľnosť/K po:noun is:feminine
 nepočuto
@@ -76094,10 +76064,12 @@ nesplyniem
 nesplynieme
 nesplynieš
 nesplyniete
-nespočetne
+nespočetne po:adverb
 nespočetnekrát
+nespočetný/Y po:adjective
 nespočítateľne
 nespočítateľnosť/K po:noun is:feminine
+nespočítateľný/Y po:adjective
 nespodobni
 nespodobnime
 nespodobnite
@@ -77742,9 +77714,6 @@ nevápnite
 nevar
 nevarte
 neváženie/V po:noun is:neuter
-nevädnúce
-nevädnúci
-nevädnúcu
 nevädza/U po:noun is:feminine
 nevädzí
 nevädzovo
@@ -83116,7 +83085,6 @@ občina/zZ po:noun is:feminine
 občuť
 obďaleč
 obdar
-obdarený/N
 obdarený/YN po:adjective
 obdariť/EN po:verb
 obdarovane
@@ -87254,7 +87222,7 @@ odspia
 odspiac
 odspieval
 odspievanie/V po:noun is:neuter
-odspievaných
+odspievaný/YN po:adjective
 odspievať
 odspím
 odspime
@@ -91571,8 +91539,7 @@ ospevovanie/VN po:noun is:neuter
 ospevovaný/YN po:adjective
 ospevovať/WN po:verb
 ospi
-ospievanou
-ospievanú
+ospievaný/YN po:adjective
 ospievať/XN po:verb
 ospovedal
 ospravedlnenie/V po:noun is:neuter
@@ -111423,8 +111390,7 @@ prespevovať/WN po:verb
 prespevúvať
 prespi
 prespieva
-prespievaná
-prespievané
+prespievaný/YN po:adjective
 prespime
 prespite
 press
@@ -114538,12 +114504,10 @@ prísnosť/K po:noun is:feminine
 prísny/YN po:adjective
 prisoliť/EN po:verb
 prisoľovať/WN po:verb
-prisp
 prispájkovať/WN po:verb
 prispali
 prispalo
-prispania
-prispanie
+prispanie/V po:noun is:neuter
 prispať
 prispenie/V po:noun is:neuter
 prispetie
@@ -114553,9 +114517,8 @@ príspevok/O po:noun is:masculine
 prispí
 príspieť
 prispieť/WN
-prispievaného
-prispievanej
 prispievanie/V po:noun is:neuter
+prispievaný/YN po:adjective
 prispievať/XN po:verb
 prispievateľ/c po:noun is:masculine
 prispievateľka/zZ po:noun is:feminine
@@ -121625,12 +121588,9 @@ rozhodovanie/VN po:noun is:neuter
 rozhodovaný/YN po:adjective
 rozhodovať/WN po:verb
 rozhodujúci/YN po:adjective
-rozhodujúco
+rozhodujúco po:adver
 rozhody
-Rozhojdané
-rozhojdanej
-rozhojdaní
-rozhojdanú
+rozhojdaný/YN po:adjective
 rozhojdať/EN po:verb
 rozhojdávať/XN po:verb
 rozhojnenie/V po:noun is:neuter
@@ -132258,7 +132218,6 @@ splývavosť/K po:noun is:feminine
 splývavý/YN po:adjective
 spĺznuť
 SPN po:acronym
-spočetný/YN po:adjective
 spočiatku
 spočin
 spočinok
@@ -148026,11 +147985,7 @@ trojdielnosť/K po:noun is:feminine
 trojdielny/YN po:adjective
 trojdimenzionálny/Y po:adjective
 trojdňový/YN po:adjective
-trojdohoda
-trojdohode
-trojdohodou
-trojdohodu
-trojdohody
+trojdohoda/zz po:noun is:feminine
 troje
 Tróje
 trojetážovú
@@ -148108,9 +148063,7 @@ trojpočetný/YN po:adjective
 trojpodlažný/YN po:adjective
 trojpólový/YN po:adjective
 trojposchodový/YN po:adjective
-trojposteľovej
-trojposteľových
-trojposteľovými
+trojposteľový/YN po:adjective
 trojramennú
 trojriadkový/YN po:adjective
 trojročnice
@@ -148121,20 +148074,11 @@ trojrohý/YN po:adjective
 trojrozmerne
 trojrozmernosť/K po:noun is:feminine
 trojrozmerný/YN po:adjective
-trójska
-trójske
-trójskeho
-trójskej
 trojskok/B po:noun is:masculine
 trojskokan
 trojskokana
 trojskokanský/YN po:adjective
-trójskom
-trójsku
-trójsky
-trójskych
-trójskym
-trójskymi
+trójsky/YN po:adjective
 trojslabičný/YN po:adjective
 trojslovnými
 trojsmenný/YN po:adjective
@@ -148782,28 +148726,17 @@ tunela
 tunelár/C po:noun is:masculine
 tunelárka/zZ po:noun is:feminine
 tunelárov/Y po:adjective
-tunelárska
-tunelárske
-tunelárskeho
-tunelárskej
-Tunelárski
-tunelárskom
-tunelárskou
-tunelársku
-tunelársky
-tunelárskych
-tunelárskym
+tunelársky/YN po:adjective
 tunelíkov
 tunelíky
 tunelmi
 tunelovacej
-Tunelovací
+tunelovací/Y po:adjective
+tunelovací/YN po:adjective
 tunelovacia
 tunelovacie
 tunelovacieho
 tunelovacích
-tunelovacím
-tunelovacími
 tunelovaciu
 tunelovacou
 tunelovanie/VN po:noun is:neuter
@@ -149003,14 +148936,8 @@ Turová/Y po:adjective
 túrovať/WN po:verb
 Turú
 turul
-Turzovka
-Turzovke
-Turzovkou
-Turzovku
-Turzovky
-turzovskej
-turzovskí
-Turzovský/YN po:adjective
+Turzovka/z po:noun is:feminine
+turzovský/YN po:adjective
 tusikácia
 Tuskulum
 tuš/J po:noun is:masculine
@@ -149056,14 +148983,7 @@ tuvon
 túz/B po:noun is:masculine
 túza
 tuzem
-tuzemca
-tuzemcami
-tuzemci
-tuzemcoch
-tuzemcom
-tuzemcov
-tuzemcovi
-tuzemec
+tuzemec/C po:noun is:masculine
 tuzemsko/M po:noun is:neuter
 tuzemský/YN po:adjective
 tuzex/B po:noun is:masculine
@@ -154405,7 +154325,7 @@ Važci
 Važcom
 Važcu
 Važec
-Važecká
+važecký/Y po:adjective
 vážene
 váženie/V po:noun is:neuter
 váženosť/K po:noun is:feminine
@@ -154424,9 +154344,7 @@ väčšina/zZ po:noun is:feminine
 väčšinovo
 väčšinový/YN po:adjective
 väčšmi/F
-vädnúcej
-vädnúci
-vädnúcich
+vädnúci/YN po:adjective
 vädnúť/WN
 vädnutie/V po:noun is:neuter
 väz/B po:noun is:masculine
@@ -158063,7 +157981,7 @@ vrč
 vrčanie/VN po:noun is:neuter
 vrčať/RN po:verb
 vrčavý/YN po:adjective
-vrčiaceho
+vrčiaci/YN po:adjective
 vrčivý/YN po:adjective
 vrece/S po:noun is:neuter
 vreciek
@@ -158073,7 +157991,6 @@ vreckárka/zZ po:noun is:feminine
 vreckárov/Y po:adjective
 vreckatý/YN po:adjective
 vrecko/M po:noun is:neuter
-vreckovacom
 vreckovanie/VN po:noun is:neuter
 vreckovaný/YN po:adjective
 vreckovať/WN po:verb
@@ -158095,7 +158012,7 @@ vredavý/YN po:adjective
 vredikať
 vredovitý/YN po:adjective
 vredový/YN po:adjective
-vrele
+vrele po:adverb
 vrelosť/K po:noun is:feminine
 vrelý/YN po:adjective
 vrenie/V po:noun is:neuter
@@ -162005,7 +161922,6 @@ vypnutie/V po:noun is:neuter
 vypnuto
 vypnutosť/K po:noun is:feminine
 vypnutý/YN po:adjective
-výpoč
 výpočet/O po:noun is:masculine
 vypočinutý/YN po:adjective
 vypočítane
