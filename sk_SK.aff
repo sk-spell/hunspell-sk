@@ -67,6 +67,22 @@ REP ĺ ľ
 REP ľ ĺ
 REP ds c
 
+MAP 13
+MAP aáä
+MAP yý
+MAP ií
+MAP cč
+MAP dď
+MAP nň
+MAP tť
+MAP uúü
+MAP oóôö
+MAP sš
+MAP zž
+MAP lľĺ
+MAP eé
+
+
 PFX N Y 1     # predpona ne-
 PFX N   0           ne         . tp:negation
 
