@@ -295,7 +295,7 @@ acompagnato
 acre
 acta
 acuto
-acyklický
+acyklický/YN po:adjective
 acyl
 acylácia
 acylpyrín/B po:noun is:masculine
@@ -1182,7 +1182,7 @@ akémuže st:akýže
 aker/B po:noun is:masculine
 akési
 akéto
-akéže st: akáže is:plural is:nominative
+akéže st:akáže is:plural is:nominative
 akija
 akíkoľvek
 akinakes
@@ -1190,7 +1190,7 @@ akineta
 akinéza
 akísi
 akiste
-akíže st: akýže is:plural is:nominativ is:masculine
+akíže st:akýže is:plural is:nominativ is:masculine
 akja
 Akkra
 Akkre
@@ -51170,7 +51170,7 @@ kwacha
 kwanza
 kWh
 KX po:acronym
-ký
+ký po:pronoun
 kyainid
 kyán
 kyanid/B po:noun is:masculine
@@ -96578,7 +96578,7 @@ persona/
 persóna/zZ po:noun is:feminine
 persónach
 personál/b po:noun is:masculine
-personáli st: personál
+personáli st:personál is:locative
 personálie/Q po:noun is:feminine
 personalista/H po:noun is:masculine
 personalistický/YN po:adjective
@@ -146799,7 +146799,7 @@ trapézových
 trapézovými
 trápič
 trápiči
-trapiech st: trapy is:locative is:plural
+trapiech st:trapy is:locative is:plural
 trápievať/XN po:verb
 Trapistický/YN po:adjective
 trapistických
@@ -177658,20 +177658,8 @@ zvykať/EN po:verb
 zvyklosť/K po:noun is:feminine
 zvyklý/YN po:adjective
 zvyknúť/WN
-zvyknutá
-zvyknuté
-zvyknutého
-zvyknutej
-zvyknutému
-zvyknutí
 zvyknuto
-zvyknutom
-zvyknutou
-zvyknutú
-zvyknutý
-zvyknutých
-zvyknutým
-zvyknutými
+zvyknutý/YN po:adjective
 zvykoslovie/V po:noun is:neuter
 zvykoslovný/YN po:adjective
 zvykový/YN po:adjective
@@ -178954,14 +178942,14 @@ zžívať/XN po:verb
 Župkov/B po:noun is:masculine
 Župkovčan/c po:noun is:masculine
 Župkovčanka/zZ po:noun is:feminine
-župkovskýYN po:adjective
+župkovský/YN po:adjective
 župný/YN po:adjective
 žúr/B po:noun is:masculine
 žurčať/RN po:verb
 žúrka/zZ po:noun is:feminine
 žurnál/B po:noun is:masculine
 žurnalista/H po:noun is:masculine
-žurnalisticky po: adverb
+žurnalisticky po:adverb
 žurnalistický/YN po:adjective
 žurnalistika/zZ po:noun is:feminine
 žurnalistka/zZ po:noun is:feminine
