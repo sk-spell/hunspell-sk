@@ -1,9 +1,9 @@
-178843
-á
-Á
-à
+178713
 a po:conjunction
-áách
+á po:interjection
+Á po:interjection
+à po:particle
+áách po:interjection
 AB po:acronym
 aba/zZ po:noun is:feminine
 abája/U po:noun is:feminine
@@ -53,7 +53,7 @@ Abcházec/C po:noun is:masculine
 Abcházka/zZ po:noun is:feminine
 Abcházsko/M po:noun is:neuter
 abcházsky/YN po:adjective
-ABI
+ABI po:acronym
 Abidžan/B po:noun is:masculine
 abiogenéza/zZ po:noun is:feminine
 abiogénny/YN po:adjective
@@ -364,7 +364,7 @@ addisonizmus/B po:noun is:masculine
 addolorato
 addukcia
 adefágia
-adekvátnosť/K po:noun is:feminine
+adekvátnosť/KN po:noun is:feminine
 adekvátny/YN po:adjective
 Adel
 Adela/zZ po:noun is:feminine
@@ -1351,7 +1351,7 @@ aktivizmus/B po:noun is:masculine
 aktivizovanie/VN po:noun is:neuter
 aktivizovaný/YN po:adjective
 aktivizovať/WN po:verb
-aktívnosť/K po:noun is:feminine
+aktívnosť/KN po:noun is:feminine
 aktívny/YN po:adjective
 aktivovane
 aktivovanie/VN po:noun is:neuter
@@ -1371,7 +1371,7 @@ aktualizovane
 aktualizovanie/VN po:noun is:neuter
 aktualizovaný/YN po:adjective
 aktualizovať/WN po:verb
-aktuálnosť/K po:noun is:feminine
+aktuálnosť/KN po:noun is:feminine
 aktuálny/YN po:adjective
 aktulizáciám
 akúkoľvek
@@ -1783,7 +1783,7 @@ alkén
 alkín
 alkohol/B po:noun is:masculine
 alkoholát/B po:noun is:masculine
-alkoholicky
+alkoholicky/N po:adverb
 alkoholický/YN po:adjective
 alkoholička/zZ po:noun is:feminine
 alkoholik/C po:noun is:masculine
@@ -5095,7 +5095,7 @@ babranica
 babranie/V po:noun is:neuter
 babranina/zZ po:noun is:feminine
 babrať/TN po:verb
-babravo
+babravo/N po:adverb
 babravý/YN po:adjective
 babrem
 babreme
@@ -5980,7 +5980,7 @@ baroreceptor
 barotraum
 barovo
 barový/YN po:adjective
-bárs
+bárs/N po:particle
 bársaj
 bársako
 bársaký/YN po:adjective
@@ -7812,7 +7812,7 @@ bláhate
 blaho/M po:noun is:neuter
 blahobyt/B po:noun is:masculine
 blahobytmi
-blahobytne
+blahobytne po:adverb
 blahobytný/YN po:adjective
 blahodajný/YN po:adjective
 blahodárna
@@ -7957,22 +7957,8 @@ Blažovce
 Blažovská
 blbcov/Y po:adjective
 blbec/C po:noun is:masculine
-blbla
-blbli
-blblo
-blbne
-blbnem
-blbneme
-blbneš
-blbnete
-blbni
-blbnime
-blbnite
-blbnú
-blbnúc
-blbnúť
+blbnúť/WN po:verb
 blbo
-blbol
 blbosť/K po:noun is:feminine
 blbotajúc
 blbotať/TN po:verb
@@ -7989,14 +7975,14 @@ blé
 bleda
 bledastý/YN po:adjective
 bledavý/YN po:adjective
-Blede
+blede po:adverb
 bledistý/YN po:adjective
 blednúci/Y po:adjective
-blednúť/WN
+blednúť/WN po:verb
 blednutie/V po:noun is:neuter
-bledo
+bledo po:adverb
 bledobelasý/YN po:adjective
-bledočervene
+bledočervene po:adverb
 bledočervený/YN po:adjective
 bledofialový/YN po:adjective
 bledohnedý/YN po:adjective
@@ -8006,17 +7992,17 @@ bledomodrý/YN po:adjective
 bledoružový/YN po:adjective
 bledosivý/YN po:adjective
 bledosť/K po:noun is:feminine
-bledozeleno
+bledozeleno po:adverb
 bledozelený/YN po:adjective
 bledožltý/YN po:adjective
-bledučko
+bledučko po:adverb
 bledučký/Y po:adjective
 bleduľa/U po:noun is:feminine
-bledulinko
+bledulinko po:adverb
 bledulinký/Y po:adjective
-bledunko
+bledunko po:adverb
 bledunký/Y po:adjective
-bleduško
+bleduško po:adverb
 bledušký/Y po:adjective
 bledý/YN po:adjective
 blefaritída
@@ -8027,7 +8013,7 @@ blenový/YN po:adjective
 blesk/B po:noun is:masculine
 bleskami
 bleskmo
-blesknúť/WN
+blesknúť/WN po:verb
 bleskný/YN po:adjective
 bleskoistiek
 bleskoistky
@@ -8036,30 +8022,16 @@ bleskot
 bleskotať
 bleskotavý/YN po:adjective
 bleskotný/YN po:adjective
-bleskove
+bleskove po:adverb
 bleskovíc
 Bleskovica
 Bleskovice
 bleskovka/zZ po:noun is:feminine
-bleskovo
+bleskovo po:adverb
 bleskový/YN po:adjective
 bleskozvod/B po:noun is:masculine
 bleskurýchly/YN po:adjective
-blesla
-blesli
-bleslo
-blesne
-blesnem
-blesneme
-blesneš
-blesnete
-blesni
-blesnime
-blesnite
-blesnú
-blesnúc
-blesnúť
-blesol
+blesnúť/WN po:verb
 bĺch
 blcha/zZ po:noun is:feminine
 blcháň
@@ -9096,21 +9068,7 @@ Božčice
 bože
 božedaj
 božechráň
-božeká
-božekaj
-božekajme
-božekajte
-božekajú
-božekajúc
-božekal
-božekala
-božekali
-božekalo
-božekám
-božekáme
-božekáš
-božekať
-božekáte
+božekať/EN po:verb
 božemôj
 Božená
 Božena/zZ po:noun is:feminine
@@ -10712,7 +10670,7 @@ Bytčici
 Bytčicu
 Bytčou
 Bytču
-bytie/V po:noun is:neuter
+bytie/VN po:noun is:neuter
 bytík/B po:noun is:masculine
 bytmi
 bytné
@@ -10725,15 +10683,7 @@ bytovka/zZ po:noun is:feminine
 bytovo
 bytový/YN po:adjective
 býv
-bývajúca
-bývajúce
-bývajúceho
-bývajúcemu
-bývajúci
-bývajúcich
-bývajúcim
-bývajúcimi
-bývajúcu
+bývajúci/YN po:adjective
 bývalý/YN po:adjective
 bývanie/VN po:noun is:neuter
 bývať/XN po:verb
@@ -14285,22 +14235,20 @@ CZV po:acronym
 čoskoro
 čoukoľvek
 čousi
-čože
-čožeby
+čože po:particle
+čože po:pronoun
+čožeby po:particle
 čpavkovaný/YN po:adjective
 čpavkový/YN po:adjective
 čpavok/O po:noun is:masculine
 čpieť/XN po:verb
 ČR po:acronym
-čremch
-čremcha/z po:noun is:feminine
-čremchách
-čremchám
-čremchami
+čremch po:noun is:feminine st:čremcha is:genitive is:plural
+čremcha/zZ po:noun is:feminine
 čremchový/YN po:adjective
 črenový/YN po:adjective
-črep/B po:noun is:masculine
-črepa
+črep/B po:noun is:masculine st:črepa is:genitive is:singular
+črepa po:noun is:masculine
 črepina/zZ po:noun is:feminine
 črepinka/zZ po:noun is:feminine
 črepinový/YN po:adjective
@@ -67059,7 +67007,6 @@ neaktívnosť/K po:noun is:feminine
 neaktuálnosť/K po:noun is:feminine
 neálk
 nealko/M po:noun is:neuter
-nealkoholicky
 neamer
 neandertálcov/Y po:adjective
 neandertálec/C po:noun is:masculine
@@ -67121,7 +67068,6 @@ nebadurkáte
 nebahni
 nebahnime
 nebahnite
-nebárs
 nebasklon
 nebeč
 nebeľám
@@ -67131,13 +67077,11 @@ nebelejme
 nebelejte
 nebelejú
 nebelejúc
-nebes
-Nebesa
 nebesá/Q
 nebesia/Q
 nebesiách
 nebesiám
-nebesky
+nebesky po:adverb
 nebeský/YN po:adjective
 nebesni
 nebesnime
@@ -67146,10 +67090,8 @@ nebešťan/c po:noun is:masculine
 nebešťania
 nebešťanka/zZ po:noun is:feminine
 nebešťanov/Y po:adjective
-nebezpeč
 nebezpečenstvo/M po:noun is:neuter
 nebíčko/M po:noun is:neuter
-Nebiže
 nebľabotajúc
 nebľač
 nebláha
@@ -67162,40 +67104,10 @@ nebláham
 nebláhame
 nebláhaš
 nebláhate
-neblaho
-neblbla
-neblbli
-neblblo
-neblbne
-neblbnem
-neblbneme
-neblbneš
-neblbnete
-neblbni
-neblbnime
-neblbnite
-neblbnú
-neblbnúc
-neblbnúť
-neblbol
+neblaho po:adverb
 neblbotajúc
 neblč
 neblednúci
-neblesla
-neblesli
-nebleslo
-neblesne
-neblesnem
-neblesneme
-neblesneš
-neblesnete
-neblesni
-neblesnime
-neblesnite
-neblesnú
-neblesnúc
-neblesnúť
-neblesol
 neblikotajúc
 neblkoť
 neblkoťme
@@ -67205,8 +67117,6 @@ neblkoťúc
 neblokujúci/Y po:adjective
 nebľusla
 nebľusli
-nebľuslo
-nebľusne
 nebľusnem
 nebľusneme
 nebľusneš
@@ -67220,8 +67130,6 @@ nebľusnúť
 nebľusol
 neblysla
 neblysli
-neblyslo
-neblysne
 neblysnem
 neblysneme
 neblysneš
@@ -67263,21 +67171,6 @@ nebovomodrý/Y po:adjective
 nebový/Y po:adjective
 neboža
 nebože
-nebožeká
-nebožekaj
-nebožekajme
-nebožekajte
-nebožekajú
-nebožekajúc
-nebožekal
-nebožekala
-nebožekali
-nebožekalo
-nebožekám
-nebožekáme
-nebožekáš
-nebožekať
-nebožekáte
 nebožiatko/M po:noun is:neuter
 nebožiatok
 nebožiec/J po:noun is:masculine
@@ -67402,10 +67295,6 @@ nebulózny/Y po:adjective
 nebulvárnosť/K po:noun is:feminine
 nebútor
 nebútorte
-nebytí
-nebytia
-nebytie
-nebytím
 nebzuč
 nebzukotajúc
 necápajúc
@@ -118618,12 +118507,7 @@ redukovateľný/YN po:adjective
 redukovatežnosť/K po:noun is:feminine
 reduktáza
 reduktívnou
-reduktor
-reduktore
-reduktorom
-reduktorov
-reduktoru
-reduktory
+reduktor/B po:noun is:masculine
 redukujúci
 redundancia/U po:noun is:feminine
 redundania
@@ -118631,11 +118515,7 @@ redundantný/YN po:adjective
 reduplikácia
 reduplikovaný/YN po:adjective
 reduplikovať/WN po:verb
-reduta
-Reduta
-Redute
-Redutu
-Reduty
+reduta/zZ po:noun is:feminine
 reedícia/U po:noun is:feminine
 reemigrácia/U po:noun is:feminine
 reemigrant
@@ -153053,10 +152933,8 @@ uväzňovať/WN po:verb
 úväzok/O po:noun is:masculine
 uväzovanie/VN po:noun is:neuter
 uväzovať/WN po:verb
-uvea
-uvedene
+uvea/zZ po:noun is:feminine
 uvedenie/VN po:noun is:neuter
-uvedeno
 uvedený/YN po:adjective
 uvedomele/N po:adverb
 uvedomelo/N po:adverb
