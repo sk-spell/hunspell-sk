@@ -1,4 +1,4 @@
-178986
+178903
 á
 Á
 à
@@ -5192,7 +5192,7 @@ badať/EN po:verb
 bádať/XN po:verb
 bádateľ/c po:noun is:masculine
 bádateľka/zZ po:noun is:feminine
-badateľne po:adverb
+badateľne/N po:adverb
 badateľný/YN po:adjective
 bádateľov/Y po:adjective
 bádateľsky po:adverb
@@ -7022,7 +7022,7 @@ bezpartajný/YN po:adjective
 bezpätkové
 bezpeč
 bezpečie/VN po:noun is:neuter
-bezpečne
+bezpečne/N po:adverb
 bezpečnosť/KN po:noun is:feminine
 bezpečnostne
 bezpečnostno
@@ -11924,7 +11924,7 @@ citát/B po:noun is:masculine
 citátmi
 citátománia
 citátový/Y po:adjective
-citeľne
+citeľne/N po:adverb
 citeľný/YN po:adjective
 cítenie/V po:noun is:neuter
 cítený/YN po:adjective
@@ -11942,7 +11942,7 @@ citlivkársky/YN po:adjective
 citlivkárstvach
 citlivkárstvam
 citlivkárstvo/M po:noun is:neuter
-citlivo
+citlivo/N po:adverb
 citlivosť/K po:noun is:feminine
 citlivuškár
 citlivuškársky
@@ -12394,7 +12394,7 @@ cucuracha
 cudi
 cudia
 cúdiť/XN po:verb
-cudne
+cudne/N po:adverb
 cudnosť/K po:noun is:feminine
 cudný/YN po:adjective
 cudzí/I po:adjective
@@ -13011,6 +13011,7 @@ CZV po:acronym
 čakací/I po:adjective
 čakajúci/YN po:adjective
 čakan/B po:noun is:masculine
+čakane/N po:adverb
 čakanie/VN po:noun is:neuter
 čakanka/zZ po:noun is:feminine
 čakankovo
@@ -13635,7 +13636,7 @@ CZV po:acronym
 česnúť
 česť/KN po:noun is:feminine
 česťnášťočný/YN po:adjective
-čestne
+čestne/N po:adverb
 čestnosť/K po:noun is:feminine
 čestný/YN po:adjective
 Češka/zZ po:noun is:feminine
@@ -13987,7 +13988,7 @@ CZV po:acronym
 čistite
 Čistite
 čistka/zZ po:noun is:feminine
-čisto
+čisto/N po:adverb
 čistokrvnosť/K po:noun is:feminine
 čistokrvný/YN po:adjective
 čistopis/B po:noun is:masculine
@@ -14030,7 +14031,7 @@ CZV po:acronym
 čitateľ/CJ po:noun is:masculine
 čitatelia
 čitateľka/zZ po:noun is:feminine
-čitateľne
+čitateľne/N po:adverb
 čitateľnosť/K po:noun is:feminine
 čitateľný/YN po:adjective
 čitateľov/Y po:adjective
@@ -14443,7 +14444,7 @@ CZV po:acronym
 čuchrite
 čuchrú
 čuchrúc
-čujne
+čujne/N po:adverb
 čujno
 čujnosť/K po:noun is:feminine
 čujný/YN po:adjective
@@ -19106,7 +19107,7 @@ dokoja
 dokola
 dokoluje
 dokomponovať/WN po:verb
-dokonale
+dokonale/N po:adverb
 dokonalosť/KN po:noun is:feminine
 dokonalý/YN po:adjective
 dokonanie/V po:noun is:neuter
@@ -20895,7 +20896,7 @@ dôsledne
 dôslednosť/K po:noun is:feminine
 dôsledný/YN po:adjective
 dôsledok/O po:noun is:masculine
-dôstojne
+dôstojne/N po:adverb
 dôstojnícky/Y po:adjective
 dôstojníčka/zZ po:noun is:feminine
 dôstojník/C po:noun is:masculine
@@ -20909,7 +20910,7 @@ dôvera/zN po:noun is:feminine
 dôverách
 dôverám
 dôverami
-dôverčivo
+dôverčivo/N po:adverb
 dôverčivosť/K po:noun is:feminine
 dôverčivý/YN po:adjective
 dôverivý/YN po:adjective
@@ -23696,7 +23697,7 @@ ekonómi
 ekonómia/U po:noun is:feminine
 ekonomici
 ekonomickosť/K po:noun is:feminine
-ekonomicky
+ekonomicky/N po:adverb
 ekonomický/YN po:adjective
 ekonomičnosť/K po:noun is:feminine
 ekonomik
@@ -26627,7 +26628,7 @@ ferosilícium
 ferotypia
 Ferov
 Ferova
-férovo
+férovo/N po:adverb
 férovosť/K po:noun is:feminine
 férový/Y po:adjective
 ferozliatin
@@ -31314,7 +31315,7 @@ handrkovať/WN po:verb
 handroš
 handrový/YN po:adjective
 handžár/J po:noun is:masculine
-hanebne
+hanebne/N po:adverb
 hanebnosť/K po:noun is:feminine
 hanebný/YN po:adjective
 hanený/YN po:adjective
@@ -35930,7 +35931,7 @@ chápanie/VN po:noun is:neuter
 chápanlivý/YN po:adjective
 chápaný/YN po:adjective
 chápať/TN po:verb
-chápavo
+chápavo/N po:adverb
 chápavosť/KN po:noun is:feminine
 chápavý/YN po:adjective
 chapkať
@@ -40962,7 +40963,7 @@ jednotlivkyňa/U po:noun is:feminine
 jednotlivo
 jednotlivosť/K po:noun is:feminine
 jednotlivý/YN po:adjective
-jednotne
+jednotne/N po:adverb
 jednotnosť/K po:noun is:feminine
 jednotný/YN po:adjective
 jednotónová
@@ -44363,7 +44364,7 @@ klamlivo
 klamlivosť/K po:noun is:feminine
 klamlivý/YN po:adjective
 klamme
-klamne
+klamne/N po:adverb
 klamnosť/K po:noun is:feminine
 klamný/YN po:adjective
 kľampa/zZ po:noun is:feminine
@@ -46316,7 +46317,7 @@ kompenzujúce
 kompetencia/U po:noun is:feminine
 kompetenčne
 kompetenčný/YN po:adjective
-kompetentne
+kompetentne/N po:adverb
 kompetentnosť/KN po:noun is:feminine
 kompetentný/YN po:adjective
 kompetícia
@@ -46434,7 +46435,7 @@ komprimovanie/VN po:noun is:neuter
 komprimovaný/YN po:adjective
 komprimovať/WN po:verb
 kompromis/B po:noun is:masculine
-kompromisne
+kompromisne/N po:adverb
 kompromisnícky
 kompromisníctvo
 kompromisník
@@ -49325,7 +49326,7 @@ kritérium/M po:noun is:neuter
 kriticizmus/B po:noun is:masculine
 kritickorealistický/YN po:adjective
 kritickosť/K po:noun is:feminine
-kriticky
+kriticky/N po:adverb
 kritický/YN po:adjective
 kritička/zZ po:noun is:feminine
 kritičnosť/K po:noun is:feminine
@@ -49854,7 +49855,7 @@ krvavieť/XN po:verb
 krvaviť/EN po:verb
 krvavnica/U po:noun is:feminine
 krvavnička/zZ po:noun is:feminine
-krvavo
+krvavo/N po:adverb
 krvavočerveno
 krvavočervený/YN po:adjective
 krvavosť/K po:noun is:feminine
@@ -50894,7 +50895,7 @@ kvalifikačne
 kvalifikačno
 kvalifikačný/YN po:adjective
 kvalifikátor/B po:noun is:masculine
-kvalifikovane
+kvalifikovane/N po:adverb
 kvalifikovanie/VN po:noun is:neuter
 kvalifikovanosť/K po:noun is:feminine
 kvalifikovaný/YN po:adjective
@@ -50905,7 +50906,7 @@ kvalitár/C po:noun is:masculine
 kvalitárka/zZ po:noun is:feminine
 kvalitárov/Y po:adjective
 kvalitatívny/YN po:adjective
-kvalitne
+kvalitne/N po:adverb
 kvalitnosť/K po:noun is:feminine
 kvalitný/YN po:adjective
 Kvant
@@ -53565,7 +53566,7 @@ lichota
 lichotenie/V po:noun is:neuter
 Lichotín
 lichotiť/EN po:verb
-lichotivo
+lichotivo/N po:adverb
 lichotivosť/K po:noun is:feminine
 lichotivý/YN po:adjective
 lichotnica/U po:noun is:feminine
@@ -54253,7 +54254,7 @@ loggia/U po:noun is:feminine
 loggiová
 logicizmus
 logickosť/K po:noun is:feminine
-logicky
+logicky/N po:adverb
 logický/YN po:adjective
 logička/zZ po:noun is:feminine
 logik/C po:noun is:masculine
@@ -54896,7 +54897,7 @@ Ludrovský/YN po:adjective
 ludrovským
 ľudskoprávny/Y po:adjective
 ľudskosť/K po:noun is:feminine
-ľudsky
+ľudsky/N po:adverb
 ľudský/YN po:adjective
 ľudstvo/M po:noun is:neuter
 ludus
@@ -58585,7 +58586,7 @@ meniteľnosť/K po:noun is:feminine
 meniteľný/YN po:adjective
 menivosť/K po:noun is:feminine
 menivý/YN po:adjective
-menlivo
+menlivo/N po:adverb
 menlivosť/K po:noun is:feminine
 menlivý/YN po:adjective
 menne
@@ -59647,7 +59648,7 @@ Miloslav/c po:noun is:masculine
 Miloslava/zZ po:noun is:feminine
 Miloslavov/Y po:adjective
 milosrdenstvo/M po:noun is:neuter
-milosrdne
+milosrdne/N po:adverb
 milosrdnosť/K po:noun is:feminine
 milosrdný/YN po:adjective
 milosť/K po:noun is:feminine
@@ -61836,7 +61837,7 @@ Mravenčiar
 mravenčiara
 mravenísk
 mravenisko/M po:noun is:neuter
-mravne
+mravne/N po:adverb
 mravno
 mravnosť/K po:noun is:feminine
 mravnosť/KN po:noun is:feminine
@@ -63801,7 +63802,7 @@ nahliadnuto
 nahliadnutý/YN po:adjective
 náhlievať/XN po:verb
 náhliť/XN po:verb
-náhlivo
+náhlivo/N po:adverb
 náhlivosť/K po:noun is:feminine
 náhlivý/YN po:adjective
 nahlodaniu
@@ -64528,7 +64529,7 @@ naležať/RN po:verb
 náležať/RN po:verb
 naležato
 náležiaci
-náležite
+náležite/N po:adverb
 náležito
 náležitosť/K po:noun is:feminine
 náležitý/YN po:adjective
@@ -65548,7 +65549,7 @@ narobení
 narobených
 narobiť/EN po:verb
 náročky
-náročne
+náročne/N po:adverb
 náročnosť/KN po:noun is:feminine
 náročný/YN po:adjective
 národ/B po:noun is:masculine
@@ -65778,7 +65779,7 @@ nasiate
 nasiatej
 násilenstvo/M po:noun is:neuter
 násilie/V po:noun is:neuter
-násilne
+násilne/N po:adverb
 násilnícky/YN po:adjective
 násilníctvach
 násilníctvam
@@ -67089,7 +67090,6 @@ nebabrú
 nebabrúc
 nebadane/PF po:adjective
 nebadaný/Y po:adjective
-nebadateľne
 nebadká
 nebadkaj
 nebadkajme
@@ -67150,7 +67150,6 @@ nebešťanka/zZ po:noun is:feminine
 nebešťanov/Y po:adjective
 nebezpeč
 nebezpečenstvo/M po:noun is:neuter
-nebezpečne
 nebíčko/M po:noun is:neuter
 Nebiže
 nebľabotajúc
@@ -67454,10 +67453,8 @@ necielené
 necielenú
 necielených
 necit
-neciteľne
 neciteľnosť/K po:noun is:feminine
 necítiaci
-necitlivo
 necitlivosť/K po:noun is:feminine
 necitne
 necitnosť/K po:noun is:feminine
@@ -67552,7 +67549,6 @@ necuckáme
 necuckáš
 necuckať
 necuckáte
-necudne
 necudnica/U po:noun is:feminine
 necudník/C po:noun is:masculine
 necudníkov/Y po:adjective
@@ -67650,7 +67646,6 @@ nečačkáme
 nečačkáš
 nečačkať
 nečačkáte
-nečakane
 nečakáva
 nečakávaj
 nečakávajme
@@ -67715,7 +67710,6 @@ nečervavieme
 nečervavieš
 nečervavieť
 nečervaviete
-nečestne
 nečestnosť/K po:noun is:feminine
 nečičre
 nečičrem
@@ -67735,14 +67729,12 @@ nečipčite
 nečisti
 nečistime
 nečistite
-nečisto
 nečistosť/K po:noun is:feminine
 nečistotách
 nečistotám
 nečistotami
 nečistotnosť/K po:noun is:feminine
 nečistôt
-nečitateľne
 nečitateľnosť/K po:noun is:feminine
 nečľapoc
 nečľapoce
@@ -67802,7 +67794,6 @@ nečuchrime
 nečuchrite
 nečuchrú
 nečuchrúc
-nečujne
 nečujnosť/K po:noun is:feminine
 nečum
 nečumel
@@ -68139,7 +68130,6 @@ nedokníšu
 nedokníšuc
 nedoknuteľne
 nedoknuteľný/Y po:adjective
-nedokonale
 nedokonavosť/K po:noun is:feminine
 nedokončene
 nedokončenie/V po:noun is:neuter
@@ -68489,7 +68479,6 @@ nedôjduc
 nedôležitosť/K po:noun is:feminine
 nedôrazne
 nedôslednosť/K po:noun is:feminine
-nedôstojne
 nedôstojnosť/K po:noun is:feminine
 nedôver
 nedôverách
@@ -68497,7 +68486,6 @@ nedôverám
 nedôverami
 nedôverčivcov/Y po:adjective
 nedôverčivec/C po:noun is:masculine
-nedôverčivo
 nedôverčivosť/K po:noun is:feminine
 nedôverivec
 nedôverivo
@@ -68654,7 +68642,6 @@ nedychtime
 nedychtite
 nedžavotajúc
 neekonomickosť/K po:noun is:feminine
-neekonomicky
 nefajčenie/V po:noun is:neuter
 nefajči
 nefajčiarka
@@ -68672,7 +68659,6 @@ nefarbite
 nefelín
 nefelometer
 nefelometria
-neférovo
 neférovosť/K po:noun is:feminine
 neférový/Y po:adjective
 nefič
@@ -68836,7 +68822,6 @@ nehanbite
 nehanblivcov/Y po:adjective
 nehanblivec/C po:noun is:masculine
 nehanblivica/U po:noun is:feminine
-nehanebne
 nehanebnica/U po:noun is:feminine
 nehanebník/C po:noun is:masculine
 nehanebníkov/Y po:adjective
@@ -69097,7 +69082,6 @@ nechápajúce
 nechápajúci
 nechápajúco
 nechápajúcu
-nechápavo
 nechať/EN po:verb
 nechatár
 nechatári
@@ -69420,7 +69404,6 @@ nejedného
 nejednej
 nejednému
 nejedni
-nejednotne
 nejednotnosť/K po:noun is:feminine
 nejednou
 nejednoznačne
@@ -69556,7 +69539,6 @@ neklaď
 neklam
 neklamme
 Neklamme
-neklamne
 neklamte
 neklapla
 neklapli
@@ -69660,10 +69642,8 @@ nekoktáte
 nekolísajúc
 nekolíšu
 nekolíšuc
-nekompetentne
 nekompletne
 nekompletnosť/K po:noun is:feminine
-nekompromisne
 nekompromisnosť/K po:noun is:feminine
 nekonaného
 nekonči
@@ -69716,7 +69696,6 @@ nekristových
 nekristovým
 nekristovými
 nekritickosť/K po:noun is:feminine
-nekriticky
 nekrivdi
 nekrivdime
 Nekrivdime
@@ -69747,7 +69726,6 @@ nekrôchanec
 nekrsti
 nekrstime
 nekrstite
-nekrvavo
 nekryštalizujúci
 nekrytia
 nekrytie
@@ -69814,10 +69792,8 @@ nekváčme
 nekváčte
 nekváču
 nekváčuc
-nekvalifikovane
 nekvalifikovanosť/K po:noun is:feminine
 nekvalita/zZ po:noun is:feminine
-nekvalitne
 nekvalitnosť/K po:noun is:feminine
 nekvič
 nekvoč
@@ -69911,7 +69887,6 @@ neležiavaš
 neležiavať
 neležiavate
 nelietania
-nelichotivo
 nelíž
 nelíže
 nelížem
@@ -69923,7 +69898,6 @@ nelížte
 nelížu
 nelížuc
 nelogickosť/K po:noun is:feminine
-nelogicky
 nelogičnosť/K po:noun is:feminine
 nelojálnosť/K po:noun is:feminine
 nelson
@@ -69943,7 +69917,6 @@ neľuďmi
 neľuďoch
 neľuďom
 neľudskosť/K po:noun is:feminine
-neľudsky
 nelúpaj
 nelúpajme
 nelúpajte
@@ -70050,7 +70023,6 @@ nemenej
 nemenenie/V po:noun is:neuter
 nemenie/V po:noun is:neuter
 nemeniteľne
-nemenlivo
 nemenlivosť/K po:noun is:feminine
 nemenne
 nemennosť/K po:noun is:feminine
@@ -70080,7 +70052,6 @@ nemihotáš
 nemihotáte
 nemilo
 nemilobohu
-nemilosrdne
 nemilosrdnosť/K po:noun is:feminine
 nemilšej
 nemilší
@@ -70211,7 +70182,6 @@ nemrauči
 nemraučime
 nemraučite
 nemrav
-nemravne
 nemravnica/U po:noun is:feminine
 nemravnícky/Y po:adjective
 nemravník/C po:noun is:masculine
@@ -70347,7 +70317,6 @@ nenahádžte
 nenahádžu
 nenahádžuc
 nenahlásenie/V po:noun is:neuter
-nenáhlivo
 nenahovor
 nenahovorte
 nenahradením
@@ -70434,7 +70403,6 @@ nenalámu
 nenalámuc
 nenalapali
 nenaleť
-nenáležite
 nenáležito
 nenáležitosť/K po:noun is:feminine
 nenaliate
@@ -70557,7 +70525,6 @@ nenarastime
 nenarastite
 nenariadenie/V po:noun is:neuter
 nenáročky
-nenáročne
 nenarozmýšľa
 nenarozmýšľaj
 nenarozmýšľajme
@@ -70603,7 +70570,6 @@ nenasiakavame
 nenasiakavaš
 nenasiakavať
 nenasiakavate
-nenásilne
 nenásilnosť/K po:noun is:feminine
 nenasníma
 nenasnímaj
@@ -71166,7 +71132,6 @@ neočkúva
 neodarvinizmus
 neodb
 neodbočujúci
-neodborne
 neodbrzdi
 neodbrzdime
 neodbrzdite
@@ -71509,7 +71474,6 @@ neodpásli
 neodpáslo
 neodpasme
 neodpásol
-neodpásť
 neodpaste
 neodpasú
 neodpasúc
@@ -71838,7 +71802,6 @@ neochorejúc
 neochotách
 neochotám
 neochotami
-neochotne
 neochôt
 neochránenie/V po:noun is:neuter
 neochrip
@@ -72042,7 +72005,6 @@ neopotrebováva
 neopotrebovávali
 neopozdí
 neopráva
-neoprávnene
 neoprávnenie/V po:noun is:neuter
 neoprávnenosť/K po:noun is:feminine
 neoprén
@@ -72119,7 +72081,6 @@ neoslepnú
 neoslepnúc
 neoslepol
 neosob
-neosobne
 neosobnosť/K po:noun is:feminine
 neosožník
 neospravedlnene
@@ -72327,7 +72288,6 @@ neovisalo
 neovisám
 neovisáme
 neovisáš
-neovisať
 neovisáte
 neovite
 neovládajúci
@@ -72481,7 +72441,6 @@ nepatrnosť/K po:noun is:feminine
 nepatrný/Y po:adjective
 nepechor
 nepechorte
-nepekne
 nepeknosť/K po:noun is:feminine
 Nepela/H po:noun is:masculine
 Nepelov/C po:noun is:masculine
@@ -72634,7 +72593,6 @@ nepobozkaná
 nepocti
 nepoctime
 nepoctite
-nepoctivo
 nepoctivosť/K po:noun is:feminine
 nepočar
 nepočarbime
@@ -72680,7 +72638,6 @@ nepodbijúc
 nepodbime
 nepodbite
 nepodceneniu
-nepoddajne
 nepoddajnosť/K po:noun is:feminine
 nepodeje
 nepodejem
@@ -72867,7 +72824,6 @@ nepodrmú
 nepodrmúc
 nepodrobenie/V po:noun is:neuter
 nepodsadením
-nepodstatne
 nepodsteľ
 nepodsuň
 nepodsunie
@@ -72978,7 +72934,6 @@ nepohodlí
 nepohodlia
 nepohodlie
 nepohodlím
-nepohodlne
 nepohodlnosť/K po:noun is:feminine
 nepohodnú
 nepohodol
@@ -73032,7 +72987,6 @@ nepohynula
 nepohynuli
 nepohynulo
 nepohynúť
-nepochopiteľne
 nepochopiteľnosť/K po:noun is:feminine
 nepochrám
 nepochráme
@@ -73123,7 +73077,6 @@ nepokníšme
 nepokníšte
 nepokníšu
 nepokníšuc
-nepokojne
 nepokojnosť/K po:noun is:feminine
 nepokolíš
 nepokolíše
@@ -73488,7 +73441,6 @@ neposlovenčime
 neposlovenčite
 neposlúchania
 neposlúchnutie/V po:noun is:neuter
-neposlušne
 neposlušnica/U po:noun is:feminine
 neposlušník/C po:noun is:masculine
 neposlušníkov/Y po:adjective
@@ -73884,7 +73836,6 @@ nepoznajúca
 nepoznajúci
 nepoznane
 nepoznavší
-nepozorne
 nepozornosť/K po:noun is:feminine
 nepozorovane
 nepozorovateľne
@@ -73899,7 +73850,6 @@ nepôjdite
 nepôjduc
 nepôvodnosť/K po:noun is:feminine
 nepradenie/V po:noun is:neuter
-neprajne
 neprajnícky/Y po:adjective
 neprajníctvach
 neprajníctvam
@@ -73931,7 +73881,6 @@ nepráv
 neprávach
 nepravdepodobne
 nepravdivosť/K po:noun is:feminine
-nepravidelne
 neprávo/M po:noun is:neuter
 neprávoplatne
 nepravosť/K po:noun is:feminine
@@ -74096,7 +74045,6 @@ neprehádžte
 neprehádžu
 neprehádžuc
 neprehladených
-neprehľadne
 neprehľadnosť/K po:noun is:feminine
 neprehĺbenia
 neprehnojujú
@@ -74426,7 +74374,6 @@ nepresklievaš
 nepresklievať
 nepresklievate
 nepreskúmania
-nepresne
 nepresnených
 nepresnil
 nepresnor
@@ -74783,7 +74730,6 @@ neprimäjú
 neprimäl
 neprimäla
 neprimälo
-neprimerane
 neprimeranosť/K po:noun is:feminine
 neprimetá
 neprimetaj
@@ -74865,7 +74811,6 @@ neprístojne
 neprístojnosť/K po:noun is:feminine
 neprístojný/Y po:adjective
 nepristúpenie/V po:noun is:neuter
-neprístupne
 neprístupnosť/K po:noun is:feminine
 neprisuň
 neprisunie
@@ -74948,7 +74893,6 @@ neproporcionalitu
 neprosíkali
 neprosne
 neprospech/B po:noun is:masculine
-neprozreteľne
 neprozreteľnosť/K po:noun is:feminine
 neprš
 neprúc
@@ -75456,7 +75400,6 @@ nerozpäl
 nerozpäla
 nerozpäli
 nerozpälo
-nerozpäť
 nerozpísania
 nerozpíšu
 nerozpíšuc
@@ -75725,7 +75668,6 @@ nesčíselne
 nesčíselnekrát
 nesčíselný/Y po:adjective
 nesebeckosť/K po:noun is:feminine
-nesebecky
 neseď
 nesenie/V po:noun is:neuter
 nesený/YN po:adjective
@@ -75750,7 +75692,6 @@ neschabrúc
 neschátrala
 neschnúci
 neschodnosť/K po:noun is:feminine
-neschopne
 neschrapč
 neschrapči
 neschrapčime
@@ -75914,7 +75855,6 @@ neslovensky
 nesľubujúci
 nesluš
 Nesluša
-neslušne
 neslušník
 neslušnosť/K po:noun is:feminine
 neslýchane
@@ -76085,7 +76025,6 @@ nespojenie/V po:noun is:neuter
 nespokoja
 nespokojencov/Y po:adjective
 nespokojenec/C po:noun is:masculine
-nespoľahlivo
 nespolči
 nespolčime
 nespolčite
@@ -76433,7 +76372,6 @@ nesúcitíte
 nesúco
 nesúcosť/K po:noun is:feminine
 nesúhlas/B po:noun is:masculine
-nesúmerne
 nesúmernosť/K po:noun is:feminine
 nesuň
 nesunie
@@ -77033,7 +76971,6 @@ Netrp
 Netrpezlivci
 netrpezlive
 netrpezlivec
-netrpezlivo
 netrpezlivosť/K po:noun is:feminine
 netrúc
 netrvávame
@@ -77373,7 +77310,6 @@ neurastenikov/Y po:adjective
 neurčenie/V po:noun is:neuter
 neurči
 neurčime
-neurčite
 neurčitkový/Y po:adjective
 neurčito
 neurčitok/O po:noun is:masculine
@@ -78057,15 +77993,12 @@ nevsunuli
 nevsunulo
 nevsypú
 nevsypúc
-nevšedne
 nevšednosť/K po:noun is:feminine
 nevšili
 nevšímavec
-nevšímavo
 nevšímavosť/K po:noun is:feminine
 nevteper
 nevteperte
-nevtieravo
 nevtieravosť/K po:noun is:feminine
 nevtrúc
 névus
@@ -79076,7 +79009,6 @@ nevyžobrú
 nevyžobrúc
 nevzblčí
 nevzdelancov/Y po:adjective
-nevzdelane
 nevzdelanec/C po:noun is:masculine
 nevzdelanosť/K po:noun is:feminine
 nevzdorujúci
@@ -80162,7 +80094,6 @@ nezatíchalo
 nezatícham
 nezatíchame
 nezatíchaš
-nezatíchať
 nezatíchate
 nezatĺkava
 nezatĺkavaj
@@ -80356,7 +80287,6 @@ nezazvučíš
 nezazvučíte
 nezazvučme
 nezazvučte
-nezáživne
 nezáživnosť/K po:noun is:feminine
 nezbabre
 nezbabrem
@@ -80470,7 +80400,6 @@ nezdôveryhodnite
 nezdôvodni
 nezdôvodnime
 nezdôvodnite
-nezdravo
 nezdravším
 nezdraženie/V po:noun is:neuter
 nezdrsni
@@ -80881,7 +80810,6 @@ neznásilni
 neznásilnime
 neznásilnite
 neznášajúci
-neznášanlivo
 neznášanlivosť/K po:noun is:feminine
 neznavme
 neznázorni
@@ -81549,12 +81477,10 @@ nežičievať
 nežičievate
 nežičlivcov/Y po:adjective
 nežičlivec/C po:noun is:masculine
-nežičlivo
 nežičlivosť/K po:noun is:feminine
 nežidia
 nežitia
 neživnostníčili
-neživo
 neživor
 neživorte
 neživotne
@@ -81571,7 +81497,7 @@ nežíznime
 nežízniš
 nežízniť
 nežíznite
-nežne
+nežne po:adverb
 nežnem
 nežneme
 nežneš
@@ -85135,7 +85061,7 @@ odborár/C po:noun is:masculine
 odborárka/zZ po:noun is:feminine
 odborárov/Y po:adjective
 odborársky/YN po:adjective
-odborne
+odborne/N po:adverb
 odbornícky/YN po:adjective
 odborníctvach
 odborníctvam
@@ -86622,7 +86548,7 @@ odpásli
 odpáslo
 odpasme
 odpásol
-odpásť
+odpásť/N po:adverb
 odpaste
 odpasú
 odpasúc
@@ -88489,7 +88415,7 @@ ochota/zN po:noun is:feminine
 ochotách
 ochotám
 ochotami
-ochotne
+ochotne/N po:adverb
 ochotnícky/YN po:adjective
 ochotníctvach
 ochotníctvam
@@ -90271,7 +90197,7 @@ opraviť/EN po:verb
 opraviteľný/YN po:adjective
 oprávka/zZ po:noun is:feminine
 opravne
-oprávnene
+oprávnene/N po:adverb
 oprávnenie/V po:noun is:neuter
 oprávnenosť/K po:noun is:feminine
 oprávnený/YN po:adjective
@@ -91490,7 +91416,7 @@ osobitný/YN po:adjective
 osobito
 osobitosť/K po:noun is:feminine
 osobitý/YN po:adjective
-osobne
+osobne/N po:adverb
 osobničkár/C po:noun is:masculine
 osobničkárov/Y po:adjective
 osobničkársky
@@ -92685,7 +92611,7 @@ ovisalo
 ovisám
 ovisáme
 ovisáš
-ovisať
+ovisať/N po:adverb
 ovísať/XN po:verb
 ovisáte
 ovisnúť/WN
@@ -95990,7 +95916,7 @@ pekladač
 Pekľanoch
 Pekľany
 peklo/M po:noun is:neuter
-pekne
+pekne/N po:adverb
 peknerúče
 peknota/zZ po:noun is:feminine
 peknučko
@@ -98954,7 +98880,7 @@ poctiť/EN po:verb
 poctite
 poctivcov/Y po:adjective
 poctivec/C po:noun is:masculine
-poctivo
+poctivo/N po:adverb
 poctivosť/K po:noun is:feminine
 poctivý/YN po:adjective
 pocuckať
@@ -99208,7 +99134,7 @@ podčiarkovať/WN po:verb
 podčiarkujúci/Y po:adjective
 podčiarnik/B po:noun is:masculine
 podčiniť
-poddajne
+poddajne/N po:adverb
 poddajnosť/K po:noun is:feminine
 poddajný/YN po:adjective
 poddane
@@ -100293,7 +100219,7 @@ podspodok/O po:noun is:masculine
 podst
 podstarostovia
 podstata/zZ po:noun is:feminine
-podstatne
+podstatne/N po:adverb
 podstatnosť/K po:noun is:feminine
 podstatný/YN po:adjective
 podstava/zZ po:noun is:feminine
@@ -100851,7 +100777,7 @@ pohodený/YN po:adjective
 pohodiť/EN po:verb
 pohodla
 pohodlie/V po:noun is:neuter
-pohodlne
+pohodlne/N po:adverb
 pohodlnícky/YN po:adjective
 pohodlníctvach
 pohodlníctvam
@@ -101119,7 +101045,7 @@ pochopene
 pochopenie/VN po:noun is:neuter
 pochopený/YN po:adjective
 pochopiť/EN po:verb
-pochopiteľne
+pochopiteľne/N po:adverb
 pochopiteľnosť/K po:noun is:feminine
 pochopiteľný/YN po:adjective
 pochopovať/WN po:verb
@@ -101505,7 +101431,7 @@ pokoj/JN po:noun is:masculine
 pokojamilovne
 pokojamilovnosť/K po:noun is:feminine
 pokojamilovný/YN po:adjective
-pokojne
+pokojne/N po:adverb
 pokojnosť/K po:noun is:feminine
 pokojný/YN po:adjective
 pokojový/YN po:adjective
@@ -104918,7 +104844,7 @@ Posluchom
 posluchová
 Posluchová/Y po:adjective
 posluchu
-poslušne
+poslušne/N po:adverb
 Poslušno
 poslušnosť/K po:noun is:feminine
 poslušnosť/KN po:noun is:feminine
@@ -107185,7 +107111,7 @@ pozohýbať
 pozohýnať/XN po:verb
 pozomierať/XN po:verb
 pozor/B po:noun is:masculine
-pozorne
+pozorne/N po:adverb
 pozornosť/K po:noun is:feminine
 pozorný/YN po:adjective
 pozorovací/I po:adjective
@@ -107667,7 +107593,7 @@ prachový/YN po:adjective
 prachy/Q
 prajaví
 prajazyk/B po:noun is:masculine
-prajne
+prajne/N po:adverb
 prajnosť/K po:noun is:feminine
 prajný/YN po:adjective
 prajúci
@@ -107935,7 +107861,7 @@ pravičiarsky/YN po:adjective
 pravičiarstvach
 pravičiarstvam
 pravičiarstvo/M po:noun is:neuter
-pravidelne
+pravidelne/N po:adverb
 pravidelno
 pravidelnosť/KN po:noun is:feminine
 pravidelný/YN po:adjective
@@ -109351,7 +109277,7 @@ prehľadávať/XN po:verb
 prehľadávateľná
 prehľadieť
 prehladiť/EN po:verb
-prehľadne
+prehľadne/N po:adverb
 prehľadnosť/K po:noun is:feminine
 prehľadný/YN po:adjective
 prehladovať/WN po:verb
@@ -111359,6 +111285,7 @@ presmerovávať/XN po:verb
 presmrádzať/XN po:verb
 presmutne
 presmutný/YN po:adjective
+presne/N po:adverb
 presne/PF po:adjective
 presnenie/V po:noun is:neuter
 presni
@@ -113834,7 +113761,7 @@ prímen
 prímením
 prímeno/M po:noun is:neuter
 prímer/B po:noun is:masculine
-primerane
+primerane/N po:adverb
 primeranie/VN po:noun is:neuter
 primeranosť/K po:noun is:feminine
 primeraný/YN po:adjective
@@ -114629,7 +114556,7 @@ prístupkkm
 prístupkkv
 prístupku
 prístupky/Q
-prístupne
+prístupne/N po:adverb
 prístupnosť/K po:noun is:feminine
 prístupný/YN po:adjective
 pristupovanie/VN po:noun is:neuter
@@ -116266,7 +116193,7 @@ prozodicky
 prozodický/YN po:adjective
 prozopit
 prozopopoia
-prozreteľne
+prozreteľne/N po:adverb
 prozreteľnosť/K po:noun is:feminine
 prozreteľný/YN po:adjective
 prozyleta
@@ -122680,7 +122607,7 @@ rozpäl
 rozpäla
 rozpäli
 rozpälo
-rozpäť
+rozpäť/N po:adverb
 rozpätie/V po:noun is:neuter
 rozpätý/YN po:adjective
 rozpečatené
@@ -126081,7 +126008,7 @@ sebcov/Y po:adjective
 sebe
 sebec/C po:noun is:masculine
 sebeckosť/K po:noun is:feminine
-sebecky
+sebecky/N po:adverb
 sebecký/YN po:adjective
 sebectvo/M po:noun is:neuter
 Sebedražie
@@ -127527,7 +127454,7 @@ scholastik/C po:noun is:masculine
 scholastika/zZ po:noun is:feminine
 scholastikov/Y po:adjective
 schopiť/EN po:verb
-schopne
+schopne/N po:adverb
 schopnosť/KN po:noun is:feminine
 schopný/YN po:adjective
 schovanie/VN po:noun is:neuter
@@ -130251,7 +130178,7 @@ sluši
 slušiť
 slušivo
 slušivý/YN po:adjective
-slušne
+slušne/N po:adverb
 slušnosť/K po:noun is:feminine
 slušný/YN po:adjective
 služ
@@ -132354,7 +132281,7 @@ spokojovať/WN po:verb
 spol
 spola
 spoľahky
-spoľahlivo
+spoľahlivo/N po:adverb
 spoľahlivosť/K po:noun is:feminine
 spoľahlivosť/KN po:noun is:feminine
 spoľahlivý/YN po:adjective
@@ -136889,7 +136816,7 @@ sumbisívny/YN po:adjective
 sumcov/Y po:adjective
 sumčí/I po:adjective
 sumec/CL po:noun is:masculine
-súmerne
+súmerne/N po:adverb
 súmernosť/K po:noun is:feminine
 súmerný/YN po:adjective
 súmestie/V po:noun is:neuter
@@ -148269,7 +148196,7 @@ trpaslíkov/Y po:adjective
 trpčina
 trpenie/V po:noun is:neuter
 trpený/YN po:adjective
-trpezlivo
+trpezlivo/N po:adverb
 trpezlivosť/K po:noun is:feminine
 trpezlivý/YN po:adjective
 trpiaci/YN po:adjective
@@ -151868,6 +151795,7 @@ určime
 Určime
 určiť/EN po:verb
 určite po:adverb
+určite/N po:adverb
 určiteľný/YN po:adjective
 určito po:adverb
 určitosť/K po:noun is:feminine
@@ -158486,7 +158414,7 @@ všami
 všantročiť
 VŠDS po:acronym
 vše
-všedne
+všedne/N po:adverb
 všednodenný/YN po:adjective
 všednosť/K po:noun is:feminine
 všedný/YN po:adjective
@@ -158608,7 +158536,7 @@ všili
 vším
 všímanie/VN po:noun is:neuter
 všímať/XN po:verb
-všímavo
+všímavo/N po:adverb
 všímavosť/K po:noun is:feminine
 všímavý/YN po:adjective
 všimné
@@ -158719,7 +158647,7 @@ vtielka
 vtieranie/V po:noun is:neuter
 vtierať/XN po:verb
 vtieravec
-vtieravo
+vtieravo/N po:adverb
 vtieravosť/K po:noun is:feminine
 vtieravý/YN po:adjective
 vtínať
@@ -164751,7 +164679,7 @@ vzdávaná
 vzdávanie/V po:noun is:neuter
 vzdávať/XN po:verb
 vzdelancov/Y po:adjective
-vzdelane
+vzdelane/N po:adverb
 vzdelanec/C po:noun is:masculine
 vzdelanecký/YN po:adjective
 vzdelanie/V po:noun is:neuter
@@ -167884,7 +167812,7 @@ záletníctvo
 záletník/C po:noun is:masculine
 záletníkov/Y po:adjective
 záletný/YN po:adjective
-záletov is:zálety is:genitive is:plural
+záletov po:noun is:masculine st:zálety is:genitive is:plural
 zaletovaný/YN po:adjective
 zaletovať/WN po:verb
 zálety/q po:noun is:masculine
@@ -170451,7 +170379,7 @@ zatíchalo
 zatícham
 zatíchame
 zatíchaš
-zatíchať
+zatíchať/N po:adverb
 zatíchate
 zatíchnuť/WN
 zatikal
@@ -171390,7 +171318,7 @@ zažívací/I po:adjective
 zažívaná
 zažívanie/V po:noun is:neuter
 zažívať/XN po:verb
-záživne
+záživne/N po:adverb
 záživný/YN po:adjective
 zažltnúť/WN
 zažltnutá
@@ -172069,7 +171997,7 @@ zdravíčko/M po:noun is:neuter
 zdravie/V po:noun is:neuter
 zdraviť/EN po:verb
 zdravkať/EN po:verb
-zdravo
+zdravo/N po:adverb
 zdravosť/K po:noun is:feminine
 zdravot
 zdravotne/YN po:adjective
@@ -174498,7 +174426,7 @@ znásobovaný/YN po:adjective
 znásobovať/WN po:verb
 znášajúci
 znášanie/V po:noun is:neuter
-znášanlivo
+znášanlivo/N po:adverb
 znášanlivosť/K po:noun is:feminine
 znášanlivý/YN po:adjective
 znášaný/YN po:adjective
@@ -178308,7 +178236,7 @@ zžívať/XN po:verb
 žičiť/EN po:verb
 žičlivcov/Y po:adjective
 žičlivec/C po:noun is:masculine
-žičlivo
+žičlivo/N po:adverb
 žičlivosť/K po:noun is:feminine
 žičlivý/YN po:adjective
 žid/c po:noun is:masculine
@@ -178506,7 +178434,7 @@ zžívať/XN po:verb
 živnostník/C po:noun is:masculine
 živnostníkov/Y po:adjective
 živný/YN po:adjective
-živo
+živo/N po:adverb
 živobytie/V po:noun is:neuter
 živočervená
 živočervené
