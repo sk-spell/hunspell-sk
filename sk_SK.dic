@@ -1,4 +1,4 @@
-178653
+178475
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -402,7 +402,7 @@ ADI po:acronym
 adiabatický/YN po:adjective
 adícia/U po:noun is:feminine
 adičný/YN po:adjective
-adidaska
+adidaska/zZ po:noun is:feminine
 adie
 adié
 Adiel
@@ -431,13 +431,11 @@ adjunktkách
 adjunktkám
 adjunktov/Y po:adjective
 adjunktský/YN po:adjective
-adjuntka
 adjustácia/U po:noun is:feminine
 adjustačný/YN po:adjective
 adjutant
 adjutum
 adjuvancie
-adjuvatika
 adlatus
 Adlera
 Adlerova
@@ -537,10 +535,7 @@ Adriánov/Y po:adjective
 adriatický/YN po:adjective
 Adrie
 Adrien
-Adriena
-Adrienou
-Adrienu
-Adrieny
+Adriena/zZ po:noun is:feminine
 adries
 Adrii
 Adrií
@@ -630,18 +625,15 @@ aerogén
 aerogeológia
 aerogram
 aerogramu
-aerohydrodynamika
+aerohydrodynamika/zZ po:noun is:feminine
 aeroklub/B po:noun is:masculine
 aerolínia/U po:noun is:feminine
 aerológia
 Aerom
 aeromagnetický/YN po:adjective
-aeromechanika
+aeromechanika/zZ po:noun is:feminine
 aeronautický/YN po:adjective
-aeronautika
-aeronautike
-aeronautiku
-aeronautiky
+aeronautika/zZ po:noun is:feminine
 aeronivelácia
 aeronómia
 aerootitída
@@ -669,10 +661,10 @@ aerosolovými
 aerosolu
 aerosoly
 aerostat
-aerostatika
+aerostatika/zZ po:noun is:feminine
 aerotaxi
 aerotaxík/B po:noun is:masculine
-Aerotechnika
+aerotechnika/zZ po:noun is:feminine
 aeroterapia
 aerotriangulácia
 aerovkou
@@ -757,8 +749,7 @@ Afrika/z po:noun is:feminine
 afrikán
 afrikánčina
 afrikanista
-afrikanistika
-afrikanistiky
+afrikanistika/zZ po:noun is:feminine
 afrikanizácia/U po:noun is:feminine
 Afrikánske
 afrikáta
@@ -767,7 +758,7 @@ afroamer
 afroamerický/YN po:adjective
 afrodit
 Afrodita/zZ po:noun is:feminine
-afroditka
+afroditka/zZ po:noun is:feminine
 afrodízia
 afrodiziák
 afrodiziakum/M po:noun is:neuter
@@ -931,12 +922,12 @@ agrobiológ/c po:noun is:masculine
 agrobiológia/U po:noun is:feminine
 agrobiologický/YN po:adjective
 agrobiologička/zZ po:noun is:feminine
-agrobotanika
+agrobotanika/zZ po:noun is:feminine
 agroekológia
 Agrofóra
 Agrofóre
 Agrofórum
-agrofyzika
+agrofyzika/zZ po:noun is:feminine
 agrogeológia
 agrochémia
 agrochémie
@@ -950,7 +941,7 @@ agrochémiou
 agrochémiu
 agrokombinát
 agrokomplex/B po:noun is:masculine
-agrokybernetika
+agrokybernetika/zZ po:noun is:feminine
 agrológ/c po:noun is:masculine
 agrológia
 agrometeorológia
@@ -1303,7 +1294,7 @@ akrylén/B po:noun is:masculine
 akrylonitril
 akrylový/YN po:adjective
 aksamiet/B po:noun is:masculine
-aksamietka
+aksamietka/zZ po:noun is:feminine
 aksamietnic
 aksamietnica/U po:noun is:feminine
 aksamietový/YN po:adjective
@@ -1381,8 +1372,7 @@ akulturácia
 akumulácia/U po:noun is:feminine
 akumulačný/YN po:adjective
 akumulátor/B po:noun is:masculine
-akumulátorka
-akumulátorky
+akumulátorka/zZ po:noun is:feminine
 akumulátorovňa/U po:noun is:feminine
 akumulátorovo
 akumulátorový/YN po:adjective
@@ -1429,19 +1419,19 @@ akvakultúra
 akvalung
 akvamarín/B po:noun is:masculine
 akvamarínový/YN po:adjective
-akvanautika
+akvanautika/zZ po:noun is:feminine
 akvapark
 akvaplán
 akvaplaning
 akvarel/B po:noun is:masculine
 akvarelista
-akvarelistka
+akvarelistka/zZ po:noun is:feminine
 akvarelmi
 akvarelový/YN po:adjective
 akváriový/YN po:adjective
 akvarista/H po:noun is:masculine
 akvaristický/YN po:adjective
-akvaristika
+akvaristika/zZ po:noun is:feminine
 akvaristov/Y po:adjective
 akvárium/M po:noun is:neuter
 akvaterárium
@@ -1524,8 +1514,8 @@ Albánec
 Albánie
 Albánii
 albanista
-albanistika
-Albánka
+albanistika/zZ po:noun is:feminine
+Albánka/zZ po:noun is:feminine
 albano
 Albánsko/M po:noun is:neuter
 albánsky/Y po:adjective
@@ -1582,7 +1572,7 @@ aldóza
 aldrín
 Aldus
 ale po:conjunction
-aleatorika
+aleatorika/zZ po:noun is:feminine
 aleatórny/YN po:adjective
 aleba
 alebo po:conjunction
@@ -1609,7 +1599,7 @@ alelopatia
 aleluja
 alemontit
 Alena/zZ po:noun is:feminine
-Alenka
+Alenka/zZ po:noun is:feminine
 alergén
 alergénmi
 alergénov
@@ -1705,7 +1695,7 @@ algrafia
 Alhambra
 alhidáha
 alch
-alchemilka
+alchemilka/zZ po:noun is:feminine
 alchýmia/U po:noun is:feminine
 alchymista/H po:noun is:masculine
 alchymistický/YN po:adjective
@@ -1759,8 +1749,7 @@ aljašský/YN po:adjective
 Aljašťan/c po:noun is:masculine
 Aljašťanka/zZ po:noun is:feminine
 Aljašťanov/Y po:adjective
-alka
-Alka
+alka/zZ po:noun is:feminine
 alkália
 alkalicelulózy
 alkalickosť/K po:noun is:feminine
@@ -1778,7 +1767,6 @@ alkán
 alkánoch
 alkánov
 alkány
-alke
 alkén
 alkín
 alkohol/B po:noun is:masculine
@@ -1798,8 +1786,6 @@ alkoholýza
 alkohomer
 alkovňa
 alkoxid
-alku
-Alky
 alkyd
 alkyl
 alkylácia/U po:noun is:feminine
@@ -1880,7 +1866,7 @@ alopatický/YN po:adjective
 alopatov/Y po:adjective
 alopatria
 alopécia
-aloplastika
+aloplastika/zZ po:noun is:feminine
 Aľoša
 alotrium
 alotropia
@@ -1900,7 +1886,7 @@ Alpine
 alpínec
 alpinista/H po:noun is:masculine
 alpinistický/YN po:adjective
-alpinistika
+alpinistika/zZ po:noun is:feminine
 alpinistka/zZ po:noun is:feminine
 alpinistov/Y po:adjective
 alpinizmus/B po:noun is:masculine
@@ -2006,24 +1992,11 @@ alžbetínka/zZ po:noun is:feminine
 Alžbetinom
 alžbetínsky/YN po:adjective
 Alžbetinu
-Alžbetka
-Alžbetke
+Alžbetka/zZ po:noun is:feminine
 Alžír/B po:noun is:masculine
-Alžírka
-alžírska
-alžírske
-alžírskeho
-alžírskej
-alžírskemu
-alžírski
+Alžírka/zZ po:noun is:feminine
 Alžírsko/M po:noun is:neuter
-alžírskom
-alžírskou
-alžírsku
-alžírsky
-alžírskych
-alžírskym
-alžírskymi
+alžírsky/YN po:adjective
 am
 AM po:acronym
 amabile
@@ -2046,9 +2019,9 @@ amanuensis
 amara
 amarant
 amarantit
-amarelka
+amarelka/zZ po:noun is:feminine
 amarilitit
-amarylka
+amarylka/zZ po:noun is:feminine
 amatér/C po:noun is:masculine
 amaterizmus/B po:noun is:masculine
 amatérka/zZ po:noun is:feminine
@@ -2130,18 +2103,16 @@ amenorea
 amer
 amerícium
 Americko
-americky
+americky/N po:adverb
 americký/YN po:adjective
 Američan/c po:noun is:masculine
 Američanka/zZ po:noun is:feminine
 Američanov/Y po:adjective
-amerika
 Amerika/zZ po:noun is:feminine
 amerikán
 Amerikán/C po:noun is:masculine
 amerikanista
-amerikanistika
-amerikanistiku
+amerikanistika/zZ po:noun is:feminine
 amerikanizácia/U po:noun is:feminine
 amerikanizmus/B po:noun is:masculine
 amerikanizovaný/YN po:adjective
@@ -2341,7 +2312,7 @@ anakond
 anakonda/zZ po:noun is:feminine
 Anakreón/c po:noun is:masculine
 Anakreónov/Y po:adjective
-anakreontika
+anakreontika/zZ po:noun is:feminine
 anakúzia
 anál
 Aňala
@@ -2362,7 +2333,7 @@ analgia
 análi
 analista/H po:noun is:masculine
 analistický/YN po:adjective
-analistika
+analistika/zZ po:noun is:feminine
 analistov/Y po:adjective
 análny/YN po:adjective
 analog
@@ -2465,7 +2436,6 @@ Ančí
 Ančina
 Ančine
 ančovička/zZ po:noun is:feminine
-ančovka
 Anču
 and
 Ánd
@@ -2479,7 +2449,7 @@ andalúzsky
 Andami
 andante
 Andela
-Andelka
+Andelka/zZ po:noun is:feminine
 andezit/B po:noun is:masculine
 andezitový/YN po:adjective
 Andice
@@ -2489,15 +2459,16 @@ andorrský/YN po:adjective
 Andovce
 Andovská
 andradit
-andragogika
+andragogika/zZ po:noun is:feminine
 Andraščíkova
 Andrea/zZ po:noun is:feminine
 Andrej/c po:noun is:masculine
-Andrejka
-Andrejku
+Andrejka/zZ po:noun is:feminine
 Andrejov/Y po:adjective
-Andrejová/Y po:adjective
-Andrejovka
+Andrejová po:noun is:feminine
+Andrejovčan/c po:noun is:masculine
+Andrejovčanka/zZ po:noun is:feminine
+andrejovský/YN po:adjective
 andrewsit
 Andriana
 androblastóm
@@ -2588,7 +2559,7 @@ angínový/YN po:adjective
 angiografia
 angiológia
 angióm
-angioplastika
+angioplastika/zZ po:noun is:feminine
 angiorexa
 angiorexia
 angiospazmus
@@ -2602,10 +2573,7 @@ anglicky/N po:adverb
 anglický/YN po:adjective
 angličan
 Angličan/c po:noun is:masculine
-Angličanka
-Angličanke
-Angličanku
-Angličanky
+Angličanka/zZ po:noun is:feminine
 Angličanov/Y po:adjective
 angličtín
 angličtina/z po:noun is:feminine
@@ -2717,8 +2685,7 @@ aníz/B po:noun is:masculine
 anizochrónny/YN po:adjective
 anizometropia
 anizotropia
-anízoviek
-anízovka
+anízovka/zZ po:noun is:feminine
 anízový/YN po:adjective
 anjel/C po:noun is:masculine
 anjeliček/c po:noun is:masculine
@@ -2728,7 +2695,6 @@ anjeličkoch
 anjeličkom
 anjeličkov/Y po:adjective
 anjeličkovia
-anjeličky
 anjelik/C po:noun is:masculine
 anjelikov/Y po:adjective
 anjeliky
@@ -2795,8 +2761,7 @@ anoretikum
 anorexia
 anorg
 anorganický/YN po:adjective
-anorganika
-Anorganika
+anorganika/zZ po:noun is:feminine
 anorgazmia
 anormalita
 anormálny/YN po:adjective
@@ -2934,9 +2899,7 @@ antigravitácia
 Antigua/zZ po:noun is:feminine
 Antigue
 antihalačný/YN po:adjective
-antihistaminika
-antihistaminiká
-antihistaminikum
+antihistaminikum/M po:noun is:neuter
 antihistorizmus/B po:noun is:masculine
 antihmota/zZ po:noun is:feminine
 antihmôt
@@ -2978,7 +2941,7 @@ antikvark
 antikvárny/YN po:adjective
 antikvita
 antikvovať/WN po:verb
-antilátka
+antilátka/zZ po:noun is:feminine
 Antilčan/c po:noun is:feminine
 Antilčanka/zZ po:noun is:feminine
 Antiliberálna
@@ -3034,10 +2997,7 @@ antipyretickými
 antipyretikum
 antiquark
 antireflexný/YN po:adjective
-antireumatika
-antireumatiká
-antireumatiku
-antireumatikum
+antireumatikum/M po:noun is:neuter
 antiromán/B po:noun is:masculine
 antisemita/H po:noun is:masculine
 antisemitista/H po:noun is:masculine
@@ -3114,14 +3074,14 @@ antropofágia
 antropofilný/YN po:adjective
 antropofóbia
 antropofyl
-antropogenetika
+antropogenetika/zZ po:noun is:feminine
 antropogenéza
 antropogénia
 antropogénny/YN po:adjective
 antropogeografia
 antropogogika
 antropoid
-antropokinetika
+antropokinetika/zZ po:noun is:feminine
 antropológ/c po:noun is:masculine
 antropológia/U po:noun is:feminine
 antropologický/Y po:adjective
@@ -3135,8 +3095,8 @@ antropomorfizácia
 antropomorfizmus/B po:noun is:masculine
 antropomorfne
 antropomorfný/YN po:adjective
-antropomotorika
-antroponomastika
+antropomotorika/zZ po:noun is:feminine
+antroponomastika/zZ po:noun is:feminine
 antroposociológia
 antropozofia
 antropozoikum
@@ -3195,7 +3155,7 @@ apartmán/B po:noun is:masculine
 apartnosť/K po:noun is:feminine
 apartný/YN po:adjective
 apastron
-apatéka
+apatéka/zZ po:noun is:feminine
 apatekár
 apatia/U po:noun is:feminine
 apatickosť/K po:noun is:feminine
@@ -3342,7 +3302,6 @@ apoštolát/B po:noun is:masculine
 apoštolov/Y po:adjective
 apoštolovia
 apoštolský/YN po:adjective
-apotéka
 apoteóz
 apoteóza/zZ po:noun is:feminine
 apoteózach
@@ -3364,10 +3323,10 @@ aprehenzívny/YN po:adjective
 apretácia/U po:noun is:feminine
 apretačný/Y po:adjective
 apretátor
-apretátorka
+apretátorka/zZ po:noun is:feminine
 apretátorský/YN po:adjective
 apretor/C po:noun is:masculine
-apretorka
+apretorka/zZ po:noun is:feminine
 apretorov/Y po:adjective
 apretorský/YN po:adjective
 apretovacích
@@ -3432,8 +3391,7 @@ arabistika/zZ po:noun is:feminine
 arabistka/zZ po:noun is:feminine
 arabistov/Y po:adjective
 arabizmus/B po:noun is:masculine
-Arabka
-Arabky
+Arabka/zZ po:noun is:feminine
 arabmi
 arabom
 arabov
@@ -3465,19 +3423,7 @@ Arany
 aranžér/C po:noun is:masculine
 aranžérka/zZ po:noun is:feminine
 aranžérov/Y po:adjective
-aranžérska
-aranžérske
-aranžérskeho
-aranžérskej
-aranžérskemu
-aranžérski
-aranžérskom
-aranžérskou
-aranžérsku
-aranžérsky
-aranžérskych
-aranžérskym
-aranžérskymi
+aranžérsky/YN po:adjective
 aranžérstvach
 aranžérstvam
 aranžérstvo/M po:noun is:neuter
@@ -3539,7 +3485,7 @@ areálmi
 areálový/Y po:adjective
 áredátor
 areflexia
-areka
+areka/zZ po:noun is:feminine
 arela
 arén
 aréna/zZ po:noun is:feminine
@@ -3547,7 +3493,7 @@ arénach
 arénam
 árenda/zZ po:noun is:feminine
 árendátor/C po:noun is:masculine
-árendátorka
+árendátorka/zZ po:noun is:feminine
 árendátorov/Y po:adjective
 árendátorský/YN po:adjective
 árenduje
@@ -3574,7 +3520,7 @@ Argenta
 argentan
 Argentína/zZ po:noun is:feminine
 Argentínca
-Argentínka
+Argentínka/zZ po:noun is:feminine
 argentínsky/Y po:adjective
 argentit
 argentopyri
@@ -3772,9 +3718,9 @@ Arméni
 Arménia
 Arménie
 Arménii
-armenistika
+armenistika/zZ po:noun is:feminine
 armenit
-Arménka
+Arménka/zZ po:noun is:feminine
 Arménmi
 Arménom
 Arménov
@@ -3878,7 +3824,7 @@ artilerista
 artileristický/YN po:adjective
 artista/H po:noun is:masculine
 artistický/YN po:adjective
-artistika
+artistika/zZ po:noun is:feminine
 artistka/zZ po:noun is:feminine
 artistný/YN po:adjective
 artistov/Y po:adjective
@@ -3887,7 +3833,7 @@ artizmus/B po:noun is:masculine
 artmi
 artoch
 artom
-artotéka
+artotéka/zZ po:noun is:feminine
 artov
 artový/YN po:adjective
 artralgia
@@ -3940,7 +3886,7 @@ aseizmický/YN po:adjective
 asekurácia
 asekurovať/WN po:verb
 asembler
-asentírka
+asentírka/zZ po:noun is:feminine
 asepsa
 asepticky
 aseptický/YN po:adjective
@@ -4097,19 +4043,14 @@ astrách
 astrachán
 Astrachán/B po:noun is:masculine
 astrachanit
-Astrachánska
-Astrachánskeho
-Astrachánskej
-Astrachánskou
-Astrachánsku
-astrachánsky
+astrachánsky/YN po:adjective
 astrálny/YN po:adjective
 astrám
 Astrida
 Astride
 Astridu
 Astrina
-astrionika
+astrionika/zZ po:noun is:feminine
 astro
 astroarcheológia
 astrobiológia
@@ -4161,8 +4102,7 @@ astúrsky
 Asu
 Asunción
 Asuncióne
-asunciónska
-asunciónsky
+asunciónsky/YN po:adjective
 asymetria/U po:noun is:feminine
 asymetrickosť/K po:noun is:feminine
 asymetricky
@@ -4272,8 +4212,7 @@ atetéza
 Athos
 atický/YN po:adjective
 atičtina/z po:noun is:feminine
-atika
-Atika
+atika/zZ po:noun is:feminine
 atikový/YN po:adjective
 atila
 atitúda
@@ -4322,7 +4261,7 @@ atomický/Y po:adjective
 atomista/H po:noun is:masculine
 atomisticky
 atomistický/Y po:adjective
-atomistika
+atomistika/zZ po:noun is:feminine
 atomistov/Y po:adjective
 atómium
 atomizácia/U po:noun is:feminine
@@ -4598,7 +4537,7 @@ Autodrom
 autodróm/B po:noun is:masculine
 autodrome
 Autodromu
-autoerotika
+autoerotika/zZ po:noun is:feminine
 autoerotizmus/B po:noun is:masculine
 autofokus
 autofónia
@@ -4631,7 +4570,7 @@ autochtonizmus/B po:noun is:masculine
 autochtónnosť/K po:noun is:feminine
 autochtónny/YN po:adjective
 autointoxikácia
-autoka
+autoka/zZ po:noun is:feminine
 autokar/B po:noun is:masculine
 autokarový/Y po:adjective
 autokefália
@@ -4665,7 +4604,7 @@ autokrat/C po:noun is:masculine
 autokraticky
 autokratický/Y po:adjective
 autokratov/Y po:adjective
-autokritika
+autokritika/zZ po:noun is:feminine
 autokros/B po:noun is:masculine
 autolakov
 autolaky
@@ -4713,7 +4652,7 @@ autonehoda/zZ po:noun is:feminine
 autonómia/U po:noun is:feminine
 autonomista/H po:noun is:masculine
 autonomistický/YN po:adjective
-autonomistka
+autonomistka/zZ po:noun is:feminine
 autonomistov/Y po:adjective
 autonomizmus/B po:noun is:masculine
 autonómnosť/K po:noun is:feminine
@@ -4850,16 +4789,14 @@ AVG
 AVI
 aviatický/YN po:adjective
 aviatik
-aviatika
-aviatike
-aviatiky
+aviatika/zZ po:noun is:feminine
 avicennit
 avifauna
 avigácia
 avikultúra
 avion
 avión
-avionika
+avionika/zZ po:noun is:feminine
 aviril/B po:noun is:masculine
 avirulencia
 avitaminóz
@@ -4900,7 +4837,7 @@ axióma/zZ po:noun is:feminine
 axiómach
 axiómam
 axiomatický/Y po:adjective
-axiomatika
+axiomatika/zZ po:noun is:feminine
 axon
 axonometria
 axoplazma
@@ -5117,9 +5054,9 @@ Babulicová/Y po:adjective
 babuľka/zZ po:noun is:feminine
 baburiatko/M po:noun is:neuter
 baburiatok
-Babuša
+babuša/zZ po:noun is:feminine
 babušiť/EN po:verb
-Babuška
+babuška/zZ po:noun is:feminine
 babylon/B po:noun is:masculine
 Babylonca
 Babylonci
@@ -5212,10 +5149,7 @@ badinage
 badináž
 Badíne
 Badínom
-Badínska
-Badínskemu
-Badínsky
-badínskych
+badínsky/YN po:adjective
 badká
 badkaj
 badkajme
@@ -5290,7 +5224,7 @@ bagetka/zZ po:noun is:feminine
 bagetový/YN po:adjective
 bago
 bagrista/H po:noun is:masculine
-bagristka
+bagristka/zZ po:noun is:feminine
 bagristov/Y po:adjective
 bagrovacia
 bagrovacie
@@ -5427,7 +5361,7 @@ bakelit/B po:noun is:masculine
 bakelitmi
 bakelitový/Y po:adjective
 bakchanálie/Q po:noun is:feminine
-bakchantka
+bakchantka/zZ po:noun is:feminine
 bakchantský/YN po:adjective
 bakchický/YN po:adjective
 Bakchovho
@@ -5484,7 +5418,7 @@ baladickosť/K po:noun is:feminine
 baladicky
 baladický/YN po:adjective
 baladik
-baladika
+baladika/zZ po:noun is:feminine
 Baladin
 baláchanie/V po:noun is:neuter
 baláchať/XN po:verb
@@ -5568,7 +5502,7 @@ balisty
 baliť/EN po:verb
 balka/zZ po:noun is:feminine
 Balkán/B po:noun is:masculine
-balkanistika
+balkanistika/zZ po:noun is:feminine
 balkanizácia/U po:noun is:feminine
 balkanizačný/YN po:adjective
 balkanizmus
@@ -5592,9 +5526,8 @@ balneológ/c po:noun is:masculine
 balneológia/U po:noun is:feminine
 Balneologicky
 balneologický/YN po:adjective
-balneotechnika
+balneotechnika/zZ po:noun is:feminine
 balneotechnikov
-balneotechniky
 balneoterapeutický/YN po:adjective
 balneoterapia/U po:noun is:feminine
 balným
@@ -5602,7 +5535,7 @@ Baloň
 balón/B po:noun is:masculine
 baloniak/B po:noun is:masculine
 balónik/B po:noun is:masculine
-balonistika
+balonistika/zZ po:noun is:feminine
 balónový/YN po:adjective
 balotáž
 balotína
@@ -5618,7 +5551,7 @@ baltimorskej
 baltimorskí
 baltimorskú
 baltista
-baltistika
+baltistika/zZ po:noun is:feminine
 Baltkom
 Baltom
 baltský/YN po:adjective
@@ -5646,9 +5579,7 @@ bambolo
 bambuch
 bambus/B po:noun is:masculine
 bambusa
-Bambusiek
-bambuska
-Bambusky
+bambuska/zZ po:noun is:feminine
 bambusový/YN po:adjective
 ban
 bán/C po:noun is:masculine
@@ -5672,9 +5603,9 @@ banauzický/YN po:adjective
 bánd
 banda/zZ po:noun is:feminine
 bandalír
-bandaska
+bandaska/zZ po:noun is:feminine
 bandáž/D po:noun is:feminine
-bandážistika
+bandážistika/zZ po:noun is:feminine
 bandážne
 bandážneho
 banderila
@@ -5767,7 +5698,7 @@ bansky
 banský/YN po:adjective
 bant
 bantam
-bantamka
+bantamka/zZ po:noun is:feminine
 bantovať/WN po:verb
 Bantuské
 bantustan
@@ -5825,7 +5756,7 @@ baraní/I po:adjective
 baranica/U po:noun is:feminine
 baranidlo/M po:noun is:neuter
 baranina/zZ po:noun is:feminine
-baraninka
+baraninka/zZ po:noun is:feminine
 baránka
 baránkami
 baránkoch
@@ -5861,7 +5792,7 @@ barbiturát/B po:noun is:masculine
 Barbora/zZ po:noun is:feminine
 Barboráš
 Barborášom
-Barborka
+Barborka/zZ po:noun is:feminine
 Barbôr
 Barbuda/zZ po:noun is:feminine
 Barca
@@ -5942,7 +5873,7 @@ barlí
 barlička/zZ po:noun is:feminine
 Barma
 barman/C po:noun is:masculine
-barmanka
+barmanka/zZ po:noun is:feminine
 barmanov/Y po:adjective
 barmanský/YN po:adjective
 Barme
@@ -5950,7 +5881,7 @@ Barmu
 Barmy
 Barnabáš/C po:noun is:masculine
 Barnabášov/Y po:adjective
-barnabitka
+barnabitka/zZ po:noun is:feminine
 barnavo
 barnavý/YN po:adjective
 Barnu
@@ -5969,7 +5900,7 @@ barón/B po:noun is:masculine
 barones
 baronesa/zZ po:noun is:feminine
 baronet
-baronetka
+baronetka/zZ po:noun is:feminine
 baróni
 barónka/zZ po:noun is:feminine
 barónkin/Y po:adjective
@@ -6077,7 +6008,7 @@ básničkár
 básnik/C po:noun is:masculine
 básnikov/Y po:adjective
 básniť/XN po:verb
-basordyka
+basordyka/zZ po:noun is:feminine
 basorkáňoš
 basový/YN po:adjective
 Basra/z po:noun is:feminine
@@ -6194,7 +6125,7 @@ Bavor
 Bavora
 Bavoráci
 Bavori
-Bavorka
+Bavorka/zZ po:noun is:feminine
 Bavorom
 Bavorov
 Bavorova
@@ -6395,7 +6326,7 @@ Behynce
 Behynciach
 Becherov
 Becherova
-becherovka
+becherovka/zZ po:noun is:feminine
 becherovská
 bechterev
 BEI po:acronym
@@ -6484,14 +6415,7 @@ belgický/Y po:adjective
 Belgie
 Belgii
 Belgií
-Belianska
-Belianske
-Belianskeho
-Belianskej
-Belianskou
-Beliansky
-Belianskych
-Belianskymi
+beliansky/YN po:adjective
 belica/U po:noun is:feminine
 belieť/XN po:verb
 Belín
@@ -6584,7 +6508,7 @@ benedikcia
 Benedikt
 Benedikta
 benediktín/C po:noun is:masculine
-benediktínka
+benediktínka/zZ po:noun is:feminine
 benediktínov/Y po:adjective
 benediktínsky/YN po:adjective
 benefície
@@ -6669,19 +6593,7 @@ berlina
 Berlina
 Berline
 berlinetta
-berlínska
-berlínske
-berlínskeho
-berlínskej
-berlínskemu
-berlínski
-berlínskom
-berlínskou
-berlínsku
-berlínsky
-berlínskych
-berlínskym
-berlínskymi
+berlínsky/YN po:adjective
 bermudový/YN po:adjective
 bermudský/YN po:adjective
 bermudy/Q po:noun is:feminine
@@ -6797,8 +6709,7 @@ beťárstvam
 beťárstvo/M po:noun is:neuter
 betatrón/B po:noun is:masculine
 Betina
-Betka
-Betku
+Betka/zZ po:noun is:feminine
 betla
 betlehem/B po:noun is:masculine
 Betlehem/B po:noun is:masculine
@@ -6820,9 +6731,7 @@ betlehemský/YN po:adjective
 Betliar
 Betliara
 Betliari
-Betliarska
-Betliarskej
-Betliarsky
+betliarsky/YN po:adjective
 betón/B po:noun is:masculine
 betonár/C po:noun is:masculine
 betonáreň/D po:noun is:feminine
@@ -7293,7 +7202,7 @@ bibliografov/Y po:adjective
 bibliológia
 bibliománia
 bibliomantia
-bibliopedagogika
+bibliopedagogika/zZ po:noun is:feminine
 bibliopsychológia
 biblioték
 bibliotéka/zZ po:noun is:feminine
@@ -7317,8 +7226,7 @@ bicyklebalista/H po:noun is:masculine
 bicyklebalistov/Y po:adjective
 bicyklebalmi
 bicyklebalový/Y po:adjective
-bicyklíka
-bicyklíkov
+bicyklík/B po:noun is:masculine
 bicyklista/H po:noun is:masculine
 bicyklistka/zZ po:noun is:feminine
 bicyklistov/Y po:adjective
@@ -7546,7 +7454,7 @@ bíňovskí
 Bíňovský/YN po:adjective
 binturong
 bioaktivácia
-bioakustika
+bioakustika/zZ po:noun is:feminine
 biocenológia
 biocenóza/zZ po:noun is:feminine
 biocentrický/YN po:adjective
@@ -7585,7 +7493,7 @@ biochemik/C po:noun is:masculine
 biochemikov/Y po:adjective
 bioinžinierstvo/M po:noun is:neuter
 biokatalyzátor
-biokinetika
+biokinetika/zZ po:noun is:feminine
 bioklíma
 bioklimatológia
 biokompatibilita/zZ po:noun is:feminine
@@ -7608,11 +7516,10 @@ biometeorologický/YN po:adjective
 biometria/U po:noun is:feminine
 biometricky
 biometrický/YN po:adjective
-biometrika
+biometrika/zZ po:noun is:feminine
 bionáft
 bionafta/zZ po:noun is:feminine
-bionika
-bioniky
+bionika/zZ po:noun is:feminine
 biont
 bioplaziem
 bioplazma/zZ po:noun is:feminine
@@ -7644,19 +7551,18 @@ biosféram
 biosférický/YN po:adjective
 Bioskop
 Bioskopu
-biostatika
+biostatika/zZ po:noun is:feminine
 biostatikum
 biostimulácia
 biostratigrafia
 biosyntéza
 biosystém
-bioštatistika
+bioštatistika/zZ po:noun is:feminine
 biota
 biotar
 biotaxia
 biotechnik
-biotechnika
-biotechniky
+biotechnika/zZ po:noun is:feminine
 biotechnológia/U po:noun is:feminine
 bioterapia
 biotest
@@ -7872,7 +7778,7 @@ blanka/zZ po:noun is:feminine
 Blanka/zZ po:noun is:feminine
 blanketa/zZ po:noun is:feminine
 blanketový/YN po:adjective
-blankozmenka
+blankozmenka/zZ po:noun is:feminine
 blankvers/B po:noun is:masculine
 blankyt/B po:noun is:masculine
 blankytmi
@@ -7947,11 +7853,9 @@ blažený/YN po:adjective
 Blažice
 blažiť/EN po:verb
 blaživý/YN po:adjective
-Blažka
-Blažke
+Blažka/zZ po:noun is:feminine
 Blažkov
 Blažková/Y po:adjective
-Blažku
 Blažov
 Blažovce
 Blažovská
@@ -8510,18 +8414,7 @@ bohumilý/YN po:adjective
 Bohumín
 Bohumíne
 Bohumínom
-bohumínska
-bohumínske
-bohumínskeho
-bohumínskej
-bohumínskemu
-bohumínski
-bohumínskom
-bohumínskou
-bohumínsku
-bohumínsky
-bohumínskych
-bohumínskym
+bohumínsky/YN po:adjective
 Bohumínu
 Bohumír/c po:noun is:masculine
 Bohumíre
@@ -8591,7 +8484,7 @@ bojachtivosť/K po:noun is:feminine
 bojachtivý/YN po:adjective
 bójam
 bojar/C po:noun is:masculine
-bojarka
+bojarka/zZ po:noun is:feminine
 bojarov/Y po:adjective
 bojarský/YN po:adjective
 bojarstvo/M po:noun is:neuter
@@ -8607,7 +8500,7 @@ bójí
 bojísk
 bojisko/M po:noun is:neuter
 Bojišti
-bójka
+bójka/zZ po:noun is:feminine
 bojko/c po:noun is:masculine
 bojkot/B po:noun is:masculine
 bojkotmi
@@ -8628,7 +8521,6 @@ bojnickými
 Bojničiek
 Bojničkách
 Bojničky
-bójok
 bojova
 bojovanie/VN po:noun is:neuter
 bojovať/WN po:verb
@@ -8673,10 +8565,7 @@ bolengať/EN po:verb
 bolenie/V po:noun is:neuter
 boler
 boleráz/B po:noun is:masculine
-bolerázska
-bolerázske
-bolerázskeho
-bolerázskej
+bolerázsky/YN po:adjective
 boleriek
 bolerko/M po:noun is:neuter
 bolero/M po:noun is:neuter
@@ -8790,8 +8679,7 @@ bonboniér
 bonboniéra/zZ po:noun is:feminine
 bonboniérach
 bonboniéram
-bonboniérka
-bonboniérky
+bonboniérka/zZ po:noun is:feminine
 bonbónik/B po:noun is:masculine
 bond
 Bondra/H po:noun is:masculine
@@ -8887,9 +8775,7 @@ borievčina
 borievka/zZ po:noun is:feminine
 borievkový/YN po:adjective
 borina/zZ po:noun is:feminine
-Borinka
-Borinke
-Borinky
+Borinka/zZ po:noun is:feminine
 Boris/c po:noun is:masculine
 Borislav
 Borislava
@@ -8921,7 +8807,7 @@ borovičkový/YN po:adjective
 boroviek
 Borovina
 Borovine
-Borovka
+Borovka/zZ po:noun is:feminine
 Borovnici
 Borovský/YN po:adjective
 borovských
@@ -8956,7 +8842,7 @@ bosenský/YN po:adjective
 bosket
 bosky
 Bosna/z po:noun is:feminine
-Bosniačka
+Bosniačka/zZ po:noun is:feminine
 bosniak/B po:noun is:masculine
 Bosnianské
 bosniansky/YN po:adjective
@@ -8984,9 +8870,8 @@ boš
 Bošáca
 Bošáce
 Bošáci
-Bošácka
-Bošáckej
 bošácku
+Bošácky/YN po:adjective
 bošáckych
 Bošácu
 Bošanoch
@@ -9081,7 +8966,7 @@ Božidarách
 Božidarám
 Božidarami
 božiť/EN po:verb
-Božka
+Božka/zZ po:noun is:feminine
 božskosť/K po:noun is:feminine
 božsky/N po:adverb
 božský/YN po:adjective
@@ -9100,7 +8985,7 @@ bôľové
 bôr/B po:noun is:masculine
 bôre
 bôrik/B po:noun is:masculine
-Bôrka
+Bôrka/zZ po:noun is:feminine
 bôrmi
 bôroch
 bôrom
@@ -9114,7 +8999,7 @@ Bq
 br
 bŕ
 BRA po:acronym
-brabantka
+brabantka/zZ po:noun is:feminine
 Brač/J po:noun is:masculine
 braček/c po:noun is:masculine
 bračekov/Y po:adjective
@@ -9150,7 +9035,7 @@ bradypnoa
 Brahma
 Bráhma
 brahman/C po:noun is:masculine
-brahmanka
+brahmanka/zZ po:noun is:feminine
 brahmanov/Y po:adjective
 brahmanský/YN po:adjective
 brahmanstvo/M po:noun is:neuter
@@ -9244,14 +9129,7 @@ Brašna
 brašňa
 brašnár/C po:noun is:masculine
 brašnárov/Y po:adjective
-brašnárska
-brašnárske
-brašnárskeho
-brašnárskej
-brašnárskou
-brašnársky
-brašnárskych
-brašnárskym
+brašnársky/YN po:adjective
 brašnárstvach
 brašnárstvam
 brašnárstvo/M po:noun is:neuter
@@ -9455,7 +9333,7 @@ brešúc
 bretón
 bretónčina
 Bretónec
-Bretónka
+Bretónka/zZ po:noun is:feminine
 Bretónsko/M po:noun is:neuter
 bretónsky/Y po:adjective
 breve
@@ -9599,10 +9477,9 @@ Bristolu
 brit/C po:noun is:masculine
 Brit/C po:noun is:masculine
 Británia/U po:noun is:feminine
-Britka
+Britka/zZ po:noun is:feminine
 britko/N po:adverb
 britkosť/K po:noun is:feminine
-Britky
 britký/YN po:adjective
 Britov/Y po:adjective
 Britovia
@@ -9685,10 +9562,10 @@ brodskej
 brodskú
 Brodsky
 Brodský/YN po:adjective
-Brodzianska
 Brodzianske
 Brodzianskej
 Brodzianskou
+brodziansky
 brojenie/V po:noun is:neuter
 brojiť/EN po:verb
 brojler/B po:noun is:masculine
@@ -9847,17 +9724,7 @@ Brunovský/YN po:adjective
 Bruntál
 Bruntále
 Bruntálom
-Bruntálska
-bruntálske
-bruntálskeho
-bruntálskej
-bruntálski
-Bruntálskom
-bruntálskou
-Bruntálsku
-bruntálsky
-bruntálskych
-bruntálskym
+bruntálsky/YN po:adjective
 Bruntálu
 Bruntály
 brús/B po:noun is:masculine
@@ -9968,11 +9835,11 @@ BU po:acronym
 BÚ po:acronym
 bubák/C po:noun is:masculine
 bubákov/Y po:adjective
-Bubáková/Y po:adjective
+bubákový/Y po:adjective
 bubáky
-bubenícky
-bubeníček
-Bubeníčka
+bubenícky/YN po:adjective
+bubeníček/c po:noun is:masculine
+bubeníčka/zZ po:noun is:feminine
 bubeník/C po:noun is:masculine
 bubeníkov/Y po:adjective
 Bubeníková/Y po:adjective
@@ -10049,12 +9916,7 @@ Bučiansky
 búčie
 búčik/B po:noun is:masculine
 bučina/zZ po:noun is:feminine
-Bučiniek
-bučinka
-bučinkách
-bučinkami
-bučinku
-bučinky
+bučinka/zZ po:noun is:feminine
 bučinový/YN po:adjective
 bučka
 búčka
@@ -10091,11 +9953,7 @@ Budapeštianka/zZ po:noun is:feminine
 budapeštiansky/Y po:adjective
 Budatín
 Budatíne
-Budatínska
-Budatínskej
-Budatínskou
-Budatínsku
-Budatínsky
+budatínsky/YN po:adjective
 Budča
 Budče
 Budči
@@ -10192,8 +10050,7 @@ buenosairesky
 buenosaireský/YN po:adjective
 bufet/B po:noun is:masculine
 bufetár/C po:noun is:masculine
-bufetárka
-bufetárky
+bufetárka/zZ po:noun is:feminine
 bufetárov/Y po:adjective
 bufetový/Y po:adjective
 buffa
@@ -10277,8 +10134,7 @@ bukolický/YN po:adjective
 bukovanie/VN po:noun is:neuter
 Bukovina
 Bukovine
-Bukovinka
-Bukovinke
+Bukovinka/zZ po:noun is:feminine
 Bukovinou
 bukovo
 Bukovský/YN po:adjective
@@ -10320,9 +10176,8 @@ bulharčinách
 bulharčinám
 bulharčinami
 Bulhari
-bulharistika
-Bulharka
-Bulharky
+bulharistika/zZ po:noun is:feminine
+Bulharka/zZ po:noun is:feminine
 Bulharmi
 Bulharoch
 Bulharom
@@ -10340,8 +10195,7 @@ bulvár/J po:noun is:masculine
 bulvármi
 bulvárny/YN po:adjective
 bum
-bumážka
-bumážky
+bumážka/zZ po:noun is:feminine
 bumbaj/C po:noun is:masculine
 bumbajov/Y po:adjective
 Bumbala
@@ -10415,8 +10269,7 @@ burgundský/YN po:adjective
 burgyňa/U po:noun is:feminine
 búriaci/Y po:adjective
 Burián
-Buriatska
-Buriatskej
+buriatsky/YN po:adjective
 burič/C po:noun is:masculine
 burička/zZ po:noun is:feminine
 buričov/Y po:adjective
@@ -10476,8 +10329,7 @@ buržoázny/YN po:adjective
 buržoov/Y po:adjective
 buržuj/c po:noun is:masculine
 buržuji
-buržujka
-buržujky
+buržujka/zZ po:noun is:feminine
 buržujov/Y po:adjective
 buržujský/YN po:adjective
 buržuoch
@@ -10512,7 +10364,7 @@ bután/B po:noun is:masculine
 Butanol
 butánový/Y po:adjective
 buteľa
-buteľka
+buteľka/zZ po:noun is:feminine
 butik/B po:noun is:masculine
 butikový/YN po:adjective
 bútľavieť/XN po:verb
@@ -10542,9 +10394,7 @@ Buzica
 Buzice
 Buzici
 Buziciach
-Buzitka
-Buzitke
-Buzitky
+Buzitka/zZ po:noun is:feminine
 buzogaň
 buzogáň/J po:noun is:masculine
 buzola/zZ po:noun is:feminine
@@ -10578,7 +10428,7 @@ bylí
 bylina/zZ po:noun is:feminine
 bylinka/zZ po:noun is:feminine
 bylinkár/C po:noun is:masculine
-bylinkárka
+bylinkárka/zZ po:noun is:feminine
 bylinkárov/Y po:adjective
 bylinkárstvo/M po:noun is:neuter
 bylinkový/YN po:adjective
@@ -10608,7 +10458,7 @@ byrokratizáciu
 byrokratizmus/B po:noun is:masculine
 byrokratizovanie/VN po:noun is:neuter
 byrokratizovať/WN po:verb
-byrokratka
+byrokratka/zZ po:noun is:feminine
 byrokratov/Y po:adjective
 byronizmus/B po:noun is:masculine
 byronovský/YN po:adjective
@@ -10616,17 +10466,10 @@ Bys
 Bystranoch
 Bystrany
 Bystrian
-Bystrianska
-Bystrianskeho
-Bystrianskej
-Bystrianskemu
-Bystrianskou
-Bystriansku
-Bystriansky
-Bystrianskym
+bystriansky/YN po:adjective
 bystrica/U po:noun is:feminine
 Bystrica/U po:noun is:feminine
-Bystricky
+bystricky po:adverb
 bystrický/YN po:adjective
 bystrička/zZ po:noun is:feminine
 Bystrík/c po:noun is:masculine
@@ -10635,7 +10478,7 @@ bystrina/zZ po:noun is:feminine
 bystrinka/zZ po:noun is:feminine
 bystrinný/YN po:adjective
 bystriť/EN po:verb
-bystro
+bystro po:adverb
 bystrohlavý/YN po:adjective
 bystronohý/YN po:adjective
 bystrooký/YN po:adjective
@@ -10683,7 +10526,7 @@ byvolí/I po:adjective
 byvolovi
 Byzancia/U po:noun is:feminine
 byzantinizmus
-Byzantínka
+Byzantínka/zZ po:noun is:feminine
 byzantínskej
 byzantológia
 byzantský/YN po:adjective
@@ -11452,7 +11295,7 @@ cetán
 cetera
 Cetín
 cetyl
-cez
+cez po:conjunction
 cézar
 cézara
 Cézarom
@@ -19982,8 +19825,7 @@ dorichtovať/WN po:verb
 Dorin
 Dorina
 Dorinom
-Dorka
-Dorku
+Dorka/zZ po:noun is:feminine
 dormancia
 dormitár
 dormitíva
@@ -40158,7 +40000,7 @@ Janin
 Janina
 Janinom
 Janinou
-Janka
+Janka/zZ po:noun is:feminine
 Janko
 Jankom
 Jankov
@@ -43573,12 +43415,8 @@ Katina
 katión/B po:noun is:masculine
 kationizácia
 katiónový/YN po:adjective
-Katka
-Katke
+Katka/zZ po:noun is:feminine
 Katkin/Y po:adjective
-Katkou
-Katku
-Katky
 katód
 katóda/zZ po:noun is:feminine
 katódach
@@ -46012,13 +45850,9 @@ Komárany
 komáre
 komárí/I po:adjective
 Komárik
-Komárna
 komárňanský/YN po:adjective
-Komárne
 Komárnickou
-Komárno
-Komárnom
-Komárnu
+Komárno/M po:noun is:neuter
 komárov/Y po:adjective
 komárovskej
 komasácia
@@ -49235,10 +49069,7 @@ Kristiánov/Y po:adjective
 Kristin
 Kristina
 Kristína/zZ po:noun is:feminine
-Kristínka
-Kristínke
-Kristínkou
-Kristínky
+Kristínka/zZ po:noun is:feminine
 Kristinom
 Kristinu
 kristobalit
@@ -54704,10 +54535,7 @@ luciferovo
 luciferovu
 luciferovým
 Luciinom
-Lucka
-Luckou
-Lucku
-Lucky
+Lucka/zZ po:noun is:feminine
 Lucu
 lúč/J po:noun is:masculine
 Lúčanmi
@@ -55802,11 +55630,9 @@ majiteľov/Y po:adjective
 majiteľsky
 majiteľský/YN po:adjective
 majiteľstvo/M po:noun is:neuter
-Majka
 májka
-Majkou
+Majka/zZ po:noun is:feminine
 Májkou
-Majku
 májky
 majme/N
 Majnerová/Y po:adjective
@@ -57127,9 +56953,7 @@ Martinček
 martini
 Martini
 Martinický/YN po:adjective
-Martinka
-Martinkách
-Martinku
+Martinka/zZ po:noun is:feminine
 Martino
 Martinov/Y po:adjective
 Martinová/Y po:adjective
@@ -131921,7 +131745,7 @@ spočitovať/WN po:verb
 spočívajúci/Y po:adjective
 spočívanie/V po:noun is:neuter
 spočívať/XN po:verb
-spod
+spod po:preposition
 spodina/zZ po:noun is:feminine
 spodinový/YN po:adjective
 spódium
@@ -131930,12 +131754,10 @@ spodkový/YN po:adjective
 spodky/Q
 spodlieť
 spodliť
-spodne
 spodnica/U po:noun is:feminine
 spodnička/zZ po:noun is:feminine
 spodník
 spodný/YN po:adjective
-spodo
 spodoba
 spodobenie/V po:noun is:neuter
 spodobený/YN po:adjective
@@ -156495,7 +156317,7 @@ vlniaci/Y po:adjective
 vlniačik/B po:noun is:masculine
 vlniak/B po:noun is:masculine
 vlniečik
-vlnisto
+vlnisto/N po:adverb
 vlnistý/YN po:adjective
 vlniť/EN po:verb
 vlnito/N po:adverb
