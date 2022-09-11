@@ -1,4 +1,4 @@
-178903
+178895
 á
 Á
 à
@@ -1108,7 +1108,7 @@ akatafázia
 akatalektický/YN po:adjective
 akatízia
 akawi
-akáže po:pronaun
+akáže po:pronoun
 akc
 akcelerácia/U po:noun is:feminine
 akceleračný/YN po:adjective
@@ -1459,22 +1459,22 @@ akvizitéra
 Akvizitéri
 akvizitérov
 akvizítor
-aký po:pronaun
+aký po:pronoun
 aký/Y po:adjective
 akyanoblepsia
 akýchkoľvek
 akýchsi
-akýchže st:akýže
+akýchže po:pronoun st:akýže
 akýkoľvek
 akýmikoľvek
 akýmisi
-akýmiže st:akýže
+akýmiže po:pronoun st:akýže
 akýmkoľvek
 akýmsi
-akýmže st:akýže
+akýmže po:pronoun st:akýže
 akyn
 akýsi
-akýže po:pronaun
+akýže po:pronoun
 akže
 akživ
 al
@@ -15334,7 +15334,7 @@ defenzor
 deferalizovaný/YN po:adjective
 deferenciačne
 deferenciačný/YN po:adjective
-deferenciálny/YN po:adjecti
+deferenciálny/YN po:adjective
 deferenčne
 deferenčný/Y po:adjective
 deferent
@@ -43360,7 +43360,7 @@ Kasselu
 kást
 kasta/zZ po:noun is:feminine
 kastanety/Q po:noun is:feminine
-kastaniet is:kastanety is:genitive is:plural
+kastaniet po:noun is:feminine st:kastanety is:genitive is:plural
 kastelán/C po:noun is:masculine
 kastelánka/zZ po:noun is:feminine
 kastelánov/Y po:adjective
@@ -46604,7 +46604,7 @@ koncoročný/YN po:adjective
 koncovka/zZ po:noun is:feminine
 koncovkový/YN po:adjective
 koncový/YN po:adjective
-konča is:preposition is:genitive
+konča po:preposition is:genitive
 končatina/zZ po:noun is:feminine
 končatinový/YN po:adjective
 konček/B po:noun is:masculine
@@ -47715,7 +47715,7 @@ korelatívnosť/K po:noun is:feminine
 korelatívny/YN po:adjective
 korelovane po:adverb
 korelovaný/YN po:adjective
-korelovať/WN is:verb
+korelovať/WN po:verb
 koreň/J po:noun is:masculine
 korenáč
 korenáčmi
@@ -58162,8 +58162,8 @@ Medzevom
 medzevský/Y po:adjective
 Medzevský/YN po:adjective
 medzí
-medzi is:preposition is:accusative
-medzi is:preposition is:instrumental
+medzi po:preposition is:accusative
+medzi po:preposition is:instrumental
 Medzianky
 medzibankový/YN po:adjective
 Medzibrodí
@@ -59727,7 +59727,7 @@ mimikry
 mimimalista
 mimín
 mimina
-mimo is:preposition is:genitive
+mimo po:preposition is:genitive
 mimoamerické
 mimoamerickej
 mimoamerickí
@@ -65325,7 +65325,7 @@ napriekory
 naprieky
 Napriem
 naprikazovať/WN po:verb
-napríklad po:participle
+napríklad po:particle
 naprogramovanie/VN po:noun is:neuter
 naprogramovaný/YN po:adjective
 naprogramovať/WN po:verb
@@ -118693,7 +118693,7 @@ redundancia/U po:noun is:feminine
 redundania
 redundantný/YN po:adjective
 reduplikácia
-reduplikovaný/YN po:adjective/PF po:adjective
+reduplikovaný/YN po:adjective
 reduplikovať/WN po:verb
 reduta
 Reduta
@@ -121515,7 +121515,7 @@ rozhodovanie/VN po:noun is:neuter
 rozhodovaný/YN po:adjective
 rozhodovať/WN po:verb
 rozhodujúci/YN po:adjective
-rozhodujúco po:adver
+rozhodujúco po:adverb
 rozhody
 rozhojdaný/YN po:adjective
 rozhojdať/EN po:verb
@@ -130510,7 +130510,7 @@ smykovanie/VN po:noun is:neuter
 smykovať/WN po:verb
 Smyrna/z po:noun is:feminine
 SN po:acronym
-snáď po:participle
+snáď po:particle
 snaha/zZ po:noun is:feminine
 snách
 snajper
@@ -133284,8 +133284,8 @@ spúnsky
 spupne/YN po:adjective
 spupnosť/K po:noun is:feminine
 spupný/YN po:adjective
-spurne pod:adverb
-spurno
+spurne po:adverb
+spurno po:adverb
 spurnosť/K po:noun is:feminine
 spurný/YN po:adjective
 spust/B po:noun is:masculine
@@ -156937,8 +156937,8 @@ vnútrozemie/V po:noun is:neuter
 vnútrozemský/YN po:adjective
 vnútrožilovo
 vnútrožilový/YN po:adjective
-vo is:preposition is:accusative
-vo is:preposition is:locative
+vo po:preposition is:accusative
+vo po:preposition is:locative
 voči
 vod
 voda/zZ po:noun is:feminine
