@@ -1,4 +1,4 @@
-178008
+177869
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -9644,8 +9644,7 @@ bručal
 bručala
 bručali
 bručalo
-bručanie
-bručať
+bručanie/VN po:noun is:neuterbručať
 bručí
 bručia
 bručiac
@@ -9830,8 +9829,7 @@ bublal
 bublala
 bublali
 bublalo
-bublanie
-bublanina/zZ po:noun is:feminine
+bublanie/VN po:noun is:neuterbublanina/zZ po:noun is:feminine
 bublať
 bublavo
 bublavý/YN po:adjective
@@ -12691,8 +12689,7 @@ CZV po:acronym
 čačkali
 čačkalo
 čačkáme
-čačkanie
-čačkáš
+čačkanie/VN po:noun is:neuterčačkáš
 čačkať
 čačkáte
 čačkavý/YN po:adjective
@@ -13152,8 +13149,7 @@ CZV po:acronym
 Černákom
 Černákov
 Černákovi
-černanie
-černastý/YN po:adjective
+černanie/VN po:noun is:neuterčernastý/YN po:adjective
 černavý/YN po:adjective
 černejsí/I po:adjective
 černejší/PF po:adjective
@@ -18494,8 +18490,7 @@ dohášať/XN po:verb
 dohla
 dohlaď
 dohľad/B po:noun is:masculine
-dohľadanie
-dohladí
+dohľadanie/VN po:noun is:neuterdohladí
 dohľadne
 dohľadnosť/K po:noun is:feminine
 dohľadný/YN po:adjective
@@ -19591,17 +19586,14 @@ doprevádzali
 doprevádzalo
 doprevádzam
 doprevádzame
-doprevádzanie
-doprevádzaný/YN po:adjective
+doprevádzanie/VN po:noun is:neuterdoprevádzaný/YN po:adjective
 doprevádzaš
 doprevádzať/N po:adverb
 doprevádzate
 dopriadací
 dopriadacie
 dopriadacích
-dopriadania
-dopriadanie
-dopriať/XN po:verb
+dopriadanie/VN po:noun is:neuterdopriať/XN po:verb
 dopriata
 dopriati
 dopriatí
@@ -26864,9 +26856,7 @@ flákali
 flákalo
 flákam
 flákame
-flákania
-flákanie
-flákaš
+flákanie/VN po:noun is:neuterflákaš
 flákať
 flákate
 fľakato/N po:adverb
@@ -36152,8 +36142,7 @@ chmatkali
 chmatkalo
 chmatkám
 chmatkáme
-chmatkanie
-chmatkáš
+chmatkanie/VN po:noun is:neuterchmatkáš
 chmatkať
 chmatkáte
 chmatmi
@@ -41424,8 +41413,7 @@ kačička/zZ po:noun is:feminine
 kačín/B po:noun is:masculine
 kačká
 kačka/zZ po:noun is:feminine
-kačkanie
-kačkať
+kačkanie/VN po:noun is:neuterkačkať
 Kačura
 KAD po:acronym
 kaďa/U po:noun is:feminine
@@ -42492,8 +42480,7 @@ karamel/B po:noun is:masculine
 karamelka/zZ po:noun is:feminine
 karamelmi
 karamelový/YN po:adjective
-káranie
-karantén
+káranie/VN po:noun is:neuterkarantén
 karanténa/zZ po:noun is:feminine
 karanténach
 karanténam
@@ -55272,8 +55259,7 @@ Macha
 mácha
 máchal
 máchala
-máchanie
-máchať
+máchanie/VN po:noun is:neutermáchať
 Máchavá
 machca
 machcami
@@ -56300,8 +56286,7 @@ mank
 mánk
 Maňka
 mankala
-mankanie
-mankár/C po:noun is:masculine
+mankanie/VN po:noun is:neutermankár/C po:noun is:masculine
 mankárka/zZ po:noun is:feminine
 mankárov/Y po:adjective
 mankať
@@ -59163,13 +59148,11 @@ milostnica
 milostný/YN po:adjective
 milosťpán/C po:noun is:masculine
 milosťpanej
-milosťpani
 milosťpaní
+milosťpani/D po:noun is:feminine
 milosťpaniach
 milosťpaniam
-milosťpaniami
 milosťpanička/zZ po:noun is:feminine
-milosťpanie
 milosťpaniu
 milosťpánko/c po:noun is:masculine
 milosťpánkov/Y po:adjective
@@ -60287,8 +60270,7 @@ Modra/z po:noun is:feminine
 Modrák
 modrám
 Modran/c po:noun is:masculine
-modranie
-Modranov/Y po:adjective
+modranie/VN po:noun is:neuterModranov/Y po:adjective
 modranský/YN po:adjective
 Modrany
 modrasto
@@ -60369,8 +60351,7 @@ mogá
 Mogadišo
 mogadišský/YN po:adjective
 mogám
-moganie
-moganý/YN po:adjective
+moganie/VN po:noun is:neutermoganý/YN po:adjective
 mogilália
 mogul
 Moháč/C po:noun is:masculine
@@ -61572,9 +61553,7 @@ mu po:pronoun is:3rd_person is:masculine is:dative
 mu po:pronoun is:3rd_person is:neuter is:dative
 mucko
 múč
-mučania
-mučanie
-mučať
+mučanie/VN po:noun is:neutermučať
 mučenica/U po:noun is:feminine
 mučenícky/YN po:adjective
 mučeníctvach
@@ -63591,7 +63570,6 @@ najazdiť/EN po:verb
 najazdite
 nájazdový/YN po:adjective
 najblíž
-najbublanie
 najčastej
 najčítavanie/V po:noun is:neuter
 najďalej
@@ -63636,9 +63614,6 @@ nájmu
 najmúci
 nájmy
 najnižie
-najobhnanie
-najobtínanie
-najohnanie
 nájom/B po:noun is:masculine
 nájomca/H po:noun is:masculine
 nájomci
@@ -63654,10 +63629,6 @@ nájomníkov/Y po:adjective
 nájomno
 nájomný/Y po:adjective
 najoptimálnej
-najoznanie
-najpodobnej
-najpodrobnej
-najprísnej
 najprv
 najradšej
 najrozsiahlej
@@ -63667,7 +63638,6 @@ najskorej
 nájsť/RN po:verb
 najtiaž
 najťuknutie/V po:noun is:neuter
-najubranie
 najuhnutie/V po:noun is:neuter
 najukutie/V po:noun is:neuter
 najupnutie/V po:noun is:neuter
@@ -68843,14 +68813,6 @@ nekajate
 nekale
 nekalo
 nekalý/Y po:adjective
-nekaň
-nekanie
-nekaniem
-nekanieme
-nekanieš
-nekaniete
-nekaňme
-nekaňte
 nekára
 nekáraj
 nekárajme
@@ -76462,8 +76424,6 @@ neuhralo
 neuhrám
 neuhráme
 neuhraň
-neuhranie
-neuhraniem
 neuhranieme
 neuhranieš
 neuhraniete
@@ -83124,10 +83084,7 @@ obmieňali
 obmieňalo
 obmieňam
 obmieňame
-obmieňania
-obmieňanie
-obmieňaním
-obmieňaniu
+obmieňanie/VN po:noun is:neuterobmieňaním
 obmieňaný/YN po:adjective
 obmieňaš
 obmieňať
@@ -83261,8 +83218,7 @@ oborov/Y po:adjective
 obosiela
 obosielali
 obosielame
-obosielanie
-obosielaniu
+obosielanie/VN po:noun is:neuterobosielaniu
 obosielať
 oboslal
 oboslala
@@ -83270,9 +83226,7 @@ Oboslala
 oboslali
 oboslalo
 oboslaného
-oboslaní
-oboslanie
-oboslaniu
+oboslanie/VN po:noun is:neuteroboslaniu
 oboslanom
 oboslaných
 oboslať
@@ -86981,10 +86935,7 @@ odvetiť/EN po:verb
 odvetný/Y po:adjective
 odvetrané
 odvetranej
-odvetraní
-odvetrania
-odvetranie
-odvetrať
+odvetranie/VN po:noun is:neuterodvetrať
 odvetvenie/V po:noun is:neuter
 odvetvený/YN po:adjective
 odvetvi
@@ -87895,8 +87846,7 @@ okáne
 okaní
 okáni
 okarína/zZ po:noun is:feminine
-okášanie
-okašlať/TN po:verb
+okášanie/VN po:noun is:neuterokašlať/TN po:verb
 okašľať/TN po:verb
 okate
 okato
@@ -88688,8 +88638,7 @@ omnivor
 omnivoria
 omnoho
 omočiť/EN po:verb
-omokanie
-omotaná
+omokanie/VN po:noun is:neuteromotaná
 omotané
 omotať/ETN
 omotávať/XN po:verb
@@ -89682,8 +89631,7 @@ orámovanie/VN po:noun is:neuter
 orámovaný/YN po:adjective
 orámovať/WN po:verb
 Oran
-oráňanie
-oráňať
+oráňanie/VN po:noun is:neuteroráňať
 orane
 orange
 Orange
@@ -93053,7 +93001,7 @@ panický/YN po:adjective
 panicov/Y po:adjective
 panictvo/M po:noun is:neuter
 panička/zZ po:noun is:feminine
-panie
+panie/D po:noun is:feminine
 panien
 paniev
 pánik
@@ -98725,8 +98673,7 @@ podlepenie/V po:noun is:neuter
 podlepiť/EN po:verb
 podlepovanie/VN po:noun is:neuter
 podlepovať/WN po:verb
-podleptanie
-podleptať
+podleptanie/VN po:noun is:neuterpodleptať
 Podlesí
 Podlesie
 podleť
@@ -98795,10 +98742,7 @@ podlý/YN po:adjective
 podlžnosť/K po:noun is:feminine
 podm
 podmáčali
-podmáčania
-podmáčanie
-podmáčaním
-podmáčaniu
+podmáčanie/VN po:noun is:neuterpodmáčaním
 podmáčaný/YN po:adjective
 podmaľovanie/VN po:noun is:neuter
 podmaľovaný/YN po:adjective
@@ -99437,8 +99381,7 @@ podrobný/YN po:adjective
 podrobovaný/YN po:adjective
 podrobovať/WN po:verb
 podrú
-podrúbanie
-podrúbaný/YN po:adjective
+podrúbanie/VN po:noun is:neuterpodrúbaný/YN po:adjective
 podrúbať
 područie/V po:noun is:neuter
 podrušie
@@ -100532,10 +100475,7 @@ pojedačov
 pojedal
 pojedaniu
 pojedať
-pojednania
-pojednaniam
-pojednanie
-pojednať
+pojednanie/VN po:noun is:neuterpojednať
 pojednávacej
 pojednávací
 pojednávacie
@@ -100576,8 +100516,7 @@ pokára
 pokáral
 pokárala
 pokárali
-pokáranie
-pokáraný/YN po:adjective
+pokáranie/VN po:noun is:neuterpokáraný/YN po:adjective
 pokárať
 pokarhane
 pokarhanie/V po:noun is:neuter
@@ -102630,8 +102569,7 @@ poodvlačovať/WN po:verb
 poodvolával
 poodvolávať
 poodvracať
-pooháňanie
-pooháňať
+pooháňanie/VN po:noun is:neuterpooháňať
 poohlasovať/WN po:verb
 poohliadať
 poohliadli
@@ -103006,8 +102944,7 @@ Poprad/B po:noun is:masculine
 popradský/YN po:adjective
 popral
 popraná
-popranie
-popraskanie/V po:noun is:neuter
+popranie/VN po:noun is:neuterpopraskanie/V po:noun is:neuter
 popraskaný/YN po:adjective
 popráskať
 popraskať/EN po:verb
@@ -103477,9 +103414,7 @@ poriadajú
 poriadal
 poriadala
 poriadame
-poriadania
-poriadanie
-poriadaním
+poriadanie/VN po:noun is:neuterporiadaním
 poriadaný/YN po:adjective
 poriadať
 poriadate
@@ -104648,8 +104583,7 @@ posypal
 posypala
 posypali
 posypalo
-posypanie
-posýpanie/V po:noun is:neuter
+posypanie/VN po:noun is:neuterposýpanie/V po:noun is:neuter
 posypaný/YN po:adjective
 posypať
 posýpať/XN po:verb
@@ -105093,8 +105027,7 @@ potočnica/U po:noun is:feminine
 potočník/B po:noun is:masculine
 potočný/YN po:adjective
 potok/B po:noun is:masculine
-potokanie
-potokať
+potokanie/VN po:noun is:neuterpotokať
 potománia
 potomci
 potomkovi
@@ -105200,8 +105133,7 @@ potrimiskár/C po:noun is:masculine
 potrimiskárov/Y po:adjective
 potrimiskársky
 potrite
-potrkanie
-potrkať
+potrkanie/VN po:noun is:neuterpotrkať
 potrkoc
 potrkoce
 potrkocem
@@ -105306,8 +105238,7 @@ potýkala
 potýkali
 potýkalo
 potýkame
-potýkanie
-potykanie/V po:noun is:neuter
+potýkanie/VN po:noun is:neuterpotykanie/V po:noun is:neuter
 potýkať
 potykať/EN po:verb
 potýrať/XN po:verb
@@ -105580,8 +105511,7 @@ povezieme
 povezieš
 poveziete
 povezú
-povháňanie
-povchádzať/XN po:verb
+povháňanie/VN po:noun is:neuterpovchádzať/XN po:verb
 povchodiť/EN po:verb
 povi
 povianočný/YN po:adjective
@@ -109464,8 +109394,7 @@ premieľali
 premieľalo
 premieľam
 premieľame
-premieľanie
-premieľaním
+premieľanie/VN po:noun is:neuterpremieľaním
 premieľaš
 premieľať
 premieľate
@@ -109933,8 +109862,7 @@ prepieranie/V po:noun is:neuter
 prepieraný/YN po:adjective
 prepierať/XN po:verb
 prepichá
-prepichanie
-prepichaný/YN po:adjective
+prepichanie/VN po:noun is:neuterprepichaný/YN po:adjective
 prepichávanie/V po:noun is:neuter
 prepichávať/XN po:verb
 prepichnúť/WN
@@ -110815,8 +110743,7 @@ presýpali
 presýpalo
 presýpam
 presýpame
-presýpanie
-presýpaš
+presýpanie/VN po:noun is:neuterpresýpaš
 presýpať
 presypať/TN po:verb
 presýpate
@@ -111389,8 +111316,7 @@ previjú
 previjúc
 previme
 prevíňajú
-prevíňanie
-prevíňaný/YN po:adjective
+prevíňanie/VN po:noun is:neuterprevíňaný/YN po:adjective
 previnenie/V po:noun is:neuter
 previnený/YN po:adjective
 previnilcov/Y po:adjective
@@ -111450,9 +111376,7 @@ prevolajú
 prevolal
 prevolali
 prevoláme
-prevolania
-prevolanie
-prevolaný/YN po:adjective
+prevolanie/VN po:noun is:neuterprevolaný/YN po:adjective
 prevolať
 prevoláte
 prevolávanie/V po:noun is:neuter
@@ -113647,9 +113571,7 @@ prisládzaný/YN po:adjective
 prisládzať/XN po:verb
 prisladzovaný/YN po:adjective
 prisladzovať/WN po:verb
-prislania
-prislanie
-príslnie/V po:noun is:neuter
+prislanie/VN po:noun is:neuterpríslnie/V po:noun is:neuter
 príslop/B po:noun is:masculine
 príslov
 príslovečne
@@ -114308,9 +114230,7 @@ privyrábal
 privyrábala
 privyrábali
 privyrábalo
-privyrábania
-privyrábanie
-privyrábaním
+privyrábanie/VN po:noun is:neuterprivyrábaním
 privyrábať
 privyrobenie/V po:noun is:neuter
 privyrobí
@@ -114862,9 +114782,7 @@ Prosieku
 prosíka
 prosíkajú
 prosíkal
-prosíkaní
-prosíkanie
-prosíkaním
+prosíkanie/VN po:noun is:neuterprosíkaním
 prosíkať
 prosíkom
 prosincové
@@ -120818,8 +120736,7 @@ rozhuč
 rozhučať/RN po:verb
 rozhúčovať/WN po:verb
 rozhudujúci
-rozhúpanie
-rozhúpať
+rozhúpanie/VN po:noun is:neuterrozhúpať
 rozhútať
 rozhutovať/WN po:verb
 rozhýbané
@@ -121350,9 +121267,7 @@ rozmetali
 rozmetalo
 rozmetám
 rozmetáme
-rozmetania
-rozmetanie
-rozmetaniu
+rozmetanie/VN po:noun is:neuterrozmetaniu
 rozmetaný/YN po:adjective
 rozmetáš
 rozmetať
@@ -121430,9 +121345,7 @@ rozmoknutý/YN po:adjective
 rozmontovanie/VN po:noun is:neuter
 rozmontovaný/YN po:adjective
 rozmontovať/WN po:verb
-rozmotania
-rozmotanie
-rozmotaním
+rozmotanie/VN po:noun is:neuterrozmotaním
 rozmotaný/YN po:adjective
 rozmotať/ETN
 rozmotávanie/V po:noun is:neuter
@@ -121906,10 +121819,7 @@ rozpletali
 rozpletalo
 rozpletám
 rozpletáme
-rozpletaní
-rozpletania
-rozpletanie
-rozpletaním
+rozpletanie/VN po:noun is:neuterrozpletaním
 rozpletáš
 rozpletať
 rozpletáte
@@ -121934,10 +121844,7 @@ rozplieňte
 rozpliesť/RN po:verb
 rozplieta
 rozplietajú
-rozplietaní
-rozplietania
-rozplietanie
-rozplietaním
+rozplietanie/VN po:noun is:neuterrozplietaním
 rozplietať
 rozplodenie/V po:noun is:neuter
 rozplodím
@@ -122587,8 +122494,7 @@ roztiecť/RN po:verb
 roztieranie/V po:noun is:neuter
 roztierať/XN po:verb
 roztierateľný/YN po:adjective
-roztikanie
-roztikať
+roztikanie/VN po:noun is:neuterroztikať
 roztínanie/V po:noun is:neuter
 roztínať/XN po:verb
 roztískanie/V po:noun is:neuter
@@ -122647,8 +122553,7 @@ roztočiť/EN po:verb
 roztočový/YN po:adjective
 roztok/B po:noun is:masculine
 Roztoka
-roztokanie
-roztokať
+roztokanie/VN po:noun is:neuterroztokať
 roztomile
 roztomilo
 roztomilosť/K po:noun is:feminine
@@ -127461,7 +127366,6 @@ skandium/M po:noun is:neuter
 skandovanie/VN po:noun is:neuter
 skandovaný/YN po:adjective
 skandovať/WN po:verb
-skanie
 skántrený/YN po:adjective
 skántriť/XN po:verb
 skanzen/B po:noun is:masculine
@@ -134367,8 +134271,7 @@ strapkali
 strapkalo
 strapkám
 strapkáme
-strapkanie
-strapkáš
+strapkanie/VN po:noun is:neuterstrapkáš
 strapkať
 strapkáte
 strapkovať/WN po:verb
@@ -147561,8 +147464,7 @@ tryskal
 tryskala
 tryskali
 tryskalo
-tryskanie
-tryskáš
+tryskanie/VN po:noun is:neutertryskáš
 tryskať
 tryskový/YN po:adjective
 trýzeň/D po:noun is:feminine
@@ -149202,7 +149104,7 @@ uhraň
 uhrančivo/N po:adverb
 uhrančivosť/K po:noun is:feminine
 uhrančivý/YN po:adjective
-uhranie
+uhranie/VN po:noun is:neuterneuhraniem
 uhraniem
 uhranieme
 uhranieš
@@ -149408,12 +149310,7 @@ ujedať/EN po:verb
 ujednajú
 ujednal
 ujednáme
-ujednaní
-ujednania
-ujednaniach
-ujednaniami
-ujednanie
-ujednávajú
+ujednanie/VN po:noun is:neuterujednávajú
 ujednával
 ujednávala
 ujednávané
@@ -150451,8 +150348,7 @@ upieranie/V po:noun is:neuter
 upieraný/YN po:adjective
 upierať/XN po:verb
 úpieť/XN po:verb
-upichanie
-upichnúť
+upichanie/VN po:noun is:neuterupichnúť
 upíjať/XN po:verb
 upínací/I po:adjective
 upínač
@@ -150504,12 +150400,7 @@ uplácajú
 uplácal
 uplácala
 uplácali
-uplácaní
-uplácania
-uplácaniam
-uplácanie
-uplácaním
-uplácaniu
+uplácanie/VN po:noun is:neuteruplácaním
 uplácať
 Uplácate
 upláchnuť
@@ -153504,8 +153395,7 @@ včeš
 včetne
 včielka/zZ po:noun is:feminine
 včítane/YN po:adjective
-včítanie
-včlenenie/V po:noun is:neuter
+včítanie/VN po:noun is:neutervčlenenie/V po:noun is:neuter
 včlenený/YN po:adjective
 včleniť/EN po:verb
 včleňovanie/VN po:noun is:neuter
@@ -156928,9 +156818,7 @@ vráta/Q
 vrátajú
 vrátame
 vrátane po:preposition is:genitive
-vrátania
-vrátanie
-vrátaniu
+vrátanie/VN po:noun is:neutervrátaniu
 vrátaný/YN po:adjective
 vrátať
 vrátate
@@ -157796,8 +157684,7 @@ vtisnúť/WN
 vtisnuté
 VTJ po:acronym
 vtká
-vtkanie
-vtkaný/YN po:adjective
+vtkanie/VN po:noun is:neutervtkaný/YN po:adjective
 vtkať
 vtkáva
 vtkávaný/YN po:adjective
@@ -158861,8 +158748,7 @@ vyhní
 Vyhní
 vyhnijú
 vyhnisalo
-vyhnisanie
-vyhnisať
+vyhnisanie/VN po:noun is:neutervyhnisať
 vyhniť
 vyhnitý/YN po:adjective
 vyhnívanie/V po:noun is:neuter
@@ -160203,8 +160089,7 @@ vymáhateľov
 vymáchať
 vymajstrovať/WN po:verb
 vymaká
-vymakanie
-vymakať
+vymakanie/VN po:noun is:neutervymakať
 vymakávať
 vymaľovanie/VN po:noun is:neuter
 vymaľovaný/YN po:adjective
@@ -160476,9 +160361,7 @@ vynadali
 vynadalo
 vynadám
 vynadáme
-vynadaní
-vynadanie
-vynadáš
+vynadanie/VN po:noun is:neutervynadáš
 vynadať
 vynadáte
 vynadívať/XN po:verb
@@ -160902,8 +160785,7 @@ vypletali
 vypletalo
 vypletám
 vypletáme
-vypletanie
-vypletanými
+vypletanie/VN po:noun is:neutervypletanými
 vypletáš
 vypletať
 vypletáte
@@ -161044,10 +160926,7 @@ vyporiada
 vyporiadajú
 vyporiadala
 vyporiadali
-vyporiadania
-vyporiadanie
-vyporiadaním
-vyporiadaniu
+vyporiadanie/VN po:noun is:neutervyporiadaním
 vyporiadaný/YN po:adjective
 vyporiadať
 vyporiadavajú
@@ -162337,8 +162216,7 @@ vysychajúcej
 vysychajúci
 vysýchajúci
 vysýchal
-vysýchanie
-vysychanie/V po:noun is:neuter
+vysýchanie/VN po:noun is:neutervysychanie/V po:noun is:neuter
 vysýchaš
 vysychať/EN po:verb
 vysychavý/YN po:adjective
@@ -162533,8 +162411,7 @@ vyškrtala
 vyškrtali
 vyškrtalo
 vyškrtaná
-vyškrtanie
-vyškrtať
+vyškrtanie/VN po:noun is:neutervyškrtať
 vyškrtávaniu
 vyškrtávať/XN po:verb
 vyškrtnúť/WN
@@ -162781,8 +162658,7 @@ vytískať/XN po:verb
 vytisnúť/WN
 vytisnutý/YN po:adjective
 vytiu
-vytkanie
-vytkať
+vytkanie/VN po:noun is:neutervytkať
 vytkávanie/V po:noun is:neuter
 vytknúť/WN
 vytknutie/V po:noun is:neuter
@@ -162918,8 +162794,7 @@ vytriediť/XN po:verb
 vytrieďovanie/VN po:noun is:neuter
 vytrieďovať/WN po:verb
 vytrieskali
-vytrieskanie
-vytrieskaniu
+vytrieskanie/VN po:noun is:neutervytrieskaniu
 vytrieskať
 vytriešťať/XN po:verb
 vytrieť/XN po:verb
@@ -165136,8 +165011,7 @@ zadierali
 zadieralo
 zadieram
 zadierame
-zadieranie
-zadieraš
+zadieranie/VN po:noun is:neuterzadieraš
 zadierať
 zadierate
 zadieravý/YN po:adjective
@@ -168140,8 +168014,7 @@ zapotáca
 zapotácaj
 zapotácal
 zapotácam
-zapotácanie
-zapotácaš
+zapotácanie/VN po:noun is:neuterzapotácaš
 zapotácať
 zapotácate
 zapotenie/V po:noun is:neuter
@@ -168273,8 +168146,7 @@ zapudiť/EN po:verb
 zapudrovať/WN po:verb
 zapudzovať/WN po:verb
 zapufkať
-zapuchanie
-zapúchanie/V po:noun is:neuter
+zapuchanie/VN po:noun is:neuterzapúchanie/V po:noun is:neuter
 zapúchať/XN po:verb
 zapuchnúť/WN
 zapukať/EN po:verb
@@ -168910,9 +168782,7 @@ zastrábiť
 zastrájaní
 zastrájaním
 zastrájať/XN po:verb
-Zástraní
-zástranie
-zastrašene/N po:adverb
+zástranie/VN po:noun is:neuterzastrašene/N po:adverb
 zastrašenie/V po:noun is:neuter
 zastrašenosť/K po:noun is:feminine
 zastrašený/YN po:adjective
@@ -169053,7 +168923,6 @@ zasycovať/WN po:verb
 zasyč
 zasyčanie/V po:noun is:neuter
 zasyčať/RN po:verb
-zasýchanie
 zasychanie/V po:noun is:neuter
 zasychať/EN po:verb
 zasychávať/XN po:verb
@@ -169064,10 +168933,7 @@ zasypal
 zasypala
 zasypali
 zasypalo
-zasypanie
-zasýpanie/V po:noun is:neuter
-zasypaním
-zasypaniu
+zasypanie/V po:noun is:neuter
 zasypaný/YN po:adjective
 zasypať
 zasýpať/XN po:verb
@@ -169383,11 +169249,7 @@ zatápaná
 zatápané
 zatápaného
 zatápanej
-zatápaní
-zatápania
-zatápanie
-zatápaním
-zatápaniu
+zatápanie/VN po:noun is:neuter
 zatápanom
 zatápaných
 zatápať
@@ -174513,8 +174375,7 @@ zosmutnievať/XN po:verb
 zosňať
 zosníma
 zosnímajú
-zosnímania
-zosnímanie
+zosnímanie/VN po:noun is:neuter
 zosnímaný/YN po:adjective
 zosnímať
 zosnovanie/VN po:noun is:neuter
@@ -174749,7 +174610,7 @@ zosychali
 zosychalo
 zosychám
 zosycháme
-zosychanie
+zosychanie/VN po:noun is:neuter
 zosycháš
 zosychať
 zosycháte
@@ -174760,7 +174621,7 @@ zosypal
 zosypala
 zosypali
 zosypalo
-zosypanie
+zosypanie/VN po:noun is:neuter
 zosypaný/YN po:adjective
 zosypať
 zosýpať/XN po:verb
