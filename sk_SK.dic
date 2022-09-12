@@ -1,4 +1,4 @@
-178336
+178008
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -128,7 +128,7 @@ abreografia
 abreviácia/U po:noun is:feminine
 abreviačný/YN po:adjective
 abreviatúra
-abrogácia
+abrogácia/U po:noun is:feminine
 abrupcia
 abruptný/YN po:adjective
 abruzzský/YN po:adjective
@@ -274,11 +274,11 @@ acetonitril
 acetónový/YN po:adjective
 acetonúria
 acetyl
-acetylácia
+acetylácia/U po:noun is:feminine
 acetylén/B po:noun is:masculine
 acetylénový/YN po:adjective
 acetylsalicylový/YN po:adjective
-acidifikácia
+acidifikácia/U po:noun is:feminine
 acidimeter
 acidimetria
 acidita
@@ -297,7 +297,7 @@ acta
 acuto
 acyklický/YN po:adjective
 acyl
-acylácia
+acylácia/U po:noun is:feminine
 acylpyrín/B po:noun is:masculine
 áčka/zZ po:noun is:feminine
 áčkar/C po:noun is:masculine
@@ -422,7 +422,7 @@ adjektívam
 adjektívnosť/K po:noun is:feminine
 adjektívny/YN po:adjective
 adjektívum/M po:noun is:neuter
-adjudikácia
+adjudikácia/U po:noun is:feminine
 adjunkcia
 adjunkt/C po:noun is:masculine
 adjunktiek
@@ -469,7 +469,7 @@ admonícia
 ADN po:acronym
 adnexitída
 adnominálny/YN po:adjective
-adnotácia
+adnotácia/U po:noun is:feminine
 Adobe
 adogmatický/YN po:adjective
 adogmatizmus/B po:noun is:masculine
@@ -554,7 +554,7 @@ adspekcia
 adstrát
 adstringentný/YN po:adjective
 adulár
-adulterácia
+adulterácia/U po:noun is:feminine
 adultný/YN po:adjective
 adut/B po:noun is:masculine
 aduta
@@ -592,8 +592,7 @@ adynamia
 aedelost
 aeón
 Aera
-aerácia
-aerácii
+aerácia/U po:noun is:feminine
 aeračné
 aeračného
 aerátor/B po:noun is:masculine
@@ -634,7 +633,7 @@ aeromagnetický/YN po:adjective
 aeromechanika/zZ po:noun is:feminine
 aeronautický/YN po:adjective
 aeronautika/zZ po:noun is:feminine
-aeronivelácia
+aeronivelácia/U po:noun is:feminine
 aeronómia
 aerootitída
 aeropauza
@@ -666,7 +665,7 @@ aerotaxi
 aerotaxík/B po:noun is:masculine
 aerotechnika/zZ po:noun is:feminine
 aeroterapia
-aerotriangulácia
+aerotriangulácia/U po:noun is:feminine
 aerovkou
 Aeru
 AF po:acronym
@@ -694,7 +693,7 @@ afér
 aféra/zZ po:noun is:feminine
 aférach
 aféram
-aferentácia
+aferentácia/U po:noun is:feminine
 aferentný/YN po:adjective
 aférista/H po:noun is:masculine
 affabile
@@ -709,7 +708,7 @@ Afganka/zZ po:noun is:feminine
 afgánsky
 afganský/YN po:adjective
 afghání
-afilácia
+afilácia/U po:noun is:feminine
 afiliácia/U po:noun is:feminine
 afiliačný/YN po:adjective
 afiliantný/YN po:adjective
@@ -725,7 +724,7 @@ afirmatívny
 afirmovať/WN po:verb
 afiš
 afix
-afixácia
+afixácia/U po:noun is:feminine
 aflatoxín
 afónia
 aforickosť/K po:noun is:feminine
@@ -849,12 +848,12 @@ aglutinín
 aglutinogén
 aglúzia
 AGM po:acronym
-agnácia
+agnácia/U po:noun is:feminine
 agnát
 Agnes
 Agnesa/zZ po:noun is:feminine
 Agneša
-agnoskácia
+agnoskácia/U po:noun is:feminine
 agnosticizmus/B po:noun is:masculine
 agnostický/YN po:adjective
 agnostik/C po:noun is:masculine
@@ -882,8 +881,8 @@ agorafóbia
 Agoru
 Agory
 Agra
-agraciácia
-agradácia
+agraciácia/U po:noun is:feminine
+agradácia/U po:noun is:feminine
 agrafa
 agrafia
 agramatizmus/B po:noun is:masculine
@@ -896,7 +895,7 @@ agrárnictve
 agrárnik/C po:noun is:masculine
 agrárnikov/Y po:adjective
 agrárny/YN po:adjective
-agravácia
+agravácia/U po:noun is:feminine
 Agre
 agregácia/U po:noun is:feminine
 agregačný/YN po:adjective
@@ -1191,7 +1190,7 @@ aklamácia/U po:noun is:feminine
 aklamačne
 aklamačný/YN po:adjective
 aklamovať/WN po:verb
-aklimácia
+aklimácia/U po:noun is:feminine
 aklimatizácia/U po:noun is:feminine
 aklimatizačný/YN po:adjective
 aklimatizovanie/VN po:noun is:neuter
@@ -1368,7 +1367,7 @@ aktulizáciám
 akúkoľvek
 akulit
 Akulit
-akulturácia
+akulturácia/U po:noun is:feminine
 akumulácia/U po:noun is:feminine
 akumulačný/YN po:adjective
 akumulátor/B po:noun is:masculine
@@ -1532,7 +1531,7 @@ Albertová/Y po:adjective
 albertská
 Albertu
 Alberty
-albikácia
+albikácia/U po:noun is:feminine
 albín/C po:noun is:masculine
 Albín/c po:noun is:masculine
 Albína/zZ po:noun is:feminine
@@ -1577,7 +1576,7 @@ aleatórny/YN po:adjective
 aleba
 alebo po:conjunction
 alef
-alegácia
+alegácia/U po:noun is:feminine
 alegát
 alegória/U po:noun is:feminine
 alegorickosť/K po:noun is:feminine
@@ -1657,7 +1656,7 @@ aleže
 alfa/zZ po:noun is:feminine
 alfabeta/zZ po:noun is:feminine
 alfabetický/YN po:adjective
-alfabetizácia
+alfabetizácia/U po:noun is:feminine
 alfabetizátor
 alfách
 alfám
@@ -1687,8 +1686,7 @@ algonkin
 algonkium
 algor
 algoritmický/YN po:adjective
-algoritmizácia
-algoritmizácie
+algoritmizácia/U po:noun is:feminine
 algoritmus/B po:noun is:masculine
 algospazmus/B po:noun is:masculine
 algrafia
@@ -1717,7 +1715,7 @@ Alica/U po:noun is:feminine
 alicín
 alicyklický/YN po:adjective
 aliek
-alienácia
+alienácia/U po:noun is:feminine
 alifatický/YN po:adjective
 alifer
 aligátor/L po:noun is:masculine
@@ -1733,10 +1731,10 @@ Alimente
 alimentológia
 Alimentu
 alimenty/q po:noun is:masculine
-aliminácia
+aliminácia/U po:noun is:feminine
 alinea
 alit
-alitácia
+alitácia/U po:noun is:feminine
 aliterácia/U po:noun is:feminine
 aliteračný/YN po:adjective
 alitovanie/VN po:noun is:neuter
@@ -1758,7 +1756,7 @@ alkalický/YN po:adjective
 alkálie/Q po:noun is:feminine
 alkalimetria
 alkalita/zZ po:noun is:feminine
-alkalizácia
+alkalizácia/U po:noun is:feminine
 alkaloid/B po:noun is:masculine
 alkaloidný/Y po:adjective
 alkaloidový/YN po:adjective
@@ -1776,7 +1774,7 @@ alkoholický/YN po:adjective
 alkoholička/zZ po:noun is:feminine
 alkoholik/C po:noun is:masculine
 alkoholikov/Y po:adjective
-alkoholizácia
+alkoholizácia/U po:noun is:feminine
 alkoholizmus/B po:noun is:masculine
 alkoholizovaný/YN po:adjective
 alkoholometer
@@ -1912,7 +1910,7 @@ altánku
 altánky
 altánok
 altánov
-alterácia
+alterácia/U po:noun is:feminine
 alternácia/U po:noun is:feminine
 alternačný/YN po:adjective
 alternanta
@@ -2005,7 +2003,7 @@ Amadeho
 Amadeus
 amadína
 amalgám/B po:noun is:masculine
-amalgamácia
+amalgamácia/U po:noun is:feminine
 amalgamátorom
 amalgamovanie/VN po:noun is:neuter
 amalgamovať/WN po:verb
@@ -2155,7 +2153,7 @@ amík
 amimia
 amín
 Amín
-aminácia
+aminácia/U po:noun is:feminine
 aminokyselina/zZ po:noun is:feminine
 amínokyselinami
 amínokyselinu
@@ -2184,11 +2182,11 @@ amondový/YN po:adjective
 amoniak/B po:noun is:masculine
 amoniakálneho
 amoniakový/YN po:adjective
-amonifikácia
+amonifikácia/U po:noun is:feminine
 amóniový/YN po:adjective
 amonit
 amónium/M po:noun is:neuter
-amonizácia
+amonizácia/U po:noun is:feminine
 amónny/YN po:adjective
 amor/B po:noun is:masculine
 amoralista/H po:noun is:masculine
@@ -2224,7 +2222,7 @@ ampérový/Y po:adjective
 ampérsekunda
 ampéry
 ampicilín
-amplektácia
+amplektácia/U po:noun is:feminine
 amplidyn
 amplifikácia/U po:noun is:feminine
 amplifikačný/YN po:adjective
@@ -2645,7 +2643,7 @@ Anička/zZ po:noun is:feminine
 Aničkin
 Aniek
 Anien
-anihilácia
+anihilácia/U po:noun is:feminine
 anilín/B po:noun is:masculine
 anilínovo
 anilínový/YN po:adjective
@@ -2671,7 +2669,7 @@ animikit
 animista/H po:noun is:masculine
 animistický/YN po:adjective
 animistov/Y po:adjective
-animizácia
+animizácia/U po:noun is:feminine
 animizmus/B po:noun is:masculine
 animo
 animoso
@@ -2894,7 +2892,7 @@ antigénny/YN po:adjective
 antigénový/YN po:adjective
 antigest
 antiglobalisti
-antigravitácia
+antigravitácia/U po:noun is:feminine
 Antigua/zZ po:noun is:feminine
 Antigue
 antihalačný/YN po:adjective
@@ -2970,7 +2968,7 @@ antineutrón
 antinómia/U po:noun is:feminine
 antinomický/YN po:adjective
 antinukleón
-antioxidácia
+antioxidácia/U po:noun is:feminine
 antioxidant
 antioxidantmi
 antioxidantoch
@@ -3087,7 +3085,7 @@ antropomaxiológia
 antropometria
 antropomorficky
 antropomorfický/YN po:adjective
-antropomorfizácia
+antropomorfizácia/U po:noun is:feminine
 antropomorfizmus/B po:noun is:masculine
 antropomorfne
 antropomorfný/YN po:adjective
@@ -3108,10 +3106,7 @@ anuít
 anuita/zZ po:noun is:feminine
 anuitno
 anuitný/Y po:adjective
-anulácia
-anulácie
-anulácii
-anuláciu
+anulácia/U po:noun is:feminine
 anulátor
 anuloid
 anulovanie/VN po:noun is:neuter
@@ -3171,7 +3166,7 @@ apelačný/Y po:adjective
 apelatív
 apelatívach
 apelatívam
-apelativizácia
+apelativizácia/U po:noun is:feminine
 apelatívny/YN po:adjective
 apelatívum/M po:noun is:neuter
 apele
@@ -3189,7 +3184,7 @@ apercipovať/WN po:verb
 aperiodický/YN po:adjective
 aperitív/B po:noun is:masculine
 aperitíve
-apertácia
+apertácia/U po:noun is:feminine
 apertúra
 apetencia
 Apetit
@@ -3208,7 +3203,7 @@ apitoxín
 apko/c po:noun is:masculine
 apkov/Y po:adjective
 aplaná
-aplanácia
+aplanácia/U po:noun is:feminine
 aplaudovanie/VN po:noun is:neuter
 aplaudovaný/YN po:adjective
 aplaudovať/WN po:verb
@@ -3349,7 +3344,7 @@ aprobačný/Y po:adjective
 aprobovaný/YN po:adjective
 aprobovať/WN po:verb
 apropo
-apropriácia
+apropriácia/U po:noun is:feminine
 aprosexia
 aprovizátor
 aproximácia/U po:noun is:feminine
@@ -3437,8 +3432,7 @@ Arba
 arbiter/C po:noun is:masculine
 arbiterov/Y po:adjective
 arbitra/zZ po:noun is:feminine
-arbitrácia
-arbitrácie
+arbitrácia/U po:noun is:feminine
 arbitráčný/YN po:adjective
 arbitrárnosť/K po:noun is:feminine
 arbitrárny/YN po:adjective
@@ -3631,7 +3625,7 @@ ariboflavinóza
 Arica
 Arická
 aridita
-aridizácia
+aridizácia/U po:noun is:feminine
 aridný/YN po:adjective
 arieta
 Ariete
@@ -3756,11 +3750,11 @@ aromaterapia
 aromatickosť/K po:noun is:feminine
 aromatický/YN po:adjective
 aromatikum
-aromatizácia
+aromatizácia/U po:noun is:feminine
 aromatizovaný/YN po:adjective
 aromatizovať/WN po:verb
 Áron/c po:noun is:masculine
-arondácia
+arondácia/U po:noun is:feminine
 Áronov/Y po:adjective
 árový/Y po:adjective
 arózia
@@ -3824,7 +3818,7 @@ artistika/zZ po:noun is:feminine
 artistka/zZ po:noun is:feminine
 artistný/YN po:adjective
 artistov/Y po:adjective
-artizácia
+artizácia/U po:noun is:feminine
 artizmus/B po:noun is:masculine
 artmi
 artoch
@@ -3879,7 +3873,7 @@ ascendentný/YN po:adjective
 ASCII po:acronym
 Ase
 aseizmický/YN po:adjective
-asekurácia
+asekurácia/U po:noun is:feminine
 asekurovať/WN po:verb
 asembler
 asentírka/zZ po:noun is:feminine
@@ -4082,7 +4076,7 @@ astronautický/Y po:adjective
 astronautika/zZ po:noun is:feminine
 astronautka/zZ po:noun is:feminine
 astronautov/Y po:adjective
-astronavigácia
+astronavigácia/U po:noun is:feminine
 astronóm/c po:noun is:masculine
 astronómami
 astronómi
@@ -4190,7 +4184,7 @@ atentátmi
 atentátnička/zZ po:noun is:feminine
 atentátnik/C po:noun is:masculine
 atentátnikov/Y po:adjective
-atenuácia
+atenuácia/U po:noun is:feminine
 Atény/Q
 atermický/YN po:adjective
 ateróm
@@ -4358,7 +4352,7 @@ aug
 augelit
 augiášovský/YN po:adjective
 augit
-augmentácia
+augmentácia/U po:noun is:feminine
 augmentatív
 augmentatívach
 augmentatívam
@@ -4414,14 +4408,14 @@ Auróry
 aurum
 Aurum
 ausgerechnet
-auskultácia
+auskultácia/U po:noun is:feminine
 auslág
 auslender
 auspície
 auspicum
 Austálčan
 austenit
-austenitizácia
+austenitizácia/U po:noun is:feminine
 austinit
 austr
 austrál
@@ -4472,7 +4466,7 @@ autizmus/B po:noun is:masculine
 autmi
 auto/M po:noun is:neuter
 autoagresia
-autoakuzácia
+autoakuzácia/U po:noun is:feminine
 autoalarm/B po:noun is:masculine
 autoanalýza
 autoantén
@@ -4565,7 +4559,7 @@ autochtón
 autochtonizmus/B po:noun is:masculine
 autochtónnosť/K po:noun is:feminine
 autochtónny/YN po:adjective
-autointoxikácia
+autointoxikácia/U po:noun is:feminine
 autoka/zZ po:noun is:feminine
 autokar/B po:noun is:masculine
 autokarový/Y po:adjective
@@ -4588,12 +4582,12 @@ Autoklubom
 Autoklubu
 autokluby
 autokód
-autokolimácia
+autokolimácia/U po:noun is:feminine
 autokolón
 autokolóna/zZ po:noun is:feminine
 autokolónach
 autokolónam
-autokorelácia
+autokorelácia/U po:noun is:feminine
 autokozmetika/zZ po:noun is:feminine
 autokracia/U po:noun is:feminine
 autokrat/C po:noun is:masculine
@@ -4633,7 +4627,7 @@ automobilista/H po:noun is:masculine
 automobilistický/YN po:adjective
 automobilistka/zZ po:noun is:feminine
 automobilistov/Y po:adjective
-Automobilizácia
+Automobilizácia/U po:noun is:feminine
 automobilizácie
 automobilizácii
 automobilizmus/B po:noun is:masculine
@@ -4643,7 +4637,7 @@ automobilovo
 automobilový/YN po:adjective
 automodelárstvo/M po:noun is:neuter
 automotoklub/B po:noun is:masculine
-automutilácia
+automutilácia/U po:noun is:feminine
 autonehoda/zZ po:noun is:feminine
 autonómia/U po:noun is:feminine
 autonomista/H po:noun is:masculine
@@ -4670,8 +4664,8 @@ autorádio/M po:noun is:neuter
 autorádiografia
 autoreferát
 autoreferenta
-autoregulácia
-autorelaxácia
+autoregulácia/U po:noun is:feminine
+autorelaxácia/U po:noun is:feminine
 autoremedúra
 autoreprodukcia
 autoreverz
@@ -4694,7 +4688,7 @@ autorkine
 autorkinho
 autorkino
 autormi
-autorotácia
+autorotácia/U po:noun is:feminine
 autorov/Y po:adjective
 autorskoprávny/YN po:adjective
 autorsky
@@ -4704,9 +4698,9 @@ autosalón/B po:noun is:masculine
 autosémantický/YN po:adjective
 autoservis/B po:noun is:masculine
 autoservisový/YN po:adjective
-autostabilizácia
+autostabilizácia/U po:noun is:feminine
 autostabilný/YN po:adjective
-autostimulácia
+autostimulácia/U po:noun is:feminine
 autostop/B po:noun is:masculine
 autostrád
 autostráda/zZ po:noun is:feminine
@@ -4720,7 +4714,7 @@ autosugestívny
 autošampón
 autošampóny
 autoškola/zZ po:noun is:feminine
-autoštylizácia
+autoštylizácia/U po:noun is:feminine
 autotachygraf
 autotaxi
 autoterapia
@@ -4784,7 +4778,7 @@ aviatik
 aviatika/zZ po:noun is:feminine
 avicennit
 avifauna
-avigácia
+avigácia/U po:noun is:feminine
 avikultúra
 avion
 avión
@@ -5396,7 +5390,7 @@ bakterióz
 bakterióza
 bakteriózami
 bakteriúria
-bakterizácia
+bakterizácia/U po:noun is:feminine
 bakterológia
 Baku
 bakuľa/U po:noun is:feminine
@@ -5879,7 +5873,7 @@ barnumský/YN po:adjective
 Barny
 barograf
 barok/B po:noun is:masculine
-barokizácia
+barokizácia/U po:noun is:feminine
 baroko
 barokovo
 barokový/YN po:adjective
@@ -6008,8 +6002,7 @@ basriansky
 basta
 bastard/C po:noun is:masculine
 bastarde
-bastardizácia
-bastardizácii
+bastardizácia/U po:noun is:feminine
 bastardný/YN po:adjective
 bastardov/Y po:adjective
 bastardy
@@ -6209,7 +6202,7 @@ beat/B po:noun is:masculine
 Beáta/zZ po:noun is:feminine
 Beátach
 Beátam
-beatifikácia
+beatifikácia/U po:noun is:feminine
 Beátina
 beatman
 beatmi
@@ -7417,7 +7410,7 @@ Bill/c po:noun is:masculine
 Billa/zZ po:noun is:feminine
 billboard/B po:noun is:masculine
 Billov/Y po:adjective
-bilokácia
+bilokácia/U po:noun is:feminine
 bim
 bimanuálny
 bimetal/B po:noun is:masculine
@@ -7443,7 +7436,7 @@ binominálny/YN po:adjective
 bíňovskí
 Bíňovský/YN po:adjective
 binturong
-bioaktivácia
+bioaktivácia/U po:noun is:feminine
 bioakustika/zZ po:noun is:feminine
 biocenológia
 biocenóza/zZ po:noun is:feminine
@@ -7532,7 +7525,7 @@ biopsia
 biopsie
 biopsiou
 biopsiu
-biorizácia
+biorizácia/U po:noun is:feminine
 biorytmus/B po:noun is:masculine
 biosfér
 biosféra/zZ po:noun is:feminine
@@ -7543,7 +7536,7 @@ Bioskop
 Bioskopu
 biostatika/zZ po:noun is:feminine
 biostatikum
-biostimulácia
+biostimulácia/U po:noun is:feminine
 biostratigrafia
 biosyntéza
 biosystém
@@ -8364,7 +8357,7 @@ bohemistický/YN po:adjective
 bohemistika/zZ po:noun is:feminine
 bohemistka/zZ po:noun is:feminine
 bohemistov/Y po:adjective
-bohemizácia
+bohemizácia/U po:noun is:feminine
 bohemizmus/B po:noun is:masculine
 bohemizovať/WN po:verb
 bohémka/zZ po:noun is:feminine
@@ -8684,9 +8677,7 @@ bonifikovanie/VN po:noun is:neuter
 bonifikovaný/YN po:adjective
 bonifikovať/WN po:verb
 bonita/zZ po:noun is:feminine
-bonitácia
-bonitácie
-bonitáciu
+bonitácia/U po:noun is:feminine
 bonitne
 bonitný/Y po:adjective
 bonitovaný/YN po:adjective
@@ -9026,7 +9017,7 @@ brahmanka/zZ po:noun is:feminine
 brahmanov/Y po:adjective
 brahmanský/YN po:adjective
 brahmanstvo/M po:noun is:neuter
-brachiácia
+brachiácia/U po:noun is:feminine
 brachialgia
 brachiálnosť/K po:noun is:feminine
 brachiálny/YN po:adjective
@@ -10437,11 +10428,7 @@ byrokrat/C po:noun is:masculine
 byrokratickosť/K po:noun is:feminine
 byrokraticky/N po:adverb
 byrokratický/YN po:adjective
-byrokratizácia
-byrokratizácie
-byrokratizácii
-byrokratizáciou
-byrokratizáciu
+byrokratizácia/U po:noun is:feminine
 byrokratizmus/B po:noun is:masculine
 byrokratizovanie/VN po:noun is:neuter
 byrokratizovať/WN po:verb
@@ -11079,7 +11066,7 @@ centimu
 centmi
 centový/YN po:adjective
 centr
-centrácia
+centrácia/U po:noun is:feminine
 centrál
 centrála/zZ po:noun is:feminine
 centrálach
@@ -11509,7 +11496,7 @@ cikádach
 cikádam
 cikanie/V po:noun is:neuter
 cikať/EN po:verb
-cikatrizácia
+cikatrizácia/U po:noun is:feminine
 cikcak/B po:noun is:masculine
 cikcakovite
 cikcakovito/N po:adverb
@@ -11545,7 +11532,7 @@ cináreň
 cinárov/Y po:adjective
 cinárstvo/M po:noun is:neuter
 cinemaskop
-cinerácia
+cinerácia/U po:noun is:feminine
 cinerária
 cinerárium
 cing
@@ -13026,7 +13013,7 @@ CZV po:acronym
 čečinový/YN po:adjective
 čedar
 Čech/C po:noun is:masculine
-čechizácia
+čechizácia/U po:noun is:feminine
 čechizmus/B po:noun is:masculine
 čechizovať/WN po:verb
 čechoslovakista/H po:noun is:masculine
@@ -14716,7 +14703,7 @@ databázach
 databázam
 databázovo
 databázový/YN po:adjective
-datácia
+datácia/U po:noun is:feminine
 dataprojektor/B po:noun is:masculine
 ďateľ/L po:noun is:masculine
 ďatele
@@ -14889,8 +14876,8 @@ de
 deadjektívum/M po:noun is:neuter
 deadline
 deadweight
-deaerácia
-deaglomerácia
+deaerácia/U po:noun is:feminine
+deaglomerácia/U po:noun is:feminine
 deaktivovať/WN po:verb
 dealer/C po:noun is:masculine
 dealera
@@ -14915,7 +14902,7 @@ debatovanie/VN po:noun is:neuter
 debatovať/WN po:verb
 debatovávať
 debatúvať/XN po:verb
-debelácia
+debelácia/U po:noun is:feminine
 debet/B po:noun is:masculine
 debetný/Y po:adjective
 debien
@@ -14960,7 +14947,7 @@ debutmi
 debutovať/WN po:verb
 debužírovať/WN po:verb
 dec
-decelerácia
+decelerácia/U po:noun is:feminine
 december/J po:noun is:masculine
 decembrový/YN po:adjective
 decénium/M po:noun is:neuter
@@ -14975,7 +14962,7 @@ decentralizovane po:adverb
 decentralizovaný/YN po:adjective
 decentralizovať/WN po:verb
 decepcia
-decerebrácia
+decerebrácia/U po:noun is:feminine
 deci
 decibel/B po:noun is:masculine
 decibele
@@ -14991,7 +14978,7 @@ decima
 decimácie
 decimáciou
 decimáciu
-decimalizácia
+decimalizácia/U po:noun is:feminine
 decimálka/zZ po:noun is:feminine
 decimálny/YN po:adjective
 decimeter/J po:noun is:masculine
@@ -15063,11 +15050,11 @@ dedukovať/WN po:verb
 deduktívny/Y po:adjective
 deduško/c po:noun is:masculine
 deduškov/Y po:adjective
-deeskalácia
+deeskalácia/U po:noun is:feminine
 deetatizácia/U po:noun is:feminine
-deexcitácia
-defašizácia
-defekácia
+deexcitácia/U po:noun is:feminine
+defašizácia/U po:noun is:feminine
+defekácia/U po:noun is:feminine
 defekt/B po:noun is:masculine
 defektivita
 defektmi
@@ -15086,8 +15073,8 @@ defektoskopickú
 defektoskopie
 defektoskopii
 defektoskopiu
-defeminizácia
-defenesrácia
+defeminizácia/U po:noun is:feminine
+defenesrácia/U po:noun is:feminine
 defenestrácia/U po:noun is:feminine
 defenzív
 defenzíva/zZ po:noun is:feminine
@@ -15141,14 +15128,14 @@ definujúci/YN po:adjective
 deflácia/U po:noun is:feminine
 deflačne
 deflačný/Y po:adjective
-deflagrácia
+deflagrácia/U po:noun is:feminine
 deflektor
 deflexia
 deflorácia/U po:noun is:feminine
 deflúvium
-defoliácia
+defoliácia/U po:noun is:feminine
 defoliant
-deforestácia
+deforestácia/U po:noun is:feminine
 deformácia/U po:noun is:feminine
 deformačný/Y po:adjective
 deformít
@@ -15157,7 +15144,7 @@ deformovane
 deformovanie/VN po:noun is:neuter
 deformovaný/YN po:adjective
 deformovať/WN po:verb
-defosforácia
+defosforácia/U po:noun is:feminine
 defraudácia/U po:noun is:feminine
 defraudačný/Y po:adjective
 defraudant/C po:noun is:masculine
@@ -15177,7 +15164,7 @@ degeneratívny
 degeneratívnych
 degenerovaný/YN po:adjective
 degenerovať/WN po:verb
-deglaciácia
+deglaciácia/U po:noun is:feminine
 degoržovanie/VN po:noun is:neuter
 degradácia/U po:noun is:feminine
 degradačne
@@ -15222,11 +15209,7 @@ degviť
 dehelmintizáci
 dehepisecký/Y po:adjective
 dehepisectvo/M po:noun is:neuter
-dehonestácia
-dehonestácie
-dehonestácii
-dehonestáciou
-dehonestáciu
+dehonestácia/U po:noun is:feminine
 dehonestovanie/VN po:noun is:neuter
 dehonestovaný/YN po:adjective
 dehonestovať/WN po:verb
@@ -15235,20 +15218,20 @@ dehumanizovať/WN po:verb
 dehydratácia/U po:noun is:feminine
 dehydratačný/YN po:adjective
 dehydratovaný/YN po:adjective
-dehydrogenácia
-dehydrogenizácia
+dehydrogenácia/U po:noun is:feminine
+dehydrogenizácia/U po:noun is:feminine
 dehydrovaný/YN po:adjective
 dehydrovať/WN po:verb
-dechlorácia
+dechlorácia/U po:noun is:feminine
 decht/B po:noun is:masculine
 dechta
 dechtáreň/D po:noun is:feminine
 dechtmi
 dechtovitý/YN po:adjective
 dechtový/YN po:adjective
-deideologizácia
+deideologizácia/U po:noun is:feminine
 deiferencovať/WN po:verb
-deifikácia
+deifikácia/U po:noun is:feminine
 deifikovať/WN po:verb
 deiktický/YN po:adjective
 deiltantizmus/B po:noun is:masculine
@@ -15310,7 +15293,7 @@ dekádový/Y po:adjective
 dekaéder
 dekagram/B po:noun is:masculine
 dekagramový/Y po:adjective
-dekalcifikácia
+dekalcifikácia/U po:noun is:feminine
 dekalo
 dekalóg/c po:noun is:masculine
 dekameron/B po:noun is:masculine
@@ -15322,19 +15305,15 @@ dekanka/zZ po:noun is:feminine
 dekanov/Y po:adjective
 dekanský/YN po:adjective
 dekanstvo/M po:noun is:neuter
-dekantácia
-dekapitácia
-dekapitalizácia
-dekapitalizácie
-dekapitalizácii
-dekapitalizáciou
-dekapitalizáciu
+dekantácia/U po:noun is:feminine
+dekapitácia/U po:noun is:feminine
+dekapitalizácia/U po:noun is:feminine
 dekapovanie/VN po:noun is:neuter
 dekarbonizácia/U po:noun is:feminine
 dekarbonizačný/YN po:adjective
 dekarbonizovať/WN po:verb
-dekarboxylácia
-dekartelizácia
+dekarboxylácia/U po:noun is:feminine
+dekartelizácia/U po:noun is:feminine
 dekatovanie/VN po:noun is:neuter
 deklamácia/U po:noun is:feminine
 deklamačne
@@ -15360,7 +15339,7 @@ deklaratórny/YN po:adjective
 deklarovanie/VN po:noun is:neuter
 deklarovaný/YN po:adjective
 deklarovať/WN po:verb
-deklasifikácia
+deklasifikácia/U po:noun is:feminine
 deklasovanie/VN po:noun is:neuter
 deklasovanosť/K po:noun is:feminine
 deklasovaný/YN po:adjective
@@ -15383,8 +15362,8 @@ dekokt
 dekolonizácia/U po:noun is:feminine
 dekolonizačný/YN po:adjective
 dekolonizovať/WN po:verb
-dekolorácia
-dekolorizácia
+dekolorácia/U po:noun is:feminine
+dekolorizácia/U po:noun is:feminine
 dekolt
 dekoltáž/D po:noun is:feminine
 dekoltovaný/YN po:adjective
@@ -15399,12 +15378,12 @@ dekompresia
 dekompresii
 dekompresiu
 dekompresného
-Dekomprimácia
+Dekomprimácia/U po:noun is:feminine
 dekomprimácií
 dekomprimáciu
 dekomprimovaný/YN po:adjective
 dekomprimovať/WN po:verb
-dekoncentrácia
+dekoncentrácia/U po:noun is:feminine
 dekoncentrovaný/YN po:adjective
 dekonštrukcia
 dekontaminácia/U po:noun is:feminine
@@ -15432,7 +15411,7 @@ dekorovanie/VN po:noun is:neuter
 dekorovaný/YN po:adjective
 dekorovať/WN po:verb
 dekort
-dekortifikácia
+dekortifikácia/U po:noun is:feminine
 Dekoru
 dekórum/M po:noun is:neuter
 Dekory
@@ -15448,12 +15427,11 @@ dekubit
 dekubitus
 dekurz
 dekurzívny/YN po:adjective
-dekvalifikácia
-dekvalifikácii
+dekvalifikácia/U po:noun is:feminine
 dekvalifikovať/WN po:verb
 Dekýš
 del
-delácia
+delácia/U po:noun is:feminine
 deľba/z po:noun is:feminine
 deľbách
 deľbám
@@ -15484,8 +15462,8 @@ delfínov/YN po:adjective
 delfský/YN po:adjective
 Delfy/Q po:noun is:feminine
 deliaci/YN po:adjective
-delibácia
-deliberácia
+delibácia/U po:noun is:feminine
+deliberácia/U po:noun is:feminine
 deliberačná
 delicato
 delicózny/YN po:adjective
@@ -15554,7 +15532,7 @@ deltaplán/B po:noun is:masculine
 deltovitý/YN po:adjective
 deltový/Y po:adjective
 DEM po:acronym
-demagnetizácia
+demagnetizácia/U po:noun is:feminine
 demagnetizačný/YN po:adjective
 demagóg/c po:noun is:masculine
 demagógia/U po:noun is:feminine
@@ -15569,7 +15547,7 @@ demarš/J po:noun is:masculine
 demaskovanie/VN po:noun is:neuter
 Demaskovaný/YN po:adjective
 demaskovať/WN po:verb
-dematerializácia
+dematerializácia/U po:noun is:feminine
 Demänová/Y po:adjective
 Demänovská
 Demänovské
@@ -15594,7 +15572,7 @@ demilitarizácia/U po:noun is:feminine
 demilitarizačný/Y po:adjective
 demilitarizovaný/YN po:adjective
 demilitarizovať/WN po:verb
-demineralizácia
+demineralizácia/U po:noun is:feminine
 deminutív
 deminutívach
 deminutívam
@@ -15652,9 +15630,7 @@ demolovanie/VN po:noun is:neuter
 demolovaný/YN po:adjective
 demolovať/WN po:verb
 démon/C po:noun is:masculine
-demonetizácia
-demonetizáciou
-demonetizáciu
+demonetizácia/U po:noun is:feminine
 demonetizujeme
 demonetizujú
 démonickosť/K po:noun is:feminine
@@ -15664,7 +15640,7 @@ démonizmus/B po:noun is:masculine
 démonizovanie/VN po:noun is:neuter
 démonizovaný/YN po:adjective
 démonizovať/WN po:verb
-demonopolizácia
+demonopolizácia/U po:noun is:feminine
 démonov/Y po:adjective
 démonská
 demonštrácia/U po:noun is:feminine
@@ -15700,7 +15676,7 @@ demoskopia
 Demostenes/c po:noun is:masculine
 Demostenesov/Y po:adjective
 démotický/YN po:adjective
-demotivácia
+demotivácia/U po:noun is:feminine
 demotivovať/WN po:verb
 demultiplexor
 demystifikácia/U po:noun is:feminine
@@ -15709,17 +15685,13 @@ deň/J po:noun is:masculine
 denacifikácia/U po:noun is:feminine
 denacifikačný/YN po:adjective
 denacifikovať/WN po:verb
-denacionalizácia
-denacionalizácii
+denacionalizácia/U po:noun is:feminine
 denár/J po:noun is:masculine
 denármi
 denatalita
-denaturácia
-denaturácie
-denaturáciou
+denaturácia/U po:noun is:feminine
 denaturačná
-denaturalizácia
-denaturalizácii
+denaturalizácia/U po:noun is:feminine
 denaturát
 denaturovane
 denaturovaný/YN po:adjective
@@ -15731,7 +15703,7 @@ dendrológ/c po:noun is:masculine
 dendrológia/U po:noun is:feminine
 dendrologický/YN po:adjective
 dendrometria
-denervácia
+denervácia/U po:noun is:feminine
 denervovať/WN po:verb
 dengľavieť/XN po:verb
 dengľavo/N po:adverb
@@ -15743,16 +15715,9 @@ Denís
 Denis/c po:noun is:masculine
 Denisa/zZ po:noun is:feminine
 Denisov/Y po:adjective
-denitrácia
-denitráciou
-denitráciu
-denitrifikácia
-denitrifikácie
-denitrifikácii
-denitrifikáciou
-denitrifikáciu
-denivelizácia
-denivelizácii
+denitrácia/U po:noun is:feminine
+denitrifikácia/U po:noun is:feminine
+denivelizácia/U po:noun is:feminine
 denne
 dennica/U po:noun is:feminine
 denník/B po:noun is:masculine
@@ -15761,7 +15726,7 @@ denno
 dennodenne
 dennodenný/YN po:adjective
 denný/YN po:adjective
-denomikácia
+denomikácia/U po:noun is:feminine
 denominácia/U po:noun is:feminine
 denominačný/YN po:adjective
 denominatívny/Y po:adjective
@@ -15770,7 +15735,7 @@ denominovanie/VN po:noun is:neuter
 denominovaný/YN po:adjective
 denominovať/WN po:verb
 Denon
-denotácia
+denotácia/U po:noun is:feminine
 dentakryl
 dentála/zZ po:noun is:feminine
 dentalgia
@@ -15809,7 +15774,7 @@ deontológia
 deoptimalizovať/WN po:verb
 deoxyribonukleová
 dep
-depalatalizácia
+depalatalizácia/U po:noun is:feminine
 depalatizácia/U po:noun is:feminine
 depandancia
 departement/B po:noun is:masculine
@@ -15834,11 +15799,11 @@ depcúc
 depčiť
 dependancia
 dependencia
-depergelácia
-depersonalizácia
+depergelácia/U po:noun is:feminine
+depersonalizácia/U po:noun is:feminine
 depeša/U po:noun is:feminine
 depeší
-depigmentácia
+depigmentácia/U po:noun is:feminine
 depilácia/U po:noun is:feminine
 depilačný/Y po:adjective
 depilátor/B po:noun is:masculine
@@ -15848,8 +15813,8 @@ depistáž
 depo/M po:noun is:neuter
 depolarizácia/U po:noun is:feminine
 depolarizačný/YN po:adjective
-depolymerácia
-depolymerizácia
+depolymerácia/U po:noun is:feminine
+depolymerizácia/U po:noun is:feminine
 deponát
 deponent
 deponentom
@@ -15858,7 +15823,7 @@ depónia
 deponovanie/VN po:noun is:neuter
 deponovaný/YN po:adjective
 deponovať/WN po:verb
-depopulácia
+depopulácia/U po:noun is:feminine
 deportácia/U po:noun is:feminine
 deportačný/YN po:adjective
 deportovaný/YN po:adjective
@@ -15883,13 +15848,8 @@ depozitno
 depozitný/Y po:adjective
 depozitový/Y po:adjective
 depozitum
-depravácia
-depreciácia
-depreciácie
-depreciácii
-depreciácií
-depreciáciou
-depreciáciu
+depravácia/U po:noun is:feminine
+depreciácia/U po:noun is:feminine
 depresia/U po:noun is:feminine
 depresívnosť/K po:noun is:feminine
 depresívny/Y po:adjective
@@ -15901,7 +15861,7 @@ deprimovaný/YN po:adjective
 deprimovať/WN po:verb
 deprimujúci/YN po:adjective
 deprimujúco
-deprivácia
+deprivácia/U po:noun is:feminine
 depsi
 depsia
 depsil
@@ -15909,12 +15869,9 @@ depsiť
 deptanie/V po:noun is:neuter
 deptaných
 deptať/EN po:verb
-depurácia
-depurácie
-depurácii
-depuráciu
+depurácia/U po:noun is:feminine
 depuratívum
-depurgácia
+depurgácia/U po:noun is:feminine
 deputácia/U po:noun is:feminine
 deputát/B po:noun is:masculine
 deputátmi
@@ -15935,7 +15892,7 @@ deravo
 deravosť/K po:noun is:feminine
 deravý/YN po:adjective
 derby
-derealizácia
+derealizácia/U po:noun is:feminine
 deregulácia/U po:noun is:feminine
 dereizmus/B po:noun is:masculine
 derelikcia
@@ -15977,16 +15934,15 @@ dermo
 dermochalázia
 dermoid
 derniéra
-derogácia
-derogácie
+derogácia/U po:noun is:feminine
 derogačných
 deruta
 derviš/C po:noun is:masculine
 dervišov/Y po:adjective
 dervišský/YN po:adjective
 des/B po:noun is:masculine
-desagregácia
-desalinizácia
+desagregácia/U po:noun is:feminine
+desalinizácia/U po:noun is:feminine
 desant
 desať/č
 desaťbodový/YN po:adjective
@@ -16102,7 +16058,7 @@ descendencia
 descendent
 descendentný/YN po:adjective
 desény
-desenzibilácia
+desenzibilácia/U po:noun is:feminine
 desiaci
 desiacu
 desiata/z po:noun is:feminine
@@ -16125,14 +16081,14 @@ desiaty/č
 desiaty/Y po:adjective
 desiatykrát
 design/B po:noun is:masculine
-designácia
+designácia/U po:noun is:feminine
 designer/C po:noun is:masculine
 designera
 designerov/Y po:adjective
 designerstvo/M po:noun is:neuter
 designovaný/YN po:adjective
 designovať/WN po:verb
-desikácia
+desikácia/U po:noun is:feminine
 desina
 desinu
 desiť/EN po:verb
@@ -16154,7 +16110,7 @@ desne/N po:adverb
 desný/YN po:adjective
 desorpcia
 desorpcii
-desperácia
+desperácia/U po:noun is:feminine
 desperát
 despocia
 despota/H po:noun is:masculine
@@ -16181,18 +16137,10 @@ destilátový/YN po:adjective
 destilovanie/VN po:noun is:neuter
 destilovaný/YN po:adjective
 destilovať/WN po:verb
-destinácia
-destináciách
-destináciám
-destináciami
-destinácie
-destinácii
-destinácií
-destináciou
-destináciu
-desublimácia
+destinácia/U po:noun is:feminine
+desublimácia/U po:noun is:feminine
 desubstantívum
-desulfurácia
+desulfurácia/U po:noun is:feminine
 dešarža
 dešifrovanie/VN po:noun is:neuter
 dešifrovaný/YN po:adjective
@@ -16248,8 +16196,8 @@ deterent
 detergent/C po:noun is:masculine
 detergentov/Y po:adjective
 detergenty
-deteriorácia
-deteriorizácia
+deteriorácia/U po:noun is:feminine
+deteriorizácia/U po:noun is:feminine
 determinácia/U po:noun is:feminine
 determinačný/Y po:adjective
 determinant/B po:noun is:masculine
@@ -16269,7 +16217,7 @@ determinovanosť/K po:noun is:feminine
 determinovaný/YN po:adjective
 determinovať/WN po:verb
 deterzia
-detezaurácia
+detezaurácia/U po:noun is:feminine
 deti
 detí
 detičiek
@@ -16290,9 +16238,7 @@ detonátor
 detonátorov
 detonátory
 detonovať/WN po:verb
-detoxikácia
-detoxikácii
-detoxikáciu
+detoxikácia/U po:noun is:feminine
 detrakcia
 Detrík
 detrinid
@@ -16336,7 +16282,7 @@ Detvy
 deus
 deuteranopsia
 deutérium/M po:noun is:neuter
-deuterizácia
+deuterizácia/U po:noun is:feminine
 deuterokanonický/YN po:adjective
 Deuteronómium
 deutzia
@@ -16350,7 +16296,7 @@ devalvačný/Y po:adjective
 devalvovanie/VN po:noun is:neuter
 devalvovaný/YN po:adjective
 devalvovať/WN po:verb
-devaporácia
+devaporácia/U po:noun is:feminine
 devastácia/U po:noun is:feminine
 devastačný/Y po:adjective
 devastovanie/VN po:noun is:neuter
@@ -16675,17 +16621,12 @@ Devín/B po:noun is:masculine
 devina
 devine
 devinho
-devinkulácia
-devinkuláciu
+devinkulácia/U po:noun is:feminine
 devinmu
 Devínskonovoveská
 devínsky/YN po:adjective
 deviovaný/YN po:adjective
-devitalizácia
-devitalizácie
-devitalizácii
-devitalizáciou
-devitalizáciu
+devitalizácia/U po:noun is:feminine
 devíz
 devíza/zZ po:noun is:feminine
 devízach
@@ -16712,9 +16653,9 @@ dextrotropný/YN po:adjective
 dextróza
 dextrózu
 dextrózy
-dezaktivácia
+dezaktivácia/U po:noun is:feminine
 dezaktivovať/WN po:verb
-dezaktualizácia
+dezaktualizácia/U po:noun is:feminine
 dezavuovať/WN po:verb
 dezén/B po:noun is:masculine
 dezénový/Y po:adjective
@@ -16724,7 +16665,7 @@ dezertér/C po:noun is:masculine
 dezertérov/Y po:adjective
 dezertérsky
 dezertérstvo/M po:noun is:neuter
-dezertifikácia
+dezertifikácia/U po:noun is:feminine
 dezertikolný/YN po:adjective
 dezertmi
 dezertný/YN po:adjective
@@ -16739,20 +16680,13 @@ Deziderom
 Deziderov
 Deziderovi
 Deziderovia
-dezignácia
-dezignácie
-dezignácii
-dezignáciu
+dezignácia/U po:noun is:feminine
 dezignovaný/YN po:adjective
 dezignovať/WN po:verb
 dezilúzia/U po:noun is:feminine
 deziluzionizmus/B po:noun is:masculine
 deziluzionovať/WN po:verb
-dezindustrializácia
-dezindustrializácie
-dezindustrializácii
-dezindustrializáciou
-dezindustrializáciu
+dezindustrializácia/U po:noun is:feminine
 dezinfekcia/U po:noun is:feminine
 dezinfekčne
 dezinfekčný/YN po:adjective
@@ -16773,8 +16707,7 @@ dezintegračný/Y po:adjective
 dezintegrovaný/YN po:adjective
 dezintegrovať/WN po:verb
 dezinterpretácia/U po:noun is:feminine
-dezodorácia
-dezodoráciu
+dezodorácia/U po:noun is:feminine
 dezodoračný/Y po:adjective
 dezodorant/B po:noun is:masculine
 dezodorantmi
@@ -17190,8 +17123,7 @@ dieža/U po:noun is:feminine
 diežach
 diežam
 diežka/zZ po:noun is:feminine
-difamácia
-difamáciu
+difamácia/U po:noun is:feminine
 difenbachia
 diferencia/U po:noun is:feminine
 diferenciácia/U po:noun is:feminine
@@ -17224,7 +17156,7 @@ diftín/B po:noun is:masculine
 diftínový/YN po:adjective
 diftong/B po:noun is:masculine
 diftongický/YN po:adjective
-diftongizácia
+diftongizácia/U po:noun is:feminine
 diftongmi
 diftongoch
 diftongom
@@ -17246,7 +17178,7 @@ difúzny/Y po:adjective
 difúzor/B po:noun is:masculine
 difúzori
 digamia
-digerácia
+digerácia/U po:noun is:feminine
 digerovať/WN po:verb
 digescia
 digescie
@@ -17301,8 +17233,8 @@ diktovanie/VN po:noun is:neuter
 diktovaný/YN po:adjective
 diktovať/WN po:verb
 diktum
-dilacerácia
-dilácia
+dilacerácia/U po:noun is:feminine
+dilácia/U po:noun is:feminine
 dilatácia/U po:noun is:feminine
 dilatačný/YN po:adjective
 dilatans
@@ -17473,7 +17405,7 @@ disciplinovaný/YN po:adjective
 disciplinovať/WN po:verb
 discízia
 disekcia
-diseminácia
+diseminácia/U po:noun is:feminine
 disent/B po:noun is:masculine
 disentmi
 disfunkcia/U po:noun is:feminine
@@ -17490,8 +17422,8 @@ disidentský/YN po:adjective
 disidentstvo/M po:noun is:neuter
 disimilácia/U po:noun is:feminine
 disimilačný/YN po:adjective
-disimulácia
-disipácia
+disimulácia/U po:noun is:feminine
+disipácia/U po:noun is:feminine
 disipovať/WN po:verb
 disjunkcia/U po:noun is:feminine
 disjunktívny/YN po:adjective
@@ -17585,8 +17517,8 @@ dislokácia/U po:noun is:feminine
 dislokačný/Y po:adjective
 dislokovaný/YN po:adjective
 dislokovať/WN po:verb
-dismembrácia
-disociácia
+dismembrácia/U po:noun is:feminine
+disociácia/U po:noun is:feminine
 disociovaný/YN po:adjective
 disociovať/WN po:verb
 disolúcia
@@ -17626,9 +17558,9 @@ dispečingov
 dispečingu
 dispečingy
 dispenz
-dispenzácia
+dispenzácia/U po:noun is:feminine
 dispenzár
-dispenzarizácia
+dispenzarizácia/U po:noun is:feminine
 dispenzatórium
 disperzia/U po:noun is:feminine
 disperzný/YN po:adjective
@@ -17697,8 +17629,7 @@ diškurz/B po:noun is:masculine
 dišpenz/B po:noun is:masculine
 dišpút
 dišputa/zZ po:noun is:feminine
-dišputácia
-dišputácie
+dišputácia/U po:noun is:feminine
 dištanc/J po:noun is:masculine
 dištancia/U po:noun is:feminine
 dištancovanie/VN po:noun is:neuter
@@ -17751,7 +17682,7 @@ divadelný/YN po:adjective
 divadielko/M po:noun is:neuter
 divadielok
 divadlo/M po:noun is:neuter
-divagácia
+divagácia/U po:noun is:feminine
 dívajúci/Y po:adjective
 divák/C po:noun is:masculine
 divákov/Y po:adjective
@@ -17789,7 +17720,7 @@ dividendovo
 dividendový/Y po:adjective
 divieť/XN po:verb
 divina/zZ po:noun is:feminine
-divinácia
+divinácia/U po:noun is:feminine
 Divíne
 Divinka
 Divinky
@@ -17835,7 +17766,7 @@ divúcimi
 divúcom
 divúcou
 divúcu
-divulgácia
+divulgácia/U po:noun is:feminine
 divý/YN po:adjective
 dixieland/B po:noun is:masculine
 dixielandový/Y po:adjective
@@ -17982,7 +17913,7 @@ dlie
 dlieť
 DLL po:acronym
 DLNA
-dluktuácia
+dluktuácia/U po:noun is:feminine
 dlž
 dĺžava
 dĺže
@@ -19204,7 +19135,7 @@ domerať/TN po:verb
 domeriavajú
 domeriavanie/V po:noun is:neuter
 domeriavať
-domestikácia
+domestikácia/U po:noun is:feminine
 domestikovanie/VN po:noun is:neuter
 domestikovaný/YN po:adjective
 domestikovať/WN po:verb
@@ -23008,7 +22939,7 @@ dysgrafia
 dysgramatizmus/B po:noun is:masculine
 dyshormonóza
 dyschrómia
-dyskoordinácia
+dyskoordinácia/U po:noun is:feminine
 dyslália
 dyslexia
 dyslexiou
@@ -23197,8 +23128,8 @@ ebulícia
 ebulioskopia
 ebur
 eburín
-eburneácia
-eburnifikácia
+eburneácia/U po:noun is:feminine
+eburnifikácia/U po:noun is:feminine
 EC po:acronym
 ECAV po:acronym
 ECB po:acronym
@@ -23235,7 +23166,7 @@ edinburskej
 edinburských
 Edít
 Edita/zZ po:noun is:feminine
-editácia
+editácia/U po:noun is:feminine
 editor/BC po:noun is:masculine
 editorka/zZ po:noun is:feminine
 editorsky
@@ -23282,7 +23213,7 @@ efemerický/YN po:adjective
 efemerida
 efemérnosť/K po:noun is:feminine
 efemérny/YN po:adjective
-efeminácia
+efeminácia/U po:noun is:feminine
 efendi
 eferentný/YN po:adjective
 efervescencia
@@ -23291,7 +23222,7 @@ Efezanom
 efezký/Y po:adjective
 EFI
 eficiencia
-eflácia
+eflácia/U po:noun is:feminine
 eflorescencia
 efod
 efuzérny/YN po:adjective
@@ -23339,7 +23270,7 @@ Egonovi
 egoteizmus/B po:noun is:masculine
 egreš/J po:noun is:masculine
 egrešový/Y po:adjective
-egutácia
+egutácia/U po:noun is:feminine
 egutér
 egypt
 Egypt/B po:noun is:masculine
@@ -23370,7 +23301,7 @@ echografia
 echokardiografia
 echokinéza
 echolália
-echolokácia
+echolokácia/U po:noun is:feminine
 echolot
 echomatizmus/B po:noun is:masculine
 echomímia
@@ -23534,14 +23465,14 @@ ekvipáž/D po:noun is:feminine
 ekvipolentný/YN po:adjective
 ekvita
 ekvitabilita
-ekvitácia
+ekvitácia/U po:noun is:feminine
 ekvivalencia/U po:noun is:feminine
 ekvivalent/B po:noun is:masculine
 ekvivalentmi
 ekvivalentne
 ekvivalentnosť/K po:noun is:feminine
 ekvivalentný/YN po:adjective
-ekvivokácia
+ekvivokácia/U po:noun is:feminine
 ekzém/B po:noun is:masculine
 ekzémový/Y po:adjective
 el
@@ -23551,7 +23482,7 @@ Ela/zZ po:noun is:feminine
 elaborácie
 elaborát/B po:noun is:masculine
 elaborátmi
-elácia
+elácia/U po:noun is:feminine
 Elách
 elaín
 Elám
@@ -23635,8 +23566,7 @@ elektrinách
 elektrinám
 elektrinami
 elektrit
-elektrizácia
-elektrizáciu
+elektrizácia/U po:noun is:feminine
 elektrizačný/YN po:adjective
 elektrizovaný/YN po:adjective
 elektrizovať/WN po:verb
@@ -23686,7 +23616,7 @@ elektrofonický/YN po:adjective
 elektroforéza
 elektrofyziológia
 elektrografia
-elektrografitácia
+elektrografitácia/U po:noun is:feminine
 elektrogravimetria
 elektrochémia/U po:noun is:feminine
 elektrochemicky
@@ -23717,8 +23647,8 @@ elektrokardioskop
 elektrokardiostimulátor
 elektrokaustika
 elektrokinetika
-elektrokoagulácia
-elektrokryštalizácia
+elektrokoagulácia/U po:noun is:feminine
+elektrokryštalizácia/U po:noun is:feminine
 elektrokymografia
 elektroliečba/z po:noun is:feminine
 elektroliečbach
@@ -23755,7 +23685,7 @@ elektrometeor
 elektrometer
 elektrometre
 elektrometrov
-elektromigrácia
+elektromigrácia/U po:noun is:feminine
 elektromobil/B po:noun is:masculine
 elektromobilmi
 elektromontér/C po:noun is:masculine
@@ -23829,8 +23759,7 @@ Eleonóra/zZ po:noun is:feminine
 Eleonórach
 Eleonóram
 elév/C po:noun is:masculine
-elevácia
-elevácií
+elevácia/U po:noun is:feminine
 elevačný/YN po:adjective
 elevátor/B po:noun is:masculine
 elévka/zZ po:noun is:feminine
@@ -23883,15 +23812,15 @@ elokovaný/YN po:adjective
 elokúcia
 elokvencia
 elokventný/YN po:adjective
-elongácia
-eloxácia
+elongácia/U po:noun is:feminine
+eloxácia/U po:noun is:feminine
 eloxovanie/VN po:noun is:neuter
 elpéčko/M po:noun is:neuter
 eltech
 eluát
 elúcia
 eluent
-eluviácia
+eluviácia/U po:noun is:feminine
 elúvium
 elux
 Elvír
@@ -23918,11 +23847,7 @@ Emám
 eman
 Eman
 Emana
-emanácia
-emanácie
-emanácii
-emanácií
-emanáciu
+emanácia/U po:noun is:feminine
 emancipácia/U po:noun is:feminine
 emancipačný/Y po:adjective
 emancipovaný/YN po:adjective
@@ -23931,7 +23856,7 @@ Emanuel/c po:noun is:masculine
 Emanuele
 Emanuelov/Y po:adjective
 Emanuelová/Y po:adjective
-emaskulácia
+emaskulácia/U po:noun is:feminine
 emballage
 embárg
 embargo/M po:noun is:neuter
@@ -23952,7 +23877,7 @@ embryologický/Y po:adjective
 embryóm
 embryonálny/Y po:adjective
 embryopatia
-emendácia
+emendácia/U po:noun is:feminine
 emendancia
 ementál/B po:noun is:masculine
 ementáli
@@ -24070,7 +23995,7 @@ emu
 EMÚ po:acronym
 emulácia/U po:noun is:feminine
 emulátor/B po:noun is:masculine
-emulgácia
+emulgácia/U po:noun is:feminine
 emulgačný/YN po:adjective
 emulgátor/B po:noun is:masculine
 emulgovaný/YN po:adjective
@@ -24174,7 +24099,7 @@ energicky/N po:adverb
 energický/Y po:adjective
 Energit
 energotechnológie
-enervácia
+enervácia/U po:noun is:feminine
 enervovaný/YN po:adjective
 enfatico
 engineering
@@ -24184,7 +24109,7 @@ Enigma
 enigmatický/YN po:adjective
 eniky
 enjambement
-enkapsulácia
+enkapsulácia/U po:noun is:feminine
 enkaustika
 enkláv
 enkláva/zZ po:noun is:feminine
@@ -24193,7 +24118,7 @@ enklávam
 enklitický/YN po:adjective
 enklitika/zZ po:noun is:feminine
 enklitikon
-enkulturácia
+enkulturácia/U po:noun is:feminine
 enoftalmus/B po:noun is:masculine
 enol
 enológia
@@ -24260,11 +24185,11 @@ entuziastov
 entuziazmus/B po:noun is:masculine
 entý/Y po:adjective
 entyméma
-enudácia
+enudácia/U po:noun is:feminine
 enumerácia/U po:noun is:feminine
 enumeračný/Y po:adjective
 enumeratívny/Y po:adjective
-enunciácia
+enunciácia/U po:noun is:feminine
 enuréza
 env
 envir
@@ -24327,7 +24252,7 @@ epidemiologička/zZ po:noun is:feminine
 epidemiológov/Y po:adjective
 epiderma/zZ po:noun is:feminine
 epidermický/YN po:adjective
-epidermizácia
+epidermizácia/U po:noun is:feminine
 epidiaskop
 epifánia
 Epifánia
@@ -24416,7 +24341,7 @@ epitaf/B po:noun is:masculine
 epitalamus/B po:noun is:masculine
 epitaxia
 epitel/B po:noun is:masculine
-epitelizácia
+epitelizácia/U po:noun is:feminine
 epitelmi
 epitelový/Y po:adjective
 epitet
@@ -24432,7 +24357,7 @@ epitetu
 epitéza
 epitomé
 epitrofia
-epizácia
+epizácia/U po:noun is:feminine
 epizeuxa/z po:noun is:feminine
 epizeuxis
 epiziotomia
@@ -24469,11 +24394,11 @@ EPROM po:acronym
 epsilon
 epsomit
 Epson
-epurácia
+epurácia/U po:noun is:feminine
 ér
 éra/zZ po:noun is:feminine
-eradiácia
-eradikácia
+eradiácia/U po:noun is:feminine
+eradikácia/U po:noun is:feminine
 érach
 éram
 erár/B po:noun is:masculine
@@ -24706,7 +24631,7 @@ Estera/zZ po:noun is:feminine
 esteráza
 esterházy
 esteri
-esterifikácia
+esterifikácia/U po:noun is:feminine
 esterový/YN po:adjective
 estét/C po:noun is:masculine
 estetickosť/K po:noun is:feminine
@@ -24726,7 +24651,7 @@ estétstvam
 estétstvo/M po:noun is:neuter
 esteziológia
 Estier
-estimácia
+estimácia/U po:noun is:feminine
 estón
 Estóncov/Y po:adjective
 estónčin
@@ -24788,11 +24713,7 @@ etapovitý/YN po:adjective
 etapovo
 etapový/YN po:adjective
 etat
-etatizácia
-etatizácie
-etatizácii
-etatizáciou
-etatizáciu
+etatizácia/U po:noun is:feminine
 etatizmus/B po:noun is:masculine
 etáž
 etážach
@@ -24829,7 +24750,7 @@ etiketovačka/zZ po:noun is:feminine
 etiketovanie/VN po:noun is:neuter
 etikov/Y po:adjective
 etín
-etiolizácia
+etiolizácia/U po:noun is:feminine
 etiológia
 etiológii
 etióp
@@ -24879,7 +24800,7 @@ etui
 etuvovanie/VN po:noun is:neuter
 Ety
 etyl/B po:noun is:masculine
-etylácia
+etylácia/U po:noun is:feminine
 etylalkohol/B po:noun is:masculine
 etylalkoholový/Y po:adjective
 etylén/B po:noun is:masculine
@@ -25016,7 +24937,7 @@ eurytmia
 eutanázia/U po:noun is:feminine
 eutónia
 eutrofia
-eutrofizácia
+eutrofizácia/U po:noun is:feminine
 eutrofný/YN po:adjective
 eutýmia
 ev
@@ -25031,7 +24952,7 @@ evakuantov/Y po:adjective
 evakuantský/YN po:adjective
 evakuovaný/YN po:adjective
 evakuovať/WN po:verb
-evaluácia
+evaluácia/U po:noun is:feminine
 evalvácia/U po:noun is:feminine
 evalvačný/YN po:adjective
 Evám
@@ -25056,16 +24977,16 @@ evanjelizácia/U po:noun is:feminine
 evanjelizačný/YN po:adjective
 evanjelizovaný/YN po:adjective
 evanjelizovať/WN po:verb
-evaporácia
+evaporácia/U po:noun is:feminine
 evaporimeter
 evaporitov
 evapority
-evapotranspirácia
+evapotranspirácia/U po:noun is:feminine
 evázia
 evazívny/YN po:adjective
 evekcia
 event
-eventrácia
+eventrácia/U po:noun is:feminine
 eventualita/zZ po:noun is:feminine
 eventuálnosť/K po:noun is:feminine
 eventuálny/YN po:adjective
@@ -25086,7 +25007,7 @@ evidovaný/YN po:adjective
 evidovať/WN po:verb
 Evin
 Evine
-eviscerácia
+eviscerácia/U po:noun is:feminine
 Evka
 Evky
 evokácia/U po:noun is:feminine
@@ -25103,12 +25024,12 @@ evolučný/Y po:adjective
 évora
 evorzia
 ex
-exacerbácia
-exagerácia
+exacerbácia/U po:noun is:feminine
+exagerácia/U po:noun is:feminine
 exaktne/N po:adverb
 exaktnosť/K po:noun is:feminine
 exaktný/YN po:adjective
-exaltácia
+exaltácia/U po:noun is:feminine
 exaltovane/N po:adverb
 exaltovanosť/K po:noun is:feminine
 exaltovaný/YN po:adjective
@@ -25120,11 +25041,11 @@ examinátormi
 examinátorov/Y po:adjective
 examinovať/WN po:verb
 exantém
-exarácia
+exarácia/U po:noun is:feminine
 exarcha
 exarchát
 exarchátom
-exartikulácia
+exartikulácia/U po:noun is:feminine
 Excel
 excelencia/U po:noun is:feminine
 excelentne
@@ -25153,7 +25074,7 @@ Excesívne
 excesívneho
 excindančný/YN po:adjective
 excitabilita
-excitácia
+excitácia/U po:noun is:feminine
 excitans
 exciton
 excitovaný/YN po:adjective
@@ -25190,15 +25111,15 @@ exequatur
 exercície/Q po:noun is:feminine
 exercičný/YN po:adjective
 exergia
-exfoliácia
+exfoliácia/U po:noun is:feminine
 exhalácia/U po:noun is:feminine
 exhalačný/Y po:adjective
 exhalát/B po:noun is:masculine
 exhalátmi
 exhalovaný/YN po:adjective
-exhaustácia
+exhaustácia/U po:noun is:feminine
 exhaustor
-exheredácia
+exheredácia/U po:noun is:feminine
 exhibícia/U po:noun is:feminine
 exhibicionista/H po:noun is:masculine
 exhibicionistický/Y po:adjective
@@ -25230,14 +25151,14 @@ exitovať/WN po:verb
 exitu
 exitus/B po:noun is:masculine
 exity
-exkavácia
+exkavácia/U po:noun is:feminine
 exkavátor/C po:noun is:masculine
 exkavátore
 exkavátormi
 exkavátorov/Y po:adjective
 exkavátoru
 exkavátory
-exklamácia
+exklamácia/U po:noun is:feminine
 exkláva
 exkludovať/WN po:verb
 exklusive
@@ -25248,7 +25169,7 @@ exkomunikácia/U po:noun is:feminine
 exkomunikačný/Y po:adjective
 exkomunikovaný/YN po:adjective
 exkomunikovať/WN po:verb
-exkoriácia
+exkoriácia/U po:noun is:feminine
 exkráľ/C po:noun is:masculine
 exkráľov/Y po:adjective
 exkrécia
@@ -25256,7 +25177,7 @@ exkrement
 exkrementoch
 exkrementov
 exkrementy
-exkulpácia
+exkulpácia/U po:noun is:feminine
 exkurz/B po:noun is:masculine
 exkurzia/U po:noun is:feminine
 exkurzný/Y po:adjective
@@ -25319,7 +25240,7 @@ expanzivita/zZ po:noun is:feminine
 expanzívnosť/K po:noun is:feminine
 expanzívny/YN po:adjective
 expanzný/YN po:adjective
-expatriácia
+expatriácia/U po:noun is:feminine
 expedícia/U po:noun is:feminine
 expedičný/Y po:adjective
 expedient/C po:noun is:masculine
@@ -25331,7 +25252,7 @@ expedientov/Y po:adjective
 expedovanie/VN po:noun is:neuter
 expedovaný/YN po:adjective
 expedovať/WN po:verb
-expektorácia
+expektorácia/U po:noun is:feminine
 expektorans
 experiment/B po:noun is:masculine
 experimentálny/YN po:adjective
@@ -25354,9 +25275,9 @@ expertízny/Y po:adjective
 expertka/zZ po:noun is:feminine
 expertný/YN po:adjective
 expertov/Y po:adjective
-explanácia
+explanácia/U po:noun is:feminine
 explanatórny/YN po:adjective
-explantácia
+explantácia/U po:noun is:feminine
 explantát
 explicit
 explicite
@@ -25378,9 +25299,7 @@ exploatovaný/YN po:adjective
 exploatovať/WN po:verb
 explodovanie/VN po:noun is:neuter
 explodovať/WN po:verb
-explorácia
-explorácie
-exploráciu
+explorácia/U po:noun is:feminine
 exploratívny
 explózia/U po:noun is:feminine
 explozívny/YN po:adjective
@@ -25440,19 +25359,19 @@ Express
 exprezident/C po:noun is:masculine
 exprezidentka/zZ po:noun is:feminine
 exprezidentov/Y po:adjective
-expropriácia
+expropriácia/U po:noun is:feminine
 expulzia
-exsangvinácia
-exsekrácia
+exsangvinácia/U po:noun is:feminine
+exsekrácia/U po:noun is:feminine
 exsikát
 exsikóza
 exspirácia/U po:noun is:feminine
 exspiračný/YN po:adjective
-exstirpácia
-exsudácia
+exstirpácia/U po:noun is:feminine
+exsudácia/U po:noun is:feminine
 exsudát
 ext
-extabulácia
+extabulácia/U po:noun is:feminine
 extatickosť/K po:noun is:feminine
 extaticky
 extatický/YN po:adjective
@@ -25483,10 +25402,10 @@ exteriérov
 exteriérový/Y po:adjective
 exteriéru
 exteriéry
-exteriorizácia
+exteriorizácia/U po:noun is:feminine
 exteritorialita
 exteritoriálny/YN po:adjective
-exterminácia
+exterminácia/U po:noun is:feminine
 externalita
 externalizmus/B po:noun is:masculine
 externe
@@ -25495,7 +25414,7 @@ externistka/zZ po:noun is:feminine
 externistov/Y po:adjective
 externý/YN po:adjective
 extinkcia
-extirpácia
+extirpácia/U po:noun is:feminine
 extorzia
 extra
 extracelulárny/YN po:adjective
@@ -25590,10 +25509,7 @@ fabricky
 fabrický/Y po:adjective
 fabrička/zZ po:noun is:feminine
 fabrika/zZ po:noun is:feminine
-fabrikácia
-fabrikáciách
-fabrikácii
-fabrikáciu
+fabrikácia/U po:noun is:feminine
 fabrikant/C po:noun is:masculine
 fabrikantov/Y po:adjective
 fabrikantský/YN po:adjective
@@ -25601,11 +25517,7 @@ fabrikát
 fabrikovanie/VN po:noun is:neuter
 fabrikovať/WN po:verb
 fabula/zZ po:noun is:feminine
-fabulácia
-fabuláciám
-fabuláciami
-fabulácie
-fabuláciu
+fabulácia/U po:noun is:feminine
 fabulárny
 fabulista/H po:noun is:masculine
 fabulovanie/VN po:noun is:neuter
@@ -25620,7 +25532,7 @@ facie
 facies
 facile
 facility
-facilizácia
+facilizácia/U po:noun is:feminine
 facka/zZ po:noun is:feminine
 fackaní
 fackať/EN po:verb
@@ -25917,7 +25829,7 @@ fár
 fara/zZ po:noun is:feminine
 fáracieho
 farad/B po:noun is:masculine
-faradizácia
+faradizácia/U po:noun is:feminine
 Farage po:noun is:masculine
 fáranie/V po:noun is:neuter
 faraón/B po:noun is:masculine
@@ -26044,7 +25956,7 @@ fasádnikov/Y po:adjective
 fasádny/Y po:adjective
 fasádový/Y po:adjective
 fascia
-fasciácia
+fasciácia/U po:noun is:feminine
 fascikel/J po:noun is:masculine
 fascinácia/U po:noun is:feminine
 fascinovane
@@ -26121,8 +26033,7 @@ favorel
 favorit/C po:noun is:masculine
 favoritka/zZ po:noun is:feminine
 favoritov/Y po:adjective
-favorizácia
-favorizáciou
+favorizácia/U po:noun is:feminine
 favorizovanie/VN po:noun is:neuter
 favorizovaný/YN po:adjective
 favorizovať/WN po:verb
@@ -26218,9 +26129,9 @@ fejtónovitý/YN po:adjective
 fejtónový/Y po:adjective
 fekálie/Q po:noun is:feminine
 fekálny/Y po:adjective
-fekundácia
+fekundácia/U po:noun is:feminine
 fekundita
-felácia
+felácia/U po:noun is:feminine
 feláh
 felčiar/C po:noun is:masculine
 felčiarka/zZ po:noun is:feminine
@@ -26268,7 +26179,7 @@ fén/B po:noun is:masculine
 Fenek
 fenestra
 Fenestra
-fenestrácia
+fenestrácia/U po:noun is:feminine
 Fenícia/U po:noun is:feminine
 fenický/YN po:adjective
 Feničan/c po:noun is:masculine
@@ -26405,7 +26316,7 @@ ferrum
 Ferrum
 ferry
 fertilita
-fertilizácia
+fertilizácia/U po:noun is:feminine
 fertilný/YN po:adjective
 fertucha/zZ po:noun is:feminine
 fertuška/zZ po:noun is:feminine
@@ -26510,7 +26421,7 @@ Fiatmi
 fíb
 fíber
 fibrila
-fibrilácia
+fibrilácia/U po:noun is:feminine
 fibrín/B po:noun is:masculine
 Fibrinogén
 fibrínový/YN po:adjective
@@ -26597,8 +26508,7 @@ figovníkový/Y po:adjective
 figový/Y po:adjective
 figúr
 figúra/zZ po:noun is:feminine
-figurácia
-figuráciu
+figurácia/U po:noun is:feminine
 figúrach
 figuralista/H po:noun is:masculine
 figurálny/Y po:adjective
@@ -26933,7 +26843,7 @@ FK po:acronym
 FKM po:acronym
 FLAC
 fladičiek
-flagelácia
+flagelácia/U po:noun is:feminine
 flagelantstvo/M po:noun is:neuter
 flagellum
 flagrantne
@@ -27040,7 +26950,7 @@ flegmatický/YN po:adjective
 flegmatička/zZ po:noun is:feminine
 flegmatik/C po:noun is:masculine
 flegmatikov/Y po:adjective
-flegmatizácia
+flegmatizácia/U po:noun is:feminine
 flegmatizmus/B po:noun is:masculine
 flegmóna/zZ po:noun is:feminine
 flektívnosť/K po:noun is:feminine
@@ -27098,7 +27008,7 @@ fľocháňu
 fľochať/EN po:verb
 fľochnúť/WN
 flokula
-flokulácia
+flokulácia/U po:noun is:feminine
 floorball
 flop
 flór/B po:noun is:masculine
@@ -27153,11 +27063,7 @@ fľoš
 fľošiť
 flot
 flota
-flotácia
-flotácie
-flotácií
-flotáciou
-flotáciu
+flotácia/U po:noun is:feminine
 flotačný/YN po:adjective
 flotila/zZ po:noun is:feminine
 flotilový/Y po:adjective
@@ -27166,10 +27072,7 @@ floxový/Y po:adjective
 fluid
 Fluid
 fluíd
-fluidizácia
-fluidizácii
-fluidizáciou
-fluidizáciu
+fluidizácia/U po:noun is:feminine
 fluidný/YN po:adjective
 fluidový/Y po:adjective
 fluidum/M po:noun is:neuter
@@ -27230,12 +27133,12 @@ föhn/B po:noun is:masculine
 fokála
 fokálny/YN po:adjective
 fókus/B po:noun is:masculine
-fokusácia
+fokusácia/U po:noun is:feminine
 fókusový/YN po:adjective
 folder
 fóliá
 fólia/U po:noun is:feminine
-foliácia
+foliácia/U po:noun is:feminine
 foliant
 folikul
 folikulitída
@@ -27450,8 +27353,7 @@ fortieľoch
 fortieľom
 fortieľov
 fortieľu
-fortifikácia
-fortifikáciu
+fortifikácia/U po:noun is:feminine
 fortifikovaný/YN po:adjective
 fortifikovať/WN po:verb
 fortissimo
@@ -27485,7 +27387,7 @@ fosforitan
 fosforitý/YN po:adjective
 fosforolýza
 fosforový/Y po:adjective
-fosforylácia
+fosforylácia/U po:noun is:feminine
 fosgén/B po:noun is:masculine
 fosgénový/Y po:adjective
 fosília/U po:noun is:feminine
@@ -27520,7 +27422,7 @@ fotoaparát/B po:noun is:masculine
 fotoaparátmi
 fotoarchív
 fotoarchívu
-fotoasimilácia
+fotoasimilácia/U po:noun is:feminine
 fotoateliér/B po:noun is:masculine
 fotoateliéri
 fotoateliérmi
@@ -27568,7 +27470,7 @@ fotogrammetria
 fotochémia/U po:noun is:feminine
 fotochemický/YN po:adjective
 fotochemikália/U po:noun is:feminine
-fotojuvenizácia
+fotojuvenizácia/U po:noun is:feminine
 fotokatalýza
 fotokinéza
 fotokomore
@@ -27616,7 +27518,7 @@ fotoslužba
 fotoslužbou
 fotoslužby
 fotoslužieb
-fotostimulácia
+fotostimulácia/U po:noun is:feminine
 fotostimulátor
 fotosúťaž/D po:noun is:feminine
 fotosyntetický/Y po:adjective
@@ -27667,11 +27569,7 @@ fragile
 fragilita
 fragilný/YN po:adjective
 fragment/B po:noun is:masculine
-fragmentácia
-fragmentácie
-fragmentácii
-fragmentáciou
-fragmentáciu
+fragmentácia/U po:noun is:feminine
 fragmentačné
 fragmentačných
 fragmentárnosť/K po:noun is:feminine
@@ -28072,7 +27970,7 @@ fŕŕ
 fŕskať
 frsknúť
 frugalita
-fruktifikácia
+fruktifikácia/U po:noun is:feminine
 fruktifikovať/WN po:verb
 fruktóz
 fruktóza/zZ po:noun is:feminine
@@ -28083,7 +27981,7 @@ fruktozúria
 frustrácia/U po:noun is:feminine
 frustrovaný/YN po:adjective
 frustrujúci/Y po:adjective
-frustulácia
+frustulácia/U po:noun is:feminine
 fruštik
 fruštikovať/WN po:verb
 frutarián
@@ -28173,7 +28071,7 @@ fúľať/XN po:verb
 Fulda
 Fulde
 fulgentný/YN po:adjective
-fulgurácia
+fulgurácia/U po:noun is:feminine
 Fulla/H po:noun is:masculine
 Fullov/Y po:adjective
 fulltextový/Y po:adjective
@@ -28185,8 +28083,7 @@ fumigant
 fumigátor
 fumigovať/WN po:verb
 fuňať/RN po:verb
-fundácia
-fundáciu
+fundácia/U po:noun is:feminine
 fundament/B po:noun is:masculine
 fundamentalista/H po:noun is:masculine
 fundamentalisticky
@@ -28402,7 +28299,7 @@ fytocenológia
 fytocenóza/zZ po:noun is:feminine
 fytofág
 fytofágia
-fytofarmácia
+fytofarmácia/U po:noun is:feminine
 fytoftora
 fytofyziológia
 fytogenetika
@@ -28650,7 +28547,7 @@ Galina/zZ po:noun is:feminine
 galión
 Galiu
 gálium/M po:noun is:neuter
-galizácia
+galizácia/U po:noun is:feminine
 Galka
 Galkin
 Galku
@@ -28903,7 +28800,7 @@ gastroskopia
 gastroskopiu
 gastroskopom
 gastrula
-gastrulácia
+gastrulácia/U po:noun is:feminine
 gašpar/C po:noun is:masculine
 Gašpar/c po:noun is:masculine
 gašparko/c po:noun is:masculine
@@ -29104,7 +29001,7 @@ gél/B po:noun is:masculine
 geleta/zZ po:noun is:feminine
 geletka/zZ po:noun is:feminine
 géli
-gelivácia
+gelivácia/U po:noun is:feminine
 gélmi
 Gelnica
 Gelnice
@@ -29122,7 +29019,7 @@ gélový/Y po:adjective
 gém
 gem/B po:noun is:masculine
 gema/zZ po:noun is:feminine
-gemácia
+gemácia/U po:noun is:feminine
 gemanizačný/YN po:adjective
 gemara
 gemelilógia
@@ -29133,7 +29030,7 @@ Gemerčanov/Y po:adjective
 Gemerček
 gemerský/YN po:adjective
 Gemina
-geminácia
+geminácia/U po:noun is:feminine
 gemináta/zZ po:noun is:feminine
 gemini
 Gemini
@@ -29419,7 +29316,7 @@ Germánov/Y po:adjective
 germánsky/Y po:adjective
 germánstvo/M po:noun is:neuter
 germicíd
-germinácia
+germinácia/U po:noun is:feminine
 géromé
 gerontofília
 gerontokracia
@@ -29440,7 +29337,7 @@ gerundium
 gerundívum
 gescia/U po:noun is:feminine
 gesčný/Y po:adjective
-gestácia
+gestácia/U po:noun is:feminine
 gestagén
 gestaltizmus/B po:noun is:masculine
 gestáp
@@ -29567,7 +29464,7 @@ Glasgowčan/c po:noun is:masculine
 Glasgowčanka/zZ po:noun is:feminine
 Glasgowčanov/Y po:adjective
 glasgowský/YN po:adjective
-glasifikácia
+glasifikácia/U po:noun is:feminine
 glasnosť/K po:noun is:feminine
 glaukóm
 glaukómu
@@ -29928,9 +29825,7 @@ gradovanie/VN po:noun is:neuter
 gradovaný/YN po:adjective
 gradovať/WN po:verb
 grádový/Y po:adjective
-graduácia
-graduácie
-graduáciu
+graduácia/U po:noun is:feminine
 graduačný/YN po:adjective
 graduál
 graduála
@@ -29962,7 +29857,7 @@ grafit/B po:noun is:masculine
 grafitista/H po:noun is:masculine
 grafitistka/zZ po:noun is:feminine
 grafitistov/Y po:adjective
-grafitizácia
+grafitizácia/U po:noun is:feminine
 grafitmi
 grafitový/Y po:adjective
 grafognózia
@@ -30047,7 +29942,7 @@ grandov/Y po:adjective
 grandský/YN po:adjective
 grandslamový/YN po:adjective
 granit/B po:noun is:masculine
-granitizácia
+granitizácia/U po:noun is:feminine
 granitmi
 granitoid
 granitový/Y po:adjective
@@ -30074,7 +29969,7 @@ grapefruitmi
 grapefruitový/Y po:adjective
 grata
 gratias
-gratifikácia
+gratifikácia/U po:noun is:feminine
 gratinovanie/VN po:noun is:neuter
 grátis
 gratulácia/U po:noun is:feminine
@@ -30474,7 +30369,7 @@ gustírovať/WN po:verb
 gusto/M po:noun is:neuter
 gustometer
 gustometria
-gutácia
+gutácia/U po:noun is:feminine
 gutaperča
 guttae
 guvernantka/zZ po:noun is:feminine
@@ -30572,10 +30467,10 @@ habilitovať/WN po:verb
 habisko
 hábit
 habit/B po:noun is:masculine
-habitácia
+habitácia/U po:noun is:feminine
 habitat
 habitmi
-habituácia
+habituácia/U po:noun is:feminine
 habitualita
 habituálny/YN po:adjective
 habitué
@@ -30587,7 +30482,7 @@ habkavo/N po:adverb
 habkavý/YN po:adjective
 habkom
 hábky/Q
-hablitácia
+hablitácia/U po:noun is:feminine
 habnúť/WN
 hábočiek
 hábočky/Q
@@ -30873,7 +30768,7 @@ hál
 hala/zZ po:noun is:feminine
 halabala
 halabut
-halácia
+halácia/U po:noun is:feminine
 Halač
 halačiť
 halacha
@@ -30940,7 +30835,7 @@ halofilný/YN po:adjective
 halofóbny/YN po:adjective
 halofyt
 halogén/B po:noun is:masculine
-halogenácia
+halogenácia/U po:noun is:feminine
 halogenéza
 halogenid
 halogénovaný/YN po:adjective
@@ -31588,7 +31483,7 @@ helvétka/zZ po:noun is:feminine
 helvétsky/YN po:adjective
 hem
 hém
-hemaglutinácia
+hemaglutinácia/U po:noun is:feminine
 hemangioblastóm
 hemangióm
 hemastóza
@@ -31650,7 +31545,7 @@ hemoglobínový/YN po:adjective
 hemoglobinúria
 hemogram
 hemochróm
-hemokoagulácia
+hemokoagulácia/U po:noun is:feminine
 hemolymfa
 hemolýza
 hemolyzín
@@ -31814,8 +31709,7 @@ Hermesová/Y po:adjective
 hermetickosť/K po:noun is:feminine
 hermeticky
 hermetický/YN po:adjective
-hermetizácia
-hermetizáciu
+hermetizácia/U po:noun is:feminine
 hermetizmus/B po:noun is:masculine
 Hermína/zZ po:noun is:feminine
 hermovka
@@ -31940,7 +31834,7 @@ hexánu
 hexenšus
 hexogén
 hexogénu
-hezitácia
+hezitácia/U po:noun is:feminine
 HFC po:acronym
 HH po:acronym
 hi
@@ -31960,11 +31854,7 @@ hierarchia/U po:noun is:feminine
 hierarchickosť/K po:noun is:feminine
 hierarchicky
 hierarchický/YN po:adjective
-hierarchizácia
-hierarchizácie
-hierarchizácii
-hierarchizáciou
-hierarchizáciu
+hierarchizácia/U po:noun is:feminine
 hierarchizmus/B po:noun is:masculine
 hierarchizovať/WN po:verb
 hierarchov
@@ -32082,7 +31972,7 @@ historikov/Y po:adjective
 historiograf
 historiografia/U po:noun is:feminine
 historiografický/YN po:adjective
-historizácia
+historizácia/U po:noun is:feminine
 historizmus/B po:noun is:masculine
 historizovať/WN po:verb
 historka/zZ po:noun is:feminine
@@ -33251,7 +33141,7 @@ homilet
 homiletika
 homília/U po:noun is:feminine
 hominidi
-hominizácia
+hominizácia/U po:noun is:feminine
 homo
 homocentrický/YN po:adjective
 homofónia/U po:noun is:feminine
@@ -33276,7 +33166,7 @@ Homola
 homoľa/U po:noun is:feminine
 homolí
 homológ/c po:noun is:masculine
-homologácia
+homologácia/U po:noun is:feminine
 homológia/U po:noun is:feminine
 homologický/YN po:adjective
 homologizácia/U po:noun is:feminine
@@ -34727,11 +34617,7 @@ humanitárny/YN po:adjective
 humanitne
 humanitno
 humanitný/YN po:adjective
-humanizácia
-humanizácie
-humanizácii
-humanizáciou
-humanizáciu
+humanizácia/U po:noun is:feminine
 humanizmus/B po:noun is:masculine
 humanizovať/WN po:verb
 humánnosť/K po:noun is:feminine
@@ -34761,7 +34647,7 @@ humiencom
 humienec
 humienko/M po:noun is:neuter
 humienok
-humifikácia
+humifikácia/U po:noun is:feminine
 humifikovať/WN po:verb
 humno/M po:noun is:neuter
 humnový/YN po:adjective
@@ -35200,10 +35086,7 @@ hydrofóbny/YN po:adjective
 hydrofyt
 hydrogamia
 hydrogén/B po:noun is:masculine
-hydrogenácia
-hydrogenácie
-hydrogenáciou
-hydrogenáciu
+hydrogenácia/U po:noun is:feminine
 hydrogenerátorov
 hydrogenerátory
 hydrogénium
@@ -35276,7 +35159,7 @@ hydrotypia
 hydrouhličitan
 hydrouhličitany
 hydroxid/B po:noun is:masculine
-hydroxylácia
+hydroxylácia/U po:noun is:feminine
 hyena/zZ po:noun is:feminine
 hyení/I po:adjective
 hyenizmus/B po:noun is:masculine
@@ -35363,7 +35246,7 @@ hyperosmia
 hyperpatia
 hyperplázia
 hyperplázie
-hypersalivácia
+hypersalivácia/U po:noun is:feminine
 hypersekrécia
 hypersenzitívny/Y po:adjective
 hypersexuál/C po:noun is:masculine
@@ -36161,10 +36044,10 @@ chlopotiť
 chlór/B po:noun is:masculine
 chlóracetofenón
 chlóracetón
-chlorácia
+chlorácia/U po:noun is:feminine
 chloramfenikol
 chloramín
-chloraminácia
+chloraminácia/U po:noun is:feminine
 chlóramínu
 chlorát
 chlórbenzén
@@ -37471,7 +37354,7 @@ igelitový/YN po:adjective
 iglu
 iglú
 Ignác/c po:noun is:masculine
-Ignácia
+Ignácia/U po:noun is:feminine
 Ignácov/Y po:adjective
 Ignácová/Y po:adjective
 igni
@@ -37605,7 +37488,7 @@ ikonickosť/K po:noun is:feminine
 ikonický/YN po:adjective
 ikonifikovaný/YN po:adjective
 ikonifikovať/WN po:verb
-ikonizácia
+ikonizácia/U po:noun is:feminine
 ikonka/zZ po:noun is:feminine
 ikonodúlia
 ikonografia/U po:noun is:feminine
@@ -37625,7 +37508,7 @@ IKT po:acronym
 ikterus
 iktus
 íl/B po:noun is:masculine
-ilácia
+ilácia/U po:noun is:feminine
 Ilava
 Ilave
 Ilavou
@@ -37648,7 +37531,7 @@ Iliaš
 Iliaša
 Ilija
 ilikvidita
-ilimerizácia
+ilimerizácia/U po:noun is:feminine
 ilimitovaný/YN po:adjective
 ilit
 iliterárny/YN po:adjective
@@ -37687,7 +37570,7 @@ ilustrátorský/YN po:adjective
 ilustrátorstvo/M po:noun is:neuter
 ilustrovaný/YN po:adjective
 ilustrovať/WN po:verb
-iluviácia
+iluviácia/U po:noun is:feminine
 ilúvium
 ilúzia/U po:noun is:feminine
 iluzionista/H po:noun is:masculine
@@ -37789,9 +37672,7 @@ imobília
 imobílie
 imobílií
 imobilita
-imobilizácia
-imobilizácie
-imobilizáciu
+imobilizácia/U po:noun is:feminine
 imobilizovaný/YN po:adjective
 imobilizovať/WN po:verb
 imobilnosť/K po:noun is:feminine
@@ -37824,7 +37705,7 @@ imperfekt
 imperfektný/YN po:adjective
 imperfektový/YN po:adjective
 imperfektum/M po:noun is:neuter
-imperforácia
+imperforácia/U po:noun is:feminine
 imperiál/B po:noun is:masculine
 imperialista/H po:noun is:masculine
 imperialisticky/N po:adverb
@@ -37955,10 +37836,7 @@ Imriška
 imunita/zZ po:noun is:feminine
 imunitne
 imunitný/Y po:adjective
-imunizácia
-imunizácie
-imunizácii
-imunizáciu
+imunizácia/U po:noun is:feminine
 imunizačný/YN po:adjective
 imunizovanie/VN po:noun is:neuter
 imunizovaný/YN po:adjective
@@ -37993,9 +37871,7 @@ inadiaľ
 inak
 inakosť/K po:noun is:feminine
 inakší/I po:adjective
-inaktivácia
-inaktivácie
-inaktiváciu
+inaktivácia/U po:noun is:feminine
 inaktivita
 inaktívnosť/K po:noun is:feminine
 inaktívnych
@@ -38020,7 +37896,7 @@ incidenciu
 incident/B po:noun is:masculine
 incidentmi
 incidovať/WN po:verb
-incinerácia
+incinerácia/U po:noun is:feminine
 incipientný/YN po:adjective
 incipit
 incízia
@@ -38030,7 +37906,7 @@ Incoterms
 ind
 Ind
 Inda
-indagácia
+indagácia/U po:noun is:feminine
 inde
 indebite
 indeciso
@@ -38073,7 +37949,7 @@ indiferentný/YN po:adjective
 indíg
 indigénny/YN po:adjective
 indigescia
-indignácia
+indignácia/U po:noun is:feminine
 indignovaný/YN po:adjective
 indigo/M po:noun is:neuter
 indigový/YN po:adjective
@@ -38120,7 +37996,7 @@ individuálnosť/K po:noun is:feminine
 individuálny/YN po:adjective
 indivíduí
 indivíduum/M po:noun is:neuter
-indivirualizácia
+indivirualizácia/U po:noun is:feminine
 Indka
 Indmi
 Indočína
@@ -38146,7 +38022,7 @@ indonéz
 Indonézia/U po:noun is:feminine
 indonézsky/Y po:adjective
 indoor
-indosácia
+indosácia/U po:noun is:feminine
 indosament
 indosamentom
 indosamentov
@@ -38169,7 +38045,7 @@ induktor/B po:noun is:masculine
 induktorový/YN po:adjective
 indulgencia
 indult
-indurácia
+indurácia/U po:noun is:feminine
 industrálny
 industria
 industrializácia/U po:noun is:feminine
@@ -38191,12 +38067,12 @@ inerčný/YN po:adjective
 inertne
 inertnosť/K po:noun is:feminine
 inertný/YN po:adjective
-inervácia
+inervácia/U po:noun is:feminine
 inervovať/WN po:verb
 inezit
 inf
 infalibilný/YN po:adjective
-infamácia
+infamácia/U po:noun is:feminine
 infámia
 infámnosť/K po:noun is:feminine
 infámny/YN po:adjective
@@ -38256,7 +38132,7 @@ inflačne
 inflačno
 inflačný/YN po:adjective
 inflagranti
-inflamácia
+inflamácia/U po:noun is:feminine
 inflamatórny/YN po:adjective
 inflexia
 inflexný/YN po:adjective
@@ -38264,7 +38140,7 @@ influencia
 influenza
 influenze
 infolinka/zZ po:noun is:feminine
-infomácia
+infomácia/U po:noun is:feminine
 infor
 inform
 informácia/U po:noun is:feminine
@@ -38412,14 +38288,14 @@ injektorový/YN po:adjective
 injektovanie/VN po:noun is:neuter
 injektovaný/YN po:adjective
 injektovať/WN po:verb
-injikácia
+injikácia/U po:noun is:feminine
 injunkcia
 injuria
 Ink/C po:noun is:masculine
-inkantácia
-inkapsulácia
-inkarcerácia
-inkarnácia
+inkantácia/U po:noun is:feminine
+inkapsulácia/U po:noun is:feminine
+inkarcerácia/U po:noun is:feminine
+inkarnácia/U po:noun is:feminine
 inkarnát
 inkás
 inkasant/C po:noun is:masculine
@@ -38474,7 +38350,7 @@ inkriminácia/U po:noun is:feminine
 inkriminovaný/YN po:adjective
 inkriminovať/WN po:verb
 inkriminujúci
-inkrustácia
+inkrustácia/U po:noun is:feminine
 Inku
 inkubácia/U po:noun is:feminine
 inkubačný/YN po:adjective
@@ -38482,7 +38358,7 @@ inkubátor/B po:noun is:masculine
 inkunábul
 inkunábula/z po:noun is:feminine
 inkvirovať/WN po:verb
-inkvizácia
+inkvizácia/U po:noun is:feminine
 inkvizícia/U po:noun is:feminine
 inkvizičný/YN po:adjective
 inkvizítor/C po:noun is:masculine
@@ -38501,7 +38377,7 @@ inojazyčne
 inojazyčný/YN po:adjective
 inokade
 inokedy
-inokulácia
+inokulácia/U po:noun is:feminine
 inokulum
 inonárodný/YN po:adjective
 inoperabilný/YN po:adjective
@@ -38564,7 +38440,7 @@ insitne/N po:adverb
 insitnosť/K po:noun is:feminine
 insitný/YN po:adjective
 inskripcia
-insolácia
+insolácia/U po:noun is:feminine
 insolancia
 insolencia
 insolvencia/U po:noun is:feminine
@@ -38576,15 +38452,15 @@ inspirovať/WN po:verb
 instabilita
 Instagram/B po:noun is:masculine
 instantný/YN po:adjective
-instigácia
-instilácia
+instigácia/U po:noun is:feminine
+instilácia/U po:noun is:feminine
 instr
-instradácia
+instradácia/U po:noun is:feminine
 Instruments
 insuficiencia
 insuficientnosť/K po:noun is:feminine
 insuficientný/YN po:adjective
-insuflácia
+insuflácia/U po:noun is:feminine
 insulárny/YN po:adjective
 insurekcia
 inšej
@@ -38705,8 +38581,7 @@ inštruovanie/VN po:noun is:neuter
 inštruovaný/YN po:adjective
 inštruovať/WN po:verb
 int
-intabulácia
-intabuláciou
+intabulácia/U po:noun is:feminine
 intabulačnému
 intaglia
 intaktnosť/K po:noun is:feminine
@@ -38840,7 +38715,7 @@ interiéry
 interim
 Interim
 interimálny/YN po:adjective
-interiorizácia
+interiorizácia/U po:noun is:feminine
 interj
 interjekcia/U po:noun is:feminine
 interjekcionálny
@@ -38887,7 +38762,7 @@ internacionálny/YN po:adjective
 internacionálom
 internacionálov
 internačný/YN po:adjective
-internalizácia
+internalizácia/U po:noun is:feminine
 internát/B po:noun is:masculine
 international
 internátmi
@@ -38981,9 +38856,9 @@ intestinálny/YN po:adjective
 intestínum
 intevokálny
 intifáda
-intimácia
+intimácia/U po:noun is:feminine
 intimát
-intimidácia
+intimidácia/U po:noun is:feminine
 intimita/zZ po:noun is:feminine
 intímnosť/K po:noun is:feminine
 intímny/YN po:adjective
@@ -39042,7 +38917,7 @@ introdukcia/U po:noun is:feminine
 introdukovať/WN po:verb
 introit
 introjekcia
-intronizácia
+intronizácia/U po:noun is:feminine
 introspekcia/U po:noun is:feminine
 introspekčný/YN po:adjective
 introspektívny/YN po:adjective
@@ -39097,7 +38972,7 @@ inventarizovaný/YN po:adjective
 inventarizovať/WN po:verb
 inventármi
 inventárny/YN po:adjective
-inventazizácia
+inventazizácia/U po:noun is:feminine
 inventúr
 inventúra/zZ po:noun is:feminine
 inventúrach
@@ -39119,7 +38994,7 @@ investíciam
 investične
 investično
 investičný/YN po:adjective
-investigácia
+investigácia/U po:noun is:feminine
 investigatívnosť/K po:noun is:feminine
 investigatívny/YN po:adjective
 investitúra/zZ po:noun is:feminine
@@ -39216,7 +39091,7 @@ Ipľom
 Ipľu
 IPO po:acronym
 ipon
-ipsácia
+ipsácia/U po:noun is:feminine
 IQ po:acronym
 ír
 Ira
@@ -39557,7 +39432,7 @@ izochrónia
 izochronický/YN po:adjective
 izochronizmus/B po:noun is:masculine
 izochrónny/YN po:adjective
-izoimunizácia
+izoimunizácia/U po:noun is:feminine
 izoklas
 izoklina
 izokyanát/B po:noun is:masculine
@@ -39852,7 +39727,7 @@ Jakovany
 jakovi
 Jakovian
 jaksi
-jaktácia
+jaktácia/U po:noun is:feminine
 Jakub/c po:noun is:masculine
 jakubka/zZ po:noun is:feminine
 Jakubov/Y po:adjective
@@ -41118,7 +40993,7 @@ jordánsky/YN po:adjective
 Jordánu
 jot
 jota/z po:noun is:feminine
-jotácia
+jotácia/U po:noun is:feminine
 jotách
 jotám
 jotami
@@ -41196,7 +41071,7 @@ Judea
 Judeou
 judiciálny/YN po:adjective
 judicium
-judikácia
+judikácia/U po:noun is:feminine
 judikát
 judikatúra/zZ po:noun is:feminine
 judista/H po:noun is:masculine
@@ -41378,12 +41253,12 @@ júrt
 jurta/zZ po:noun is:feminine
 just
 Justa
-justácia
+justácia/U po:noun is:feminine
 justáž
 justícia/U po:noun is:feminine
 justične
 justičný/Y po:adjective
-justifikácia
+justifikácia/U po:noun is:feminine
 justifikovať/WN po:verb
 Justin
 Justína/zZ po:noun is:feminine
@@ -41765,8 +41640,7 @@ kalcifikovať/WN po:verb
 kalcifit
 kalcifóbny/YN po:adjective
 kalcimeter
-kalcinácia
-kalcinácie
+kalcinácia/U po:noun is:feminine
 kalcinémia
 kalcinovaný/YN po:adjective
 kalcinovať/WN po:verb
@@ -41912,7 +41786,7 @@ Kalliopé
 kalm
 kalma
 Kalma
-kalmetizácia
+kalmetizácia/U po:noun is:feminine
 kalmi
 Kalmus/B po:noun is:masculine
 kalne/N po:adverb
@@ -41944,7 +41818,7 @@ kalorimetrov
 kaloritropizmus/B po:noun is:masculine
 Kaloša
 kalotypia
-kaloudácia
+kaloudácia/U po:noun is:feminine
 kalovo
 kalový/YN po:adjective
 kalpa
@@ -42193,7 +42067,7 @@ kanc
 kance
 kanceľ/J po:noun is:masculine
 kancela
-Kancelácia
+Kancelácia/U po:noun is:feminine
 kancelácie
 kancelácií
 kanceláciu
@@ -42203,7 +42077,7 @@ kancelárov/Y po:adjective
 kancelársky/YN po:adjective
 kancelárstvo/M po:noun is:neuter
 kancer
-kancerizácia
+kancerizácia/U po:noun is:feminine
 kancerogén/B po:noun is:masculine
 kancerogenéza
 kancerogénny/YN po:adjective
@@ -42256,7 +42130,7 @@ kandys
 kandyt
 kanec/C po:noun is:masculine
 Kanel
-kanelácia
+kanelácia/U po:noun is:feminine
 kanelloni
 kanelúra
 kaní/I po:adjective
@@ -42336,7 +42210,7 @@ kantátach
 kantátam
 kantátový/YN po:adjective
 kaňte
-kantilácia
+kantilácia/U po:noun is:feminine
 kantilén
 kantiléna/zZ po:noun is:feminine
 kantilénach
@@ -42346,7 +42220,7 @@ Kantom
 kanton
 Kanton
 kantón/B po:noun is:masculine
-kantonácia
+kantonácia/U po:noun is:feminine
 kantonálny/YN po:adjective
 Kantone
 kantor/C po:noun is:masculine
@@ -42406,13 +42280,7 @@ kapiový/YN po:adjective
 kapišón
 Kapišová/Y po:adjective
 kapit
-kapitácia
-kapitáciách
-kapitácie
-kapitácii
-kapitácií
-kapitáciou
-kapitáciu
+kapitácia/U po:noun is:feminine
 kapitál/B po:noun is:masculine
 kapitála/zZ po:noun is:feminine
 kapitálach
@@ -42423,12 +42291,7 @@ kapitalista/H po:noun is:masculine
 kapitalisticky/N po:adverb
 kapitalistický/Y po:adjective
 kapitalistka/zZ po:noun is:feminine
-kapitalizácia
-kapitalizácie
-kapitalizácii
-kapitalizácií
-kapitalizáciou
-kapitalizáciu
+kapitalizácia/U po:noun is:feminine
 kapitalizačný/Y po:adjective
 kapitalizmus/B po:noun is:masculine
 kapitálka/zZ po:noun is:feminine
@@ -42538,7 +42401,7 @@ kapšťan
 Kapšťan/c po:noun is:masculine
 Kapšťanov/Y po:adjective
 kapštiansky
-kaptácia
+kaptácia/U po:noun is:feminine
 kaptatórny/YN po:adjective
 kapúci
 kapucín/B po:noun is:masculine
@@ -42672,7 +42535,7 @@ karavela
 káravý/YN po:adjective
 karbamid
 karbid/B po:noun is:masculine
-karbidácia
+karbidácia/U po:noun is:feminine
 karbidový/YN po:adjective
 karbofer
 karbol/B po:noun is:masculine
@@ -42681,14 +42544,14 @@ karbolínový/YN po:adjective
 karbolový/YN po:adjective
 Karbom
 karbón/B po:noun is:masculine
-karbonácia
+karbonácia/U po:noun is:feminine
 karbonádo
 karbonári
 karbonát/B po:noun is:masculine
-karbonatizácia
+karbonatizácia/U po:noun is:feminine
 karbonátka/zZ po:noun is:feminine
 karbonátmi
-karbonifikácia
+karbonifikácia/U po:noun is:feminine
 karbonit/B po:noun is:masculine
 karbonizácia/U po:noun is:feminine
 karbonizačný/YN po:adjective
@@ -42697,13 +42560,13 @@ karbonizovať/WN po:verb
 karbónový/YN po:adjective
 karbónsky
 karbonyl/B po:noun is:masculine
-karbonylácia
+karbonylácia/U po:noun is:feminine
 karborafín
 karborundový/YN po:adjective
 karborundum
 karbovanec
 karboxyl/B po:noun is:masculine
-karboxylácia
+karboxylácia/U po:noun is:feminine
 karboxylový/YN po:adjective
 karbu
 karbunkul/B po:noun is:masculine
@@ -42884,7 +42747,7 @@ karnety
 karneval/B po:noun is:masculine
 karnevalmi
 karnevalový/YN po:adjective
-karnifikácia
+karnifikácia/U po:noun is:feminine
 karnivol
 karnivoria
 karnivorný/YN po:adjective
@@ -43039,7 +42902,7 @@ karyotyp
 kás
 kasá
 kasa/zZ po:noun is:feminine
-kasácia
+kasácia/U po:noun is:feminine
 kasačného
 kasačnému
 Kasačný/YN po:adjective
@@ -43106,7 +42969,7 @@ kastaniet po:noun is:feminine st:kastanety is:genitive is:plural
 kastelán/C po:noun is:masculine
 kastelánka/zZ po:noun is:feminine
 kastelánov/Y po:adjective
-kastigácia
+kastigácia/U po:noun is:feminine
 Kastília/U po:noun is:feminine
 kastílsky
 kastovnícky/YN po:adjective
@@ -43360,10 +43223,7 @@ katepsín
 kater
 Katerina
 katéter/J po:noun is:masculine
-katetrizácia
-katetrizácie
-katetrizácii
-katetrizáciu
+katetrizácia/U po:noun is:feminine
 katetrizovať/WN po:verb
 katexia
 katexochén
@@ -43378,7 +43238,7 @@ Katilína/zZ po:noun is:feminine
 katilo
 Katina
 katión/B po:noun is:masculine
-kationizácia
+kationizácia/U po:noun is:feminine
 katiónový/YN po:adjective
 Katka/zZ po:noun is:feminine
 Katkin/Y po:adjective
@@ -43446,16 +43306,14 @@ kauri
 kaurí
 kausticky
 kaustický/YN po:adjective
-kaustifikácia
-kaustifikácie
-kaustifikácii
+kaustifikácia/U po:noun is:feminine
 kaustika
 kaustiku
 kaustikum
 kaustobiolit/B po:noun is:masculine
 kautela
 kauter
-kauterizácia
+kauterizácia/U po:noun is:feminine
 káuz
 kauza/zZ po:noun is:feminine
 kauzalita/zZ po:noun is:feminine
@@ -43492,7 +43350,7 @@ kávičkár/C po:noun is:masculine
 kávičkárka/zZ po:noun is:feminine
 kávičkárov/Y po:adjective
 kavita
-kavitácia
+kavitácia/U po:noun is:feminine
 kavka/zZ po:noun is:feminine
 kávovar/J po:noun is:masculine
 kávovarmi
@@ -43778,7 +43636,7 @@ keramohalit
 keramzit
 keramzitu
 keratín/B po:noun is:masculine
-keratinizácia
+keratinizácia/U po:noun is:feminine
 keratínový/YN po:adjective
 keratitída
 kerato
@@ -44026,7 +43884,7 @@ kivov/Y po:adjective
 kivový/Y po:adjective
 kíže
 kJ
-kjeldahlizácia
+kjeldahlizácia/U po:noun is:feminine
 kjú
 Kjúšú
 KK po:acronym
@@ -44150,7 +44008,7 @@ Klára/zZ po:noun is:feminine
 Klárach
 Kláram
 klaret
-klarifikácia
+klarifikácia/U po:noun is:feminine
 Klárin
 Klárina
 Klárine
@@ -44244,7 +44102,7 @@ Klatovský/YN po:adjective
 Klatovy
 Klaudia/U po:noun is:feminine
 Klaudiin
-klaudikácia
+klaudikácia/U po:noun is:feminine
 Klaudius
 klaun/C po:noun is:masculine
 klaunov/Y po:adjective
@@ -44400,7 +44258,7 @@ klepotmi
 klepová
 klepové
 klepsydra
-kleptomácia
+kleptomácia/U po:noun is:feminine
 kleptoman/C po:noun is:masculine
 kleptománia/U po:noun is:feminine
 kleptomanka/zZ po:noun is:feminine
@@ -44997,7 +44855,7 @@ KNV po:acronym
 KNX po:acronym
 KO po:acronym
 koacervát/B po:noun is:masculine
-koadaptácia
+koadaptácia/U po:noun is:feminine
 koagulácia/U po:noun is:feminine
 koagulačne
 koagulačný/YN po:adjective
@@ -45022,7 +44880,7 @@ koaličník/C po:noun is:masculine
 koaličníkov/Y po:adjective
 koalično
 koaličný/YN po:adjective
-koarktácia
+koarktácia/U po:noun is:feminine
 koati
 koaxiálny/YN po:adjective
 kobalt/B po:noun is:masculine
@@ -45178,7 +45036,7 @@ kofunkcia
 koga
 kogazín
 kogentný/YN po:adjective
-kognácia
+kognácia/U po:noun is:feminine
 kognát/B po:noun is:masculine
 kognícia/U po:noun is:feminine
 kognitívny/Y po:adjective
@@ -45385,7 +45243,7 @@ kolaborantstvo/M po:noun is:neuter
 kolaborovanie/VN po:noun is:neuter
 kolaborovať/WN po:verb
 kolabovať/WN po:verb
-kolácia
+kolácia/U po:noun is:feminine
 kolacionovanie/VN po:noun is:neuter
 kolacionovať/WN po:verb
 koláč/J po:noun is:masculine
@@ -45436,7 +45294,7 @@ kolaudačný/YN po:adjective
 kolaudovanie/VN po:noun is:neuter
 kolaudovaný/YN po:adjective
 kolaudovať/WN po:verb
-kolavorácia
+kolavorácia/U po:noun is:feminine
 koláž/D po:noun is:feminine
 kolážový/YN po:adjective
 Kolba
@@ -45543,15 +45401,15 @@ kolienok
 koliesko/M po:noun is:neuter
 kolieskový/Y po:adjective
 koliesok
-koligácia
+koligácia/U po:noun is:feminine
 kolík/B po:noun is:masculine
 kolika/zZ po:noun is:feminine
 kolíkovanie/VN po:noun is:neuter
 kolíkovať/WN po:verb
 kolíkový/Y po:adjective
 kolikový/YN po:adjective
-kolikvácia
-kolimácia
+kolikvácia/U po:noun is:feminine
+kolimácia/U po:noun is:feminine
 kolimaha
 kolimátor
 Kolín
@@ -45559,7 +45417,7 @@ Kolína
 Kolíňanoch
 Kolíňany
 Kolíne
-kolineácia
+kolineácia/U po:noun is:feminine
 kolinit
 Kolínom
 kolínsky/YN po:adjective
@@ -45639,7 +45497,7 @@ Kollár/c po:noun is:masculine
 Kollárov/Y po:adjective
 kollárovskej
 kollinzit
-kolmácia
+kolmácia/U po:noun is:feminine
 kolmi
 kolmica/U po:noun is:feminine
 kolmo/N po:adverb
@@ -45661,7 +45519,7 @@ kolohnáti
 koloid/B po:noun is:masculine
 koloidný/YN po:adjective
 kolok/O po:noun is:masculine
-kolokácia
+kolokácia/U po:noun is:feminine
 kolokázia
 kolokvializmus/B po:noun is:masculine
 kolokvijný/YN po:adjective
@@ -45711,7 +45569,7 @@ kolónka/zZ po:noun is:feminine
 kolonky
 kolonoskopia
 kolor
-kolorácia
+kolorácia/U po:noun is:feminine
 koloradoit
 koloratúr
 koloratúra/zZ po:noun is:feminine
@@ -45814,12 +45672,7 @@ Komárnickou
 Komárno/M po:noun is:neuter
 komárov/Y po:adjective
 komárovskej
-komasácia
-komasácie
-komasácii
-komasácií
-Komasáciou
-komasáciu
+komasácia/U po:noun is:feminine
 kombajn/B po:noun is:masculine
 kombajnista/H po:noun is:masculine
 kombajnistka/zZ po:noun is:feminine
@@ -46070,7 +45923,7 @@ kompilovať/WN po:verb
 kompilovateľný/YN po:adjective
 kompilujúci
 komplement
-komplementácia
+komplementácia/U po:noun is:feminine
 komplementár
 komplementárnosť/K po:noun is:feminine
 komplementárny/YN po:adjective
@@ -46267,7 +46120,7 @@ konateľov/Y po:adjective
 konateľský/YN po:adjective
 konávať/XN po:verb
 koncedovať/WN po:verb
-koncelebrácia
+koncelebrácia/U po:noun is:feminine
 koncelebrovať/WN po:verb
 koncentrácia/U po:noun is:feminine
 koncentračne
@@ -46313,7 +46166,7 @@ koncesne
 koncesný/YN po:adjective
 koncesovaný/YN po:adjective
 koncil/B po:noun is:masculine
-konciliácia
+konciliácia/U po:noun is:feminine
 konciliantný/YN po:adjective
 konciliarizmus/B po:noun is:masculine
 koncilmi
@@ -46354,7 +46207,7 @@ končite
 končito
 končitosť/K po:noun is:feminine
 končitý/YN po:adjective
-kondemnácia
+kondemnácia/U po:noun is:feminine
 kondenzácia/U po:noun is:feminine
 kondenzačne
 kondenzačný/YN po:adjective
@@ -46414,10 +46267,7 @@ konekčný/YN po:adjective
 konektor/B po:noun is:masculine
 konektorový/YN po:adjective
 konexia/U po:noun is:feminine
-konfabulácia
-konfabuláciami
-konfabulácie
-konfabulácií
+konfabulácia/U po:noun is:feminine
 konfederácia/U po:noun is:feminine
 konfederačne
 konfederačný/YN po:adjective
@@ -46450,7 +46300,7 @@ konfigurovanie/VN po:noun is:neuter
 konfigurovaný/YN po:adjective
 konfigurovať/WN po:verb
 konfigurovateľný/Y po:adjective
-konfinácia
+konfinácia/U po:noun is:feminine
 konfínium
 konfirmácia/U po:noun is:feminine
 konfirmačný/YN po:adjective
@@ -46467,7 +46317,7 @@ konfiškátmi
 konfiškovanie/VN po:noun is:neuter
 konfiškovaný/YN po:adjective
 konfiškovať/WN po:verb
-konflagrácia
+konflagrácia/U po:noun is:feminine
 konflikt/B po:noun is:masculine
 konfliktmi
 konfliktne
@@ -46476,7 +46326,7 @@ konfliktný/YN po:adjective
 konfliktovosť/K po:noun is:feminine
 konfliktový/YN po:adjective
 konfluencia
-konformácia
+konformácia/U po:noun is:feminine
 konformista/H po:noun is:masculine
 konformisticky
 konformistický/YN po:adjective
@@ -46500,12 +46350,12 @@ konfucianizmus/B po:noun is:masculine
 konfuciánskou
 konfuciánstvo/M po:noun is:neuter
 konfundovať/WN po:verb
-konfutácia
+konfutácia/U po:noun is:feminine
 konfúzia/U po:noun is:feminine
 konfúznosť/K po:noun is:feminine
 konfúzny/YN po:adjective
 kongelifrakcia
-kongeliturbácia
+kongeliturbácia/U po:noun is:feminine
 kongenialita
 kongeniálnosť/K po:noun is:feminine
 kongeniálny/YN po:adjective
@@ -46513,7 +46363,7 @@ kongenitálny/YN po:adjective
 kongescia
 konglomerát/B po:noun is:masculine
 konglomerátmi
-konglutinácia
+konglutinácia/U po:noun is:feminine
 Kongo/M po:noun is:neuter
 kongregácia/U po:noun is:feminine
 kongregacionalizmus/B po:noun is:masculine
@@ -46598,7 +46448,7 @@ konjunkturálnym
 konjunkturálnymi
 konjunktúram
 konjunktúrny/YN po:adjective
-konjurácia
+konjurácia/U po:noun is:feminine
 konkáva
 konkáve
 konkavita
@@ -46612,7 +46462,7 @@ konkludovať/WN po:verb
 konklúzia/U po:noun is:feminine
 konkluzívny/YN po:adjective
 Konkoľ
-konkordácia
+konkordácia/U po:noun is:feminine
 konkordancia
 konkordát/C po:noun is:masculine
 konkordáte po:adverb
@@ -46655,7 +46505,7 @@ konkurzný/YN po:adjective
 konluzívny
 koňmi
 koňmo
-konofikácia
+konofikácia/U po:noun is:feminine
 konofilm
 koňoch
 koňom
@@ -46670,7 +46520,7 @@ konopnísk
 konopnisko/M po:noun is:neuter
 konopný/YN po:adjective
 konosement
-konotácia
+konotácia/U po:noun is:feminine
 koňov
 koňovať/WN po:verb
 koňovi
@@ -46703,9 +46553,7 @@ konsenzuálou
 konsenzuáluy
 konsenzus/B po:noun is:masculine
 konsenzy
-konsignácia
-konsignácie
-konsignáciu
+konsignácia/U po:noun is:feminine
 konsignačný/YN po:adjective
 konsignant
 konskripcia
@@ -46731,8 +46579,8 @@ konspektmi
 konspektovať/WN po:verb
 Konstanca/U po:noun is:feminine
 konstanský/YN po:adjective
-konsternácia
-konstipácia
+konsternácia/U po:noun is:feminine
+konstipácia/U po:noun is:feminine
 konstrikcia
 konstriktor
 konšel/C po:noun is:masculine
@@ -46841,7 +46689,7 @@ kontingent/B po:noun is:masculine
 kontingentačný/YN po:adjective
 kontingentmi
 kontingentový/YN po:adjective
-kontinuácia
+kontinuácia/U po:noun is:feminine
 kontinuálnosť/K po:noun is:feminine
 kontinuálny/YN po:adjective
 kontinuí
@@ -46927,11 +46775,7 @@ kontrarevolučnosť/K po:noun is:feminine
 kontrarevolučný/YN po:adjective
 kontrárnosť/K po:noun is:feminine
 kontrarozviedka/zZ po:noun is:feminine
-kontrasignácia
-kontrasignácie
-kontrasignácii
-kontrasignáciou
-kontrasignáciu
+kontrasignácia/U po:noun is:feminine
 kontrasignatúra
 kontrasignovať/WN po:verb
 kontrast/B po:noun is:masculine
@@ -46994,13 +46838,12 @@ kontušovka
 kontúzia
 Konty
 koňu
-konuiltácia
+konuiltácia/U po:noun is:feminine
 konunkcia
 kónus/B po:noun is:masculine
 kónusový/YN po:adjective
 Koňuš
-konvalidácia
-konvalidáciu
+konvalidácia/U po:noun is:feminine
 konvalinka/zZ po:noun is:feminine
 konvalinkovo
 konvalinkový/YN po:adjective
@@ -47057,7 +46900,7 @@ konvexnosť/K po:noun is:feminine
 konvexný/YN po:adjective
 konvoj/J po:noun is:masculine
 konvojový/YN po:adjective
-konvokácia
+konvokácia/U po:noun is:feminine
 konvolúcia/U po:noun is:feminine
 konvolučný/Y po:adjective
 konvolut
@@ -47172,12 +47015,7 @@ kooperovanie/VN po:noun is:neuter
 kooperovaný/YN po:adjective
 Kooperovaný/YN po:adjective
 kooperovať/WN po:verb
-kooptácia
-kooptácie
-kooptácii
-kooptácií
-kooptáciou
-kooptáciu
+kooptácia/U po:noun is:feminine
 kooptovanie/VN po:noun is:neuter
 kooptovaný/YN po:adjective
 kooptovať/WN po:verb
@@ -47275,7 +47113,7 @@ kopnúť/WN
 kopnutie/V po:noun is:neuter
 kopný/YN po:adjective
 kopolymér
-kopolymerácia
+kopolymerácia/U po:noun is:feminine
 kopolymérov
 kopolyméru
 kopolyméry
@@ -47920,7 +47758,7 @@ košútky
 Košúty
 kót
 kóta/zZ po:noun is:feminine
-kotácia
+kotácia/U po:noun is:feminine
 kótach
 kótam
 kotangens/B po:noun is:masculine
@@ -47963,8 +47801,7 @@ kotný/YN po:adjective
 kotol/J po:noun is:masculine
 kotolňa/U po:noun is:feminine
 kotolný/YN po:adjective
-kotonizácia
-kotonizácie
+kotonizácia/U po:noun is:feminine
 Kotor
 Kotore
 Kotorom
@@ -49489,7 +49326,7 @@ Krupou
 krúpovitý/YN po:adjective
 krúpový/YN po:adjective
 krusta
-krustácia
+krustácia/U po:noun is:feminine
 kruš
 Krušetnica
 Krušetnice
@@ -49629,7 +49466,7 @@ kryokomora
 kryokonit
 kryolit/B po:noun is:masculine
 kryológia
-kryoplanácia
+kryoplanácia/U po:noun is:feminine
 kryoplanktón
 kryosféra
 kryoterapia
@@ -50244,7 +50081,7 @@ kura/A po:noun is:neuter
 kúra/zZ po:noun is:feminine
 kurabilita
 kurací/IN po:adjective
-kurácia
+kurácia/U po:noun is:feminine
 kuracina/zZ po:noun is:feminine
 kuracinec/J po:noun is:masculine
 kuracinka/zZ po:noun is:feminine
@@ -50631,13 +50468,7 @@ kvalitnosť/K po:noun is:feminine
 kvalitný/YN po:adjective
 Kvant
 kvánt
-kvantifikácia
-kvantifikáciách
-kvantifikácie
-kvantifikácii
-kvantifikácií
-kvantifikáciou
-kvantifikáciu
+kvantifikácia/U po:noun is:feminine
 kvantifikátor
 kvantifikátorov
 kvantifikovanie/VN po:noun is:neuter
@@ -50897,8 +50728,8 @@ kyán
 kyanid/B po:noun is:masculine
 kyanidový/YN po:adjective
 kyanit
-kyanizácia
-Kyanizácia
+kyanizácia/U po:noun is:feminine
+Kyanizácia/U po:noun is:feminine
 kyanofyl
 kyanotypia
 kyanovanie/VN po:noun is:neuter
@@ -51168,7 +50999,7 @@ Labem
 Labeta
 Labety
 labiála
-labializácia
+labializácia/U po:noun is:feminine
 labiálny/YN po:adjective
 labilita/zZ po:noun is:feminine
 labilne/N po:adverb
@@ -51230,7 +51061,7 @@ Laca
 láce
 lácem
 láceme
-lacerácia
+lacerácia/U po:noun is:feminine
 láceš
 laceta
 lácete
@@ -51444,7 +51275,7 @@ Lach/B po:noun is:masculine
 Lacha
 Lachová/Y po:adjective
 lai
-laicizácia
+laicizácia/U po:noun is:feminine
 laicizovať/WN po:verb
 laicky
 laický/YN po:adjective
@@ -51588,7 +51419,7 @@ laktózam
 lakuna
 lakunosus
 lala
-lalácia
+lalácia/U po:noun is:feminine
 ľalia/U po:noun is:feminine
 Lalinský/YN po:adjective
 ľaliovo
@@ -52112,7 +51943,7 @@ lavra
 Lavrin
 ľavý/YN po:adjective
 lawrencium
-laxácia
+laxácia/U po:noun is:feminine
 laxatív
 laxatívum
 laxne
@@ -52231,7 +52062,7 @@ lefoška
 leg
 lég
 léga/zZ po:noun is:feminine
-legácia
+legácia/U po:noun is:feminine
 légach
 legalita
 legalite
@@ -52871,7 +52702,7 @@ levík/L po:noun is:masculine
 levíkov/Y po:adjective
 levirát
 levita
-levitácia
+levitácia/U po:noun is:feminine
 Levitikus
 levity
 Levkuška
@@ -53013,7 +52844,7 @@ Libanonka/zZ po:noun is:feminine
 libanonský/YN po:adjective
 libela/zZ po:noun is:feminine
 libelový/YN po:adjective
-liberácia
+liberácia/U po:noun is:feminine
 liberál/C po:noun is:masculine
 liberalista/H po:noun is:masculine
 liberalisticky
@@ -53050,7 +52881,7 @@ Líbie
 libier
 Libichava
 libra/zZ po:noun is:feminine
-librácia
+librácia/U po:noun is:feminine
 LibreOffice/B po:noun is:masculine
 Libresse
 libresso
@@ -53170,7 +53001,7 @@ lieňmi
 lieno/M po:noun is:neuter
 lieňoch
 lieňom
-lienomalácia
+lienomalácia/U po:noun is:feminine
 lieňov
 lieňovi
 lientéria
@@ -53248,7 +53079,7 @@ ligistov/Y po:adjective
 Ligna
 lignát
 Ligne
-lignifikácia
+lignifikácia/U po:noun is:feminine
 lignín
 lignínu
 lignit/B po:noun is:masculine
@@ -53772,7 +53603,7 @@ lítia
 litiáza
 litier
 litierka/zZ po:noun is:feminine
-litifikácia
+litifikácia/U po:noun is:feminine
 lítiový/YN po:adjective
 litispedencia
 litispendencia
@@ -54016,10 +53847,7 @@ Lojzík
 lok
 Lok
 Loka
-lokácia
-lokácie
-lokácii
-lokácií
+lokácia/U po:noun is:feminine
 lokačná
 lokačné
 lokačnej
@@ -54451,7 +54279,7 @@ lubový/YN po:adjective
 ľubozvučnosť/K po:noun is:feminine
 ľubozvučný/YN po:adjective
 ľubozvuk
-lubrikácia
+lubrikácia/U po:noun is:feminine
 lubrikant
 Ľubu
 Ľuby
@@ -54742,7 +54570,7 @@ lumpovačka/zZ po:noun is:feminine
 lumpovať/WN po:verb
 lun
 luna/zZ po:noun is:feminine
-lunácia
+lunácia/U po:noun is:feminine
 lunapark/B po:noun is:masculine
 lunárny/YN po:adjective
 lunatik
@@ -54877,7 +54705,7 @@ lúštiteľov/Y po:adjective
 lúštiteľský/YN po:adjective
 lutécium
 luteín
-luteinizácia
+luteinizácia/U po:noun is:feminine
 luteóm
 luter
 luterán/C po:noun is:masculine
@@ -54907,7 +54735,7 @@ lutria
 lutz/B po:noun is:masculine
 lutza
 lux/B po:noun is:masculine
-luxácia
+luxácia/U po:noun is:feminine
 luxami
 luxemb
 Luxembourg
@@ -55006,7 +54834,7 @@ lymfostáza
 lynč/J po:noun is:masculine
 lynčovanie/VN po:noun is:neuter
 lynčovať/WN po:verb
-lyofilizácia
+lyofilizácia/U po:noun is:feminine
 Lyon
 Lyone
 Lyonom
@@ -55775,14 +55603,14 @@ makulatúram
 mál
 mála
 malabsorpcia
-malácia
+malácia/U po:noun is:feminine
 Malaciek
 Malackách
 Malackám
 Malackami
 Malacky
 malacký/YN po:adjective
-maladaptácia
+maladaptácia/U po:noun is:feminine
 malág
 malaga/z po:noun is:feminine
 malagách
@@ -55867,7 +55695,7 @@ maléry
 Maléry
 maleus
 malevolencia
-malformácia
+malformácia/U po:noun is:feminine
 malgaš
 Malgašská
 maliar/C po:noun is:masculine
@@ -56160,7 +55988,7 @@ Malvaz
 malvázia/U po:noun is:feminine
 malvazinka
 Malvazinkách
-malverzácia
+malverzácia/U po:noun is:feminine
 malvica/U po:noun is:feminine
 malvička/zZ po:noun is:feminine
 Malvína/zZ po:noun is:feminine
@@ -56263,7 +56091,7 @@ manažmentový/YN po:adjective
 manažovanie/VN po:noun is:neuter
 manažovať/WN po:verb
 mancando
-mancipácia
+mancipácia/U po:noun is:feminine
 mancovať/WN po:verb
 mančaft/B po:noun is:masculine
 mančaftmi
@@ -57073,7 +56901,7 @@ mastidlá
 mastidlo
 mastif
 mastika
-mastikácia
+mastikácia/U po:noun is:feminine
 mastime
 mastiť/EN po:verb
 mastite
@@ -57190,9 +57018,7 @@ matematikár/C po:noun is:masculine
 matematikárka/zZ po:noun is:feminine
 matematikárov/Y po:adjective
 matematikov/Y po:adjective
-matematizácia
-matematizácii
-matematizáciou
+matematizácia/U po:noun is:feminine
 mateorický/YN po:adjective
 mater/D po:noun is:feminine
 materčín
@@ -57345,7 +57171,7 @@ Matry
 matujúci
 matúr
 matúra/zZ po:noun is:feminine
-maturácia
+maturácia/U po:noun is:feminine
 matúrach
 matúram
 maturant/C po:noun is:masculine
@@ -57690,11 +57516,7 @@ medenkový/YN po:adjective
 medeno
 medený/YN po:adjective
 Media
-mediácia
-mediácie
-mediácii
-mediáciou
-mediáciu
+mediácia/U po:noun is:feminine
 mediačné
 mediačného
 mediačnom
@@ -57702,7 +57524,7 @@ mediačnú
 mediačných
 mediách
 médiach
-medializácia
+medializácia/U po:noun is:feminine
 medializovaný/YN po:adjective
 medializovať/WN po:verb
 mediálny/Y po:adjective
@@ -58086,7 +57908,7 @@ mechanizovaný/YN po:adjective
 mechanizovať/WN po:verb
 mechanofóbia
 mechanoterapie
-mechnizácia
+mechnizácia/U po:noun is:feminine
 mechoriť
 mechriť/EN po:verb
 mechúr/B po:noun is:masculine
@@ -58409,7 +58231,7 @@ meravosť/K po:noun is:feminine
 meravý/YN po:adjective
 mercedes/B po:noun is:masculine
 mercedeska/zZ po:noun is:feminine
-mercerácia
+mercerácia/U po:noun is:feminine
 mercerovaný/YN po:adjective
 Mere
 merenchým
@@ -58570,16 +58392,13 @@ metagram
 metachronizmus/B po:noun is:masculine
 metajazyk/B po:noun is:masculine
 metakarpus
-metakutizácia
+metakutizácia/U po:noun is:feminine
 metal/B po:noun is:masculine
 metál/J po:noun is:masculine
 metalický/YN po:adjective
 metalíz
 metalíza/zZ po:noun is:feminine
-metalizácia
-metalizácie
-metalizácii
-metalizáciu
+metalizácia/U po:noun is:feminine
 metalizačný/YN po:adjective
 metalízach
 metalízam
@@ -58611,7 +58430,7 @@ metamorfózach
 metamorfózam
 metán/B po:noun is:masculine
 metanie/V po:noun is:neuter
-metanizácia
+metanizácia/U po:noun is:feminine
 metanol
 metanolom
 metanolového
@@ -58747,7 +58566,7 @@ metrový/YN po:adjective
 metrum/M po:noun is:neuter
 metský/Y po:adjective
 metyl
-metylácia
+metylácia/U po:noun is:feminine
 metylalkohol/B po:noun is:masculine
 metylalkoholový/YN po:adjective
 metylové
@@ -59544,10 +59363,7 @@ miniatúr
 miniatúra/zZ po:noun is:feminine
 miniatúrach
 miniatúram
-miniaturizácia
-miniaturizácie
-miniaturizácii
-miniaturizáciou
+miniaturizácia/U po:noun is:feminine
 miniaturizovaný/YN po:adjective
 miniaturizovať/WN po:verb
 miniaturizový/YN po:adjective
@@ -59778,7 +59594,7 @@ mitickou
 mitickú
 Mitický/YN po:adjective
 mitier
-mitigácia
+mitigácia/U po:noun is:feminine
 míting/B po:noun is:masculine
 míting/J po:noun is:masculine
 mítingami
@@ -60378,7 +60194,7 @@ Modenou
 modenský/Y po:adjective
 Modeny
 moder
-moderácia
+moderácia/U po:noun is:feminine
 moderato
 moderator
 moderátor/C po:noun is:masculine
@@ -60827,7 +60643,7 @@ Monika/zZ po:noun is:feminine
 Monikini
 moniliáza
 monilióza
-monilizácia
+monilizácia/U po:noun is:feminine
 Monine
 monistický/YN po:adjective
 monitor/B po:noun is:masculine
@@ -60870,7 +60686,7 @@ monofónia
 monofónny
 monoftong/B po:noun is:masculine
 monoftongický/YN po:adjective
-monoftongizácia
+monoftongizácia/U po:noun is:feminine
 monoftongmi
 monoftongoch
 monoftongom
@@ -60946,11 +60762,7 @@ monopolisticky
 monopolistický/YN po:adjective
 monopolistov/Y po:adjective
 monopolitickým
-monopolizácia
-monopolizácie
-monopolizácii
-monopolizáciou
-monopolizáciu
+monopolizácia/U po:noun is:feminine
 monopolizačné
 monopolizačným
 monopolizmus/B po:noun is:masculine
@@ -61229,7 +61041,7 @@ mortalitou
 mortalitu
 mortality
 morte
-mortifikácia
+mortifikácia/U po:noun is:feminine
 mortinalita
 mortinatálny/YN po:adjective
 morula
@@ -61358,11 +61170,7 @@ motorista/H po:noun is:masculine
 motoristický/YN po:adjective
 motoristka/zZ po:noun is:feminine
 motoristov/Y po:adjective
-motorizácia
-motorizácie
-motorizácii
-motorizáciou
-motorizáciu
+motorizácia/U po:noun is:feminine
 motorizačnej
 motorizmus/B po:noun is:masculine
 motorizovaný/YN po:adjective
@@ -61942,9 +61750,7 @@ multiplexov
 multiplexu
 multiplexy
 multiplicita
-multiplikácia
-multiplikácie
-multiplikácii
+multiplikácia/U po:noun is:feminine
 multiplikačne
 multiplikačný/YN po:adjective
 multiplikát
@@ -61970,7 +61776,7 @@ mumaj
 mumák/C po:noun is:masculine
 mumákov/Y po:adjective
 múmia/U po:noun is:feminine
-mumifikácia
+mumifikácia/U po:noun is:feminine
 mumifikovať/WN po:verb
 múmio
 mumko
@@ -62113,11 +61919,11 @@ mutagén
 mutagénny/YN po:adjective
 mutant
 mutante
-mutarotácia
+mutarotácia/U po:noun is:feminine
 Mute
 mútenie/V po:noun is:neuter
 mútiaci/Y po:adjective
-mutilácia
+mutilácia/U po:noun is:feminine
 Mutina
 mútiť/XN po:verb
 mútňav
@@ -62589,7 +62395,7 @@ nácia/U po:noun is:feminine
 nacicaný/YN po:adjective
 nacicať/TN po:verb
 nacieliť/XN po:verb
-nacifikácia
+nacifikácia/U po:noun is:feminine
 nacigániť/XN po:verb
 nacionál
 nacionále
@@ -62600,10 +62406,7 @@ nacionalistický/YN po:adjective
 nacionalistka/zZ po:noun is:feminine
 nacionalistov/Y po:adjective
 nacionalita
-nacionalizácia
-nacionalizácie
-nacionalizácii
-nacionalizáciou
+nacionalizácia/U po:noun is:feminine
 nacionalizmus/B po:noun is:masculine
 nacionalizovaný/YN po:adjective
 nacionalizovať/WN po:verb
@@ -65078,7 +64881,7 @@ narácem
 naráceme
 naráceš
 narácete
-narácia
+narácia/U po:noun is:feminine
 narácme
 narácte
 narácu
@@ -65208,7 +65011,7 @@ narkotík
 narkotik/C po:noun is:masculine
 narkotikov/Y po:adjective
 narkotikum/M po:noun is:neuter
-narkotizácia
+narkotizácia/U po:noun is:feminine
 narkotizmus/B po:noun is:masculine
 narkotizovať/WN po:verb
 narkóz
@@ -66553,7 +66356,7 @@ Nazaháľali
 nazajtra
 nazákonný/YN po:adjective
 nazála
-nazalizácia
+nazalizácia/U po:noun is:feminine
 nazálny
 nazarejskí
 nazarén
@@ -68388,15 +68191,7 @@ neger/C po:noun is:masculine
 negerov/Y po:adjective
 negerský/YN po:adjective
 negližé
-negociácia
-negociáciách
-negociáciám
-negociáciami
-negociácie
-negociácii
-negociácií
-negociáciou
-negociáciu
+negociácia/U po:noun is:feminine
 negociačný/Y po:adjective
 negovanie/VN po:noun is:neuter
 negovať/WN po:verb
@@ -76922,7 +76717,7 @@ neuróz
 neuróza/zZ po:noun is:feminine
 neurózach
 neurózam
-neurulácia
+neurulácia/U po:noun is:feminine
 neurvale
 neuskladni
 neuskladnime
@@ -81122,7 +80917,7 @@ ničotne/N po:adverb
 ničotnosť/K po:noun is:feminine
 ničotný/YN po:adjective
 ničou
-nidácia
+nidácia/U po:noun is:feminine
 nie
 nie je/ tp:negation st:byť is:3rd_person ph:neni ph:není
 nie si/ tp:negation st:byť is:2nd_person ph:neni si
@@ -81302,8 +81097,8 @@ Nikózia/U po:noun is:feminine
 Nikózijčan/c po:noun is:masculine
 Nikózijčanov/Y po:adjective
 nikózijský/YN po:adjective
-niktácia
-niktitácia
+niktácia/U po:noun is:feminine
+niktitácia/U po:noun is:feminine
 nikto
 niktorý/YN po:adjective
 niktoš/C po:noun is:masculine
@@ -81381,7 +81176,7 @@ nitový/YN po:adjective
 niťový/YN po:adjective
 nitôčka/zZ po:noun is:feminine
 Nitra/z po:noun is:feminine
-nitrácia
+nitrácia/U po:noun is:feminine
 nitračný/YN po:adjective
 Nitrami
 Nitran/c po:noun is:masculine
@@ -81418,13 +81213,11 @@ nitridáciu
 nitridov
 nitridovanie/VN po:noun is:neuter
 nitridu
-nitrifikácia
-nitrifikácie
-nitrifikáciou
+nitrifikácia/U po:noun is:feminine
 nitril
 nitrilových
 nitrit
-nitritácia
+nitritácia/U po:noun is:feminine
 nitrobenzén
 nitrocelulóz
 nitrocelulóza/zZ po:noun is:feminine
@@ -81447,7 +81240,7 @@ nitrovanie/VN po:noun is:neuter
 nitujúci
 nív
 niva/zZ po:noun is:feminine
-nivácia
+nivácia/U po:noun is:feminine
 niválny/YN po:adjective
 nivea/Z po:noun is:feminine
 nivea/zZ po:noun is:feminine
@@ -81753,7 +81546,7 @@ normatív/B po:noun is:masculine
 normatíve
 normatívnosť/K po:noun is:feminine
 normatívny/YN po:adjective
-normlaizácia
+normlaizácia/U po:noun is:feminine
 normoblast
 normocyt
 normograf
@@ -81855,8 +81648,7 @@ nota/zZ po:noun is:feminine
 nóta/zZ po:noun is:feminine
 notabene
 notabilita
-notácia
-notácie
+notácia/U po:noun is:feminine
 notačný/YN po:adjective
 notafília
 nótach
@@ -81877,12 +81669,7 @@ notesík/B po:noun is:masculine
 noteštek/B po:noun is:masculine
 notícia
 noticka/zZ po:noun is:feminine
-notifikácia
-notifikácie
-notifikácii
-notifikácií
-notifikáciou
-notifikáciu
+notifikácia/U po:noun is:feminine
 notifikačný/Y po:adjective
 notifikovaný/YN po:adjective
 notifikovať/WN po:verb
@@ -81903,11 +81690,7 @@ noumeona
 nóv
 nov/B po:noun is:masculine
 Nováci
-novácia
-novácie
-novácií
-nováciou
-nováciu
+novácia/U po:noun is:feminine
 novácka
 Novácke
 nováckeho
@@ -82330,8 +82113,7 @@ nuklid
 nuklidov
 nuklidy
 nula/zZ po:noun is:feminine
-nulifikácia
-nulifikácie
+nulifikácia/U po:noun is:feminine
 nulifikovať/WN po:verb
 nulipara
 nulita/zZ po:noun is:feminine
@@ -82342,7 +82124,7 @@ nulovo
 nulový/YN po:adjective
 nultý/YN po:adjective
 númen
-numerácia
+numerácia/U po:noun is:feminine
 numéraire
 numerál
 numerale
@@ -82375,7 +82157,7 @@ núrať/XN po:verb
 núria
 nús
 Nuselský/YN po:adjective
-nutácia
+nutácia/U po:noun is:feminine
 nútene
 nútenie/V po:noun is:neuter
 nútenosť/K po:noun is:feminine
@@ -83092,7 +82874,7 @@ obkukávať/XN po:verb
 obkukovať/WN po:verb
 obkydať
 obl
-oblácia
+oblácia/U po:noun is:feminine
 obláčik/B po:noun is:masculine
 oblačiť/EN po:verb
 obláčka
@@ -83219,7 +83001,7 @@ obligatórnosť/K po:noun is:feminine
 obligatórny/YN po:adjective
 obligo
 oblina/zZ po:noun is:feminine
-obliterácia
+obliterácia/U po:noun is:feminine
 oblízať/XN po:verb
 obliznúť/WN
 obliznutý/YN po:adjective
@@ -83396,7 +83178,7 @@ obnovovateľov/Y po:adjective
 obnovovateľský/YN po:adjective
 obnovujúci/YN po:adjective
 obnôcka/zZ po:noun is:feminine
-obnubilácia
+obnubilácia/U po:noun is:feminine
 obočie/V po:noun is:neuter
 obodovanie/VN po:noun is:neuter
 obodovaný/YN po:adjective
@@ -83695,7 +83477,7 @@ obrodne
 obrodný/YN po:adjective
 obrodzovací
 obrodzovať/WN po:verb
-obrogácia
+obrogácia/U po:noun is:feminine
 obrok/B po:noun is:masculine
 obrova
 obrovitánsky
@@ -83803,7 +83585,7 @@ obsedieť/RN po:verb
 obsekanými
 obsekať/EN po:verb
 obsekávať/XN po:verb
-observácia
+observácia/U po:noun is:feminine
 observancia
 observatórium/M po:noun is:neuter
 obsesia
@@ -83827,7 +83609,7 @@ obsiatym
 obsidián/B po:noun is:masculine
 obsidiánový/YN po:adjective
 obsievať/XN po:verb
-obsignácia
+obsignácia/U po:noun is:feminine
 obskakovaný/YN po:adjective
 obskakovať/WN po:verb
 obskočiť
@@ -83917,8 +83699,8 @@ obstávky
 obstávok
 obstavovanie/VN po:noun is:neuter
 obstavovať/WN po:verb
-obstinácia
-obstipácia
+obstinácia/U po:noun is:feminine
+obstipácia/U po:noun is:feminine
 obstojne/N po:adverb
 obstojný/YN po:adjective
 obstrapkať
@@ -85926,8 +85708,7 @@ odorieš
 odoriete
 Odorín
 Odoríne
-odorizácia
-odorizácie
+odorizácia/U po:noun is:feminine
 odorme
 odorte
 odorú
@@ -88401,7 +88182,7 @@ okukávanie/V po:noun is:neuter
 okukávať/XN po:verb
 okuknúť/WN
 okukovať/WN po:verb
-okulácia
+okulácia/U po:noun is:feminine
 okulár
 okulátor
 okuliare/Q
@@ -89159,7 +88940,7 @@ opálený/YN po:adjective
 opalescencia
 opalescenciu
 opáliť/XN po:verb
-opalizácia
+opalizácia/U po:noun is:feminine
 opalizovaný/YN po:adjective
 opalizovať/WN po:verb
 opalizujúca
@@ -90232,7 +90013,7 @@ ortoepický/Y po:adjective
 ortofónia
 ortogamia
 ortogenéza
-ortognácia
+ortognácia/U po:noun is:feminine
 ortogonalita
 ortogonálny/Y po:adjective
 ortografia/U po:noun is:feminine
@@ -90916,7 +90697,7 @@ osmorákov/Y po:adjective
 osmoráky
 osmoraký/YN po:adjective
 osmoreceptor
-osmoregulácia
+osmoregulácia/U po:noun is:feminine
 osmoro
 osmotropizmus/B po:noun is:masculine
 osmóza/zZ po:noun is:feminine
@@ -90967,7 +90748,7 @@ osočovateľ
 osočovatelia
 osočovateľský/YN po:adjective
 osočujúci
-osofikácia
+osofikácia/U po:noun is:feminine
 osoh/B po:noun is:masculine
 osol/O po:noun is:masculine
 osolený/YN po:adjective
@@ -91105,7 +90886,7 @@ osteochondróm
 osteochondrosarkóm
 osteológia
 osteóm
-osteomalácia
+osteomalácia/U po:noun is:feminine
 osteomyelitída
 osteonekróza
 osteoperiostitída
@@ -92263,7 +92044,7 @@ oxmoron
 oxybióza
 oxycefália
 oxygén/B po:noun is:masculine
-oxygenácia
+oxygenácia/U po:noun is:feminine
 oxygenium
 oxygénium
 oxygenoterapia
@@ -92396,8 +92177,7 @@ ozobávať
 ozobe
 ozokerit
 ozón/B po:noun is:masculine
-ozonizácia
-ozonizáciu
+ozonizácia/U po:noun is:feminine
 ozonizátor
 ozonolýza
 ozónometer
@@ -93038,9 +92818,9 @@ palota/zZ po:noun is:feminine
 Paľova
 palpa
 palpabilný/YN po:adjective
-palpácia
+palpácia/U po:noun is:feminine
 palpebra
-palpitácia
+palpitácia/U po:noun is:feminine
 palpovať/WN po:verb
 Palu
 palúb
@@ -93722,7 +93502,7 @@ paramagnetizmus/B po:noun is:masculine
 parameter/J po:noun is:masculine
 parametricky
 parametrický/YN po:adjective
-parametrizácia
+parametrizácia/U po:noun is:feminine
 parametrizovaný/YN po:adjective
 parametrizovateľný/Y po:adjective
 paramímia
@@ -93895,7 +93675,7 @@ Parchovany
 Parchovian
 pária/H po:noun is:masculine
 pariaci
-pariácia
+pariácia/U po:noun is:feminine
 paricídium
 parietálny/YN po:adjective
 párik/B po:noun is:masculine
@@ -94304,11 +94084,7 @@ pásový/Y po:adjective
 pasový/YN po:adjective
 pasparta
 pasport
-pasportizácia
-pasportizácie
-pasportizácii
-pasportizáciou
-pasportizáciu
+pasportizácia/U po:noun is:feminine
 pasportoch
 pasportom
 pasportov
@@ -94326,11 +94102,7 @@ pastelmi
 pastelovo
 pastelový/Y po:adjective
 pastér
-pasterizácia
-pasterizácie
-pasterizácii
-pasterizáciou
-pasterizáciu
+pasterizácia/U po:noun is:feminine
 pasterizačná
 pasterizačné
 pasterizačného
@@ -94585,9 +94357,7 @@ patrolovanie/VN po:noun is:neuter
 patrolovať/WN po:verb
 patrón/C po:noun is:masculine
 patróna/zZ po:noun is:feminine
-patronácia
-patronácie
-patronáciou
+patronácia/U po:noun is:feminine
 patrónach
 patrónam
 patronát/B po:noun is:masculine
@@ -95392,7 +95162,7 @@ pejo/B po:noun is:masculine
 pejoch
 pejom
 pejor
-pejorácia
+pejorácia/U po:noun is:feminine
 pejoratívnosť/K po:noun is:feminine
 pejoratívny/YN po:adjective
 pejoratívum
@@ -95451,7 +95221,7 @@ pekný/YN po:adjective
 pektáza
 pektín/B po:noun is:masculine
 pektináza
-pektinizácia
+pektinizácia/U po:noun is:feminine
 pektínový/YN po:adjective
 pektorálny/YN po:adjective
 pektóza
@@ -95486,9 +95256,7 @@ pelešiť/EN po:verb
 pelešou
 peleštek/B po:noun is:masculine
 peleta
-peletizácia
-peletizácie
-peletizácii
+peletizácia/U po:noun is:feminine
 peletizovanie/VN po:noun is:neuter
 peletón/B po:noun is:masculine
 Pelham
@@ -95535,15 +95303,7 @@ pemze
 peň/J po:noun is:masculine
 pena/zZ po:noun is:feminine
 penále/Q
-penalizácia
-penalizáciách
-penalizáciám
-penalizáciami
-penalizácie
-penalizácii
-penalizácií
-penalizáciou
-penalizáciu
+penalizácia/U po:noun is:feminine
 penalizovanie/VN po:noun is:neuter
 penalizovaný/YN po:adjective
 penalizovať/WN po:verb
@@ -95583,17 +95343,12 @@ pendlovky/Q
 pendlujúci/YN po:adjective
 pendrek/B po:noun is:masculine
 pendrekový/YN po:adjective
-pendulácia
+pendulácia/U po:noun is:feminine
 Penelopa
 Penelopy
 penenie/V po:noun is:neuter
 peneplén
-penetrácia
-penetrácie
-penetrácii
-penetrácií
-penetráciou
-penetráciu
+penetrácia/U po:noun is:feminine
 penetračný/YN po:adjective
 penetrancia
 penetrantný/YN po:adjective
@@ -95705,7 +95460,7 @@ peptidoch
 peptidov
 peptidy
 peptón
-peptonizácia
+peptonizácia/U po:noun is:feminine
 pera/zZ po:noun is:feminine
 peracidita
 peračník/B po:noun is:masculine
@@ -95786,7 +95541,7 @@ pergamen/B po:noun is:masculine
 pergamenovo
 pergamenový/YN po:adjective
 pergamin
-pergelácia
+pergelácia/U po:noun is:feminine
 pergelisol
 pergol
 pergola
@@ -95894,12 +95649,12 @@ peritoneálnej
 peritoneum
 peritonitída
 perivaskulárny/YN po:adjective
-perjurácia
+perjurácia/U po:noun is:feminine
 perkelt/B po:noun is:masculine
 perkeltmi
 perkeltový/YN po:adjective
 perko/M po:noun is:neuter
-perkolácia
+perkolácia/U po:noun is:feminine
 perkolát
 perkusia
 perl
@@ -95935,7 +95690,7 @@ perlovec
 perlovina/zZ po:noun is:feminine
 perlovo
 perlový/YN po:adjective
-perlustrácia
+perlustrácia/U po:noun is:feminine
 perm/B po:noun is:masculine
 permafrost
 permanencia/U po:noun is:feminine
@@ -95994,7 +95749,7 @@ peronospóra/zZ po:noun is:feminine
 peronospórach
 peronospóram
 perónový/YN po:adjective
-perorácia
+perorácia/U po:noun is:feminine
 perorálny/YN po:adjective
 perovanie/VN po:noun is:neuter
 pérovanie/VN po:noun is:neuter
@@ -96012,7 +95767,7 @@ perpetuum
 perplex
 pers
 Perseus
-perseverácia
+perseverácia/U po:noun is:feminine
 perseverancia
 persifláž
 persiflážny
@@ -96052,12 +95807,12 @@ perspektivitu
 perspektivity
 perspektívnosť/K po:noun is:feminine
 perspektívny/Y po:adjective
-perspirácia
+perspirácia/U po:noun is:feminine
 pertinencia
 pertraktovaný/YN po:adjective
 pertraktovať/WN po:verb
-pertubácia
-perturbácia
+pertubácia/U po:noun is:feminine
+perturbácia/U po:noun is:feminine
 pertusia
 pertussis
 Peruáncov/Y po:adjective
@@ -96213,7 +95968,7 @@ petrencov/Y po:adjective
 petrencu
 petrenec/C po:noun is:masculine
 Petríček
-petrifikácia
+petrifikácia/U po:noun is:feminine
 petrifikovaný/YN po:adjective
 petrifikovať/WN po:verb
 Petrík
@@ -96291,7 +96046,7 @@ pevnostný/YN po:adjective
 pevnôstka/zZ po:noun is:feminine
 pevný/YN po:adjective
 pexeso/M po:noun is:neuter
-pezentácia
+pezentácia/U po:noun is:feminine
 Pezinka
 Pezinkom
 Pezinku
@@ -97032,7 +96787,7 @@ plácam
 placebo
 placent
 placenta/zZ po:noun is:feminine
-placentácia
+placentácia/U po:noun is:feminine
 placentárny
 placentárnych
 placentový/YN po:adjective
@@ -97146,7 +96901,7 @@ plamienok/O po:noun is:masculine
 plaň
 plán/B po:noun is:masculine
 pláň/D po:noun is:feminine
-planácia
+planácia/U po:noun is:feminine
 pláňava
 planci
 pľanci
@@ -97280,7 +97035,7 @@ plastický/YN po:adjective
 plastičnosť/K po:noun is:feminine
 plastid
 plastidóm
-plastifikácia
+plastifikácia/U po:noun is:feminine
 plastifikátor
 plastifikátorov
 plastifikátory
@@ -102100,7 +101855,7 @@ polykarbonát
 polykarpia
 polykarpium
 polykaryocyt
-polykondenzácia
+polykondenzácia/U po:noun is:feminine
 polykondenzačnú
 polykondenzát
 polykultúra
@@ -102585,7 +102340,7 @@ Pond
 pondelkový/YN po:adjective
 pondelňajší/I po:adjective
 pondelok/O po:noun is:masculine
-ponderácia
+ponderácia/U po:noun is:feminine
 pondus/B po:noun is:masculine
 pondusa
 pondusovky
@@ -104568,7 +104323,7 @@ postera
 posteri
 posterion
 posteriorita
-Posterizácia
+Posterizácia/U po:noun is:feminine
 posterizácie
 postgraduál/B po:noun is:masculine
 postgraduáli
@@ -104775,7 +104530,7 @@ posttraumatického
 posttraumatickú
 posttraumatickým
 postuká
-postulácia
+postulácia/U po:noun is:feminine
 postulát/B po:noun is:masculine
 postulátmi
 postulovanie/VN po:noun is:neuter
@@ -107055,7 +106810,7 @@ prádlo/M po:noun is:neuter
 pradúce
 pradúcich
 prádzninovať/WN po:verb
-praestácia
+praestácia/U po:noun is:feminine
 praforma
 prag
 pragmatickosť/K po:noun is:feminine
@@ -107705,7 +107460,7 @@ preciozita
 preciózka/zZ po:noun is:feminine
 precióznosť/K po:noun is:feminine
 preciózny
-precipitácia
+precipitácia/U po:noun is:feminine
 precitať/EN po:verb
 precítene po:adverb
 precítenie/V po:noun is:neuter
@@ -107906,7 +107661,7 @@ predestilovať/WN po:verb
 predestinácia/U
 predestinovaný/YN po:adjective
 predestinovať/WN po:verb
-predeterminácia
+predeterminácia/U po:noun is:feminine
 predfebruárový/YN po:adjective
 predfeudálny/YN po:adjective
 predformátovaný/YN po:adjective
@@ -108109,7 +107864,7 @@ predlžovanie/VN po:noun is:neuter
 predlžovaný/YN po:adjective
 predlžovať/WN po:verb
 predlžujúci
-predmagnetizácia
+predmagnetizácia/U po:noun is:feminine
 predmanželský/YN po:adjective
 predmarcovej
 predmarcovou
@@ -108665,17 +108420,12 @@ preexponovaný/YN po:adjective
 preexponovať/WN po:verb
 preexponovávať/XN po:verb
 preexponúvať/XN po:verb
-prefabrikácia
-prefabrikáciách
-prefabrikácie
-prefabrikácii
-prefabrikácií
-prefabrikáciu
+prefabrikácia/U po:noun is:feminine
 prefabrikát/B po:noun is:masculine
 prefabrikátmi
 prefabrikovaný/YN po:adjective
 prefabrikovať/WN po:verb
-prefácia
+prefácia/U po:noun is:feminine
 prefajči
 prefajčime
 prefajčiť/EN po:verb
@@ -108717,7 +108467,7 @@ prefiltrovať/WN po:verb
 prefinancovanie/VN po:noun is:neuter
 prefinancovať/WN po:verb
 prefix/B po:noun is:masculine
-prefixácia
+prefixácia/U po:noun is:feminine
 prefixový/YN po:adjective
 preflákať/XN po:verb
 preflámovať/WN po:verb
@@ -108750,7 +108500,7 @@ pregnancia
 pregnantne
 pregnantnosť/K po:noun is:feminine
 pregnantný/YN po:adjective
-pregravácia
+pregravácia/U po:noun is:feminine
 prehádať
 prehádzaním
 prehádzať/XN po:verb
@@ -109117,13 +108867,13 @@ prejednávať
 prejednávate
 prejesť/RN po:verb
 prejímadlo
-prejotácia
+prejotácia/U po:noun is:feminine
 prejsť/RN po:verb
 prejudícia
 prejudiciálne
 prejudiciálnej
 prejudiciálny
-Prejudikácia
+Prejudikácia/U po:noun is:feminine
 prejudikácie
 prejudikácii
 prejudikát
@@ -109667,8 +109417,8 @@ premazaný/YN po:adjective
 premazať/TN po:verb
 premazávaná
 premazávať/XN po:verb
-premedikácia
-premeditácia
+premedikácia/U po:noun is:feminine
+premeditácia/U po:noun is:feminine
 premena/zZ po:noun is:feminine
 premenenie/V po:noun is:neuter
 premenený/YN po:adjective
@@ -110011,7 +109761,7 @@ prenoska/zZ po:noun is:feminine
 prenosnosť/K po:noun is:feminine
 prenosný/YN po:adjective
 prenosový/Y po:adjective
-prenotácia
+prenotácia/U po:noun is:feminine
 prenožmo
 prenožovať/WN po:verb
 preňuchať
@@ -110058,11 +109808,7 @@ preorávka/zZ po:noun is:feminine
 preorganizovanie/VN po:noun is:neuter
 preorganizovaný/YN po:adjective
 preorganizovať/WN po:verb
-preorientácia
-preorientácie
-preorientácii
-preorientáciou
-preorientáciu
+preorientácia/U po:noun is:feminine
 preorientovanie/VN po:noun is:neuter
 preorientovaný/YN po:adjective
 preorientovať/WN po:verb
@@ -110846,7 +110592,7 @@ presscentrum/M po:noun is:neuter
 pressfoyer/B po:noun is:masculine
 pressfoyeri
 presso
-prestácia
+prestácia/U po:noun is:feminine
 presťahovalci
 presťahovalec
 presťahovanie/VN po:noun is:neuter
@@ -111534,7 +111280,7 @@ prevar
 prevárať/XN po:verb
 prevarenie/V po:noun is:neuter
 prevarený/YN po:adjective
-prevarikácia
+prevarikácia/U po:noun is:feminine
 prevariť/EN po:verb
 prevarovať/WN po:verb
 prevarte
@@ -114362,7 +114108,7 @@ príušný/YN po:adjective
 priúzky/Y po:adjective
 privábenie/V po:noun is:neuter
 privábiť/XN po:verb
-privácia
+privácia/U po:noun is:feminine
 privádzač
 privádzača
 privádzače
@@ -114741,7 +114487,7 @@ produkujúca
 produkujúci
 proexportný/Y po:adjective
 prof
-profanácia
+profanácia/U po:noun is:feminine
 profanizácia/U po:noun is:feminine
 profanizátor
 profánnosť/K po:noun is:feminine
@@ -114816,7 +114562,7 @@ progenitúra
 progéria
 progesterón
 proglotída
-prognácia
+prognácia/U po:noun is:feminine
 prognosticky
 prognostický/YN po:adjective
 prognostička/zZ po:noun is:feminine
@@ -114942,8 +114688,7 @@ proletarizovať/WN po:verb
 proletárka/zZ po:noun is:feminine
 proletárov/Y po:adjective
 proletársky/YN po:adjective
-proliferácia
-proliferácie
+proliferácia/U po:noun is:feminine
 prolín
 prolixný/YN po:adjective
 prológ/B po:noun is:masculine
@@ -115003,9 +114748,9 @@ promovať/WN po:verb
 promptne/N po:adverb
 promptnosť/K po:noun is:feminine
 promptný/YN po:adjective
-promulgácia
+promulgácia/U po:noun is:feminine
 promycélium
-pronácia
+pronácia/U po:noun is:feminine
 pronacistického
 pronacistickej
 pronáos
@@ -115086,7 +114831,7 @@ prorektorov/Y po:adjective
 prorocky
 prorocký/YN po:adjective
 proroctvo/M po:noun is:neuter
-prorogácia
+prorogácia/U po:noun is:feminine
 prorok/C po:noun is:masculine
 prorokov/Y po:adjective
 prorokovanie/VN po:noun is:neuter
@@ -115225,7 +114970,7 @@ prostotami
 prostovlasý/YN po:adjective
 prostovravný/YN po:adjective
 prostôt
-prostrácia
+prostrácia/U po:noun is:feminine
 prostred
 prostredie/V po:noun is:neuter
 prostredkovanie/VN po:noun is:neuter
@@ -116367,10 +116112,10 @@ pultíkmi
 pultíkom
 pultmi
 pultový/YN po:adjective
-pulverizácia
+pulverizácia/U po:noun is:feminine
 pulvila
 pulz/B po:noun is:masculine
-pulzácia
+pulzácia/U po:noun is:feminine
 pulzačnej
 pulzný/Y po:adjective
 pulzovanie/VN po:noun is:neuter
@@ -116410,7 +116155,7 @@ punk/B po:noun is:masculine
 punkcia/U po:noun is:feminine
 punkčný/YN po:adjective
 punkt/B po:noun is:masculine
-punktácia
+punktácia/U po:noun is:feminine
 punktičkár/C po:noun is:masculine
 punktičkárov/Y po:adjective
 punktičkársky/YN po:adjective
@@ -116469,12 +116214,12 @@ pupočný/YN po:adjective
 pupok/O po:noun is:masculine
 purány/Q
 purga
-purgácia
+purgácia/U po:noun is:feminine
 purgatívum
 purgatórium
 Purgina
 Purginu
-purifikácia
+purifikácia/U po:noun is:feminine
 purifikovať/WN po:verb
 purim
 purista/H po:noun is:masculine
@@ -116838,7 +116583,7 @@ QV po:acronym
 r
 R
 ŕ
-raabizácia
+raabizácia/U po:noun is:feminine
 rab/C po:noun is:masculine
 rabat/B po:noun is:masculine
 rabatmi
@@ -116877,7 +116622,7 @@ Racek
 rácem
 racemát
 ráceme
-racemizácia
+racemizácia/U po:noun is:feminine
 ráceš
 rácete
 racia
@@ -116982,11 +116727,7 @@ radikalista/H po:noun is:masculine
 radikalisticky
 radikalistický/YN po:adjective
 radikalistov/Y po:adjective
-radikalizácia
-radikalizácie
-radikalizácii
-radikalizáciou
-radikalizáciu
+radikalizácia/U po:noun is:feminine
 radikalizmus/B po:noun is:masculine
 radikalizovanie/VN po:noun is:neuter
 radikalizovať/WN po:verb
@@ -117003,7 +116744,7 @@ Radimov
 Radimove
 Radimovi
 rádio/M po:noun is:neuter
-rádioaktivácia
+rádioaktivácia/U po:noun is:feminine
 rádioaktivita/zZ po:noun is:feminine
 rádioaktívnosť/K po:noun is:feminine
 rádioaktívny/YN po:adjective
@@ -117037,14 +116778,7 @@ rádiochémia
 rádioizotop/B po:noun is:masculine
 rádioizotopový/YN po:adjective
 Rádioklubu
-rádiokomunikácia
-rádiokomunikáciách
-rádiokomunikáciám
-rádiokomunikáciami
-rádiokomunikácie
-Rádiokomunikácii
-rádiokomunikácií
-rádiokomunikáciu
+rádiokomunikácia/U po:noun is:feminine
 rádiokomunikačný/YN po:adjective
 rádioliečba/z po:noun is:feminine
 rádioliečbach
@@ -117078,9 +116812,7 @@ rádiometrami
 rádiometri
 rádiometria
 rádiometrických
-rádionavigácia
-rádionavigácie
-rádionavigáciu
+rádionavigácia/U po:noun is:feminine
 rádionavigačný/YN po:adjective
 rádionka/zZ po:noun is:feminine
 rádioprijímač/J po:noun is:masculine
@@ -117361,7 +117093,7 @@ Rajmud
 rajnica/U po:noun is:feminine
 rajnicový/YN po:adjective
 rajnička/zZ po:noun is:feminine
-rajoizácia
+rajoizácia/U po:noun is:feminine
 rajón/B po:noun is:masculine
 rajonizácia/U po:noun is:feminine
 rajonizovať/WN po:verb
@@ -117512,7 +117244,7 @@ Ramie
 ramien
 ramienko/M po:noun is:neuter
 ramienok
-ramifikácia
+ramifikácia/U po:noun is:feminine
 rámik/B po:noun is:masculine
 rámkový/YN po:adjective
 Ramón
@@ -117679,7 +117411,7 @@ raráškov
 raráškovi
 rarášok/c po:noun is:masculine
 rarášokov/Y po:adjective
-rarefikácia
+rarefikácia/U po:noun is:feminine
 rarita/zZ po:noun is:feminine
 raritne
 raritný/YN po:adjective
@@ -117909,10 +117641,7 @@ reakčník
 reakčnosť/K po:noun is:feminine
 reakčný/YN po:adjective
 reaktant
-reaktivácia
-reaktivácii
-reaktiváciou
-reaktiváciu
+reaktivácia/U po:noun is:feminine
 reaktivít
 reaktivita
 reaktivite
@@ -117930,7 +117659,7 @@ reál/B po:noun is:masculine
 realgár
 reáli
 reália/U po:noun is:feminine
-realimentácia
+realimentácia/U po:noun is:feminine
 realista/H po:noun is:masculine
 realistickosť/K po:noun is:feminine
 realisticky/N po:adverb
@@ -118074,11 +117803,7 @@ recipovať/WN po:verb
 reciprocita/zZ po:noun is:feminine
 recipročne/YN po:adjective
 recipročný/YN po:adjective
-recirkulácia
-recirkulácie
-recirkulácii
-recirkuláciou
-recirkuláciu
+recirkulácia/U po:noun is:feminine
 recitácia/U po:noun is:feminine
 recitačný/YN po:adjective
 recitál/B po:noun is:masculine
@@ -118150,7 +117875,7 @@ redigovaný/YN po:adjective
 Redigovaný/YN po:adjective
 redigovať/WN po:verb
 redikať/EN po:verb
-redimigrácia
+redimigrácia/U po:noun is:feminine
 redingot/B po:noun is:masculine
 redingotmi
 rediskontu
@@ -118196,7 +117921,7 @@ redukujúci
 redundancia/U po:noun is:feminine
 redundania
 redundantný/YN po:adjective
-reduplikácia
+reduplikácia/U po:noun is:feminine
 reduplikovaný/YN po:adjective
 reduplikovať/WN po:verb
 reduta/zZ po:noun is:feminine
@@ -118222,7 +117947,7 @@ refál
 refektár
 refektári
 refektórium
-refenerácia
+refenerácia/U po:noun is:feminine
 refenerátor/B po:noun is:masculine
 referát/B po:noun is:masculine
 referátmi
@@ -118245,7 +117970,7 @@ referovať/WN po:verb
 referrovať/WN po:verb
 refíž
 refl
-reflácia
+reflácia/U po:noun is:feminine
 reflektant
 reflektivita
 reflektívny
@@ -118295,7 +118020,7 @@ refrénovite
 refrénovito/N po:adverb
 refrénovitý/YN po:adjective
 refrénový/YN po:adjective
-refrigerácia
+refrigerácia/U po:noun is:feminine
 refrigerátor/B po:noun is:masculine
 refúgium
 refundácia/U po:noun is:feminine
@@ -118312,7 +118037,7 @@ regálneho
 regálový/YN po:adjective
 regata/zZ po:noun is:feminine
 rege
-regelácia
+regelácia/U po:noun is:feminine
 régence
 regenerácia/U po:noun is:feminine
 regeneračne
@@ -118346,11 +118071,7 @@ regionalisti
 regionalistiku
 regionalistiky
 regionalistov
-regionalizácia
-regionalizácie
-regionalizácii
-regionalizáciou
-regionalizáciu
+regionalizácia/U po:noun is:feminine
 regionalizmus/B po:noun is:masculine
 regionálne/YN po:adjective
 regionálnosť/K po:noun is:feminine
@@ -118381,9 +118102,7 @@ registrový/YN po:adjective
 registrujúci/Y po:adjective
 registry
 reglement
-reglementácia
-reglementácie
-reglementáciu
+reglementácia/U po:noun is:feminine
 reglemente
 reglementov
 reglementovaný/YN po:adjective
@@ -118391,7 +118110,7 @@ reglementovať/WN po:verb
 reglementu
 reglementy
 regolit
-regradácia
+regradácia/U po:noun is:feminine
 regredient/c po:noun is:masculine
 regres/B po:noun is:masculine
 regresát
@@ -118455,8 +118174,8 @@ rehotmi
 rehtať
 rehtorstvo/M po:noun is:neuter
 rehúňať/XN po:verb
-rehydrácia
-rehydratácia
+rehydrácia/U po:noun is:feminine
+rehydratácia/U po:noun is:feminine
 rechnovať/WN po:verb
 rechtor/C po:noun is:masculine
 rechtorka/zZ po:noun is:feminine
@@ -118465,7 +118184,7 @@ rechtorov/Y po:adjective
 rechtorský/YN po:adjective
 rechtorstvo/M po:noun is:neuter
 reiki
-reimplantácia
+reimplantácia/U po:noun is:feminine
 reimport
 reimportov
 reimportu
@@ -118478,7 +118197,7 @@ reinkorporáciu
 reinštalácia/U po:noun is:feminine
 reintegrácia/U po:noun is:feminine
 reintegračný/YN po:adjective
-reivindikácia
+reivindikácia/U po:noun is:feminine
 reizmus/B po:noun is:masculine
 Rejda
 rejdár
@@ -118498,7 +118217,7 @@ rekapituália
 rekapitulácia/U po:noun is:feminine
 rekapitulačný/YN po:adjective
 rekapitulovať/WN po:verb
-rekatolizácia
+rekatolizácia/U po:noun is:feminine
 rekcia/U po:noun is:feminine
 rekčný/YN po:adjective
 reklám
@@ -118523,14 +118242,14 @@ rekogníciu
 rekognoskácia/U po:noun is:feminine
 rekognoskovať/WN po:verb
 rekománd
-rekomandácia
+rekomandácia/U po:noun is:feminine
 rekomando/M po:noun is:neuter
 rekomandovať/WN po:verb
 rekompenzácia/U po:noun is:feminine
 rekompenzačný/YN po:adjective
 rekompenzovať/WN po:verb
-Rekomprimácia
-rekonciliácia
+Rekomprimácia/U po:noun is:feminine
+rekonciliácia/U po:noun is:feminine
 rekondičný/Y po:adjective
 rekonfigurácia/U po:noun is:feminine
 rekonfigurujem
@@ -118578,8 +118297,7 @@ rekreovať/WN po:verb
 rekriminácia/U po:noun is:feminine
 rekriminovať/WN po:verb
 rekrudescencia
-rekryštalizácia
-rekryštalizácie
+rekryštalizácia/U po:noun is:feminine
 rekt
 rekta
 rektalgia
@@ -118587,12 +118305,7 @@ rektálny/YN po:adjective
 rektangulárny/YN po:adjective
 rektascenzia
 rektektómia
-rektifikácia
-rektifikácie
-rektifikácii
-rektifikácií
-rektifikáciou
-rektifikáciu
+rektifikácia/U po:noun is:feminine
 rektifikovanie/VN po:noun is:neuter
 rektifikovaný/YN po:adjective
 rektifikovať/WN po:verb
@@ -118615,11 +118328,7 @@ rekultivácia/U po:noun is:feminine
 rekultivačný/YN po:adjective
 rekultivovaný/YN po:adjective
 rekultivovať/WN po:verb
-rekuperácia
-rekuperácie
-rekuperácií
-rekuperáciou
-rekuperáciu
+rekuperácia/U po:noun is:feminine
 rekuperačný/YN po:adjective
 rekuperátor/B po:noun is:masculine
 rekurencia
@@ -118635,7 +118344,7 @@ rekvalifikácia/U po:noun is:feminine
 rekvalifikačný/YN po:adjective
 rekvalifikovať/WN po:verb
 rekviem
-rekvirácia
+rekvirácia/U po:noun is:feminine
 rekviračné
 rekvirovaný/YN po:adjective
 rekvirovať/WN po:verb
@@ -118649,7 +118358,7 @@ rekvizitárov/Y po:adjective
 Rela
 relácia/U po:noun is:feminine
 relačný/YN po:adjective
-relantácia
+relantácia/U po:noun is:feminine
 relaps
 relativista/H po:noun is:masculine
 relativisticky/YN po:adjective
@@ -118674,7 +118383,7 @@ relaxovať/WN po:verb
 relaxujúci
 relé
 reléový/YN po:adjective
-relevácia
+relevácia/U po:noun is:feminine
 relevancia
 relevanciách
 relevancie
@@ -118703,10 +118412,8 @@ reliktný/YN po:adjective
 reliktový/YN po:adjective
 relikvia/U po:noun is:feminine
 relikviár
-relokácia
-Relokácia
-relokácie
-relokáciu
+relokácia/U po:noun is:feminine
+Relokácia/U po:noun is:feminine
 Relou
 Reľov
 reluktancia
@@ -118755,7 +118462,7 @@ Remetských
 Remetu
 Remety
 remienok/O po:noun is:masculine
-remilitarizácia
+remilitarizácia/U po:noun is:feminine
 remilitarizovať/WN po:verb
 reminiscencia/U po:noun is:feminine
 remis
@@ -118776,10 +118483,10 @@ remízam
 remízka/zZ po:noun is:feminine
 remizovať/WN po:verb
 remízový/YN po:adjective
-remonštrácia
+remonštrácia/U po:noun is:feminine
 Remont
 remonta
-remontácia
+remontácia/U po:noun is:feminine
 remontu
 remorkáž
 remorkér/B po:noun is:masculine
@@ -118793,7 +118500,7 @@ remorkéru
 remorkéry
 remoska/zZ po:noun is:feminine
 remuláda
-remunerácia
+remunerácia/U po:noun is:feminine
 remziť
 ren
 Rena
@@ -118850,9 +118557,8 @@ rentovaný/YN po:adjective
 rentovať/WN po:verb
 rentovo
 rentový/YN po:adjective
-renumerácia
-renumerácie
-renunciácia
+renumerácia/U po:noun is:feminine
+renunciácia/U po:noun is:feminine
 Reny
 reobáza
 reofyt
@@ -118874,7 +118580,7 @@ repa/zZ po:noun is:feminine
 repár/C po:noun is:masculine
 reparácia/U po:noun is:feminine
 reparačný/Y po:adjective
-reparametrizácia
+reparametrizácia/U po:noun is:feminine
 reparát/B po:noun is:masculine
 reparátmi
 repárov/Y po:adjective
@@ -118983,7 +118689,7 @@ reprízovaný/YN po:adjective
 Reprízovaný/YN po:adjective
 reprízovať/WN po:verb
 reprízový/YN po:adjective
-reprobácia
+reprobácia/U po:noun is:feminine
 reprobedňa
 reprobovať/WN po:verb
 reprodukcia/U po:noun is:feminine
@@ -119011,7 +118717,7 @@ republikánov/Y po:adjective
 republikánsky/YN po:adjective
 republikovo
 republikový/YN po:adjective
-repudiácia
+repudiácia/U po:noun is:feminine
 repulzia
 repusoár
 reputácia/U po:noun is:feminine
@@ -119122,7 +118828,7 @@ rét
 RET po:acronym
 retábel
 retabulum
-retaliácia
+retaliácia/U po:noun is:feminine
 retardácia/U po:noun is:feminine
 retardačne
 retardačný/YN po:adjective
@@ -119163,7 +118869,7 @@ retiazkovacích
 retiazkovačky
 retiazkový/YN po:adjective
 reticelli
-retikulácia
+retikulácia/U po:noun is:feminine
 retikulárny/YN po:adjective
 retikulín
 retikulocyt
@@ -119201,7 +118907,7 @@ retroaktívnosť/K po:noun is:feminine
 retroaktívny/Y po:adjective
 retroflexia
 retrogénia
-retrogradácia
+retrogradácia/U po:noun is:feminine
 retrográdny/YN po:adjective
 retrospektív
 retrospektíva/zZ po:noun is:feminine
@@ -119230,10 +118936,9 @@ reumatológ/c po:noun is:masculine
 reumatológia
 rev/B po:noun is:masculine
 réva
-revakcinácia
+revakcinácia/U po:noun is:feminine
 revakcinovať/WN po:verb
-revalorizácia
-revalorizáciu
+revalorizácia/U po:noun is:feminine
 revalvácia/U po:noun is:feminine
 revalvovať/WN po:verb
 revanie/V po:noun is:neuter
@@ -119246,7 +118951,7 @@ revanšovanie/VN po:noun is:neuter
 revanšovať/WN po:verb
 revať/TN po:verb
 réve
-revelácia
+revelácia/U po:noun is:feminine
 rever
 reverencia
 reverend/C po:noun is:masculine
@@ -123683,7 +123388,7 @@ rumeniť
 rumenno
 rumenný/Y po:adjective
 rumený/YN po:adjective
-ruminácia
+ruminácia/U po:noun is:feminine
 Rumince
 Ruminciach
 rumisko
@@ -123774,9 +123479,7 @@ rusalkinej
 rusalkino
 Ruse
 rusi
-rusifikácia
-rusifikácie
-rusifikácii
+rusifikácia/U po:noun is:feminine
 rusifikovaný/YN po:adjective
 rusifikovať/WN po:verb
 Rusín/C po:noun is:masculine
@@ -124527,7 +124230,7 @@ salina
 Salina
 Saline
 salinita
-salivácia
+salivácia/U po:noun is:feminine
 Salka
 Salke
 salmiak/B po:noun is:masculine
@@ -124879,7 +124582,7 @@ Sandry
 Sandwichove
 sandžak
 sane/Q po:noun is:feminine is:plural
-sanforizácia
+sanforizácia/U po:noun is:feminine
 sanforizovanie/VN po:noun is:neuter
 sanfranciský/YN po:adjective
 sangtiagský/YN po:adjective
@@ -124930,7 +124633,7 @@ sánkhja
 sánkovačka/zZ po:noun is:feminine
 sánkovanie/VN po:noun is:neuter
 sánkovať/WN po:verb
-sanktifikácia
+sanktifikácia/U po:noun is:feminine
 sanktissimum
 sanktuárium
 sanktus
@@ -124984,14 +124687,14 @@ sapfický/YN po:adjective
 sapfinizmus/B po:noun is:masculine
 sapfizmus/B po:noun is:masculine
 Sapfo
-sapientácia
+sapientácia/U po:noun is:feminine
 Sapin
 SAPO po:acronym
 Sapom
 saponát/B po:noun is:masculine
 saponátmi
 saponátový/YN po:adjective
-saponifikácia
+saponifikácia/U po:noun is:feminine
 saponínov
 saponit
 sapróbia
@@ -125216,7 +124919,7 @@ SB po:acronym
 SBA po:acronym
 SBD po:acronym
 SBS po:acronym
-sbulimácia
+sbulimácia/U po:noun is:feminine
 sC
 Sc
 SC po:acronym
@@ -125280,7 +124983,7 @@ scientológov/Y po:adjective
 scilizmus/B po:noun is:masculine
 scindapsus
 scintigrafia
-scintilácia
+scintilácia/U po:noun is:feminine
 sciofilný/YN po:adjective
 sciofóbny/YN po:adjective
 scirocc
@@ -126126,7 +125829,7 @@ sekvenciach
 sekvenčne
 sekvenčný/YN po:adjective
 sekvester
-sekvestrácia
+sekvestrácia/U po:noun is:feminine
 sekvestrovať/WN po:verb
 sekvoja/U po:noun is:feminine
 sekvojach
@@ -126188,7 +125891,7 @@ sémantička/zZ po:noun is:feminine
 sémantik/C po:noun is:masculine
 sémantika/zZ po:noun is:feminine
 sémantikov/Y po:adjective
-sémantizácia
+sémantizácia/U po:noun is:feminine
 sematiologický/YN po:adjective
 semaziológ/c po:noun is:masculine
 sémaziológia
@@ -126379,9 +126082,9 @@ senzačnosť/K po:noun is:feminine
 senzačný/YN po:adjective
 senzál
 senzibil/C po:noun is:masculine
-senzibilácia
+senzibilácia/U po:noun is:feminine
 senzibilita/zZ po:noun is:feminine
-senzibilizácia
+senzibilizácia/U po:noun is:feminine
 senzibilne/YN po:adjective
 senzibilnosť/K po:noun is:feminine
 senzibilný/YN po:adjective
@@ -126869,7 +126572,7 @@ schematickosť/K po:noun is:feminine
 schematicky/N po:adverb
 schematický/YN po:adjective
 schematičnosť/K po:noun is:feminine
-schematizácia
+schematizácia/U po:noun is:feminine
 schematizmus/B po:noun is:masculine
 scherz
 scherzo/M po:noun is:neuter
@@ -127191,9 +126894,7 @@ Sigmou
 Sigmu
 Sigmy
 sign
-signácia
-signáciou
-signáciu
+signácia/U po:noun is:feminine
 signál/B po:noun is:masculine
 signáli
 signalista/H po:noun is:masculine
@@ -127219,7 +126920,7 @@ Signe
 signet
 Signet
 signifiant
-signifikácia
+signifikácia/U po:noun is:feminine
 signifikantný/YN po:adjective
 signifikátor
 signora
@@ -127296,7 +126997,7 @@ silesiakum
 silica/U po:noun is:feminine
 silícia
 silicid
-silicifikácia
+silicifikácia/U po:noun is:feminine
 silicit
 silícium
 Silická
@@ -127421,8 +127122,7 @@ Simplex
 simplexný/YN po:adjective
 Simplexom
 simplicitný/YN po:adjective
-simplifikácia
-simplifikácie
+simplifikácia/U po:noun is:feminine
 simplifikovať/WN po:verb
 Simu
 simulácia/U po:noun is:feminine
@@ -127781,7 +127481,7 @@ skarabeus
 Skarabeus
 skárať/XN po:verb
 skarhať/EN po:verb
-skarifikácia
+skarifikácia/U po:noun is:feminine
 skarikovaný/YN po:adjective
 Skarikovaný/YN po:adjective
 skarikovať/WN po:verb
@@ -128045,7 +127745,7 @@ sklerotička/zZ po:noun is:feminine
 sklerotik/C po:noun is:masculine
 sklerotikov/Y po:adjective
 sklerotinóza
-sklerotizácia
+sklerotizácia/U po:noun is:feminine
 skleróz
 skleróza/zZ po:noun is:feminine
 sklerózach
@@ -128172,7 +127872,7 @@ skole
 skolecit
 skolektivizovaný/YN po:adjective
 skolektivizovať/WN po:verb
-skolemizácia
+skolemizácia/U po:noun is:feminine
 skolemovou
 skolenosť/K po:noun is:feminine
 skolióza
@@ -128260,7 +127960,7 @@ skontá
 skontaktovať/WN po:verb
 skonto
 skontom
-skontrácia
+skontrácia/U po:noun is:feminine
 skontro
 skontrolovanie/VN po:noun is:neuter
 skontrolovaný/YN po:adjective
@@ -130457,7 +130157,7 @@ soliareň/D po:noun is:feminine
 soliarenský/YN po:adjective
 soliarov/Y po:adjective
 soliarsky/YN po:adjective
-solicitácia
+solicitácia/U po:noun is:feminine
 solicitant
 solicitátor
 solicitor
@@ -130481,7 +130181,7 @@ solídnosť/K po:noun is:feminine
 solídny/YN po:adjective
 solidus
 solievať/XN po:verb
-soliflukácia
+soliflukácia/U po:noun is:feminine
 solilokvium
 solipsizmus/B po:noun is:masculine
 solísk
@@ -130527,7 +130227,7 @@ sólovo
 sólový/YN po:adjective
 solstícium
 solubilita
-solubilizácia
+solubilizácia/U po:noun is:feminine
 solubilný/YN po:adjective
 solúcia
 Solún
@@ -130540,7 +130240,7 @@ solutréen
 solux/B po:noun is:masculine
 soluxový/YN po:adjective
 solvát
-solvatácia
+solvatácia/U po:noun is:feminine
 solvencia
 solvencie
 solvenciu
@@ -130576,7 +130276,7 @@ somárstvo/M po:noun is:neuter
 somaticky
 somatický/YN po:adjective
 somatika
-somatizácia
+somatizácia/U po:noun is:feminine
 somatológ/c po:noun is:masculine
 somatológia/U po:noun is:feminine
 somatologický/YN po:adjective
@@ -130810,10 +130510,7 @@ sovíča/A po:noun is:neuter
 sovička/zZ po:noun is:feminine
 soviet/B po:noun is:masculine
 sovieti
-sovietizácia
-sovietizácie
-sovietizácii
-sovietizáciu
+sovietizácia/U po:noun is:feminine
 sovietská
 sovietsky/YN po:adjective
 sovka
@@ -131093,7 +130790,7 @@ speakeroch
 speakerom
 speakerov
 speakerovi
-speciácia
+speciácia/U po:noun is:feminine
 species
 specimen
 Specimen
@@ -131781,7 +131478,7 @@ spolčovací/I po:adjective
 spolčovanie/VN po:noun is:neuter
 spolčovať/WN po:verb
 spólia
-spoliácia
+spoliácia/U po:noun is:feminine
 spoliehajúca
 spoliehajúce
 spoliehajúci
@@ -133062,7 +132759,7 @@ stafylogénny/YN po:adjective
 stafylokok/B po:noun is:masculine
 stafylokokový/YN po:adjective
 stafylokokus
-stagflácia
+stagflácia/U po:noun is:feminine
 stagiona
 stagnácia/U po:noun is:feminine
 stagnačný/YN po:adjective
@@ -133818,7 +133515,7 @@ stereotypnosť/K po:noun is:feminine
 stereotypný/YN po:adjective
 sterický/YN po:adjective
 sterigať/EN po:verb
-sterilácia
+sterilácia/U po:noun is:feminine
 sterilita/zZ po:noun is:feminine
 sterilizácia/U po:noun is:feminine
 sterilizačne
@@ -134597,7 +134294,7 @@ Stráňavami
 Stráňavy
 strand
 stranených
-strangulácia
+strangulácia/U po:noun is:feminine
 strangúria
 straníckosť/K po:noun is:feminine
 stranícky/YN po:adjective
@@ -135048,7 +134745,7 @@ striasacou
 striasanie/V po:noun is:neuter
 striasať/XN po:verb
 striasť/RN po:verb
-stridulácia
+stridulácia/U po:noun is:feminine
 strídža/A po:noun is:neuter
 strídžencami
 strídžence
@@ -135226,7 +134923,7 @@ strnulosť/K po:noun is:feminine
 strnulý/YN po:adjective
 strnúť/WN
 strnutím
-strobilácia
+strobilácia/U po:noun is:feminine
 stroboskop
 stroboskopia
 stroboskopické
@@ -135730,7 +135427,7 @@ suave
 subakútny/YN po:adjective
 subakválny/YN po:adjective
 subakvatický/YN po:adjective
-subalternácia
+subalternácia/U po:noun is:feminine
 subalternosť/K po:noun is:feminine
 subalterný/YN po:adjective
 subatlantický/YN po:adjective
@@ -135813,7 +135510,7 @@ sublimný/YN po:adjective
 sublimovaný/YN po:adjective
 sublimovať/WN po:verb
 sublitorál
-subluxácia
+subluxácia/U po:noun is:feminine
 submarínny/YN po:adjective
 submerzia
 submerzný/YN po:adjective
@@ -135835,7 +135532,7 @@ Subotici
 Suboticu
 subpolárny/YN po:adjective
 subreta/zZ po:noun is:feminine
-subrogácia
+subrogácia/U po:noun is:feminine
 subsidencia
 subsídia
 subsidiarít
@@ -135874,7 +135571,7 @@ substitútov
 substrát/B po:noun is:masculine
 substrátmi
 substrátový/YN po:adjective
-subsumácia
+subsumácia/U po:noun is:feminine
 subsumovanie/VN po:noun is:neuter
 subsumovať/WN po:verb
 subsumpcia
@@ -135958,7 +135655,7 @@ sučuk
 sud/B po:noun is:masculine
 súd/B po:noun is:masculine
 suda
-sudácia
+sudácia/U po:noun is:feminine
 Sudán/B po:noun is:masculine
 Sudániek
 Sudánka/Z po:noun is:feminine
@@ -136056,7 +135753,7 @@ súfizmus/B po:noun is:masculine
 suflé
 suflér
 suflovať/WN po:verb
-sufokácia
+sufokácia/U po:noun is:feminine
 sufóza
 sufragán
 sufragium
@@ -136234,14 +135931,14 @@ súladný/YN po:adjective
 sulfamid
 sulfan
 sulfát/B po:noun is:masculine
-sulfatácia
+sulfatácia/U po:noun is:feminine
 sulfatid
 sulfátmi
 sulfátový/YN po:adjective
 sulfid/B po:noun is:masculine
-sulfidácia
+sulfidácia/U po:noun is:feminine
 sulfit/B po:noun is:masculine
-sulfitácia
+sulfitácia/U po:noun is:feminine
 sulfitmi
 sulfitový/YN po:adjective
 sulfón
@@ -136280,7 +135977,7 @@ sultánov/Y po:adjective
 sultánsky/YN po:adjective
 súm
 suma/zZ po:noun is:feminine
-sumácia
+sumácia/U po:noun is:feminine
 sumačný/YN po:adjective
 sumár/J po:noun is:masculine
 sumarizácie/V po:noun is:neuter
@@ -136357,10 +136054,10 @@ super
 súper/C po:noun is:masculine
 súpera
 superaerodynamika
-superarbitrácia
+superarbitrácia/U po:noun is:feminine
 superdominanta
 súperenie/V po:noun is:neuter
-superfetácia
+superfetácia/U po:noun is:feminine
 superficiálny/YN po:adjective
 superficiárny/YN po:adjective
 superfosfát/B po:noun is:masculine
@@ -136430,7 +136127,7 @@ supi
 supí/I po:adjective
 supiaci/YN po:adjective
 supieť
-supinácia
+supinácia/U po:noun is:feminine
 supinum
 súpis/B po:noun is:masculine
 súpiska/zZ po:noun is:feminine
@@ -136472,16 +136169,14 @@ supravodivosť/K po:noun is:feminine
 supravodivou
 supravodivým
 súpravový/YN po:adjective
-supremácia
-supremácie
-supremáciu
+supremácia/U po:noun is:feminine
 supremát
 suprematizmus/B po:noun is:masculine
 supresia
 supresie
 supresívna
 supresívnych
-supurácia
+supurácia/U po:noun is:feminine
 súpútnici
 súpútnik
 súpútnika
@@ -136533,7 +136228,7 @@ súrodenecký/Y po:adjective
 súrodo/N po:adverb
 súrodosť/K po:noun is:feminine
 súrodý/YN po:adjective
-surogácia
+surogácia/U po:noun is:feminine
 surogát
 suroň
 surova
@@ -136558,7 +136253,7 @@ súručmo
 surveillancia
 survey
 suscepcia
-suscitácia
+suscitácia/U po:noun is:feminine
 sused/c po:noun is:masculine
 suseda/Z po:noun is:feminine
 suseda/zZ po:noun is:feminine
@@ -136586,7 +136281,7 @@ suspendácii
 suspendovanie/VN po:noun is:neuter
 suspendovaný/YN po:adjective
 suspendovať/WN po:verb
-suspenzácia
+suspenzácia/U po:noun is:feminine
 suspenzia/U po:noun is:feminine
 suspenzívny/YN po:adjective
 suspenzor
@@ -139014,7 +138709,7 @@ SZTK po:acronym
 šik/B po:noun is:masculine
 šík/B po:noun is:masculine
 šikana
-šikanácia
+šikanácia/U po:noun is:feminine
 šikane
 šikanéria
 šikanou
@@ -142409,12 +142104,12 @@ Táborský/YN po:adjective
 táborte
 tabríz
 tabu
-tabuizácia
+tabuizácia/U po:noun is:feminine
 tabuizovaný/YN po:adjective
 tabuizovať/WN po:verb
 tabula/U po:noun is:feminine
 tabuľa/U po:noun is:feminine
-tabulácia
+tabulácia/U po:noun is:feminine
 tabulačný/YN po:adjective
 tabulách
 tabulárny/Y po:adjective
@@ -143207,7 +142902,7 @@ taxameter/J po:noun is:masculine
 taxatívne/YN po:adjective
 taxatívny/YN po:adjective
 taxátor
-taxflácia
+taxflácia/U po:noun is:feminine
 taxi
 taxia
 taxidermia
@@ -143434,8 +143129,7 @@ technológia/U po:noun is:feminine
 technologicky
 technologický/YN po:adjective
 technologička/zZ po:noun is:feminine
-technologizácia
-technologizácii
+technologizácia/U po:noun is:feminine
 technologizmus/B po:noun is:masculine
 technológov/Y po:adjective
 Techu
@@ -143946,10 +143640,7 @@ teplický/YN po:adjective
 Teplička/zZ po:noun is:feminine
 teplistý/YN po:adjective
 teplo/M po:noun is:neuter
-teplofikácia
-teplofikácie
-teplofikácii
-teplofikáciu
+teplofikácia/U po:noun is:feminine
 teplokrvník/B po:noun is:masculine
 teplokrvníkovi
 teplokrvnosť/K po:noun is:feminine
@@ -144118,7 +143809,7 @@ termidor
 termika/zZ po:noun is:feminine
 Termin
 termín/B po:noun is:masculine
-terminácia
+terminácia/U po:noun is:feminine
 terminál/B po:noun is:masculine
 terminál/J po:noun is:masculine
 terminálny/YN po:adjective
@@ -144442,11 +144133,7 @@ Texasom
 Texasu
 text/B po:noun is:masculine
 Texta
-textácia
-textácie
-textácii
-textáciou
-textáciu
+textácia/U po:noun is:feminine
 textár/C po:noun is:masculine
 textárka/zZ po:noun is:feminine
 textárov/Y po:adjective
@@ -144490,9 +144177,7 @@ téza/zZ po:noun is:feminine
 tézach
 tézam
 tezaura
-tezaurácia
-tezaurácie
-tezauráciu
+tezaurácia/U po:noun is:feminine
 tezaurami
 tezaure
 tezauroch
@@ -144891,7 +144576,7 @@ titánový/YN po:adjective
 titanský/YN po:adjective
 titánsky/YN po:adjective
 titer
-titilácia
+titilácia/U po:noun is:feminine
 titlá
 titlať
 Title
@@ -144900,7 +144585,7 @@ titon
 titrácia/U po:noun is:feminine
 titračný/YN po:adjective
 titrom
-titubácia
+titubácia/U po:noun is:feminine
 titul/B po:noun is:masculine
 titulár
 Titulári
@@ -145431,7 +145116,7 @@ toniem
 tonieme
 tonieš
 toniete
-tonifikácia
+tonifikácia/U po:noun is:feminine
 toník
 tonik/B po:noun is:masculine
 tónika
@@ -145602,7 +145287,7 @@ tórium/M po:noun is:neuter
 torkret
 torkretovanie/VN po:noun is:neuter
 torment
-tormentácia
+tormentácia/U po:noun is:feminine
 torna
 tornád
 tornádach
@@ -145985,7 +145670,7 @@ tramvaje
 tramvají
 tramvajové
 trán
-tranformácia
+tranformácia/U po:noun is:feminine
 trankvilizér
 Tranoscius
 trans
@@ -146014,11 +145699,11 @@ transferovanie/VN po:noun is:neuter
 transferovaný/YN po:adjective
 transferovať/WN po:verb
 transferový/YN po:adjective
-transfigurácia
+transfigurácia/U po:noun is:feminine
 transfigurovať/WN po:verb
 transfinitný/YN po:adjective
 transfixia
-transfokácia
+transfokácia/U po:noun is:feminine
 transfokátor/B po:noun is:masculine
 transformácia/U po:noun is:feminine
 transformačne
@@ -146049,28 +145734,25 @@ transfúzny/YN po:adjective
 transgestizmus/B po:noun is:masculine
 transgresia
 transgresív
-transketonácia
+transketonácia/U po:noun is:feminine
 transkódovanie/VN po:noun is:neuter
 transkontinentálny/YN po:adjective
 transkribovať/WN po:verb
 transkripcia/U po:noun is:feminine
 transkripčný/YN po:adjective
 transkutánny/YN po:adjective
-translácia
+translácia/U po:noun is:feminine
 translalógia
 translátor
 transliterácia/U po:noun is:feminine
 transliteračný/YN po:adjective
-translokácia
+translokácia/U po:noun is:feminine
 translunárny/YN po:adjective
-transmigrácia
+transmigrácia/U po:noun is:feminine
 transmisia/U po:noun is:feminine
 transmisijný/YN po:adjective
 transmisný/YN po:adjective
-transmutácia
-transmutácie
-transmutácii
-Transmutáciou
+transmutácia/U po:noun is:feminine
 transmutovaný/YN po:adjective
 transmutovať/WN po:verb
 transnacionálnych
@@ -146088,7 +145770,7 @@ transparentne/N po:adverb
 transparentnosť/K po:noun is:feminine
 transparentný/YN po:adjective
 transparentový/YN po:adjective
-transpirácia
+transpirácia/U po:noun is:feminine
 transplantácia/U po:noun is:feminine
 transplantačný/YN po:adjective
 transplantát/B po:noun is:masculine
@@ -146124,7 +145806,7 @@ transsexuálov/Y po:adjective
 transsonický/YN po:adjective
 transsudát
 Transu
-transudácia
+transudácia/U po:noun is:feminine
 transudát
 transurán
 transverzála
@@ -146264,9 +145946,7 @@ traumami
 traumaticky/N po:adverb
 traumatický/YN po:adjective
 traumatik
-traumatizácia
-traumatizácie
-traumatizácii
+traumatizácia/U po:noun is:feminine
 traumatizmus/B po:noun is:masculine
 traumatizovanie/VN po:noun is:neuter
 traumatizovaný/YN po:adjective
@@ -146456,7 +146136,7 @@ trepáreň/D po:noun is:feminine
 trepárka
 trepať/TN po:verb
 Trepec
-trepidácia
+trepidácia/U po:noun is:feminine
 trepniach
 trepnúť/WN
 trepot/B po:noun is:masculine
@@ -146796,7 +146476,7 @@ triezvy/YN po:adjective
 trifoliáta
 trifólium
 trifórium
-trifurkácia
+trifurkácia/U po:noun is:feminine
 triga
 Trige
 trigeminus
@@ -147418,9 +147098,7 @@ trojkolesový/YN po:adjective
 trojkoliesok
 trojkolka/zZ po:noun is:feminine
 trojkolový/YN po:adjective
-trojkombinácia
-trojkombináciách
-trojkombináciu
+trojkombinácia/U po:noun is:feminine
 trojkorunový/YN po:adjective
 trojkový/YN po:adjective
 trojkráľový/YN po:adjective
@@ -147596,9 +147274,7 @@ tróp/B po:noun is:masculine
 tropán
 tropeum
 tropický/YN po:adjective
-tropikalizácia
-tropikalizácie
-tropikalizáciu
+tropikalizácia/U po:noun is:feminine
 tropiko
 tropín
 tropizmus/B po:noun is:masculine
@@ -148191,7 +147867,7 @@ Turanoch
 Turanom
 Turany
 turasy
-turbácia
+turbácia/U po:noun is:feminine
 turban/B po:noun is:masculine
 turbelencií
 turbína/zZ po:noun is:feminine
@@ -148331,7 +148007,7 @@ Turú
 turul
 Turzovka/z po:noun is:feminine
 turzovský/YN po:adjective
-tusikácia
+tusikácia/U po:noun is:feminine
 Tuskulum
 tuš/J po:noun is:masculine
 tušenie/V po:noun is:neuter
@@ -148621,7 +148297,7 @@ týmusový/YN po:adjective
 týmusu
 týmusy
 týmže
-tyndalizácia
+tyndalizácia/U po:noun is:feminine
 týnsky/YN po:adjective
 typ/B po:noun is:masculine
 týpať
@@ -150036,7 +149712,7 @@ uláskať
 uľavenie/V po:noun is:neuter
 uľaviť/EN po:verb
 uľavovať/WN po:verb
-ulcerácia
+ulcerácia/U po:noun is:feminine
 ulcerózny/YN po:adjective
 ulcus
 ULE po:acronym
@@ -150120,7 +149796,7 @@ ullmanit
 Ulm
 ulma
 Ulme
-ulmifikácia
+ulmifikácia/U po:noun is:feminine
 ulmit
 Ulmu
 ulna
@@ -150191,10 +149867,7 @@ ultra
 ultraakustika
 ultračastica
 ultrafialový/YN po:adjective
-ultrafiltrácia
-ultrafiltrácie
-ultrafiltráciou
-ultrafiltráciu
+ultrafiltrácia/U po:noun is:feminine
 ultraizmus/B po:noun is:masculine
 ultrakrátky/YN po:adjective
 ultraľahký/YN po:adjective
@@ -150550,11 +150223,11 @@ uncie
 uncií
 unciu
 und
-undácia
+undácia/U po:noun is:feminine
 undbundling
 underground
 undina
-undulácia
+undulácia/U po:noun is:feminine
 UNESCO po:acronym
 unesenie/V po:noun is:neuter
 unesený/YN po:adjective
@@ -150681,7 +150354,7 @@ unudený/YN po:adjective
 unudí
 unudíme
 unudiť
-unuvácia
+unuvácia/U po:noun is:feminine
 unúvanie/V po:noun is:neuter
 unúvať/XN po:verb
 ÚNZ po:acronym
@@ -151318,7 +150991,7 @@ urieknutie/V po:noun is:neuter
 urien
 urín
 urína
-urinácia
+urinácia/U po:noun is:feminine
 urinoterapia
 url
 URL
@@ -152256,7 +151929,7 @@ utilité
 utilitou
 utilitu
 utility
-utilizácia
+utilizácia/U po:noun is:feminine
 utínanie/V po:noun is:neuter
 utínať/XN po:verb
 utískanie/V po:noun is:neuter
@@ -152931,8 +152604,7 @@ uzuálny/YN po:adjective
 uzučký/YN po:adjective
 uzulinký/YN po:adjective
 uzunký/YN po:adjective
-uzurpácia
-uzurpáciu
+uzurpácia/U po:noun is:feminine
 uzurpátor/C po:noun is:masculine
 uzurpátormi
 uzurpátorov/Y po:adjective
@@ -153510,7 +153182,7 @@ vápnitosť/K po:noun is:feminine
 vápnitý/YN po:adjective
 vápno/M po:noun is:neuter
 vápnový/YN po:adjective
-vaporizácia
+vaporizácia/U po:noun is:feminine
 vár
 var/B po:noun is:masculine
 vara
@@ -153697,7 +153369,7 @@ vazari
 vazelína/zZ po:noun is:feminine
 vazelínový/YN po:adjective
 vázička/zZ po:noun is:feminine
-vazodilatácia
+vazodilatácia/U po:noun is:feminine
 vazokonstrikcia
 vazoneuróza
 vazotónia
@@ -154685,7 +154357,7 @@ verzatilita
 verzatilka
 verzatilky
 verzia/U po:noun is:feminine
-verzifikácia
+verzifikácia/U po:noun is:feminine
 verzírovaný/YN po:adjective
 verzus
 ves/K po:noun is:feminine
@@ -154852,7 +154524,7 @@ vetvový/YN po:adjective
 veverica/U po:noun is:feminine
 veveričí/I po:adjective
 veverička/zZ po:noun is:feminine
-vexácia
+vexácia/U po:noun is:feminine
 vexillum
 vexiloid
 vexilológia
@@ -155210,7 +154882,7 @@ vidiečanov/Y po:adjective
 vidiek/B po:noun is:masculine
 vidien
 vidieť/RN po:verb
-vidimácia
+vidimácia/U po:noun is:feminine
 vidina/zZ po:noun is:feminine
 viditeľne/YN po:adjective
 viditeľnosť/K po:noun is:feminine
@@ -155413,7 +155085,7 @@ vincúr/C po:noun is:masculine
 vincúrov/Y po:adjective
 vinčestrovka
 vínčisko/M po:noun is:neuter
-vindikácia
+vindikácia/U po:noun is:feminine
 vinea/zZ po:noun is:feminine
 vínečiek
 vínečko/M po:noun is:neuter
@@ -155511,7 +155183,7 @@ vinuto
 vinutý/YN po:adjective
 vinyl
 Vinyl
-vinylácia
+vinylácia/U po:noun is:feminine
 vinylchlorid
 vinylchloridu
 vinylov
@@ -155522,7 +155194,7 @@ vinylovú
 vinylových
 viola/zZ po:noun is:feminine
 Viola/zZ po:noun is:feminine
-violácia
+violácia/U po:noun is:feminine
 violencia
 violente
 violet
@@ -155568,7 +155240,7 @@ virguľový/YN po:adjective
 víriaci
 víriacich
 virilita
-virilizácia
+virilizácia/U po:noun is:feminine
 virilizmus/B po:noun is:masculine
 virilný/YN po:adjective
 virión
@@ -155663,7 +155335,7 @@ vitálne/YN po:adjective
 vitálnosť/K po:noun is:feminine
 vitálny/YN po:adjective
 vitamín/B po:noun is:masculine
-vitaminizácia
+vitaminizácia/U po:noun is:feminine
 vitaminológia
 vitamínovo
 vitamínový/YN po:adjective
@@ -155751,7 +155423,7 @@ vizionárstvo/M po:noun is:neuter
 vizír
 vizírka
 vizita/zZ po:noun is:feminine
-vizitácia
+vizitácia/U po:noun is:feminine
 vizitka/zZ po:noun is:feminine
 vizitkový/YN po:adjective
 vízový/YN po:adjective
@@ -156608,7 +156280,7 @@ Vojvodský/YN po:adjective
 vojvodstvo/M po:noun is:neuter
 vok
 vokabulár
-vokácia
+vokácia/U po:noun is:feminine
 vokál/B po:noun is:masculine
 vokáli
 vokalicky
@@ -156915,7 +156587,7 @@ Voštinárom
 voštinový/YN po:adjective
 voštvať
 voštverať
-votácia
+votácia/U po:noun is:feminine
 votant
 votívny/YN po:adjective
 votkaný/YN po:adjective
