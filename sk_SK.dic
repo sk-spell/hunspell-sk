@@ -1,4 +1,4 @@
-177669
+177565
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -28183,10 +28183,7 @@ Gabčíkovom
 gabčíkovský/YN po:adjective
 Gabčíkovu
 Gabe
-Gabika
-Gabike
-Gabiku
-Gabiky
+Gabika/zZ po:noun is:feminine
 gabión
 Gaboltov
 Gabon/B po:noun is:masculine
@@ -28316,9 +28313,8 @@ galejníctvo/M po:noun is:neuter
 galejník/C po:noun is:masculine
 galejníkov/Y po:adjective
 galejný/YN po:adjective
-galenické
-Galenika
-galeniká
+galenický/YN po:adjective
+galenikum/M po:noun is:neuter
 galenit/B po:noun is:masculine
 galeona
 galeota
@@ -28328,7 +28324,7 @@ galériach
 galerijný/Y po:adjective
 galeriový/Y po:adjective
 galériový/YN po:adjective
-galérka
+galérka/zZ po:noun is:feminine
 galgala
 galgan/C po:noun is:masculine
 galganisko/M po:noun is:neuter
@@ -28527,7 +28523,6 @@ garderóbach
 garderóbam
 garderobier/C po:noun is:masculine
 garderobiera
-garderobiérka
 garderobierka/zZ po:noun is:feminine
 garderobierov/Y po:adjective
 gardina
@@ -28759,8 +28754,7 @@ Gbeľanoch
 Gbeľany
 Gbelce
 Gbelciach
-gbelianska
-gbelianskej
+gbeliansky/YN po:adjective
 Gbeliec
 Gbeloch
 Gbelov
@@ -28841,7 +28835,7 @@ gemini
 Gemini
 gemipária
 gemma
-gemoglyptika
+gemoglyptika/zZ po:noun is:feminine
 gemula
 gen
 gén/B po:noun is:masculine
@@ -28955,7 +28949,7 @@ Genty
 genus
 Genus
 geobiochémia
-geobotanika
+geobotanika/zZ po:noun is:feminine
 geocentrický/Y po:adjective
 geocentrizmus/B po:noun is:masculine
 geod
@@ -28966,7 +28960,7 @@ geodetický/Y po:adjective
 geodetka/zZ po:noun is:feminine
 geodetov/Y po:adjective
 geodézia/U po:noun is:feminine
-geodynamika
+geodynamika/zZ po:noun is:feminine
 geofág
 geofágia
 geofaktor
@@ -29006,7 +29000,7 @@ geologička/zZ po:noun is:feminine
 geom
 geomagnetizmus/B po:noun is:masculine
 geomantia
-geomechanika
+geomechanika/zZ po:noun is:feminine
 geometer/C po:noun is:masculine
 geometerov/Y po:adjective
 geometria/U po:noun is:feminine
@@ -29021,11 +29015,8 @@ Geonomické
 geopatogénny/YN po:adjective
 geopoliticky
 geopolitický/YN po:adjective
-geopolitika
-geopolitike
+geopolitika/zZ po:noun is:feminine
 geopolitikov
-geopolitiku
-geopolitiky
 geopotenciál
 geopsychológia
 georeliéf
@@ -29037,9 +29028,7 @@ Georgetownčanka/zZ po:noun is:feminine
 Georgetownčanov/Y po:adjective
 georgetownský/YN po:adjective
 Georgia
-georgiánska
-georgiánske
-georgiánsky
+georgiánsky/YN po:adjective
 Georgie
 Georgii
 Georgina
@@ -29054,12 +29043,10 @@ geostacionárny/YN po:adjective
 geostrategický/YN po:adjective
 geosynklinála
 geotaxia
-Geotechnika
-geotechniku
-geotechniky
+geotechnika/zZ po:noun is:feminine
 geotechnológie
 geotechnológií
-geotektonika
+geotektonika/zZ po:noun is:feminine
 geotermálna
 geotermálne
 geotermálneho
@@ -29073,7 +29060,7 @@ geotermálnych
 geotermálnym
 geotermálnymi
 geotermia
-geotermika
+geotermika/zZ po:noun is:feminine
 geotextília
 geotropizmus/B po:noun is:masculine
 geotyp
@@ -29180,7 +29167,7 @@ Gibraltárčan/c po:noun is:masculine
 Gibraltárčanka/zZ po:noun is:feminine
 Gibraltárčanov/Y po:adjective
 gibraltársky/Y po:adjective
-gibsonka
+gibsonka/zZ po:noun is:feminine
 giet
 Giga
 gigahertz
@@ -29327,7 +29314,7 @@ glissando
 glizér
 glo
 globál/B po:noun is:masculine
-globalistika
+globalistika/zZ po:noun is:feminine
 globalizácia/U po:noun is:feminine
 globalizačný/Y po:adjective
 globálmi
@@ -29401,7 +29388,7 @@ glykolu
 glykoly
 glykolýza
 glykosúria
-glyptika
+glyptika/zZ po:noun is:feminine
 glyptotéka/zZ po:noun is:feminine
 GM po:acronym
 Gmail/B po:noun is:masculine
@@ -29849,8 +29836,7 @@ Greg
 Gregor/c po:noun is:masculine
 Gregora
 gregoriánsky/YN po:adjective
-Gregorka
-Gregorku
+Gregorka/zZ po:noun is:feminine
 Gregormi
 Gregoroch
 Gregorom
@@ -30151,7 +30137,7 @@ gundža/U po:noun is:feminine
 gundžavý/YN po:adjective
 gundží
 gundžovitý/YN po:adjective
-gupka
+gupka/zZ po:noun is:feminine
 guráž/D po:noun is:feminine
 gurážny/Y po:adjective
 gurmán/C po:noun is:masculine
@@ -30231,7 +30217,7 @@ gynofóbia
 gynogenéza
 gyps/B po:noun is:masculine
 gypsofilný/YN po:adjective
-gypsomilka
+gypsomilka/zZ po:noun is:feminine
 gypsový/Y po:adjective
 gyroida
 gyrolit
@@ -30291,8 +30277,7 @@ hablitácia/U po:noun is:feminine
 habnúť/WN
 hábočiek
 hábočky/Q
-Habovka
-Habovke
+Habovka/zZ po:noun is:feminine
 Habsburg/B po:noun is:masculine
 Habsburgovcov/Y po:adjective
 habsburgovec
@@ -30492,7 +30477,7 @@ hájiť/XN po:verb
 hajkať/EN po:verb
 Hájkom
 Hájkov
-Hajnáčka
+Hajnáčka/zZ po:noun is:feminine
 Hájnice
 hájnický/YN po:adjective
 hájnictvo/M po:noun is:neuter
@@ -30516,7 +30501,7 @@ hajtmanov/Y po:adjective
 Hajtmanová/Y po:adjective
 hajtmanský/YN po:adjective
 hajtmanstvo/M po:noun is:neuter
-Hajtovka
+Hajtovka/zZ po:noun is:feminine
 haju
 hajušenky
 hajuškať/EN po:verb
@@ -30614,19 +30599,11 @@ halienka/zZ po:noun is:feminine
 halier/J po:noun is:masculine
 halierik/B po:noun is:masculine
 haliermi
-haliernik
-haliernika
-haliernikmi
-haliernikoch
-Haliernikom
-haliernikov
-halierniky
+haliernik/B po:noun is:masculine
 halierový/YN po:adjective
-Halina
-Halinou
+Halina/zZ po:noun is:feminine
 halit
 haliť/EN po:verb
-Halka
 hálka/zZ po:noun is:feminine
 halma
 Halma
@@ -30669,7 +30646,6 @@ ham
 Hama
 hamada
 hamak
-hamaka
 hamal
 hambalok/O po:noun is:masculine
 hambálok/O po:noun is:masculine
@@ -30682,7 +30658,7 @@ hamburgera
 hamburgeri
 hamburgerový/YN po:adjective
 hamburský/YN po:adjective
-hamerleska
+hamerleska/zZ po:noun is:feminine
 hamkať
 hamletovská
 hamletovské
@@ -30695,7 +30671,7 @@ Hámora
 hámorský/YN po:adjective
 hamovač
 hamovať/WN po:verb
-hamovka
+hamovka/zZ po:noun is:feminine
 hamovkár
 hamovník
 hampshire
@@ -30778,22 +30754,15 @@ hangármi
 hangárovanie/VN po:noun is:neuter
 hangáruje
 hangárujú
-Haniek
 Hanigovský/YN po:adjective
 Hanin
 Hanine
-Haniska
-Haniske
-Hanisky
+Haniska/zZ po:noun is:feminine
 haniť/EN po:verb
-Hanka
+Hanka/zZ po:noun is:feminine
 hánka/zZ po:noun is:feminine
-Hanke
 Hankin
-Hankou
 Hanková/Y po:adjective
-Hanku
-Hanky
 hanlivo/N po:adverb
 hanlivý/YN po:adjective
 Hannover
@@ -30821,11 +30790,9 @@ hanoverskej
 Hanoverskom
 hantec
 hantírka/zZ po:noun is:feminine
-hantýrka
-hantýrke
-hantýrkou
+hantýrka/zZ po:noun is:feminine
 Hanuša
-Hanuška
+Hanuška/zZ po:noun is:feminine
 hanušovský/Y po:adjective
 Hanušovský/YN po:adjective
 hanza/zZ po:noun is:feminine
@@ -30870,11 +30837,7 @@ haravarách
 haravarám
 haravarami
 harcovať/WN po:verb
-harcovníci
-harcovník
-harcovníka
-harcovníkom
-harcovníkov
+harcovník/C po:noun is:masculine
 hárček/B po:noun is:masculine
 harddisk
 hardvér/B po:noun is:masculine
@@ -31118,7 +31081,7 @@ hebko/N po:adverb
 hebkosť/K po:noun is:feminine
 hebký/YN po:adjective
 hebr
-hebreistika
+hebraistika/zZ po:noun is:feminine
 Hebrej/C po:noun is:masculine
 hebrejčín
 hebrejčina/z po:noun is:feminine
@@ -31180,7 +31143,7 @@ hehe
 hehé
 hehej
 hehéj
-heika
+heika/zZ po:noun is:feminine
 hej
 hejk
 hejsa
@@ -31232,7 +31195,7 @@ heliofilný/YN po:adjective
 heliofóbia
 heliofóbny/YN po:adjective
 heliofyt
-heliogeofyzika
+heliogeofyzika/zZ po:noun is:feminine
 heliograf
 heliografia
 heliografický/YN po:adjective
@@ -31241,7 +31204,7 @@ helión
 heliosféra
 helioskop
 heliotaxia
-heliotechnika
+heliotechnika/zZ po:noun is:feminine
 helioterapia
 heliotrop
 heliotropín
@@ -31338,7 +31301,7 @@ hemoblastóm
 hemoblastóza
 hemocefalus
 hemodialýza
-hemodynamika
+hemodynamika/zZ po:noun is:feminine
 hemofília
 hemofilický/YN po:adjective
 hemofílie
@@ -31393,7 +31356,7 @@ henry po:noun is:masculine
 henryho
 henrym
 henrymu
-henryovka
+henryovka/zZ po:noun is:feminine
 hentá
 hentaký/Y po:adjective
 hentam
@@ -31460,7 +31423,7 @@ herbicíd/B po:noun is:masculine
 herbicídny/YN po:adjective
 herbivor
 Hercegovina/zZ po:noun is:feminine
-Hercegovinka
+Hercegovinka/zZ po:noun is:feminine
 hercegovinský/YN po:adjective
 hercog
 hercov/Y po:adjective
@@ -31495,9 +31458,7 @@ herkulmi
 herkulovský/YN po:adjective
 Herľanoch
 Herľany
-Herlianska
-Herlianskej
-Herliansky
+herliansky/YN po:adjective
 hermafrodický/YN po:adjective
 hermafrodit/L po:noun is:masculine
 hermafroditizmus/B po:noun is:masculine
@@ -31517,7 +31478,7 @@ hermetický/YN po:adjective
 hermetizácia/U po:noun is:feminine
 hermetizmus/B po:noun is:masculine
 Hermína/zZ po:noun is:feminine
-hermovka
+hermovka/zZ po:noun is:feminine
 Hermu
 Hermy
 herňa/U po:noun is:feminine
@@ -31610,12 +31571,9 @@ heteróznym
 heterozygot
 hetéru
 hetrik/B po:noun is:masculine
-heuréka
-heuristicka
-heuristicke
+heuréka/zZ po:noun is:feminine
+heuristicka/zZ po:noun is:feminine
 heuristicki
-heuristicku
-heuristicky
 heuristický/YN po:adjective
 heuristika/zZ po:noun is:feminine
 heurizmus/B po:noun is:masculine
@@ -31958,11 +31916,7 @@ hlasovo
 hlasový/YN po:adjective
 hlasujúci/YN po:adjective
 hlasým
-hláška
-hláškami
-hlášku
-hlášky
-hlášok
+hláška/zZ po:noun is:feminine
 hlav
 hláv
 hlava/zZ po:noun is:feminine
@@ -31992,7 +31946,7 @@ hlavička/zZ po:noun is:feminine
 hlavičkovať/WN po:verb
 hlavičkový/Y po:adjective
 hlávik
-Hlavinka
+hlavinka/zZ po:noun is:feminine
 hlavísk
 hlavisko/M po:noun is:neuter
 hlávka/zZ po:noun is:feminine
@@ -32292,8 +32246,7 @@ hmotnosť/K po:noun is:feminine
 hmotnostne
 hmotnostný/YN po:adjective
 hmotný/YN po:adjective
-hmoždinka
-hmoždinky
+hmoždinka/zZ po:noun is:feminine
 hmôt
 hmýrenie/V po:noun is:neuter
 hmýriť/XN po:verb
@@ -32513,7 +32466,7 @@ hoblíček
 hoblík/B po:noun is:masculine
 hoblíkový/YN po:adjective
 hoblina/zZ po:noun is:feminine
-hoblinka
+hoblinka/zZ po:noun is:feminine
 hobľoch
 hobľom
 hobľov
@@ -32578,7 +32531,7 @@ hockto po:pronoun
 hocktorý/YN po:adjective
 hockým
 hod/B po:noun is:masculine
-hodegetika
+hodegetika/zZ po:noun is:feminine
 hodegéza
 Hodejov
 Hodejove
@@ -32689,7 +32642,7 @@ hoho
 hohó
 hohój
 hohoľ
-hoholka
+hoholka/zZ po:noun is:feminine
 hochštapler/C po:noun is:masculine
 hochštaplera
 hochštapleri
@@ -32818,13 +32771,8 @@ holne
 holni
 holo
 holobradý/YN po:adjective
-holobriadka
-holobriadkami
-holobriadkoch
-holobriadkom
-holobriadkov
 holobriadkovi
-holobriadok/c po:noun is:masculine
+holobriadok/O po:noun is:masculine
 holobriadokov/Y po:adjective
 holocaust
 holocén/B po:noun is:masculine
@@ -32897,16 +32845,10 @@ holubičí/I po:adjective
 holubička/zZ po:noun is:feminine
 holubienka/zZ po:noun is:feminine
 holubinec/J po:noun is:masculine
-holúbka
-holúbkami
-holúbkoch
-holúbkom
-holúbkov
 holúbkovať/WN po:verb
 holúbkovi
-holúbky
 holubník/B po:noun is:masculine
-holúbok/c po:noun is:masculine
+holúbok/O po:noun is:masculine
 holúbokov/Y po:adjective
 holubov/Y po:adjective
 holuby
@@ -32943,7 +32885,7 @@ Homérov/Y po:adjective
 homérovský/YN po:adjective
 homicidium
 homilet
-homiletika
+homiletika/zZ po:noun is:feminine
 homília/U po:noun is:feminine
 hominidi
 hominizácia/U po:noun is:feminine
@@ -33055,15 +32997,7 @@ honosný/YN po:adjective
 honový/YN po:adjective
 Honšú
 Hont/B po:noun is:masculine
-Hontianska
-Hontianske
-hontianskeho
-hontianskej
-Hontianski
-hontiansky
-Hontianskych
-Hontianskym
-Hontianskymi
+hontiansky/YN po:adjective
 honvéd/C po:noun is:masculine
 honvédov/Y po:adjective
 honvédsky/YN po:adjective
@@ -33094,11 +33028,7 @@ Horákových
 Horákovým
 horal
 horali
-horaliek
-Horalka
-Horalke
-Horalku
-Horalky
+horalka/zZ po:noun is:feminine
 horalom
 horalov
 horalský/YN po:adjective
@@ -33196,10 +33126,7 @@ horna
 Horna
 Horňa
 Hornád/B po:noun is:masculine
-Hornádska
-Hornádskeho
-Hornádskej
-hornádsky
+hornádsky/YN po:adjective
 Horňan
 Horňana
 Horňany
@@ -33219,17 +33146,7 @@ horninový/YN po:adjective
 hornohričovskom
 hornoliptovský/YN po:adjective
 hornolužický/YN po:adjective
-hornonitrianska
-Hornonitrianske
-hornonitrianskeho
-hornonitrianskej
-Hornonitrianski
-hornonitrianskom
-hornonitriansku
-Hornonitriansky
-Hornonitrianskych
-Hornonitrianskym
-Hornonitrianskymi
+hornonitriansky/YN po:adjective
 hornooravská
 hornooravské
 hornooravskej
@@ -33511,7 +33428,7 @@ Hrabovcom
 Hrabovcu
 Hrabovčík
 Hrabovec
-Hrabovka
+Hrabovka/zZ po:noun is:feminine
 Hrabovský/YN po:adjective
 hrabový/YN po:adjective
 Hrabské
@@ -33535,7 +33452,7 @@ hračkárime
 hračkáriš
 hračkáriť
 hračkárite
-hračkárka
+hračkárka/zZ po:noun is:feminine
 hračkárme
 hračkárov/Y po:adjective
 hračkársky/YN po:adjective
@@ -33625,11 +33542,8 @@ hrádza/U po:noun is:feminine
 hrádzach
 hrádzam
 hrádzí
-hrádzka
-hrádzku
-hrádzky
+hrádzka/zZ po:noun is:feminine
 hrádznik
-hrádzok
 hrádzový/YN po:adjective
 hrách
 hrach/B po:noun is:masculine
@@ -33918,7 +33832,6 @@ hriešny/YN po:adjective
 hriešok/B po:noun is:masculine
 Hrin
 Hrina
-Hrinka
 Hrinkom
 Hrinku
 Hrino
@@ -34463,7 +34376,7 @@ humorista/H po:noun is:masculine
 humoristicko
 humoristicky/N po:adverb
 humoristický/YN po:adjective
-humoristika
+humoristika/zZ po:noun is:feminine
 humoristka/zZ po:noun is:feminine
 humoristov/Y po:adjective
 humorne/N po:adverb
@@ -34576,12 +34489,12 @@ Hurbanovo
 Hurbanovom
 hurbanovský/YN po:adjective
 Hurbanovu
-hurdiska
+hurdiska/zZ po:noun is:feminine
 hurhaj/J po:noun is:masculine
 huriavk/B po:noun is:masculine
 huriem
 hurikán/B po:noun is:masculine
-huriska
+huriska/zZ po:noun is:feminine
 hurka/zZ po:noun is:feminine
 hurma/zZ po:noun is:feminine
 hurónsky/YN po:adjective
@@ -34770,9 +34683,8 @@ hviezdovito
 hviezdovitý/YN po:adjective
 hviezdovka/zZ po:noun is:feminine
 hviezdový/YN po:adjective
-hviezodovka
 hvizd/B po:noun is:masculine
-hvízdajúci
+hvízdajúci/YN po:adjective
 hvizdák/B po:noun is:masculine
 hvizdákovi
 hvízdania
@@ -34832,7 +34744,7 @@ hydinám
 hydinami
 hydinár/C po:noun is:masculine
 hydináreň/D po:noun is:feminine
-hydinárka
+hydinárka/zZ po:noun is:feminine
 hydinárov/Y po:adjective
 hydinársky/YN po:adjective
 hydinárstvach
@@ -34856,7 +34768,7 @@ hydraulika/zZ po:noun is:feminine
 hydrémia
 hydrid
 hydrin
-hydroaerodynamika
+hydroaerodynamika/zZ po:noun is:feminine
 hydroagregátov
 hydroalternátor
 hydroalternátorov
@@ -34876,11 +34788,7 @@ hydrodynamický/YN po:adjective
 hydrodynamika/zZ po:noun is:feminine
 hydroelektráreň/D po:noun is:feminine
 hydroenergetický/YN po:adjective
-hydroenergetika
-hydroenergetike
-hydroenergetikou
-hydroenergetiku
-hydroenergetiky
+hydroenergetika/zZ po:noun is:feminine
 hydrofil/B po:noun is:masculine
 hydrofília
 hydrofilmi
@@ -34948,10 +34856,10 @@ hydrosféra/zZ po:noun is:feminine
 hydrosférach
 hydrosféram
 hydrostatický/YN po:adjective
-hydrostatika
+hydrostatika/zZ po:noun is:feminine
 hydrotechnicky
 hydrotechnický/YN po:adjective
-hydrotechnika
+hydrotechnika/zZ po:noun is:feminine
 hydroterapia
 hydroterapie
 hydroterapiu
@@ -35091,15 +34999,12 @@ hypnotikum
 hypnotizér/C po:noun is:masculine
 hypnotizérka/zZ po:noun is:feminine
 hypnotizérov/Y po:adjective
-hypnotizérska
-hypnotizérske
+hypnotizérska/zZ po:noun is:feminine
 hypnotizérskeho
 hypnotizérskej
 hypnotizérskemu
 hypnotizérski
 hypnotizérskom
-hypnotizérskou
-hypnotizérsku
 hypnotizérsky/N po:adverb
 hypnotizérskych
 hypnotizérskym
@@ -35355,7 +35260,7 @@ chanel
 change
 chánov/Y po:adjective
 chánsky
-chanuka
+chanuka/zZ po:noun is:feminine
 chaos/B po:noun is:masculine
 chaotickosť/K po:noun is:feminine
 chaoticky/N po:adverb
@@ -35883,9 +35788,7 @@ chlórov
 chlórovanie/VN po:noun is:neuter
 chlórovaný/YN po:adjective
 chlórovať/WN po:verb
-chlórovodík
 chlorovodík/B po:noun is:masculine
-chlórovodíka
 chlorovodíkový/YN po:adjective
 chlórový/YN po:adjective
 chloróza/zZ po:noun is:feminine
@@ -36194,7 +36097,7 @@ chorvátčinách
 chorvátčinám
 chorvátčinami
 Chorváti
-Chorvátka
+Chorvátka/zZ po:noun is:feminine
 Chorvátmi
 Chorvátom
 Chorvátov
@@ -36235,14 +36138,7 @@ Chotín
 Chotína
 Chotíne
 Chotínom
-chotínska
-chotínskeho
-chotínskej
-chotínski
-chotínskou
-chotínsku
-chotínsky
-chotínskym
+chotínsky/YN po:adjective
 Chotínu
 chotomyseľný/YN po:adjective
 chov/B po:noun is:masculine
@@ -36413,7 +36309,7 @@ chrčkom
 chrčkov
 chrčkovi
 chrčky
-chrematistika
+chrematistika/zZ po:noun is:feminine
 chren/B po:noun is:masculine
 chrenový/YN po:adjective
 chrestomania
