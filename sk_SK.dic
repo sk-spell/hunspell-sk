@@ -1,4 +1,4 @@
-177869
+177669
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -858,22 +858,16 @@ agnosticizmus/B po:noun is:masculine
 agnostický/YN po:adjective
 agnostik/C po:noun is:masculine
 agnostikov/Y po:adjective
-agnózia
-agnuska
-agnuskami
-agnuskoch
-agnuskom
-agnuskov
-agnusku
-agnusky
-agnusok/B po:noun is:masculine
+agnózia/U po:noun is:feminine
+agnusok/O po:noun is:masculine
+agnusoka
 agnuštek/B po:noun is:masculine
 agogika/zZ po:noun is:feminine
-agóna
+agóna/zZ po:noun is:feminine
 agónia/U po:noun is:feminine
 agonický/Y po:adjective
 agonistický/YN po:adjective
-agonistika
+agonistika/zZ po:noun is:feminine
 agonizovať/WN po:verb
 agora
 Agora
@@ -10590,8 +10584,7 @@ Cakov
 cakumpak
 cal
 calando
-Caletka
-Caletku
+caletka/zZ po:noun is:feminine
 callgirl
 calofrig
 calor
@@ -10642,7 +10635,6 @@ capiskov
 capiskovi
 capiskovia
 capiť/EN po:verb
-Cápka
 capkať/EN po:verb
 capko/L po:noun is:masculine
 capkov/Y po:adjective
@@ -10797,7 +10789,7 @@ cefeida
 CEFTA po:acronym
 cech/B po:noun is:masculine
 cechmajster/C po:noun is:masculine
-cechmajsterka
+cechmajsterka/zZ po:noun is:feminine
 cechmajsterov/Y po:adjective
 cechmajstrovský/YN po:adjective
 cechmajstrovstvo/M po:noun is:neuter
@@ -10978,18 +10970,7 @@ cementáreň/D po:noun is:feminine
 cementárensky
 cementárenský/YN po:adjective
 cementárov/Y po:adjective
-cementárska
-cementárske
-cementárskeho
-cementárskej
-cementárski
-cementárskom
-cementárskou
-cementársku
-cementársky
-cementárskych
-cementárskym
-cementárskymi
+cementársky/YN po:adjective
 cementárstvo/M po:noun is:neuter
 cementmi
 cementovanie/VN po:noun is:neuter
@@ -11010,7 +10991,7 @@ ceng
 cengáč/J po:noun is:masculine
 cengáčik/B po:noun is:masculine
 cengáčový/YN po:adjective
-cengálka
+cengálka/zZ po:noun is:feminine
 cengať/EN po:verb
 cengávať/XN po:verb
 cengavý/YN po:adjective
@@ -11191,7 +11172,7 @@ cerkvou
 cermet
 Cerne
 cerografia
-ceroplastika
+ceroplastika/zZ po:noun is:feminine
 Cerove
 Cerovo
 cerovská
@@ -11442,8 +11423,7 @@ cigája/U po:noun is:feminine
 cigájach
 cigájam
 cigájí
-cigájka
-cigájky
+cigájka/zZ po:noun is:feminine
 cigán/C po:noun is:masculine
 cigáň/C po:noun is:masculine
 cigánča/A po:noun is:neuter
@@ -11483,7 +11463,7 @@ Cígľa
 Cígli
 cigória/U po:noun is:feminine
 cigóriový/YN po:adjective
-cigorka
+cigorka/zZ po:noun is:feminine
 cichlida
 cichorín
 cik
@@ -11574,7 +11554,6 @@ cíp/B po:noun is:masculine
 cípček/B po:noun is:masculine
 CIPE po:acronym
 cípik/B po:noun is:masculine
-cípka
 cipka/zZ po:noun is:feminine
 cípku
 cípok/B po:noun is:masculine
@@ -11588,7 +11567,7 @@ cirhóza/zZ po:noun is:feminine
 cirhózach
 cirhózam
 cirk
-cirka
+cirka po:participle
 cirkadiálny/YN po:adjective
 cirkadiánny/YN po:adjective
 cirkách
@@ -11760,7 +11739,8 @@ civieť/RN po:verb
 civiete
 civil/CB po:noun is:masculine
 civilista/H po:noun is:masculine
-civilistika
+civilistika/zZ po:noun is:feminine
+civilistka/zZ po:noun is:feminine
 civilistov/Y po:adjective
 civilita
 civilizácia/U po:noun is:feminine
@@ -12237,23 +12217,16 @@ cukríčku
 cukríčky
 cukrík/B po:noun is:masculine
 cukrikár
-cukrikárka
+cukrikárka/zZ po:noun is:feminine
 cukríkový/YN po:adjective
 cukriť/EN po:verb
 cukrovanie/VN po:noun is:neuter
 cukrovar/B po:noun is:masculine
-cukrovarníci
 cukrovarnícky/YN po:adjective
 cukrovarníctvach
 cukrovarníctvam
 cukrovarníctvo/M po:noun is:neuter
-cukrovarník
-cukrovarníka
-cukrovarníkmi
-cukrovarníkoch
-cukrovarníkom
-cukrovarníkov
-cukrovarníkovi
+cukrovarník/C po:noun is:masculine
 cukrovať/WN po:verb
 cukrovina/zZ po:noun is:feminine
 cukrovinka/zZ po:noun is:feminine
@@ -12481,14 +12454,10 @@ cvoky
 cvrčať
 cvrček/B po:noun is:masculine
 cvrčka
-Cvrčka
 cvrčkami
 cvrčkoch
 cvrčkom
-cvrčkov
-Cvrčkove
-Cvrčkovho
-cvrčkovi
+cvrčkov/Y po:adjective
 cvrčky
 cvŕk
 cvrk/B po:noun is:masculine
@@ -12560,7 +12529,7 @@ cyklotrial
 cyklotró
 cyklotrón/B po:noun is:masculine
 cyklotrónový/YN po:adjective
-cykloturistika
+cykloturistika/zZ po:noun is:feminine
 cyklotýmia
 cyklov
 cyklovač
@@ -12628,12 +12597,12 @@ cystoskopia
 cystóza
 cytoblast
 cytocentrum
-cytodiagnostika
+cytodiagnostika/zZ po:noun is:feminine
 cytofarynx
 cytofyziológia
 cytogamia
 cytogén
-cytogenetika
+cytogenetika/zZ po:noun is:feminine
 cytogenéza
 cytokinéza
 cytológia/U po:noun is:feminine
@@ -12645,11 +12614,8 @@ cytomorfológia
 cytoplaziem
 cytoplazma/zZ po:noun is:feminine
 cytoplazmatiský/YN po:adjective
-cytostatika
 cytostatiká
-cytostatikách
-cytostatikám
-cytostatikami
+cytostatika/zZ po:noun is:feminine
 cytostatikum
 cytotoxický/YN po:adjective
 cytotoxín
@@ -12664,12 +12630,12 @@ CZV po:acronym
 ČA po:acronym
 Čab
 Čaba
-čabajka
+čabajka/zZ po:noun is:feminine
 čabiansky/YN po:adjective
 Čabinách
 Čabiny
-čabrak
-čabraka
+čabrak/B po:noun is:masculine
+čabraka/zZ po:noun is:feminine
 čabrať
 čača/U po:noun is:feminine
 čačaný/YN po:adjective
@@ -12703,18 +12669,7 @@ CZV po:acronym
 Čadci
 Čadcou
 Čadcu
-čadčianska
-čadčianske
-čadčianskeho
-čadčianskej
-čadčianskemu
-čadčianski
-čadčianskom
-čadčianskou
-čadčiansku
-Čadčiansky
-čadčianskych
-čadčianskym
+čadčiansky/YN po:adjective
 čadiaci
 čadič/J po:noun is:masculine
 čadičový/YN po:adjective
@@ -12754,14 +12709,13 @@ CZV po:acronym
 čajkovský/YN po:adjective
 čajné
 čajník/B po:noun is:masculine
-čajovka
+čajovka/zZ po:noun is:feminine
 čajovňa/U po:noun is:feminine
 čajovní
 čajovník/B po:noun is:masculine
 čajovníkovým
 čajový/Y po:adjective
 čajsi
-čáka
 čakací/I po:adjective
 čakajúci/YN po:adjective
 čakan/B po:noun is:masculine
@@ -12819,7 +12773,7 @@ CZV po:acronym
 čalúnnik/C po:noun is:masculine
 čalúnnikov/Y po:adjective
 čamara
-čampaka
+čampaka/zZ po:noun is:feminine
 čamrva/zZ po:noun is:feminine
 Čaňa
 Čane
@@ -13025,20 +12979,17 @@ CZV po:acronym
 Čechynce
 čejkoľvek
 čejsi
-čeka
-Čeka
-Čekám
+čeka/zZ po:noun is:feminine
 čekin
 čekista/H po:noun is:masculine
-Čekou
 čekovať/WN po:verb
 čeľaď/D po:noun is:feminine
 Čeľadince
 čeľadinec
 čeľadnica/U po:noun is:feminine
 čeľadnícky
-čeľadníčka
 čeladníčka/zZ po:noun is:feminine
+čeľadníčka/zZ po:noun is:feminine
 čeľadník/C po:noun is:masculine
 čeľadníkov/Y po:adjective
 čeľadníku
@@ -13098,7 +13049,7 @@ CZV po:acronym
 čeperiť/EN po:verb
 čeperte
 čepiec/J po:noun is:masculine
-čepielka
+čepielka/zZ po:noun is:feminine
 čepieľka/zZ po:noun is:feminine
 čer
 čerebľa/U po:noun is:feminine
@@ -13137,7 +13088,7 @@ CZV po:acronym
 čerieslo/M po:noun is:neuter
 Čerín
 Čeríne
-Čerínska
+čerínsky/YN po:adjective
 čeriť/EN po:verb
 Čermáň
 Čermáni
@@ -13192,7 +13143,7 @@ CZV po:acronym
 černozem/D po:noun is:feminine
 černozemný/Y po:adjective
 černuľa/U po:noun is:feminine
-černuľka
+černuľka/zZ po:noun is:feminine
 čerpací/I po:adjective
 čerpadielko/M po:noun is:neuter
 čerpadlár/C po:noun is:masculine
@@ -13415,7 +13366,7 @@ CZV po:acronym
 čiakoľvek
 čiapať/TN po:verb
 čiapka/zZ po:noun is:feminine
-čiapkárska
+čiapkársky/YN po:adjective
 čiapočka/zZ po:noun is:feminine
 čiapt
 čiar st:čara is:genitive is:plural is:feminine
@@ -13806,7 +13757,7 @@ CZV po:acronym
 čítkaš
 čítkať
 čítkate
-čitraka
+čitraka/zZ po:noun is:feminine
 čiukoľvek
 čiusi
 čiv
@@ -13826,7 +13777,7 @@ CZV po:acronym
 čížikov/Y po:adjective
 čižma/zZ po:noun is:feminine
 čižmár/C po:noun is:masculine
-čižmárka
+čižmárka/zZ po:noun is:feminine
 čižmárov/Y po:adjective
 Čižmárová/Y po:adjective
 čižmársky/Y po:adjective
@@ -13842,7 +13793,7 @@ CZV po:acronym
 ČK po:acronym
 čkanie/V po:noun is:neuter
 čkať/EN po:verb
-čkavka
+čkavka/zZ po:noun is:feminine
 čl
 článkonožca
 článkonožce/Q
@@ -13910,23 +13861,9 @@ CZV po:acronym
 členský/YN po:adjective
 členstvo/M po:noun is:neuter
 čliapať/TN po:verb
-čliapka
-čliapkaj
-čliapkajme
-čliapkajte
-čliapkajú
-čliapkajúc
-čliapkal
-čliapkala
-čliapkali
-čliapkalo
-čliapkam
-čliapkame
 čliapkanica/U po:noun is:feminine
 čliapkanina/zZ po:noun is:feminine
-čliapkaš
-čliapkať
-čliapkate
+čliapkať/XN po:verb
 čliapkavo
 člipky
 čln/B po:noun is:masculine
@@ -14336,7 +14273,7 @@ Dacie
 Dacii
 Dacií
 Daciu
-dácka
+dácky/YN po:adjective
 dacron
 dač
 dača
@@ -14394,7 +14331,6 @@ dajné
 dajsamibože
 dajsamisvete
 dajúci
-ďaka
 dakade
 dakadiaľ
 dakam
@@ -14429,7 +14365,7 @@ daktylografia
 daktyloskopia/U po:noun is:feminine
 daktyloskopicky
 daktyloskopický/YN po:adjective
-daktylotika
+daktylotika/zZ po:noun is:feminine
 daktylský/YN po:adjective
 ďakúvať/XN po:verb
 dáky/Y po:adjective
@@ -14444,11 +14380,7 @@ Dalby
 ďalečizný/YN po:adjective
 ďalej
 ďalejslúžiaci/YN po:adjective
-ďaleka
-ďalekách
-ďalekám
-ďalekami
-ďaleko/N po:adverb
+ďaleko/MN po:adverb
 ďalekohľad/B po:noun is:masculine
 ďalekohľadový/YN po:adjective
 ďalekonosný/YN po:adjective
@@ -14460,7 +14392,6 @@ Dalby
 ďalekovýchodný/Y po:adjective
 ďalekozrakosť/K po:noun is:feminine
 ďalekozraký/YN po:adjective
-ďaleku
 ďaleký/YN po:adjective
 dales
 dália/U po:noun is:feminine
@@ -14480,7 +14411,7 @@ Dalmácia/U po:noun is:feminine
 dalman
 dalmatínec
 Dalmatínec
-Dalmatínka
+Dalmatínka/zZ po:noun is:feminine
 dalmatínsky/Y po:adjective
 dalmátsky/Y po:adjective
 Dalmine
@@ -14594,7 +14525,7 @@ danub
 Danuša
 Danuše
 Danuši
-Danuška
+Danuška/zZ po:noun is:feminine
 daný/YN po:adjective
 dar/B po:noun is:masculine
 Dara
@@ -14687,7 +14618,7 @@ Darwinov/Y po:adjective
 Dáša/U po:noun is:feminine
 Dášach
 Dášam
-Daška
+Daška/zZ po:noun is:feminine
 dat
 dať/EN po:verb
 dáta/Q
@@ -14716,7 +14647,6 @@ dataprojektor/B po:noun is:masculine
 datív/B po:noun is:masculine
 datíve
 datívny/YN po:adjective
-datka
 ďatľa
 datľa/U po:noun is:feminine
 ďatľami
@@ -14733,7 +14663,7 @@ datovaný/YN po:adjective
 datovať/WN po:verb
 dátovo
 dátový/YN po:adjective
-datozmenka
+datozmenka/zZ po:noun is:feminine
 dátum/B po:noun is:masculine
 dátumovka/zZ po:noun is:feminine
 dátumový/YN po:adjective
@@ -15103,7 +15033,7 @@ deficitmi
 deficitne
 deficitný/YN po:adjective
 defilé
-defilírka
+defilírka/zZ po:noun is:feminine
 defilovať/WN po:verb
 definícia/U po:noun is:feminine
 definičný/YN po:adjective
@@ -15478,7 +15408,7 @@ delikt/B po:noun is:masculine
 deliktmi
 delikvencia/U po:noun is:feminine
 delikvent/C po:noun is:masculine
-delikventka
+delikventka/zZ po:noun is:feminine
 delikventný/YN po:adjective
 delikventov/Y po:adjective
 delikventský/YN po:adjective
@@ -15912,13 +15842,13 @@ derma
 dermabrázia
 dermálny/YN po:adjective
 dermatitída/zZ po:noun is:feminine
-dermatoglyfika
+dermatoglyfika/zZ po:noun is:feminine
 dermatoid
 dermatológ/c po:noun is:masculine
 dermatológia/U po:noun is:feminine
 dermatologický/YN po:adjective
 dermatomykóza/zZ po:noun is:feminine
-dermatoplastika
+dermatoplastika/zZ po:noun is:feminine
 dermatovenerológ/c po:noun is:masculine
 dermatovenerológia
 dermatovenerológii
@@ -16114,7 +16044,7 @@ despotickosť/K po:noun is:feminine
 despoticky/N po:adverb
 despotický/Y po:adjective
 despotizmus/B po:noun is:masculine
-despotka
+despotka/zZ po:noun is:feminine
 despotmi
 despotov/Y po:adjective
 destabilita
@@ -16260,18 +16190,7 @@ detvákom
 detvákov
 detváky/Q
 Detve
-Detvianska
-detvianske
-detvianskeho
-detvianskej
-Detvianski
-Detvianskom
-detvianskou
-detviansku
-Detviansky
-detvianskych
-detvianskym
-detvianskymi
+detviansky/YN po:adjective
 Detvou
 Detvu
 Detvy
@@ -16771,7 +16690,7 @@ diablu
 diabol/C po:noun is:masculine
 diabolický/YN po:adjective
 diabolizmus/B po:noun is:masculine
-diabolka
+diabolka/zZ po:noun is:feminine
 diabolov/Y po:adjective
 diabolsky/N po:adverb
 diabolský/YN po:adjective
@@ -16855,18 +16774,10 @@ diaľkár
 diaľkar/C po:noun is:masculine
 diaľkára
 diaľkári
-diaľkárka
 diaľkarka/zZ po:noun is:feminine
-diaľkárkach
-diaľkárkam
-diaľkárkami
-diaľkárke
-diaľkárkou
-diaľkárku
-diaľkárky
+diaľkárka/zZ po:noun is:feminine
 diaľkármi
 diaľkároch
-diaľkárok
 diaľkárom
 diaľkárov
 diaľkarov/Y po:adjective
@@ -16921,7 +16832,7 @@ Dián
 Diana/zZ po:noun is:feminine
 Dianách
 Dianám
-dianetika
+dianetika/zZ po:noun is:feminine
 dianie/V po:noun is:neuter
 Dianin
 Dianinho
@@ -17074,12 +16985,11 @@ diéta/zZ po:noun is:feminine
 diétach
 diétam
 dietár
-dietárka
+dietárka/zZ po:noun is:feminine
 dietárov
 dieťatiek
 dieťatko/M po:noun is:neuter
-dieterika
-dieteticky
+dieteticky po:adverb
 dietetický/Y po:adjective
 dietetik
 dietetiká
@@ -17274,10 +17184,7 @@ dimenzovaný/YN po:adjective
 dimenzovať/WN po:verb
 dimér
 diminúcia
-Dimitrovka
-Dimitrovke
-Dimitrovku
-Dimitrovky
+Dimitrovka/zZ po:noun is:feminine
 dimofrne
 dimofrný/Y po:adjective
 dimorfia/U po:noun is:feminine
@@ -17298,8 +17205,7 @@ ding
 Dinga
 dingo/B po:noun is:masculine
 Dingom
-Dinka
-Dinku
+Dinka/zZ po:noun is:feminine
 dínom
 dinosaurí/I po:adjective
 dinosaurmi
@@ -17461,7 +17367,7 @@ diskotekárka/zZ po:noun is:feminine
 diskotekárov/Y po:adjective
 diskotékový/YN po:adjective
 diskovitý/YN po:adjective
-diskovka
+diskovka/zZ po:noun is:feminine
 diskovník
 diskový/Y po:adjective
 diskrécia
@@ -17651,26 +17557,15 @@ diuretický/YN po:adjective
 diuretikum/M po:noun is:neuter
 diuréza
 div/B po:noun is:masculine
-divácka
-divácke
-diváckeho
-diváckej
-diváckemu
-divácki
-diváckom
-diváckou
-divácku
-divácky/N po:adverb
-diváckych
-diváckym
-diváckymi
+divácky po:adverb
+divácky/YN po:adjective
 diváčka/zZ po:noun is:feminine
 divadelne/N po:adverb
 divadelnícky/Y po:adjective
 divadelníctvach
 divadelníctvam
 divadelníctvo/M po:noun is:neuter
-divadelníčka
+divadelníčka/zZ po:noun is:feminine
 divadelník/C po:noun is:masculine
 divadelníkov/Y po:adjective
 divadelnosť/K po:noun is:feminine
@@ -17704,7 +17599,7 @@ diverzifikácia/U po:noun is:feminine
 diverzifikačný/Y po:adjective
 diverzita/zZ po:noun is:feminine
 diverzný/YN po:adjective
-Diviacka
+Diviacky/YN po:adjective
 diviačí/I po:adjective
 diviačic
 diviačica/U po:noun is:feminine
@@ -17718,10 +17613,9 @@ divieť/XN po:verb
 divina/zZ po:noun is:feminine
 divinácia/U po:noun is:feminine
 Divíne
-Divinka
-Divinky
+Divinka/zZ po:noun is:feminine
 Divino
-divínska
+divínsky/YN po:adjective
 divinyl
 divis/B po:noun is:masculine
 diviť/EN po:verb
@@ -17962,10 +17856,9 @@ dmúť/WN
 DN po:acronym
 dna/zZ po:noun is:feminine
 dneperský/YN po:adjective
-dnepropetrovskej
-Dnepropetrovský/YN po:adjective
-dnes
-dneska
+dnepropetrovský/YN po:adjective
+dnes po:adverb
+dneska po:adverb
 dneskajší/I po:adjective
 dneskajšok/O po:noun is:masculine
 dnešný/YN po:adjective
@@ -17985,8 +17878,8 @@ dňov
 dnový/Y po:adjective
 dňový/YN po:adjective
 DNS
-dnuka
-dnuká
+dnuka po:adverb
+dnuká po:adverb
 dnukajší/PF po:adjective
 dnukajšok
 do
@@ -18078,10 +17971,10 @@ dobo
 doboč
 dobodaného
 dobodať/EN po:verb
-doboha
+doboha po:adverb
 dobojovaný/YN po:adjective
 dobojovať/WN po:verb
-doboka
+doboka po:adverb
 dobordinec
 doboška/zZ po:noun is:feminine
 dobove/N po:adverb
@@ -18166,32 +18059,24 @@ dobrotivo/N po:adverb
 dobrotivosť/K po:noun is:feminine
 dobrotivý/YN po:adjective
 Dobrovodský/YN po:adjective
-dobrovolné
-dobrovoľne
+dobrovoľne po:adverb
 dobrovoľnícky/YN po:adjective
 dobrovoľníctvo/M po:noun is:neuter
-dobrovoľníčka
-dobrovoľníčky
+dobrovoľníčka/zZ po:noun is:feminine
 dobrovoľník/C po:noun is:masculine
 dobrovoľníkov/Y po:adjective
-dobrovoľno
 dobrovoľnosť/K po:noun is:feminine
-Dobrovolný/YN po:adjective
 dobrovoľný/YN po:adjective
-dobrovolných
 dobrozdanie/V po:noun is:neuter
 dobrôtka/zZ po:noun is:feminine
-dobručičko
+dobručičko po:adverb
 dobručičký/YN po:adjective
-dobručko
+dobručko po:adverb
 dobručký/YN po:adjective
-dobrulinko
+dobrulinko po:adverb
 dobrulinký/YN po:adjective
-Dobruška
-Dobruške
+Dobruška/zZ po:noun is:feminine
 dobruško
-Dobrušku
-Dobrušky
 dobrušký/YN po:adjective
 dobrý/YN po:adjective
 Dobšiná
@@ -18330,32 +18215,29 @@ dočkať/EN po:verb
 dočmárať/XN po:verb
 dočum
 dodací/I po:adjective
-doďaleka
+doďaleka po:adverb
 dodanie/VN po:noun is:neuter
 dodaný/YN po:adjective
 doďasa
 dodať/EN po:verb
 dodatkový/Y po:adjective
-dodatočne
+dodatočne po:adverb
 dodatočný/YN po:adjective
 dodatok/O po:noun is:masculine
-dodávací
+dodávací/YN po:adjective
 dodávajúci/Y po:adjective
 dodávanie/VN po:noun is:neuter
 dodávaný/Y po:adjective
 dodávať/XN po:verb
 dodávateľ/c po:noun is:masculine
 dodávateľka/zZ po:noun is:feminine
-dodávateľove
+dodávateľov/Y po:adjective
 dodávateľsko
-dodavateľskú
-dodávateľsky
+dodávateľsky po:adverb
 dodávateľský/YN po:adjective
-dodavateľských
 dodávateľstvo/M po:noun is:neuter
 dodávka/zZ po:noun is:feminine
-dodávkovo
-dodavkový/Y po:adjective
+dodávkovo po:adverb
 dodávkový/YN po:adjective
 dodavky
 dodavok/B po:noun is:masculine
@@ -18381,9 +18263,8 @@ dodievať
 dodievate
 dodiv
 dodláviť/XN po:verb
-dodnes
-dodneska
-dodneška
+dodnes po:adverb
+dodneška po:adverb
 dodo
 dodola
 dodrať/RN po:verb
@@ -18494,9 +18375,9 @@ dohľadanie/VN po:noun is:neuterdohladí
 dohľadne
 dohľadnosť/K po:noun is:feminine
 dohľadný/YN po:adjective
-dohlboka
+dohlboka po:adverb
 dohliadacej
-dohliadací
+dohliadací/YN po:adjective
 Dohliadacia
 dohliadacie
 dohliadacieho
@@ -18514,16 +18395,10 @@ dohliadanou
 dohliadanú
 dohliadaných
 dohliadať/XN po:verb
-dohliadka
-dohliadkach
-dohliadke
-dohliadkou
-dohliadku
-dohliadky
+dohliadka/zZ po:noun is:feminine
 dohliadnuť/WN
 dohliadnutím
 dohliadnutý/YN po:adjective
-dohliadok
 dohlo
 dohlušiť/EN po:verb
 dohnaná
@@ -18569,7 +18444,7 @@ dohotovovať/WN po:verb
 dohovárané
 dohováranie/V po:noun is:neuter
 dohovárať/XN po:verb
-dohovárka
+dohovárka/zZ po:noun is:feminine
 dohovor/B po:noun is:masculine
 dohovorenie/V po:noun is:neuter
 dohovorený/YN po:adjective
@@ -18911,9 +18786,7 @@ dokumentačne
 dokumentačno
 dokumentačný/YN po:adjective
 dokumentarista/H po:noun is:masculine
-dokumentaristika
-dokumentaristiku
-dokumentaristiky
+dokumentaristika/zZ po:noun is:feminine
 dokumentaristka/zZ po:noun is:feminine
 dokumentaristov/Y po:adjective
 dokumentárnosť/K po:noun is:feminine
@@ -19110,7 +18983,7 @@ domášny
 Domašu
 domazať/TN po:verb
 domažlický/YN po:adjective
-domäkka
+domäkka po:adverb
 domček/B po:noun is:masculine
 domec/J po:noun is:masculine
 Domel
@@ -19618,9 +19491,9 @@ dopriavate
 doprosiť/EN po:verb
 doprosovanie/VN po:noun is:neuter
 doprosovať/WN po:verb
-doprosta
-doprostred
-doprostriedka
+doprosta po:adverb
+doprostred po:adverb
+doprostriedka po:adverb
 doprotiví
 doprovod/B po:noun is:masculine
 doprš
@@ -19745,9 +19618,7 @@ dorosiť/EN po:verb
 Dorota/zZ po:noun is:feminine
 Dorotin
 Dorotinom
-Dorotka
-Dorotku
-Dorotky
+Dorotka/zZ po:noun is:feminine
 dorovna
 dorovnať/EN po:verb
 dorozca
@@ -20084,7 +19955,7 @@ dosýtiť/XN po:verb
 došibať/TN po:verb
 došikovať/WN po:verb
 došili
-doširoka
+doširoka po:adverb
 došiť/WN
 došitie
 došitý/YN po:adjective
@@ -20117,7 +19988,7 @@ doškriabuc
 doškrtenie/V po:noun is:neuter
 doškrtený/YN po:adjective
 došľahať/EN po:verb
-došľaka
+došľaka po:adverb
 došľap/B po:noun is:masculine
 došľapovanie/VN po:noun is:neuter
 došľapovať/WN po:verb
@@ -20411,7 +20282,7 @@ dovtípiť/XN po:verb
 dovy
 dovyberať/EN po:verb
 dovyli
-dovysoka
+dovysoka po:adverb
 down
 download
 doxa
@@ -21623,15 +21494,11 @@ dublovať/WN po:verb
 Dubná
 Dubne
 Dubnica/U po:noun is:feminine
-dubnícka
-Dubnícke
-dubnícky
 dubnický/YN po:adjective
-dubníckych
+dubnícky/YN po:adjective
+Dubníčan/c po:noun is:masculine
 Dubnička/zZ po:noun is:feminine
-Dubník
-Dubníka
-Dubníku
+Dubník/B po:noun is:masculine
 Dubno
 ďubnúť/WN
 Dubodiel
@@ -21726,7 +21593,7 @@ dúfanlivý/YN po:adjective
 dúfať/XN po:verb
 ďug
 ďugať/EN po:verb
-duglaska
+duglaska/zZ po:noun is:feminine
 ďugnúť/WN
 ďugnutie/V po:noun is:neuter
 dúh
@@ -21981,15 +21848,7 @@ durievať/XN po:verb
 Ďuríková/Y po:adjective
 Ďuríkovi
 durina
-Durínska
-Durínske
-durínskeho
-durínskej
-Durínsko
-Durínskom
-Durínsku
-durínsky
-durínskych
+durínsky/YN po:adjective
 durit
 Durit
 duriť/EN po:verb
@@ -22150,11 +22009,7 @@ dvadsaťosem/č
 dvadsaťosemtisíc/č
 dvadsaťosemtisícšesťsto/č
 dvadsaťpäť/č
-dvadsaťpäťka
-dvadsaťpäťke
-dvadsaťpäťkou
-dvadsaťpäťku
-dvadsaťpäťky
+dvadsaťpäťka/zZ po:noun is:feminine
 dvadsaťpäťročie/V po:noun is:neuter
 dvadsaťpäťročnom
 dvadsaťpäťročnú
@@ -22454,9 +22309,7 @@ dvestotridsaťtritisíc/č
 dvestotrinásť/č
 dvestotrinásťtisíc/č
 dvestotritisíc/č
-dvestovka
-dvestovku
-dvestovky
+dvestovka/zZ po:noun is:feminine
 dvetisíc/č
 Dvetisíca
 dvetisíci
@@ -22545,7 +22398,6 @@ dvojgarsoniérach
 dvojgarsoniéram
 dvojgarsónka/zZ po:noun is:feminine
 dvojgazónka/zZ po:noun is:feminine
-dvojgazsónka
 dvojgeneračný/Y po:adjective
 dvojhaliera
 dvojhalierovou
@@ -23044,7 +22896,7 @@ džgať/EN po:verb
 Džibutsko/M po:noun is:neuter
 džibutský/YN po:adjective
 džicu
-džigitovka
+džigitovka/zZ po:noun is:feminine
 džigolo
 džihád/B po:noun is:masculine
 džin/c po:noun is:masculine
@@ -23096,7 +22948,7 @@ džuchnúť
 džungľa/U po:noun is:feminine
 džunglí
 džungľový/YN po:adjective
-džunka
+džunka/zZ po:noun is:feminine
 džurdžať
 džus
 džús/B po:noun is:masculine
@@ -23271,7 +23123,7 @@ Egypťan/c po:noun is:masculine
 Egypťania
 Egypťanka/zZ po:noun is:feminine
 Egypťanov/Y po:adjective
-egyptienka
+egyptienka/zZ po:noun is:feminine
 egyptológ/c po:noun is:masculine
 egyptológia/U po:noun is:feminine
 egyptológov/Y po:adjective
@@ -23305,8 +23157,7 @@ eidetizmus/B po:noun is:masculine
 eidológia
 eidos
 eifel
-Eiffelovka
-Eiffelovku
+Eiffelovka/zZ po:noun is:feminine
 Einstein/c po:noun is:masculine
 einsteinium
 Einsteinov/Y po:adjective
@@ -23333,7 +23184,7 @@ ekecheiria
 EKG po:acronym
 ekchondróm
 ekipa
-ekistika
+ekistika/zZ po:noun is:feminine
 eklampsia
 eklatantne
 eklatantný/YN po:adjective
@@ -23497,7 +23348,7 @@ elastomér/B po:noun is:masculine
 elastoméri
 elastoméru
 elastoméry
-elastooptika
+elastooptika/zZ po:noun is:feminine
 elatív
 Elbrus
 Elbruse
@@ -23581,8 +23432,7 @@ elektród
 elektróda/zZ po:noun is:feminine
 elektródach
 elektródam
-elektrodiagnostika
-elektrodiagnostiky
+elektrodiagnostika/zZ po:noun is:feminine
 elektrodialýza
 elektródový/YN po:adjective
 elektrodynamický/Y po:adjective
@@ -23591,12 +23441,7 @@ elektroencefalograf
 elektroencefalografia
 elektroencefalografov
 elektroencefalografy
-elektroenergetík
-elektroenergetika
-elektroenergetike
-elektroenergetikou
-elektroenergetiku
-elektroenergetiky
+elektroenergetika/zZ po:noun is:feminine
 elektroerozívne
 elektroerozívny
 elektroerozívnych
@@ -23637,8 +23482,8 @@ elektrokardiografy
 elektrokardiogram/B po:noun is:masculine
 elektrokardioskop
 elektrokardiostimulátor
-elektrokaustika
-elektrokinetika
+elektrokaustika/zZ po:noun is:feminine
+elektrokinetika/zZ po:noun is:feminine
 elektrokoagulácia/U po:noun is:feminine
 elektrokryštalizácia/U po:noun is:feminine
 elektrokymografia
@@ -23706,7 +23551,7 @@ elektronový/YN po:adjective
 elektrónvolt
 elektrooptické
 elektrooptických
-elektrooptika
+elektrooptika/zZ po:noun is:feminine
 elektroosmóza
 elektropneumaticky
 elektropneumatický/YN po:adjective
@@ -23744,7 +23589,7 @@ elementárnosť/K po:noun is:feminine
 elementárny/YN po:adjective
 elementmi
 Elena/zZ po:noun is:feminine
-Elenka
+Elenka/zZ po:noun is:feminine
 eleolit
 Eleonór
 Eleonóra/zZ po:noun is:feminine
@@ -24102,7 +23947,7 @@ enigmatický/YN po:adjective
 eniky
 enjambement
 enkapsulácia/U po:noun is:feminine
-enkaustika
+enkaustika/zZ po:noun is:feminine
 enkláv
 enkláva/zZ po:noun is:feminine
 enklávach
@@ -24453,7 +24298,7 @@ Erikov/Y po:adjective
 erinóza
 Erínya
 Eris
-eristika
+eristika/zZ po:noun is:feminine
 Eritrea/zZ po:noun is:feminine
 ermitáž
 Ermitáž
@@ -24469,7 +24314,7 @@ erodovaný/YN po:adjective
 erodovať/WN po:verb
 eros/B po:noun is:masculine
 Eros/c po:noun is:masculine
-erosenka
+erosenka/zZ po:noun is:feminine
 Erosov/Y po:adjective
 eroticky/N po:adverb
 erotický/YN po:adjective
@@ -24548,15 +24393,12 @@ eskalátor/B po:noun is:masculine
 eskamotáž/D po:noun is:feminine
 eskamotér/C po:noun is:masculine
 eskamotérov/Y po:adjective
-eskamotérska
-eskamotérske
+eskamotérska/zZ po:noun is:feminine
 eskamotérskeho
 eskamotérskej
 eskamotérskemu
 eskamotérski
 eskamotérskom
-eskamotérskou
-eskamotérsku
 eskamotérsky/N po:adverb
 eskamotérskych
 eskamotérskym
@@ -24711,13 +24553,13 @@ etáž
 etážach
 etáže
 etažér
-etažérka
+etažérka/zZ po:noun is:feminine
 etáží
 etážový/YN po:adjective
 etc
 Etel
 Etela/zZ po:noun is:feminine
-Etelka
+Etelka/zZ po:noun is:feminine
 etén
 éter/B po:noun is:masculine
 éteri
@@ -24810,7 +24652,7 @@ etymologizovať/WN po:verb
 etymológov/Y po:adjective
 EU po:acronym
 EÚ po:acronym
-eubiotika
+eubiotika/zZ po:noun is:feminine
 eubúlia
 eudaimonizmus/B po:noun is:masculine
 eudermický/YN po:adjective
@@ -25000,8 +24842,7 @@ evidovať/WN po:verb
 Evin
 Evine
 eviscerácia/U po:noun is:feminine
-Evka
-Evky
+Evka/zZ po:noun is:feminine
 evokácia/U po:noun is:feminine
 evokačný/YN po:adjective
 evokovať/WN po:verb
@@ -25554,8 +25395,7 @@ faerský/YN po:adjective
 fafrať
 fafre
 fafri
-fafrnka
-fafrnkami
+fafrnka/zZ po:noun is:feminine
 fafrnkoch
 fafrnkom
 fafrnkov
@@ -25610,7 +25450,7 @@ fajkový/Y po:adjective
 fajn
 fajne
 fajnota
-fajnovka
+fajnovka/zZ po:noun is:feminine
 fajnovo/N po:adverb
 fajnovosť/K po:noun is:feminine
 fajnový/YN po:adjective
@@ -25621,8 +25461,7 @@ fajrontmi
 fájt
 fajta/zZ po:noun is:feminine
 Fajtov
-faka
-fáka
+faka/zZ po:noun is:feminine
 fákať
 fakieľ
 fakír/C po:noun is:masculine
@@ -25691,7 +25530,7 @@ faldík/C po:noun is:masculine
 faldíkov/Y po:adjective
 faldíku
 faldíky
-faleristika
+faleristika/zZ po:noun is:feminine
 falibilita
 falický/YN po:adjective
 Falklanďan/c po:noun is:masculine
@@ -25789,7 +25628,7 @@ fantasta/H po:noun is:masculine
 fantastickosť/K po:noun is:feminine
 fantasticky/N po:adverb
 fantastický/Y po:adjective
-fantastika
+fantastika/zZ po:noun is:feminine
 fantastka/zZ po:noun is:feminine
 fantastov/Y po:adjective
 fantastron
@@ -25894,7 +25733,7 @@ farmaceutský/YN po:adjective
 farmácia/U po:noun is:feminine
 farmaká
 farmakodynamické
-farmakodynamika
+farmakodynamika/zZ po:noun is:feminine
 farmakolit
 farmakológ/c po:noun is:masculine
 farmakológia/U po:noun is:feminine
@@ -26013,7 +25852,7 @@ faulovanie/VN po:noun is:neuter
 faulovať/WN po:verb
 faun/C po:noun is:masculine
 fauna/zZ po:noun is:feminine
-faunistika
+faunistika/zZ po:noun is:feminine
 faunov/Y po:adjective
 faunovský/YN po:adjective
 faunský/YN po:adjective
@@ -26147,7 +25986,7 @@ feloderm
 feloderma
 felogén
 felónia
-feloplastika
+feloplastika/zZ po:noun is:feminine
 felzuma
 fem
 FEM po:acronym
@@ -26195,15 +26034,14 @@ feniklom
 feniklov
 feniklový/Y po:adjective
 feniklu
-fenistika
+fenistika/zZ po:noun is:feminine
 fénix/B po:noun is:masculine
 fénixa
 fénixami
 fénixovi
-fenka
-fenke
+fenka/zZ po:noun is:feminine
 fenofáza
-fenogenetika
+fenogenetika/zZ po:noun is:feminine
 fenokópia
 fenokryst
 fenol/B po:noun is:masculine
@@ -26560,11 +26398,11 @@ filat
 filatelia/U po:noun is:feminine
 filatelista/H po:noun is:masculine
 filatelistický/Y po:adjective
-filatelistika
+filatelistika/zZ po:noun is:feminine
 filatelistka/zZ po:noun is:feminine
 filatelistov/Y po:adjective
 filc/J po:noun is:masculine
-filcka
+filcka/zZ po:noun is:feminine
 filcový/Y po:adjective
 file
 filé
@@ -26592,8 +26430,7 @@ fíling
 filip/B po:noun is:masculine
 Filip/c po:noun is:masculine
 filipa
-filipika
-filipikou
+filipika/zZ po:noun is:feminine
 filipín
 Filipín
 Filipína
@@ -26741,10 +26578,7 @@ finišovať/WN po:verb
 finitívum
 finitizmus/B po:noun is:masculine
 finitný/YN po:adjective
-Finka
 Fínka/zZ po:noun is:feminine
-Finke
-Finku
 Fínov/Y po:adjective
 Fínsko/M po:noun is:neuter
 fínsky/Y po:adjective
@@ -26987,7 +26821,7 @@ flirtujúci
 flís
 fliter
 floating
-flobertka
+flobertka/zZ po:noun is:feminine
 fľočiť/EN po:verb
 fľoch
 fľocháň/C po:noun is:masculine
@@ -27034,7 +26868,7 @@ Florin
 Florina
 Florino
 Florinom
-floristika
+floristika/zZ po:noun is:feminine
 Floriš
 Floriša
 Florišom
@@ -27301,7 +27135,7 @@ formovať/WN po:verb
 formovateľ
 formovateľa
 formovateľný/YN po:adjective
-formovka
+formovka/zZ po:noun is:feminine
 formovňa/U po:noun is:feminine
 formovo
 formový/Y po:adjective
@@ -27482,7 +27316,7 @@ fotomontáž/D po:noun is:feminine
 fotomontážny/Y po:adjective
 fotomorfóza
 fotón/B po:noun is:masculine
-fotónka
+fotónka/zZ po:noun is:feminine
 fotónový/Y po:adjective
 fotopapier
 fotopapiere
@@ -27547,13 +27381,10 @@ fr
 fŕ
 FR po:acronym
 fráčik/B po:noun is:masculine
-fráčka
-fráčkami
+fráčka/zZ po:noun is:feminine
 fráčkoch
 fráčkom
 fráčkov
-fráčku
-fráčky
 fráčok/B po:noun is:masculine
 fragile
 fragilita
@@ -27623,17 +27454,11 @@ Francii
 Francií
 Franciu
 francium
-Francka
-Francke
+Francka/zZ po:noun is:feminine
 francovka/zZ po:noun is:feminine
 francovkový/Y po:adjective
 Francúz/C po:noun is:masculine
-Francúzka
-Francúzkam
-Francúzke
-Francúzku
-Francúzky
-Francúzok
+Francúzka/zZ po:noun is:feminine
 Francúzov/Y po:adjective
 Francúzska/zZ po:noun is:feminine
 Francúzsko/M po:noun is:neuter
@@ -27783,12 +27608,10 @@ frenetický/YN po:adjective
 frenézia
 frenológia
 frenoplégia
-frenštátska
+frenštátska/zZ po:noun is:feminine
 frenštátskeho
 frenštátskej
 frenštátskom
-Frenštátsku
-Frenštátsky
 frenštátskych
 freón/B po:noun is:masculine
 freónový/Y po:adjective
@@ -27796,7 +27619,7 @@ freska/zZ po:noun is:feminine
 fresko
 freskovitý/YN po:adjective
 freskový/Y po:adjective
-fretka
+fretka/zZ po:noun is:feminine
 fretum
 freudizmus/B po:noun is:masculine
 fréz
@@ -27812,10 +27635,7 @@ frézarov/Y po:adjective
 frézarský/YN po:adjective
 frézársky/YN po:adjective
 frézia
-frézka
-frézku
-frézky
-frézok
+frézka/zZ po:noun is:feminine
 Frézovací
 frézovacie
 frézovacieho
@@ -27846,9 +27666,7 @@ frfotajúc
 frfotať/TN po:verb
 frfotmi
 frfravý/YN po:adjective
-Fricka
-Fricke
-Fricky
+Fricka/zZ po:noun is:feminine
 Frička/zZ po:noun is:feminine
 Fričovský/YN po:adjective
 Frídku
@@ -27982,8 +27800,7 @@ Frýdečan/c po:noun is:masculine
 Frýdečanka/zZ po:noun is:feminine
 Frýdečanov/Y po:adjective
 Frýdek/B po:noun is:masculine
-Frýdka
-Frýdku
+Frýdka/zZ po:noun is:feminine
 frygana
 FS po:acronym
 ftalát/B po:noun is:masculine
@@ -28093,9 +27910,7 @@ fundus
 Fundy
 fundž
 fundžať
-funebrák
-funebráka
-funebrákov
+funebrák/C po:noun is:masculine
 fungicíd
 fungicídnych
 fungicídnymi
@@ -67131,21 +66946,6 @@ nečľapocú
 nečľapocúc
 nečlen/c po:noun is:masculine
 nečlenov/Y po:adjective
-nečliapka
-nečliapkaj
-nečliapkajme
-nečliapkajte
-nečliapkajú
-nečliapkajúc
-nečliapkal
-nečliapkala
-nečliapkali
-nečliapkalo
-nečliapkam
-nečliapkame
-nečliapkaš
-nečliapkať
-nečliapkate
 nečloveče
 nečlovek/c po:noun is:masculine
 nečlovekov/Y po:adjective
