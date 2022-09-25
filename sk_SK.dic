@@ -1,4 +1,4 @@
-177565
+177328
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -36879,10 +36879,6 @@ i po:conjunction
 ia
 iá
 IAAF po:acronym
-iactatio
-iatrofyzika
-iatrogénia
-iatrochémia
 iba
 ibaže po:conjunction
 iberoamer
@@ -37005,11 +37001,7 @@ idiotov/Y po:adjective
 idiotsky/N po:adverb
 idiotský/YN po:adjective
 idiotstvo/M po:noun is:neuter
-Idka
-Idke
-Idkou
-Idku
-Idky
+Idka/zZ po:noun is:feminine
 iďme
 ido
 IDO po:acronym
@@ -37458,15 +37450,7 @@ import/B po:noun is:masculine
 importantný/YN po:adjective
 importér/C po:noun is:masculine
 importérova
-importérska
-importérske
-importérskeho
-importérskej
-importérskou
-importérsku
-importérsky
-importérskych
-importérskym
+importérsky/YN po:adjective
 importmi
 importne
 importno
@@ -37509,7 +37493,7 @@ improvizácia/U po:noun is:feminine
 improvizačne
 improvizačný/YN po:adjective
 improvizátor/C po:noun is:masculine
-improvizátorka
+improvizátorka/zZ po:noun is:feminine
 improvizátormi
 improvizátorov/Y po:adjective
 improvizátorský/YN po:adjective
@@ -37532,7 +37516,7 @@ Imra
 Imre
 Imrich/c po:noun is:masculine
 Imrichov/Y po:adjective
-Imriška
+Imriška/zZ po:noun is:feminine
 imunita/zZ po:noun is:feminine
 imunitne
 imunitný/Y po:adjective
@@ -37697,7 +37681,7 @@ individuálny/YN po:adjective
 indivíduí
 indivíduum/M po:noun is:neuter
 indivirualizácia/U po:noun is:feminine
-Indka
+Indka/zZ po:noun is:feminine
 Indmi
 Indočína
 Indočíne
@@ -37707,7 +37691,7 @@ indoeur
 indoeuróp
 Indoeurópan/c po:noun is:masculine
 Indoeurópanov/Y po:adjective
-indoeuropeistika
+indoeuropeistika/zZ po:noun is:feminine
 indoeurópsky/YN po:adjective
 Indoch
 indoirán
@@ -37785,7 +37769,7 @@ infantilizmus/B po:noun is:masculine
 infantilne
 infantilnosť/K po:noun is:feminine
 infantilný/YN po:adjective
-infantka
+infantka/zZ po:noun is:feminine
 infantov/Y po:adjective
 infarkt/B po:noun is:masculine
 infarktmi
@@ -38007,7 +37991,7 @@ inkaso/M po:noun is:neuter
 inkasovanie/VN po:noun is:neuter
 inkasovaný/YN po:adjective
 inkasovať/WN po:verb
-inkaustika
+inkaustika/zZ po:noun is:feminine
 inkbátor
 inklinácia/U po:noun is:feminine
 inklinačný/YN po:adjective
@@ -38097,7 +38081,7 @@ inovatiach
 inovatiam
 inovatívnejší/PF po:adjective
 inovatívny/YN po:adjective
-inovatka
+inovatka/zZ po:noun is:feminine
 inovaťou
 Inovec/J po:noun is:masculine
 inovecký/YN po:adjective
@@ -38211,7 +38195,7 @@ inšt
 inštalácia/U po:noun is:feminine
 inštalačný/YN po:adjective
 inštalatér/C po:noun is:masculine
-inštalatérka
+inštalatérka/zZ po:noun is:feminine
 inštalatérov/Y po:adjective
 inštalatérsky/YN po:adjective
 inštalatérstvo/M po:noun is:neuter
@@ -38819,7 +38803,7 @@ Iráncom
 Iráncov
 iránčina/z po:noun is:feminine
 Iránec
-Iránka
+Iránka/zZ po:noun is:feminine
 iránsky/YN po:adjective
 IRB po:acronym
 irbis
@@ -38854,7 +38838,7 @@ Iren
 Irena/zZ po:noun is:feminine
 Irenin
 irénizmus/B po:noun is:masculine
-Irenka
+Irenka/zZ po:noun is:feminine
 ireparabilný/YN po:adjective
 ireverzibilita
 ireverzibilný/YN po:adjective
@@ -38883,13 +38867,10 @@ iritujúca
 Iritujúce
 iritujúci
 irizovať/WN po:verb
-Írka
+Írka/zZ po:noun is:feminine
 Írkam
-Írke
-Írku
 irkutský/Y po:adjective
 Irkutský/YN po:adjective
-Írky
 Irma/zZ po:noun is:feminine
 Irmách
 Irmám
@@ -38980,8 +38961,7 @@ Istanbul/B po:noun is:masculine
 istanbulský/YN po:adjective
 iste
 Istebník
-Istebníka
-Istebníku
+Istebníka/zZ po:noun is:feminine
 istenie/V po:noun is:neuter
 istený/YN po:adjective
 istesso
@@ -39030,9 +39010,8 @@ Itália
 Itálie
 Itálii
 Itálií
-italika
-Italka
-Italky
+italika/zZ po:noun is:feminine
+Italka/zZ po:noun is:feminine
 italský/Y po:adjective
 Italský/YN po:adjective
 ITAR po:acronym
@@ -39064,7 +39043,7 @@ Ivanina
 Ivaninu
 Ivaniných
 Ivanišová/Y po:adjective
-Ivanka
+Ivanka/zZ po:noun is:feminine
 Ivanov/Y po:adjective
 Ivanovský/YN po:adjective
 Ive
@@ -39471,7 +39450,6 @@ jama/zZ po:noun is:feminine
 Jamajčan/c po:noun is:masculine
 Jamajčanka/zZ po:noun is:feminine
 Jamajčanov/Y po:adjective
-jamajka
 Jamajka/zZ po:noun is:feminine
 Jamajkam
 jamajský/YN po:adjective
@@ -39520,8 +39498,8 @@ janičiarskemu
 janičiarski
 janičiarskom
 janičiarskou
-janičiarsku
 janičiarsky/N po:adverb
+janičiarský/VN po:noun is:neuter
 janičiarskych
 janičiarskym
 janičiarskymi
@@ -39605,11 +39583,8 @@ japončinám
 japončinami
 Japonec/C po:noun is:masculine
 japonéria
-japonka
-Japonka/zZ po:noun is:feminine
-japonska
+japonka/zZ po:noun is:feminine
 Japonsko/M po:noun is:neuter
-japonsku
 japonsky/N po:adverb
 japonský/YN po:adjective
 jar/K po:noun is:feminine
@@ -39667,19 +39642,8 @@ jarmočisko/M po:noun is:neuter
 jarmočiť
 jarmočné/Y po:adjective
 jarmočnica/U po:noun is:feminine
-jarmočnícka
-jarmočnícke
-jarmočníckeho
-jarmočníckej
-jarmočníckemu
-jarmočnícki
-jarmočníckom
-jarmočníckou
-jarmočnícku
 jarmočnícky/N po:adverb
-jarmočníckych
-jarmočníckym
-jarmočníckymi
+jarmočnícky/YN po:adjective
 jarmočník/C po:noun is:masculine
 jarmočníkov/Y po:adjective
 jarmočnísk
@@ -39759,19 +39723,8 @@ jaský/YN po:adjective
 jaskyňa/U po:noun is:feminine
 jaskyniar/C po:noun is:masculine
 jaskyniarov/Y po:adjective
-jaskyniarska
-jaskyniarske
-jaskyniarskeho
-jaskyniarskej
-jaskyniarskemu
-jaskyniarski
-jaskyniarskom
-jaskyniarskou
-jaskyniarsku
 jaskyniarsky/N po:adverb
-jaskyniarskych
-jaskyniarskym
-jaskyniarskymi
+jaskyniarsky/YN po:adjective
 jaskyniarstvach
 jaskyniarstvam
 jaskyniarstvo/M po:noun is:neuter
@@ -39898,15 +39851,12 @@ jáv
 jav/B po:noun is:masculine
 Java po:noun
 Jáva/zZ po:noun is:feminine
-javajka
+javajka/zZ po:noun is:feminine
 Jávan
 Jávana
 Jávania
-Jávanka
-Jávanke
+Jávanka/zZ po:noun is:feminine
 Jávankina
-Jávanku
-Jávanky
 Jávanmi
 Javascript/B po:noun is:masculine
 javeru
@@ -39923,7 +39873,7 @@ Javorčeka
 javorčie/V po:noun is:neuter
 javorie/V po:noun is:neuter
 javorina/zZ po:noun is:feminine
-Javorinka
+Javorinka/zZ po:noun is:feminine
 Javorinský/YN po:adjective
 Javorníckej
 Javorník
@@ -39937,10 +39887,7 @@ javorový/YN po:adjective
 Javorsky
 Javorský/YN po:adjective
 javový/YN po:adjective
-jávska
-jávske
-Jávski
-jávsky
+jávsky/YN po:adjective
 jáw
 jawa
 jawách
@@ -40037,7 +39984,7 @@ Jean/c po:noun is:masculine
 Jeanov/Y po:adjective
 jed/B po:noun is:masculine
 jedáci/YN po:adjective
-jedáčka
+jedáčka/zZ po:noun is:feminine
 jedák/C po:noun is:masculine
 jedákov/Y po:adjective
 jedál
@@ -40378,9 +40325,7 @@ Jeleny
 Jelica
 jelita
 jelito
-Jelka
-Jelke
-Jelky
+Jelka/zZ po:noun is:feminine
 jelša/U po:noun is:feminine
 Jelšava
 Jelšave
@@ -40429,9 +40374,7 @@ Jena/z po:noun is:feminine
 Jenčan
 Jenčana
 Jenčania
-Jenčaniek
-Jenčanka
-Jenčanky
+Jenčanka/zZ po:noun is:feminine
 Jenisej
 Jenisejskej
 jenský/YN po:adjective
@@ -40460,14 +40403,7 @@ jeseňami
 jesene
 jeseni
 jesení
-Jesenícka
-jeseníckeho
-jeseníckej
-jeseníckom
-jeseníckou
-Jesenícku
-jesenícky
-Jeseníckych
+jesenícky/YN po:adjective
 Jeseník
 Jeseníka
 Jeseníkoch
@@ -40498,11 +40434,7 @@ jezuita/H po:noun is:masculine
 jezuitmi
 jezuitov/Y po:adjective
 jezuitský/YN po:adjective
-Jezuliatka
-jezuliatko
-Jezuliatko/A po:noun is:neuter
-Jezuliatkom
-Jezuliatku
+jezuliatko/M po:noun is:neuter
 Jezuliatok
 jež/L po:noun is:masculine
 ježací/I po:adjective
@@ -40668,7 +40600,7 @@ jola/zZ po:noun is:feminine
 Jolán
 Jolana/zZ po:noun is:feminine
 Jolanta
-jolka
+jolka/zZ po:noun is:feminine
 Jonáš
 Jonáša
 Jonášom
@@ -40685,8 +40617,7 @@ Jordána
 Jordáne
 Jordánec
 Jordáni
-Jordánka
-Jordánke
+Jordánka/zZ po:noun is:feminine
 Jordánom
 Jordánsko/M po:noun is:neuter
 jordánsky/YN po:adjective
@@ -40717,7 +40648,7 @@ Jozefe
 Jozefina
 Jozefína/zZ po:noun is:feminine
 jozefínsky/YN po:adjective
-Jozefka
+Jozefka/zZ po:noun is:feminine
 Jozefov/Y po:adjective
 jozefovský/YN po:adjective
 jozefský/YN po:adjective
@@ -40727,10 +40658,9 @@ Jozua/H po:noun is:masculine
 Jozuov/Y po:adjective
 Joža
 Jože
-Jožka
+Jožka/zZ po:noun is:feminine
 Jožko
 Jožkove
-Jožku
 Jožo
 Jožom
 Jožov
@@ -40800,10 +40730,7 @@ juhočínskych
 juhoeuróp
 juhoeurópsky/YN po:adjective
 juhofranc
-Juhofrancúzska
-juhofrancúzskeho
-juhofrancúzskej
-juhofrancúzskom
+juhofrancúzsky/YN po:adjective
 juhokórejsky
 juhokórejský/YN po:adjective
 juhomoravský/Y po:adjective
@@ -40842,7 +40769,7 @@ juj
 júj
 jujkať/EN po:verb
 jujuj
-juka
+juka/zZ po:noun is:feminine
 jukebox
 júl/L po:noun is:masculine
 júle
@@ -41099,9 +41026,7 @@ káčence
 káčencoch
 káčencom
 káčeniec
-Kačenka
-Kačenku
-Kačenky
+Kačenka/zZ po:noun is:feminine
 káčer/C po:noun is:masculine
 káčera
 Káčera
@@ -41182,7 +41107,7 @@ kadiť/EN po:verb
 kadlúb
 kadlub/B po:noun is:masculine
 kadluba/zZ po:noun is:feminine
-kadlúbka
+kadlúbka/zZ po:noun is:feminine
 kadmiový/YN po:adjective
 kadmium/M po:noun is:neuter
 kádrovanie/VN po:noun is:neuter
@@ -41236,7 +41161,7 @@ kaja
 kajajúci
 kajak/B po:noun is:masculine
 kajakár/C po:noun is:masculine
-kajakárka
+kajakárka/zZ po:noun is:feminine
 kajakárov/Y po:adjective
 kajakársky/YN po:adjective
 kajakárstvach
@@ -41430,8 +41355,7 @@ Kalinčiakova
 Kalinčiakovo
 Kalinin
 kalinit
-kalinka
-Kalinkou
+kalinka/zZ po:noun is:feminine
 Kalinkova
 Kalinkove
 Kalinkovo
@@ -41494,7 +41418,7 @@ Kálnici
 Kálnickí
 kalný/YN po:adjective
 kalo
-kalobiotika
+kalobiotika/zZ po:noun is:feminine
 kalofónia
 kalokagatia
 kalolis
@@ -41588,10 +41512,7 @@ Kambodžana
 kambodžský/YN po:adjective
 kambrický/Y po:adjective
 kambrium/M po:noun is:neuter
-Kamčatka
-Kamčatke
-Kamčatku
-Kamčatky
+Kamčatka/zZ po:noun is:feminine
 kamčatský/YN po:adjective
 kamdiaľ
 kamea/zZ po:noun is:feminine
@@ -41627,8 +41548,7 @@ kamenina/zZ po:noun is:feminine
 Kameníne
 kameninovo
 kameninový/YN po:adjective
-Kamenínska
-Kamenínskej
+kamenínsky/YN po:adjective
 kamenistý/YN po:adjective
 kamenitý/YN po:adjective
 kamenív
@@ -41656,7 +41576,7 @@ Kamenský/YN po:adjective
 kameňujúce
 kameový/YN po:adjective
 kamera/zZ po:noun is:feminine
-kameralistika
+kameralistika/zZ po:noun is:feminine
 kameraman/C po:noun is:masculine
 kameramanov/Y po:adjective
 kamerlengo
@@ -41697,7 +41617,7 @@ kampaňovitosť/K po:noun is:feminine
 Kampaňovitý/YN po:adjective
 kampaňovitých
 kampaňový/YN po:adjective
-kampbelka
+kampbelka/zZ po:noun is:feminine
 kampes
 kampus
 kampylit
@@ -42024,7 +41944,7 @@ Kapkom
 kapky
 kaplán/C po:noun is:masculine
 kaplánčiť
-Kaplánka
+kaplánka/zZ po:noun is:feminine
 Kaplánková/Y po:adjective
 Kaplánkovi
 kaplánov/Y po:adjective
@@ -42170,7 +42090,7 @@ kárajte
 kárajú
 kárajúc
 Karak
-karaka
+karaka/zZ po:noun is:feminine
 karakal
 karakola
 karakul
@@ -42301,7 +42221,7 @@ kardigany
 kardinál/C po:noun is:masculine
 kardinála/zZ po:noun is:feminine
 kardinalita
-kardinálka
+kardinálka/zZ po:noun is:feminine
 kardinálny/YN po:adjective
 kardinálov/Y po:adjective
 kardinálsky/Y po:adjective
@@ -42457,9 +42377,9 @@ Karoli
 Karolina
 Karolína/zZ po:noun is:feminine
 Karoline
-Karolínka
+Karolínka/zZ po:noun is:feminine
 Karolinou
-karolínska
+karolínsky/YN po:adjective
 Karolov/Y po:adjective
 Karoly
 Karos
@@ -42540,10 +42460,7 @@ kartomantia
 kartometria
 kartón/B po:noun is:masculine
 kartonáž/D po:noun is:feminine
-Kartonážka
-kartonážke
-kartonážku
-kartonážky
+kartonážka/zZ po:noun is:feminine
 kartonážna
 kartonážne
 kartonážnej
@@ -42551,7 +42468,6 @@ kartonážnu
 kartonážny
 kartonážnych
 kartonážnymi
-kartonážok
 kartónovaný/YN po:adjective
 kartónovať/WN po:verb
 kartónový/YN po:adjective
@@ -42745,12 +42661,7 @@ Kašmír/B po:noun is:masculine
 Kašmírčan
 Kašmírčana
 kašmírový/YN po:adjective
-kašmírska
-kašmírske
-kašmírskeho
-Kašmírskej
-kašmírsky
-kašmírskych
+kašmírsky/YN po:adjective
 Kašov
 Kašová/Y po:adjective
 kašovatieť/XN po:verb
@@ -42799,7 +42710,7 @@ Katalánca
 katalánčina/z po:noun is:feminine
 Katalánec
 Kataláni
-Katalánka
+Katalánka/zZ po:noun is:feminine
 katalánskeho
 katalánskej
 katalánski
@@ -42851,14 +42762,8 @@ katarakt/B po:noun is:masculine
 katarakta
 Katarína/zZ po:noun is:feminine
 Katarínina
-Katarínka
-Katarínke
-Katarínky
-Katarínska
-Katarínskej
-Katarínsku
-katarínsky
-Katarínskych
+Katarínka/zZ po:noun is:feminine
+katarínsky/YN po:adjective
 katarmi
 katarový/YN po:adjective
 katarský/YN po:adjective
@@ -42974,7 +42879,7 @@ Katúň
 Katuša
 kaťuša/U po:noun is:feminine
 kaťuší
-Katuška
+Katuška/zZ po:noun is:feminine
 kaucia/U po:noun is:feminine
 kaučný/YN po:adjective
 kaučuk/B po:noun is:masculine
@@ -42989,7 +42894,7 @@ kaukazský/YN po:adjective
 Kaukazu
 Kaukazy
 kaukliar/C po:noun is:masculine
-kaukliarka
+kaukliarky/YN po:adjective
 kaukliarov/Y po:adjective
 kaukliarsky/YN po:adjective
 kaukliarstvo/M po:noun is:neuter
@@ -43005,8 +42910,7 @@ kaurí
 kausticky
 kaustický/YN po:adjective
 kaustifikácia/U po:noun is:feminine
-kaustika
-kaustiku
+kaustika/zZ po:noun is:feminine
 kaustikum
 kaustobiolit/B po:noun is:masculine
 kautela
@@ -43083,7 +42987,7 @@ kazárov
 kazárovi
 kazárske
 kazaš
-Kazaška
+Kazaška/zZ po:noun is:feminine
 kazašský/YN po:adjective
 kázať/TN po:verb
 kazateľ/c po:noun is:masculine
@@ -43136,7 +43040,7 @@ kázňový/YN po:adjective
 kazový/YN po:adjective
 kazuár/C po:noun is:masculine
 kazuárov/Y po:adjective
-kazuistika
+kazuistika/zZ po:noun is:feminine
 kazula
 Každe
 každodenne
@@ -43250,7 +43154,7 @@ kelmi
 kelňa
 kelne
 kelner
-kelnerka
+kelnerka/zZ po:noun is:feminine
 kelni
 kelniam
 kelňou
@@ -43361,7 +43265,7 @@ kesón/B po:noun is:masculine
 kesónový/YN po:adjective
 kešeňa/U po:noun is:feminine
 kešení
-kešienka
+kešienka/zZ po:noun is:feminine
 kešu
 keta
 keťas/C po:noun is:masculine
@@ -43370,7 +43274,7 @@ keťasiť/EN po:verb
 keťasov/Y po:adjective
 ketazón
 ketén
-ketolátka
+ketolátka/zZ po:noun is:feminine
 ketón/B po:noun is:masculine
 ketonémia
 ketónový/YN po:adjective
@@ -43523,7 +43427,7 @@ kinetofón
 kinetogenéza
 kinetograf
 kinetoskop
-kinetostatika
+kinetostatika/zZ po:noun is:feminine
 kinetóza
 kinéza
 kinézia
@@ -43568,8 +43472,9 @@ kisňa/U po:noun is:feminine
 kisní
 kisnička/zZ po:noun is:feminine
 kisuč
-kišasoňka
+kišasoňa/U po:noun is:feminine
 kišasonka/zZ po:noun is:feminine
+kišasonstvo/M po:noun is:neuter
 Kišiňov/B po:noun is:masculine
 kišiňovský/YN po:adjective
 kit
@@ -43635,7 +43540,7 @@ kľagu
 kľagy
 klak
 kľak/B po:noun is:masculine
-klaka
+klaka/zZ po:noun is:feminine
 kľakadlo/M po:noun is:neuter
 kľakanie/V po:noun is:neuter
 kľakať/EN po:verb
@@ -43772,8 +43677,8 @@ klaster
 klasterová
 klastické
 kláštor/B po:noun is:masculine
-kláštoriska
-kláštornícky
+kláštorisko/M po:noun is:neuter
+kláštornícky/YN po:adjective
 kláštorník
 kláštorný/YN po:adjective
 kláštorský/YN po:adjective
@@ -44105,17 +44010,12 @@ klinický/YN po:adjective
 Klinik
 klinika/zZ po:noun is:feminine
 klinikov
-klinka
 klinká
 klinkať
-Klinkom
-Klinkov
-klinku
-klinky
 klinoenstatit
 klinogonálny/YN po:adjective
 klinochlór
-klinok
+klinok/O po:noun is:masculine
 klinoklas
 klinometer
 klinopisný/YN po:adjective
@@ -44821,8 +44721,7 @@ Kojšovskej
 Kojšovskou
 kóju
 kok
-koka
-Koka
+koka/zZ po:noun is:feminine
 kokaín/B po:noun is:masculine
 kokainista/H po:noun is:masculine
 kokainistov/Y po:adjective
@@ -44870,7 +44769,6 @@ kokosovo
 kokosový/Y po:adjective
 kokoš
 kokošiť
-Kokotka
 kokov
 kokpit
 kokpite
@@ -44927,9 +44825,7 @@ kokteil/B po:noun is:masculine
 kokteilmi
 kokteilový/YN po:adjective
 koktejl
-koku
 kokus/B po:noun is:masculine
-koky
 kol
 kola/zZ po:noun is:feminine
 kolaborácia/U po:noun is:feminine
@@ -45008,8 +44904,7 @@ kolbišťu
 Kolbu
 kolby
 koldokola
-kolečka
-kolečko
+kolečko/M po:noun is:neuter
 koleda/zZ po:noun is:feminine
 koledný/YN po:adjective
 koledovať/WN po:verb
@@ -45317,7 +45212,7 @@ koložvársky/YN po:adjective
 kolpis
 kolpitída
 kolpohysterektómia
-kolpoplastika
+kolpoplastika/zZ po:noun is:feminine
 kolporágia
 kolportáž/D po:noun is:feminine
 kolportážny/YN po:adjective
@@ -45333,7 +45228,7 @@ Kolta
 koltmi
 kolumbárium/M po:noun is:neuter
 Kolumbia/U po:noun is:feminine
-Kolumbijka
+Kolumbijka/zZ po:noun is:feminine
 kolumbijský/YN po:adjective
 kolumbit
 Kolumbus
@@ -45409,7 +45304,7 @@ komédia/U po:noun is:feminine
 komediálnosť/K po:noun is:feminine
 komediálny/YN po:adjective
 komediant/C po:noun is:masculine
-komediantka
+komediantka/zZ po:noun is:feminine
 komediantov/Y po:adjective
 komediantský/YN po:adjective
 komediantstvo/M po:noun is:neuter
@@ -45730,7 +45625,7 @@ komputermi
 komputeroch
 komputerom
 komputerov
-komputistika
+komputistika/zZ po:noun is:feminine
 komsi
 komsomolcov/Y po:adjective
 komsomolec/C po:noun is:masculine
@@ -45746,7 +45641,7 @@ komún
 komúna/zZ po:noun is:feminine
 komúnach
 komunál/B po:noun is:masculine
-komunálka
+komunálka/zZ po:noun is:feminine
 komunálmi
 komunálny/YN po:adjective
 komúnam
@@ -46313,7 +46208,7 @@ konšternácia/U po:noun is:feminine
 konšternovaný/YN po:adjective
 konšternovať/WN po:verb
 konštitúcia/U po:noun is:feminine
-konštitucionalistika
+konštitucionalistika/zZ po:noun is:feminine
 konštitucionalizmu
 konštitučne
 konštitučný/YN po:adjective
@@ -46455,7 +46350,7 @@ kontraktným
 kontraktový/YN po:adjective
 kontraktúra
 kontralaterálny/YN po:adjective
-kontramaska
+kontramaska/zZ po:noun is:feminine
 kontrapost
 kontrapozícia
 kontraproduktívnosť/K po:noun is:feminine
@@ -46496,11 +46391,7 @@ kontretizačný/YN po:adjective
 kontribúcia/U po:noun is:feminine
 kontribučný/YN po:adjective
 kontrola/zZ po:noun is:feminine
-kontroliek
-kontrolka
-kontrolkou
-kontrolku
-kontrolky
+kontrolka/zZ po:noun is:feminine
 kontrolne
 kontrolno
 kontrolný/YN po:adjective
@@ -46532,7 +46423,7 @@ kontúrová
 kontúrovanie/VN po:noun is:neuter
 kontúrovať/WN po:verb
 kontúrovitý/YN po:adjective
-kontušovka
+kontušovka/zZ po:noun is:feminine
 kontúzia
 Konty
 koňu
@@ -46765,10 +46656,7 @@ kopcovito
 kopcovitý/YN po:adjective
 kopcový/YN po:adjective
 kopček/B po:noun is:masculine
-Kopčianska
-Kopčianskej
-Kopčianskou
-Kopčiansku
+Kopčiansky/Y po:adjective
 kopčísk
 kopčisko/M po:noun is:neuter
 kopec/J po:noun is:masculine
@@ -46881,14 +46769,14 @@ korala
 korále/Q
 korálik/B po:noun is:masculine
 koralit
-korálka
+korálka/zZ po:noun is:feminine
 koralmi
 korálmi
 korálom
 koralovec
 koralovi
 koralovitý/YN po:adjective
-koralovka
+koralovka/zZ po:noun is:feminine
 koralový/YN po:adjective
 korálový/YN po:adjective
 koráľový/YN po:adjective
@@ -46940,7 +46828,7 @@ korečných
 koreferát/B po:noun is:masculine
 koreferátmi
 koreferent/C po:noun is:masculine
-koreferentka
+koreferentka/zZ po:noun is:feminine
 koreferentov/Y po:adjective
 kórej
 Kórejcov/Y po:adjective
@@ -47183,22 +47071,15 @@ korupčníci
 korupčnícky/YN po:adjective
 korupčníctvo
 korupčník
-korupčníka
+korupčníka/zZ po:noun is:feminine
 korupčníkom
 korupčníkov
 korupčno
 korupčný/YN po:adjective
-koruška
+koruška/zZ po:noun is:feminine
 Korutána
-Korutánka
-Korutánska
-korutánskeho
-Korutánsko
-korutánskom
-Korutánsku
-korutánsky
-korutánskych
-korutánskym
+Korutánka/zZ po:noun is:feminine
+korutánsky/YN po:adjective
 korutina
 korveta/B po:noun is:masculine
 korvetách
@@ -47286,7 +47167,7 @@ kosieru
 kosiery
 kosík
 kosíliť/XN po:verb
-kosílka
+kosílka/zZ po:noun is:feminine
 Kosin
 Kosina
 Kosinu
@@ -47328,9 +47209,7 @@ kostica/U po:noun is:feminine
 kostička/zZ po:noun is:feminine
 kostier
 kostilivec
-Kostiviarska
-Kostiviarskej
-Kostiviarsku
+Kostiviarsky/YN po:adjective
 kostlivcov/Y po:adjective
 kostlivec/C po:noun is:masculine
 kostlivý/YN po:adjective
@@ -47347,9 +47226,7 @@ Kostoľany
 Kostolci
 kostole
 Kostolec
-kostolianska
-kostolianskemu
-Kostoliansky
+kostoliansky/YN po:adjective
 kostolíčka
 kostolíčkami
 kostolíčkoch
@@ -47485,7 +47362,7 @@ kotlárstvo/M po:noun is:neuter
 Kotleba/H po:noun is:masculine
 Kotlebov/Y po:adjective
 kotleta/zZ po:noun is:feminine
-kotletka
+kotletka/zZ po:noun is:feminine
 kotlík/B po:noun is:masculine
 kotlíkový/YN po:adjective
 kotlina/zZ po:noun is:feminine
@@ -47930,22 +47807,16 @@ krajinný/YN po:adjective
 krajinomaľba/zZ po:noun is:feminine
 krajinotvorný/YN po:adjective
 krajinský/YN po:adjective
-krajka
+krajka/zZ po:noun is:feminine
 krajkach
-krajkami
-krajke
-Krajkou
 krajkovane
 krajkový/YN po:adjective
-Krajku
-krajky
 krajne
 krajneší/IF po:adjective
 krajnica/U po:noun is:feminine
 krajnicový/YN po:adjective
 krajnosť/K po:noun is:feminine
 krajný/YN po:adjective
-krajok
 krajovo
 krajovský/YN po:adjective
 krajový/YN po:adjective
@@ -47989,7 +47860,7 @@ králičí/I po:adjective
 králik/C po:noun is:masculine
 králikár/C po:noun is:masculine
 králikáreň/D po:noun is:feminine
-králikárka
+králikárka/zZ po:noun is:feminine
 králikárov/Y po:adjective
 králikov/Y po:adjective
 Králiková/Y po:adjective
@@ -48097,7 +47968,7 @@ krasorečníctvo/M po:noun is:neuter
 krasorečník/C po:noun is:masculine
 krasorečníkov/Y po:adjective
 krásota
-krásotinka
+krásotinka/zZ po:noun is:feminine
 Krasove
 krasový/YN po:adjective
 krášliť/XN po:verb
@@ -48380,8 +48251,7 @@ kreskania
 kreskať
 kreslene
 kreslenie/V po:noun is:neuter
-kreslenka
-kreslenky
+kreslenka/zZ po:noun is:feminine
 kreslený/YN po:adjective
 kresliaci/YN po:adjective
 kresliar/C po:noun is:masculine
@@ -48412,7 +48282,7 @@ kresťanstvo/M po:noun is:neuter
 Kréta/zZ po:noun is:feminine
 Kréťan/c po:noun is:masculine
 Kréťania
-Kréťanka
+Kréťanka/zZ po:noun is:feminine
 Kréťanov/Y po:adjective
 kretén/C po:noun is:masculine
 kretenizmus/B po:noun is:masculine
@@ -48493,7 +48363,7 @@ krikľavosť/K po:noun is:feminine
 krikľavý/YN po:adjective
 krikľúň/C po:noun is:masculine
 krikľúni
-krikľúnka
+krikľúnka/zZ po:noun is:feminine
 krikľúňov/Y po:adjective
 kriklúnsky/YN po:adjective
 krikľúnsky/YN po:adjective
@@ -48615,7 +48485,7 @@ krivdiť/EN po:verb
 krivdite
 krivenie/V po:noun is:neuter
 Krivian
-Krivianska
+kriviansky/YN po:adjective
 krivica/U po:noun is:feminine
 krivicový/YN po:adjective
 krividlo/M po:noun is:neuter
@@ -48909,7 +48779,7 @@ KRPE po:acronym
 krpec/J po:noun is:masculine
 Krpeľanoch
 Krpeľany
-krpelianska
+krpeliansky/YN po:adjective
 krpka
 Krpy
 krr
@@ -49157,7 +49027,7 @@ krymský/YN po:adjective
 kryobiológia
 kryofilný/YN po:adjective
 kryofyt
-kryogenetika
+kryogenetika/zZ po:noun is:feminine
 kryogenéza
 kryogénny/YN po:adjective
 kryokomora
@@ -49258,9 +49128,7 @@ kšeftári
 kšeftármi
 kšeftárom
 kšeftárov
-kšeftárska
-kšeftárske
-kšeftársky
+kšeftársky/YN po:adjective
 kšeftárstvo/M po:noun is:neuter
 kšeftík
 kšeftíkov
@@ -49343,7 +49211,7 @@ Kubáncov/Y po:adjective
 Kubánec/C po:noun is:masculine
 Kubáni
 kubanit
-Kubánka
+Kubánka/zZ po:noun is:feminine
 Kubáňove
 Kubáňovo
 kubánsky/YN po:adjective
@@ -49362,7 +49230,7 @@ Kubín
 Kubina
 Kubíne
 Kubínom
-Kubínska
+kubínsky/YN po:adjective
 Kubinu
 Kubíny
 kubista/H po:noun is:masculine
@@ -49386,9 +49254,8 @@ kučeravieť/XN po:verb
 kučeraviť/EN po:verb
 kučeravosť/K po:noun is:feminine
 kučeravý/YN po:adjective
-Kučerka
+Kučerka/zZ po:noun is:feminine
 kučerkavý/YN po:adjective
-Kučerku
 kučier
 kučierka/zZ po:noun is:feminine
 Kučín
@@ -49468,8 +49335,7 @@ kuk
 kukanie/V po:noun is:neuter
 Kukanom
 kukať/EN po:verb
-kukátka
-kukátko
+kukátko/M po:noun is:neuter
 kukerzit
 kukiel
 kukla/zZ po:noun is:feminine
@@ -49703,15 +49569,7 @@ kúpelňa
 kúpeľňa/U po:noun is:feminine
 kúpelne
 Kúpeľníci
-kúpeľnícka
-kúpeľnícke
-kúpeľníckeho
-kúpeľnícki
-kúpeľníckom
-kúpeľnícku
-kúpeľnícky
-kúpeľníckych
-kúpeľníckymi
+kúpeľnícky/YN po:adjective
 kúpeľníctva
 kúpeľníctve
 kúpeľníctvo
@@ -49756,7 +49614,7 @@ kuplovňou
 kuplových
 kúpny/YN po:adjective
 kupola/zZ po:noun is:feminine
-kupolka
+kupolka/zZ po:noun is:feminine
 kupolovitý/YN po:adjective
 kupolový/YN po:adjective
 kupón/B po:noun is:masculine
@@ -49809,7 +49667,7 @@ kurčiat
 kurčiatko/M po:noun is:neuter
 kurčiatok
 Kurd/C po:noun is:masculine
-Kurdka
+Kurdka/zZ po:noun is:feminine
 Kurdov/Y po:adjective
 Kurdsky
 kurdský/YN po:adjective
@@ -49851,18 +49709,7 @@ kuriérnu
 kuriérnych
 kuriérnymi
 kuriérov/Y po:adjective
-kuriérska
-kuriérske
-kuriérskeho
-kuriérskej
-kuriérski
-kuriérskom
-kuriérskou
-kuriérsku
-kuriérsky
-kuriérskych
-kuriérskym
-kuriérskymi
+kuriérsky/YN po:adjective
 kuriev
 Kurilčan/c po:noun is:masculine
 Kurilčanka/zZ po:noun is:feminine
@@ -49871,7 +49718,7 @@ kurilský/YN po:adjective
 Kurily/Q po:noun is:feminine
 Kurima
 Kurimany
-Kurimka
+Kurimka/zZ po:noun is:feminine
 Kurimský/YN po:adjective
 kurín/B po:noun is:masculine
 Kurina
@@ -50007,7 +49854,7 @@ kutil/c po:noun is:masculine
 kutilov/Y po:adjective
 kutín
 kutiť/EN po:verb
-Kuťka
+Kuťka/zZ po:noun is:feminine
 kutle
 kútmi
 Kútmi
@@ -50122,7 +49969,7 @@ kvadrátmi
 kvadratúra/zZ po:noun is:feminine
 kvadriatlon
 kvadriga
-kvadrika
+kvadrika/zZ po:noun is:feminine
 kvadrila
 kvadriliarda
 kvadrilión/B po:noun is:masculine
@@ -50318,9 +50165,7 @@ kvetinka/zZ po:noun is:feminine
 kvetinovo
 kvetinový/YN po:adjective
 kvetistý/YN po:adjective
-Kvetka
-Kvetkou
-Kvetku
+Kvetka/zZ po:noun is:feminine
 kvetnato/N po:adverb
 kvetnatosť/K po:noun is:feminine
 kvetnatý/YN po:adjective
@@ -50465,7 +50310,7 @@ kýhože
 kých
 kýchanie/V po:noun is:neuter
 kýchať/XN po:verb
-kýchavka
+kýchavka/zZ po:noun is:feminine
 kýchkoľvek
 kýchnuť/WN
 kýchnutie/VN po:noun is:neuter
@@ -50485,7 +50330,7 @@ Kyjeve
 kyjevský/YN po:adjective
 Kyjova
 Kyjove
-Kyjovka
+Kyjovka/zZ po:noun is:feminine
 Kyjovom
 kyjovský/YN po:adjective
 Kyklady
@@ -50631,15 +50476,14 @@ kysnutie/V po:noun is:neuter
 kysnutých
 kysol
 Kyste
-kystka
-kystku
+kystka/zZ po:noun is:feminine
 Kysúc
 Kysuca/U po:noun is:feminine
 Kysuce/Q
 kysuckonovomestský/YN po:adjective
 kysucký/YN po:adjective
 kýšiť/XN po:verb
-Kýška
+Kýška/zZ po:noun is:feminine
 Kyte
 kytica/U po:noun is:feminine
 kytička/zZ po:noun is:feminine
@@ -50687,11 +50531,15 @@ la
 lá
 ľa
 LA po:acronym
+Láb/B po:noun is:masculine
 laba/zZ po:noun is:feminine
 labancovi
 labanec/J po:noun is:masculine
 labanský/YN po:adjective
+Lábčan/c po:noun is:masculine
+Lábčanka/zZ po:noun is:feminine
 ľabdoš
+Labe/
 label
 Labem
 Labeta
@@ -50729,13 +50577,8 @@ labrador
 labradorit
 labradorom
 labrum
-Lábska
-lábske
-lábskeho
-lábskej
-lábsky
-labský/YN po:adjective
-lábskych
+lábsky/YN po:adjective st:Láb
+labský/YN po:adjective st:Labe
 labuť/D po:noun is:feminine
 labutí/I po:adjective
 labutienka/zZ po:noun is:feminine
@@ -50750,7 +50593,7 @@ labužníkov/Y po:adjective
 labyrint/B po:noun is:masculine
 labyrintektonómia
 labyrintída
-labyrintka
+labyrintka/zZ po:noun is:feminine
 labyrintmi
 labyrintový/YN po:adjective
 labzovať/WN po:verb
@@ -50796,12 +50639,7 @@ lad/B po:noun is:masculine
 Lada
 Ladce/Q
 Ladcoch
-ladčianska
-ladčianskeho
-ladčianskej
-ladčiansky
-ladčianskych
-ladčianskym
+ladčiansky/YN po:adjective
 ladecké
 ladeckej
 ladeckí
@@ -50995,10 +50833,7 @@ lajdák/C po:noun is:masculine
 lajdákov/Y po:adjective
 lajen
 lájf
-lajka
-Lajka
-Lajku
-Lajky
+lajka/zZ po:noun is:feminine
 lajm
 lajn
 lajni
@@ -51007,7 +50842,6 @@ lajniakov/Y po:adjective
 lajniaky
 lajno/M po:noun is:neuter
 lajntuch
-Lajok
 lajster/J po:noun is:masculine
 lajstier
 lajstro/M po:noun is:neuter
@@ -51097,8 +50931,7 @@ lakôtka/zZ po:noun is:feminine
 lakrimálny/YN po:adjective
 lakrimátor
 lakros
-Lakšárska
-Lakšárskej
+Lakšársky/YN po:adjective
 laktácia/U po:noun is:feminine
 laktačný/YN po:adjective
 laktagogum
@@ -51244,20 +51077,9 @@ lanarkit
 Lanárne
 lanárov/Y po:adjective
 ľanárov/Y po:adjective
-ľanárska
-ľanárske
-ľanárskeho
-ľanárskej
-ľanárskemu
-ľanárski
-ľanárskom
-ľanárskou
-ľanársku
-ľanársky/N po:adverb
+ľanársky/n po:adverb
 lanársky/YN po:adjective
-ľanárskych
-ľanárskym
-ľanárskymi
+ľanársky/YN po:adjective
 ľanárstvach
 ľanárstvam
 lanárstvo/M po:noun is:neuter
@@ -51283,7 +51105,7 @@ langustový/YN po:adjective
 laní/I po:adjective
 lanka/zZ po:noun is:feminine
 Lanka/zZ po:noun is:feminine
-lankasterka
+lankasterka/zZ po:noun is:feminine
 lanko/M po:noun is:neuter
 lankový/YN po:adjective
 lano/M po:noun is:neuter
@@ -51374,7 +51196,7 @@ lapončinách
 lapončinám
 lapončinami
 Laponec
-Laponka
+Laponka/zZ po:noun is:feminine
 Laponsko
 laponsky
 laponský/YN po:adjective
@@ -51453,7 +51275,6 @@ lassi
 lastex/B po:noun is:masculine
 lastexový/YN po:adjective
 Lastomír
-Lastomírska
 lastovica/U po:noun is:feminine
 lastovíča/A po:noun is:neuter
 lastovičí/I po:adjective
@@ -51461,8 +51282,7 @@ lastovičiar/C po:noun is:masculine
 lastovičiarov/Y po:adjective
 lastovička/zZ po:noun is:feminine
 lastovičník/B po:noun is:masculine
-Lastovka
-Lastovku
+lastovka/zZ po:noun is:feminine
 lastúr
 lastúra/zZ po:noun is:feminine
 lastúrach
@@ -51756,7 +51576,7 @@ ledva
 ledvaže
 ledvučičko
 ledvy
-lefoška
+lefoška/zZ po:noun is:feminine
 leg
 lég
 léga/zZ po:noun is:feminine
@@ -51778,7 +51598,7 @@ légam
 legasténia
 legát/B po:noun is:masculine
 legáti
-legátka
+legátka/zZ po:noun is:feminine
 legátmi
 legato/M po:noun is:neuter
 legátovi
@@ -51837,8 +51657,7 @@ legový/YN po:adjective
 leguán
 legujúca
 legujúci
-lehátka
-lehátko
+lehátko/M po:noun is:neuter
 lehátkový/YN po:adjective
 lehátok
 lehnenie/V po:noun is:neuter
@@ -51850,11 +51669,7 @@ lehota/zZ po:noun is:feminine
 lehotník
 lehotového
 Lehotský/YN po:adjective
-Lehôtka
-Lehôtke
-Lehôtkou
-Lehôtku
-Lehôtky
+Lehôtka/zZ po:noun is:feminine
 Lechnica
 Lechnicky
 Lechnický/YN po:adjective
@@ -51950,13 +51765,8 @@ Lelese
 leleskom
 leleským
 Lelesu
-lelka
-lelkami
-lelkoch
-lelkom
-lelkov
 lelkovi
-lelky
+lelok/O po:noun is:masculine
 Lelovský/YN po:adjective
 lem/B po:noun is:masculine
 lema/zZ po:noun is:feminine
@@ -52028,8 +51838,7 @@ leňochov/Y po:adjective
 leňošenie/V po:noun is:neuter
 leňoší/I po:adjective
 leňošiť/EN po:verb
-leňoška
-leňošky
+leňoška/zZ po:noun is:feminine
 leňošský/YN po:adjective
 leňošstvo/M po:noun is:neuter
 Lenou
@@ -52037,7 +51846,7 @@ lenskej
 Lenský/YN po:adjective
 lent
 lenticela
-lentilka
+lentilka/zZ po:noun is:feminine
 lento
 Lentvora
 lentvorský/YN po:adjective
@@ -52403,7 +52212,7 @@ levita
 levitácia/U po:noun is:feminine
 Levitikus
 levity
-Levkuška
+Levkuška/zZ po:noun is:feminine
 Levoča
 Levoče
 Levoči
@@ -52836,10 +52645,7 @@ lichvám
 lichvami
 lichvový/YN po:adjective
 lichý/YN po:adjective
-Likavka
-Likavke
-Likavkou
-Likavky
+Likavka/zZ po:noun is:feminine
 likavský/Y po:adjective
 Like
 likér/B po:noun is:masculine
@@ -52901,7 +52707,7 @@ liliputánka/zZ po:noun is:feminine
 liliputánov/Y po:adjective
 liliputánsky/YN po:adjective
 liliputány
-liliputka
+liliputka/zZ po:noun is:feminine
 LILO
 Lím
 Lima/z po:noun is:feminine
@@ -53053,12 +52859,7 @@ lipémia
 lipeň/J po:noun is:masculine
 Lipí
 Lipian
-Lipianska
-lipianskeho
-Lipianskemu
-lipianski
-lipianskom
-lipianskou
+lipiansky/YN po:adjective
 lipicán
 lipican/B po:noun is:masculine
 lipicanovi
@@ -53120,7 +52921,7 @@ lipsky
 lipský/YN po:adjective
 Lipšic/c po:noun is:masculine
 Lipšicov/Y po:adjective
-Liptáčka
+Liptáčka/zZ po:noun is:feminine
 Lipták/C po:noun is:masculine
 Liptákov/Y po:adjective
 Liptáková/Y po:adjective
@@ -53131,16 +52932,7 @@ liptovskohrádocká
 liptovskohrádocké
 liptovskohrádockého
 liptovskohrádockej
-liptovskomikulášska
-liptovskomikulášske
-liptovskomikulášskeho
-liptovskomikulášskej
-Liptovskomikulášski
-Liptovskomikulášskom
-liptovskomikulášsku
-liptovskomikulášsky
-liptovskomikulášskych
-liptovskomikulášskym
+liptovskomikulášsky/Y po:adjective
 Liptovsky
 liptovský/YN po:adjective
 lipuša
@@ -53355,7 +53147,7 @@ litráž/D po:noun is:feminine
 litrík/B po:noun is:masculine
 litrovka/zZ po:noun is:feminine
 litrový/YN po:adjective
-lituanistika
+lituanistika/zZ po:noun is:feminine
 lituráza
 liturg
 liturgia/U po:noun is:feminine
@@ -53531,7 +53323,7 @@ logos
 logovacej
 Logovacia
 lochia
-lochneska
+lochneska/zZ po:noun is:feminine
 Loire
 Loiry
 loj/J po:noun is:masculine
@@ -53544,11 +53336,8 @@ Lojza
 Lojzík
 lok
 Lok
-Loka
 lokácia/U po:noun is:feminine
-lokačná
-lokačné
-lokačnej
+lokačný/YN po:adjective
 lokaj/C po:noun is:masculine
 lokajov/Y po:adjective
 Lokajová/Y po:adjective
@@ -53590,12 +53379,7 @@ lokomotív
 lokomotíva/zZ po:noun is:feminine
 lokomotívach
 lokomotívam
-Lokomotívka
-lokomotívkach
-Lokomotívke
-Lokomotívkou
-Lokomotívku
-Lokomotívky
+lokomotívka/zZ po:noun is:feminine
 lokomotívny/YN po:adjective
 lokša/U po:noun is:feminine
 lokší
@@ -53770,8 +53554,7 @@ Lotus
 Loty
 lotyš
 Lotyš/C po:noun is:masculine
-Lotyška
-Lotyšku
+Lotyška/zZ po:noun is:feminine
 Lotyšov/Y po:adjective
 Lotyšsko/M po:noun is:neuter
 Lotyšsky
@@ -53855,7 +53638,6 @@ LPAR
 ľpieť/XN po:verb
 LQ po:acronym
 Lr
-ĺrska
 LS po:acronym
 ĽS po:acronym
 LSD po:acronym
@@ -53886,16 +53668,7 @@ Luba
 Ľubeľa
 Ľubeli
 ľúbení
-lubenícka
-lubenícke
-lubeníckeho
-lubeníckej
-lubenícki
-lubeníckom
-lubenícku
-lubenícky
-lubeníckych
-lubeníckymi
+lubenícky/YN po:adjective
 Lubeník
 Lubeníka
 Lubeníku
@@ -53985,8 +53758,7 @@ lubrikant
 Luca
 Luce
 lucerien
-lucerka
-lucerku
+lucerka/zZ po:noun is:feminine
 lucerna/zZ po:noun is:feminine
 lucernový/YN po:adjective
 Lucia/U po:noun is:feminine
@@ -54281,15 +54053,13 @@ luncheonmeat
 luniak/C po:noun is:masculine
 luniakov/Y po:adjective
 luniaky
-Lunik
-Lunika
-Luniku
+Luník/B po:noun is:masculine
 lunisolárny/YN po:adjective
 lunkre
 lunula
 lup/B po:noun is:masculine
 lupa/zZ po:noun is:feminine
-lúpací
+lúpací/YN po:adjective
 lúpacia
 lúpacie
 lupáčik/B po:noun is:masculine
@@ -54310,14 +54080,7 @@ lúpať/TN po:verb
 Ľupča
 Ľupče
 Ľupči
-Ľupčianska
-ľupčianske
-Ľupčianskeho
-ľupčianskej
-Ľupčianskom
-Ľupčiansky
-ľupčianskych
-ľupčianskym
+ľupčiansky/YN po:adjective
 Ľupčou
 Ľupču
 lupeň/J po:noun is:masculine
@@ -54370,9 +54133,9 @@ lurex/B po:noun is:masculine
 lurexami
 lurexový/YN po:adjective
 lusacký/YN po:adjective
-Lusaka
-Lusakou
-Lusaky
+Lusačan/c po:noun is:masculine
+Lusačanka/zZ po:noun is:feminine
+Lusaka/zZ po:noun is:feminine
 lusitan
 lusk/B po:noun is:masculine
 luskáč/J po:noun is:masculine
@@ -54500,7 +54263,7 @@ lýcejný/YN po:adjective
 lýceum/M po:noun is:neuter
 lyddit
 Lýdia/U po:noun is:feminine
-Lydka
+Lydka/zZ po:noun is:feminine
 lýk
 lykantropia
 lyko/M po:noun is:neuter
