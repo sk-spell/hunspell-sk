@@ -1,4 +1,4 @@
-177328
+177106
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -25429,18 +25429,15 @@ fair
 fajáns
 fajansa/zZ po:noun is:feminine
 fajansový/Y po:adjective
-fajčenie/V po:noun is:neuter
-fajči
+fajčenie/VN po:noun is:neuter
 fajčiaci
 fajčiar/CN po:noun is:masculine
 fajčiareň/D po:noun is:feminine
-fajčiarka/zZ po:noun is:feminine
+fajčiarka/zZN po:noun is:feminine
 fajčiarov/Y po:adjective
-fajčiarsky/Y po:adjective
+fajčiarsky/YN po:adjective
 fajčievať/XN po:verb
-fajčime
-fajčiť/EN po:verb
-fajčite
+fajčiť/XN po:verb
 fajčív
 fajčivo/M po:noun is:neuter
 fajé
@@ -54604,8 +54601,7 @@ mágia/U po:noun is:feminine
 magicky/N po:adverb
 magický/YN po:adjective
 magiem
-magika
-magiky
+magika/zZ po:noun is:feminine
 magister/C po:noun is:masculine
 magisterka/zZ po:noun is:feminine
 magisterov/Y po:adjective
@@ -54665,11 +54661,11 @@ magnetochémia
 magnetometer
 magnetometria
 magnetón/B po:noun is:masculine
-magnetooptika
+magnetooptika/zZ po:noun is:feminine
 magnetopáskový/YN po:adjective
 magnetosféra
 magnetoskop/B po:noun is:masculine
-magnetostatika
+magnetostatika/zZ po:noun is:feminine
 magnetostrikcia
 magnetoterapia/U po:noun is:feminine
 magnetovec/J po:noun is:masculine
@@ -54711,8 +54707,7 @@ magot
 mágov/Y po:adjective
 Magura
 Magure
-Magurka
-Magurke
+Magurka/zZ po:noun is:feminine
 Magurou
 magurský/Y po:adjective
 Maguru
@@ -54782,7 +54777,7 @@ Machuliniec
 machuliť
 machuľka/zZ po:noun is:feminine
 machurinka/zZ po:noun is:feminine
-maieutika
+maieutika/zZ po:noun is:feminine
 mail/B po:noun is:masculine
 maili
 mailmi
@@ -54871,10 +54866,8 @@ majiteľov/Y po:adjective
 majiteľsky
 majiteľský/YN po:adjective
 majiteľstvo/M po:noun is:neuter
-májka
 Majka/zZ po:noun is:feminine
-Májkou
-májky
+májka/zZ po:noun is:feminine
 majme/N
 Majnerová/Y po:adjective
 majolika/zZ po:noun is:feminine
@@ -54886,14 +54879,11 @@ majonézam
 majonézový/YN po:adjective
 major/C po:noun is:masculine
 majorán/B po:noun is:masculine
-majoránka
-majoránkami
+majoránka/zZ po:noun is:feminine
 majoránkoch
 majoránkom
 majoránkov
 majoránkový/YN po:adjective
-majoránku
-majoránky
 majoránok/B po:noun is:masculine
 majoránový/YN po:adjective
 majorát/B po:noun is:masculine
@@ -55022,7 +55012,7 @@ makroelement
 makrofagocytóza
 makrofauna
 makroflóra
-makrofyzika
+makrofyzika/zZ po:noun is:feminine
 makrogenerátor/B po:noun is:masculine
 makrognatia
 makrografia
@@ -55044,7 +55034,7 @@ makropaleontológia
 makroparazit
 makroplanktón
 makropsia
-makroseizmika
+makroseizmika/zZ po:noun is:feminine
 makroskopicky
 makroskopický/YN po:adjective
 makrosvet/B po:noun is:masculine
@@ -55170,8 +55160,8 @@ maliciózny/YN po:adjective
 malíček/B po:noun is:masculine
 máličičko
 maličičký/YN po:adjective
-malička
 malíčka
+maličkab pod:adverb
 malíčkami
 máličko
 malíčkoch
@@ -55239,8 +55229,7 @@ malinôčkám
 málinská
 málinskej
 máliť/XN po:verb
-Malka
-Málka
+Málka/zZ po:noun is:feminine
 malkaí
 malkao/M po:noun is:neuter
 Malkin
@@ -55345,12 +55334,7 @@ malopredajni
 malopredajní
 malopredajniach
 malopredajom
-malorážka
-malorážkach
-malorážkou
-malorážku
-malorážky
-malorážok
+malorážka/zZ po:noun is:feminine
 Malorčan/c po:noun is:masculine
 Malorčanka/zZ po:noun is:feminine
 Malorčanov/Y po:adjective
@@ -55446,8 +55430,7 @@ Malužinskej
 malva
 Malvaz
 malvázia/U po:noun is:feminine
-malvazinka
-Malvazinkách
+malvazinka/zZ po:noun is:feminine
 malverzácia/U po:noun is:feminine
 malvica/U po:noun is:feminine
 malvička/zZ po:noun is:feminine
@@ -55517,9 +55500,9 @@ mámor
 mamôn
 mamulienka/zZ po:noun is:feminine
 mamuľka/zZ po:noun is:feminine
-mamušenka
-mamušinka
-mamuška
+mamušenka/zZ po:noun is:feminine
+mamušinka/zZ po:noun is:feminine
+mamuška/zZ po:noun is:feminine
 mamut/C po:noun is:masculine
 mamutí/I po:adjective
 mamuťom
@@ -55570,9 +55553,7 @@ mandarínka/zZ po:noun is:feminine
 mandarinkové
 mandarínkový/YN po:adjective
 mandarínovi
-mandarínska
-mandarínskou
-mandarínsky
+mandarínsky/YN po:adjective
 mandát/B po:noun is:masculine
 mandatár
 mandatára
@@ -55587,9 +55568,7 @@ mandátorovi
 mandátovo
 mandátový/YN po:adjective
 mandeľ/J po:noun is:masculine
-mandelinka
-mandelinku
-mandelinky
+mandelinka/zZ po:noun is:feminine
 mandibula
 mandľa/U po:noun is:feminine
 mandlí
@@ -55607,10 +55586,8 @@ mandragora/zZ po:noun is:feminine
 mandril
 mandrilov
 mandž
-Mandžuska
-Mandžusko
-Mandžusku
-mandžusky
+Mandžusko/M po:noun is:neuter
+mandžusky po:adverb
 mandžuský/YN po:adjective
 Mane
 Mané
@@ -55758,14 +55735,13 @@ manitou
 manitu
 mank
 mánk
-Maňka
+Maňka/zZ po:noun is:feminine
 mankala
 mankanie/VN po:noun is:neutermankár/C po:noun is:masculine
 mankárka/zZ po:noun is:feminine
 mankárov/Y po:adjective
 mankať
 manko/M po:noun is:neuter
-Maňku
 manna/Z po:noun is:feminine
 manne
 mannou
@@ -55790,7 +55766,7 @@ manóza
 manský/YN po:adjective
 manšaftu
 manšester
-mantika
+mantika/zZ po:noun is:feminine
 mantila
 mantinel/B po:noun is:masculine
 mantinela
@@ -55892,8 +55868,7 @@ Maranom
 maras/B po:noun is:masculine
 maraschino
 marasia
-maraska
-Maraska
+maraska/zZ po:noun is:feminine
 maraskín
 maraskínach
 maraskínam
@@ -55911,7 +55886,7 @@ marcato
 Marcel/c po:noun is:masculine
 Marcela/zZ po:noun is:feminine
 Marcelino
-Marcelka
+Marcelka/zZ po:noun is:feminine
 Marcelov/Y po:adjective
 Marcelová/Y po:adjective
 marcia
@@ -55946,8 +55921,7 @@ margarín/B po:noun is:masculine
 margarínový/YN po:adjective
 margarit
 Margarite
-margecianska
-margeciansku
+margeciansky/YN po:adjective
 marginália/U po:noun is:feminine
 marginálnosť/K po:noun is:feminine
 marginálny/YN po:adjective
@@ -55988,12 +55962,7 @@ mariborských
 Mariboru
 marica
 Marie
-Marienka
-Marienkam
-Marienke
-Marienkou
-Marienku
-Marienky
+Marienka/zZ po:noun is:feminine
 marieť
 Marieta
 Marietou
@@ -56006,13 +55975,8 @@ Máriinej
 Máriinom
 Máriiných
 marij
-Marík
-Marika
-Marike
-Marikou
+Marika/zZ po:noun is:feminine
 Maríková/Y po:adjective
-Mariku
-Mariky
 marimba
 Marin
 Marina
@@ -56044,7 +56008,7 @@ marionetka/zZ po:noun is:feminine
 marionetový/YN po:adjective
 marioniet
 Máriov/Y po:adjective
-mariška
+mariška/zZ po:noun is:feminine
 mariť/EN po:verb
 maritímny/YN po:adjective
 maritimných
@@ -56069,7 +56033,7 @@ markgróf
 Markin
 markírovať/WN po:verb
 markitán
-markitánka
+markitánka/zZ po:noun is:feminine
 markíz/C po:noun is:masculine
 markíza/zZ po:noun is:feminine
 markízach
@@ -56093,7 +56057,7 @@ Markovi
 Markovo
 Markovský/YN po:adjective
 Markus
-Markuška
+Markuška/zZ po:noun is:feminine
 markušovský/Y po:adjective
 markýzy
 marmelád
@@ -56211,8 +56175,7 @@ martýrstvach
 martýrstvam
 martýrstvo/M po:noun is:neuter
 Maru
-Maruška
-Marušku
+Maruška/zZ po:noun is:feminine
 marx
 Marx
 Marxa
@@ -56359,7 +56322,7 @@ mastičovi
 mastidlá
 mastidlo
 mastif
-mastika
+mastika/zZ po:noun is:feminine
 mastikácia/U po:noun is:feminine
 mastime
 mastiť/EN po:verb
@@ -56405,7 +56368,7 @@ mašinka/zZ po:noun is:feminine
 mašinový/YN po:adjective
 mašírovanie/VN po:noun is:neuter
 mašírovať/WN po:verb
-Maška
+Maška/zZ po:noun is:feminine
 maškár
 maškara/zZ po:noun is:feminine
 maškarád
@@ -56534,8 +56497,7 @@ match
 matchball
 mati
 Matias
-Matiaška
-Matiašku
+Matiaška/zZ po:noun is:feminine
 Matiašovský/YN po:adjective
 matica/U po:noun is:feminine
 maticovo
@@ -56608,7 +56570,7 @@ matrilokálny/Y po:adjective
 matrimónium
 Matrin
 matrinómium/M po:noun is:neuter
-matrioška
+matrioška/zZ po:noun is:feminine
 Matrix
 matrixe
 matroklinita
@@ -56659,7 +56621,7 @@ Mauretánca
 Mauretánec
 Mauretáni
 Mauretánia/U po:noun is:feminine
-Mauretánka
+Mauretánka/zZ po:noun is:feminine
 mauretánsky
 Maurícia
 Maurícijčan/c po:noun is:masculine
@@ -56685,7 +56647,7 @@ Maurová/Y po:adjective
 maurský/YN po:adjective
 Maurus
 Maury
-mauzerka
+mauzerka/zZ po:noun is:feminine
 mauzóleový/Y po:adjective
 mauzóleum/M po:noun is:neuter
 mávačka/zZ po:noun is:feminine
@@ -56728,7 +56690,7 @@ maz/B po:noun is:masculine
 mazací/I po:adjective
 mazáč
 Mazáča
-Mazáčka
+Mazáčka/zZ po:noun is:feminine
 Mazáčom
 mazadlo/M po:noun is:neuter
 mazák/C po:noun is:masculine
@@ -56777,7 +56739,7 @@ mazový/YN po:adjective
 mazuľa
 mazuli
 mazuľkať
-mazurka
+mazurka/zZ po:noun is:feminine
 mazúrka/zZ po:noun is:feminine
 mazúrkový/YN po:adjective
 mazut/B po:noun is:masculine
@@ -56800,7 +56762,7 @@ mäkčidlo/M po:noun is:neuter
 mäkčime
 mäkčiť/EN po:verb
 mäkčite
-mäkka
+mäkka po:adverb st:"do mäkka"
 mäkko/N po:adverb
 mäkkosť/K po:noun is:feminine
 mäkký/YN po:adjective
@@ -56964,7 +56926,7 @@ medaloman
 medár/C po:noun is:masculine
 Medard/c po:noun is:masculine
 Medardov/Y po:adjective
-medárka
+medárka/zZ po:noun is:feminine
 medárov/Y po:adjective
 medársky
 Medea/zZ po:noun is:feminine
@@ -57083,17 +57045,12 @@ medovica/U po:noun is:feminine
 medovicový/YN po:adjective
 medovina/zZ po:noun is:feminine
 medovinka/zZ po:noun is:feminine
-medovka
-medovku
-medovky
+medovka/zZ po:noun is:feminine
 medovníček/B po:noun is:masculine
-medovníčka
-medovníčkami
+medovníčka/zZ po:noun is:feminine
 medovníčkoch
 medovníčkom
 medovníčkov
-medovníčku
-medovníčky
 medovník/B po:noun is:masculine
 medovnikár/C po:noun is:masculine
 medovnikárov/Y po:adjective
@@ -57423,7 +57380,7 @@ melanínu
 melanizmus/B po:noun is:masculine
 melanodermia
 melanóm
-melanoplastika
+melanoplastika/zZ po:noun is:feminine
 melanóza
 melanterit
 melanž
@@ -57440,7 +57397,7 @@ Melčický/YN po:adjective
 Melek
 meliaci
 Meliata
-melika
+melika/zZ po:noun is:feminine
 mélika/zZ po:noun is:feminine
 Melinda
 Melinde
@@ -57646,7 +57603,7 @@ mentieka/zZ po:noun is:feminine
 mentiekový/YN po:adjective
 mentol/B po:noun is:masculine
 mentole
-mentolka
+mentolka/zZ po:noun is:feminine
 mentolový/YN po:adjective
 mentor/B po:noun is:masculine
 mentori
@@ -57720,19 +57677,16 @@ meristémovým
 Merit
 meriť/EN po:verb
 Merita
-merítka
 merítkach
 merítkam
-merítko
-merítkom
-merítku
+merítko/M  po:noun is:neuter
 merítok
 meritom
 meritórnosť/K po:noun is:feminine
 meritórny/YN po:adjective
 meritu
 meritum
-Merka
+Merka/zZ po:noun is:feminine
 merkantil
 merkantilista/H po:noun is:masculine
 merkantilistickej
@@ -57796,7 +57750,7 @@ meškávať/XN po:verb
 mešťan/c po:noun is:masculine
 mešťania
 mešťanosta/H po:noun is:masculine
-mešťanostka
+mešťanostka/zZ po:noun is:feminine
 mešťanostov/Y po:adjective
 mešťanostovia
 mešťanstvo/M po:noun is:neuter
@@ -57967,7 +57921,6 @@ metodistická
 metodistické
 metodistickej
 metodistov/Y po:adjective
-Metodka
 metodológ/c po:noun is:masculine
 metodológia/U po:noun is:feminine
 metodologicky
@@ -58068,7 +58021,7 @@ mezoterapia
 mezotorax
 mezozoické
 mezozoickým
-mezozoika
+mezozoika/zZ po:noun is:feminine
 mezozoikom
 mezozoikum
 mezúra
@@ -58182,7 +58135,6 @@ miestečiek
 miestečko/M po:noun is:neuter
 miestenka/zZ po:noun is:feminine
 miestenkový/YN po:adjective
-miestenstka
 miestnosť/K po:noun is:feminine
 miestnôstka/zZ po:noun is:feminine
 miestny/YN po:adjective
@@ -58345,7 +58297,7 @@ mikroedafón
 mikroekonómia/U po:noun is:feminine
 mikroekonomicky
 mikroekonomický/YN po:adjective
-mikroekonomika
+mikroekonomika/zZ po:noun is:feminine
 mikroelektronický/YN po:adjective
 mikroelektronika/zZ po:noun is:feminine
 mikroelementov
@@ -58444,18 +58396,7 @@ mikter
 Mikuláš/c po:noun is:masculine
 Mikulášov/Y po:adjective
 Mikulášová/Y po:adjective
-mikulášska
-mikulášske
-mikulášskeho
-Mikulášskej
-mikulášski
-mikulášskom
-mikulášskou
-mikulášsku
-mikulášsky
-mikulášskych
-mikulášskym
-mikulášskymi
+mikulášsky/YN po:adjective
 mikulka/zZ po:noun is:feminine
 mikulkový/YN po:adjective
 Mikulov
@@ -58507,17 +58448,9 @@ miliarda/zZ po:noun is:feminine
 miliardách
 miliardám
 miliardár/C po:noun is:masculine
-miliardárka
-miliardárkou
+miliardárka/zZ po:noun is:feminine
 miliardárov/Y po:adjective
-miliardárska
-miliardárske
-miliardárskeho
-miliardárskej
-miliardárskom
-miliardárskou
-miliardársky
-miliardárskych
+miliardársky/YN po:adjective
 miliardovo
 miliardový/YN po:adjective
 miliardtina
@@ -58531,7 +58464,6 @@ milicionárka/zZ po:noun is:feminine
 milicionárov/Y po:adjective
 milicionársky/YN po:adjective
 miličný/YN po:adjective
-Miliek
 milier/J po:noun is:masculine
 miliermi
 milierový/YN po:adjective
@@ -58546,22 +58478,9 @@ milinewton
 miliohm
 milión/B po:noun is:masculine
 milionár/C po:noun is:masculine
-milionárka
-milionárkou
-milionárku
-milionárky
-milionárok
+milionárka/zZ po:noun is:feminine
 milionárov/Y po:adjective
-milionárska
-milionárske
-milionárskeho
-milionárskej
-milionárskom
-milionárskou
-milionársku
-milionársky
-milionárskych
-milionárskymi
+milionársky/YN po:adjective
 miliónik/B po:noun is:masculine
 miliónkrát
 miliónovo
@@ -58592,11 +58511,9 @@ mílius
 milivolt
 miliwatt
 miliwattov
-Milka
+Milka/zZ po:noun is:feminine
 Milkina
 milkovať/WN po:verb
-Milku
-Milky
 millefiori
 míľnik/B po:noun is:masculine
 míľnikový/Y po:adjective
@@ -58664,7 +58581,7 @@ milunký/YN po:adjective
 Miluša
 Miluše
 Miluši
-Miluška
+Miluška/zZ po:noun is:feminine
 Milušou
 Milušu
 Mily
@@ -58693,17 +58610,7 @@ mimoamerických
 mimoamerickými
 mimobežka/zZ po:noun is:feminine
 mimobratislavský/YN po:adjective
-mimoeurópska
-mimoeurópske
-mimoeurópskej
-mimoeurópskemu
-mimoeurópski
-mimoeurópskou
-mimoeurópsku
-mimoeurópsky
-mimoeurópskych
-mimoeurópskym
-mimoeurópskymi
+mimoeurópsky/YN po:adjective
 mimochodom
 mimoidúci
 mimojazykový/YN po:adjective
@@ -58891,7 +58798,7 @@ miništrujúci
 mínium/M po:noun is:neuter
 mink
 Mink
-Minka
+Minka/zZ po:noun is:feminine
 Minkov
 minky
 minnesang
@@ -58932,7 +58839,7 @@ minulostný/YN po:adjective
 minulotýždňový/YN po:adjective
 minulý/YN po:adjective
 mínus/B po:noun is:masculine
-mínuska
+mínuska/zZ po:noun is:feminine
 minuskula/zZ po:noun is:feminine
 mínusovo
 mínusový/Y po:adjective
@@ -58953,8 +58860,7 @@ mión
 mióza
 Miquelon
 Mír
-mirabelka
-mirabelky
+mirabelka/zZ po:noun is:feminine
 mirabilit
 miracídium
 mirakulózny/YN po:adjective
@@ -58967,11 +58873,11 @@ Miriamách
 Miriamám
 mirínd
 mirinda/zZ po:noun is:feminine
-Mirka
+Mirka/zZ po:noun is:feminine
 Mirko
 Mirkovi
 Miro
-miroelektronika
+miroelektronika/zZ po:noun is:feminine
 Miroľa
 Miroslav/c po:noun is:masculine
 Miroslava/zZ po:noun is:feminine
@@ -59025,10 +58931,9 @@ mistrom
 mistrov
 misurato
 Miša
-Miška
+Miška/zZ po:noun is:feminine
 miškár/C po:noun is:masculine
 miškárov/Y po:adjective
-Miške
 Miško
 Miškom
 miškovanie/VN po:noun is:neuter
@@ -59038,7 +58943,6 @@ Miškovčanov/Y po:adjective
 Miškovec/J po:noun is:masculine
 miškovecký/YN po:adjective
 miškovský/YN po:adjective
-Mišku
 mišmaš/J po:noun is:masculine
 mišna
 Mišo
@@ -59744,9 +59648,10 @@ Modra/z po:noun is:feminine
 Modrák
 modrám
 Modran/c po:noun is:masculine
+Modranec/C po:noun is:masculine
 modranie/VN po:noun is:neuterModranov/Y po:adjective
 modranský/YN po:adjective
-Modrany
+Modrany/Q
 modrasto
 modrastý/YN po:adjective
 modravo/N po:adverb
@@ -59757,17 +59662,8 @@ modrejú
 modrejúc
 modrené
 Modrianka/zZ po:noun is:feminine
-modrianska
-modrianske
-modrianskeho
-modrianskemu
-modrianski
-modriansku
 modriansky/N po:adverb
-modrianský/YN po:adjective
-modrianskych
-modrianskym
-modrianskymi
+modriansky/YN po:adjective
 modridlo/M po:noun is:neuter
 modrieť/XN po:verb
 modrina/zZ po:noun is:feminine
@@ -59793,9 +59689,7 @@ modrotlačiam
 modrotlačou
 modrotlačový/YN po:adjective
 Modrová/Y po:adjective
-Modrovka
-Modrovke
-Modrovku
+Modrovka/zZ po:noun is:feminine
 modrozelený/YN po:adjective
 modručký/YN po:adjective
 modrulinký/YN po:adjective
@@ -59956,9 +59850,7 @@ mokrina/zZ po:noun is:feminine
 mokrinka/zZ po:noun is:feminine
 mokriť/EN po:verb
 mokro/M po:noun is:neuter
-mokrohájska
-Mokrohájskej
-Mokrohájsky
+mokrohájsky/YN po:adjective
 Mokroluh
 mokrosť/K po:noun is:feminine
 mokrota/zZ po:noun is:feminine
@@ -60088,7 +59980,7 @@ mongolčinách
 mongolčinám
 mongolčinami
 mongolizmus/B po:noun is:masculine
-Mongolka
+Mongolka/zZ po:noun is:feminine
 mongoloidný/YN po:adjective
 Mongolov/Y po:adjective
 Mongolsko/M po:noun is:neuter
@@ -60267,7 +60159,7 @@ monštruózny/YN po:adjective
 Mont
 montagnolo
 Montana/zZ po:noun is:feminine
-montanistika
+montanistika/zZ po:noun is:feminine
 montánny/YN po:adjective
 montanskom
 montasio
@@ -60402,7 +60294,7 @@ mordovať/WN po:verb
 mordovísk
 mordovisko/M po:noun is:neuter
 more/S po:noun is:neuter
-morelka
+morelka/zZ po:noun is:feminine
 Moren
 morén
 Morena/zZ po:noun is:feminine
@@ -60549,11 +60441,7 @@ mostina/zZ po:noun is:feminine
 mostmi
 mostnica/U po:noun is:feminine
 mostný/YN po:adjective
-mostoviek
-mostovka
-mostovkou
-mostovku
-mostovky
+mostovka/zZ po:noun is:feminine
 mostový/YN po:adjective
 mosúriť/XN po:verb
 Moškovec
@@ -61305,7 +61193,7 @@ múrový/YN po:adjective
 murra
 MUS po:acronym
 Musa
-musaka
+musaka/zZ po:noun is:feminine
 Muse
 music
 musieť/RN po:verb
@@ -61481,7 +61369,7 @@ mycélium
 mycella
 mycetofág
 mycí/I po:adjective
-myčka
+myčka/zZ po:noun is:feminine
 mydielko/M po:noun is:neuter
 mydielok
 mydlár
@@ -61641,7 +61529,7 @@ myšiak/C po:noun is:masculine
 myšiakov/Y po:adjective
 myšiaky
 myšička/zZ po:noun is:feminine
-myšilovka
+myšilovka/zZ po:noun is:feminine
 myšina/zZ po:noun is:feminine
 myšiť
 myška/zZ po:noun is:feminine
@@ -62225,7 +62113,7 @@ nadnárodný/YN po:adjective
 nadnášanie/V po:noun is:neuter
 nadnášaný/YN po:adjective
 nadnášať/XN po:verb
-nadnáška
+nadnáška/zZ po:noun is:feminine
 nadnesene/N po:adverb
 nadnesenosť/K po:noun is:feminine
 nadnesený/YN po:adjective
@@ -62310,8 +62198,7 @@ nadpodnikovej
 nadpodnikovú
 nadpolovične
 nadpolovičný/YN po:adjective
-nadponuka
-nadponukou
+nadponuka/zZ po:noun is:feminine
 nadporučícky/YN po:adjective
 nadporučíčka/zZ po:noun is:feminine
 nadporučík/C po:noun is:masculine
@@ -62421,11 +62308,7 @@ nadsadili
 nadsadilo
 nadsadím
 nadsadiť
-nadsádzka
-nadsádzke
-nadsádzkou
-nadsádzku
-nadsádzky
+nadsádzka/zZ po:noun is:feminine
 nadsadzovanie/VN po:noun is:neuter
 nadsadzovaný/YN po:adjective
 nadsadzovať/WN po:verb
@@ -62606,10 +62489,7 @@ nadžgávať/XN po:verb
 nadživotný/YN po:adjective
 naevus
 nafackať/EN po:verb
-nafajči
-nafajčime
-nafajčiť/EN po:verb
-nafajčite
+nafajčiť/XN po:verb
 nafarbenie/V po:noun is:neuter
 nafarbený/YN po:adjective
 nafarbi
@@ -62699,7 +62579,7 @@ nahádžme
 nahádžte
 nahádžu
 nahádžuc
-nahajka
+nahajka/zZ po:noun is:feminine
 naháňači
 naháňačka/zZ po:noun is:feminine
 naháňačov
@@ -62867,12 +62747,7 @@ nahrávanie/V po:noun is:neuter
 nahrávaný/YN po:adjective
 nahrávať/XN po:verb
 nahrávka/zZ po:noun is:feminine
-náhražiek
-náhražka
-náhražkami
-náhražkou
-náhražku
-náhražky
+náhražka/zZ po:noun is:feminine
 nahrbenie/V po:noun is:neuter
 nahrbený/YN po:adjective
 nahrbiť/EN po:verb
@@ -63002,7 +62877,7 @@ nachystať/EN po:verb
 nachytaný/YN po:adjective
 nachytať/EN po:verb
 nachytro
-naidka
+naidka/zZ po:noun is:feminine
 naigeria
 naimportovaný/YN po:adjective
 naimportovať/WN po:verb
@@ -63179,17 +63054,11 @@ nákladísk
 nákladisko/M po:noun is:neuter
 nákladíšť
 nákladišťa
-nákladišťami
-nákladište/S po:noun is:neuter
+nákladište/Q po:noun is:neuter
 nákladišti
 nákladišťom
 nákladišťu
-Nákladka
 nakládka/zZ po:noun is:feminine
-nákladkové
-nákladkovej
-nákladku
-nákladky
 nákladne/N po:adverb
 nákladniak/B po:noun is:masculine
 nákladnosť/K po:noun is:feminine
@@ -63773,7 +63642,7 @@ nánožník
 nánožníky
 Nantes
 Nantesan/c po:noun is:masculine
-Nantesanka
+Nantesanka/zZ po:noun is:feminine
 Nantesanov/Y po:adjective
 nanteský/YN po:adjective
 nantský/YN po:adjective
@@ -64260,7 +64129,7 @@ naprostý/YN po:adjective
 naproti
 naprotiveň
 náprotivne
-náprotivníka
+náprotivník/C po:noun is:masculine
 náprotivný/YN po:adjective
 náprotivok/O po:noun is:masculine
 náprovitný/Y po:adjective
@@ -64482,14 +64351,7 @@ narodiť/EN po:verb
 národne/N po:adverb
 národniar/C po:noun is:masculine
 národniarov/Y po:adjective
-národniarska
-národniarskeho
-národniarskej
-národniarski
-národniarsku
-národniarsky
-národniarskych
-národniarskymi
+národniarsky/YN po:adjective
 národno
 národnobuditeľské
 národnodemokratický/YN po:adjective
@@ -64703,7 +64565,7 @@ násilnícky/YN po:adjective
 násilníctvach
 násilníctvam
 násilníctvo/M po:noun is:neuter
-násilníčka
+násilníčka/zZ po:noun is:feminine
 násilník/C po:noun is:masculine
 násilníkov/Y po:adjective
 násilno
@@ -65036,18 +64898,10 @@ nastúpenie/V po:noun is:neuter
 nastúpený/YN po:adjective
 nástupicko
 nástupísk
-nástupiska
-nástupiská
-nástupiskách
-nástupiskám
-nástupiskami
-nástupisko/N po:adverb
-nástupiskom
-nástupisku
+nástupisko/M po:noun is:neuter
 nástupíšť
 nástupišťa
-nástupišťami
-nástupište/S po:noun is:neuter
+nástupište/Q po:noun is:neuter
 nástupišti
 nástupišťom
 nástupišťu
@@ -65273,7 +65127,7 @@ Natália/U po:noun is:feminine
 natalita/zZ po:noun is:feminine
 natalitná
 natalitnú
-Natálka
+Natálka/zZ po:noun is:feminine
 natálny/YN po:adjective
 natankovanie/VN po:noun is:neuter
 natankovaný/YN po:adjective
@@ -65460,7 +65314,7 @@ náustok/O po:noun is:masculine
 náušnica/U po:noun is:feminine
 náušnička/zZ po:noun is:feminine
 nautický/YN po:adjective
-nautika
+nautika/zZ po:noun is:feminine
 Nautile
 nautilu
 nautilus
@@ -65537,7 +65391,7 @@ náves/B po:noun is:masculine
 navesená
 navesené
 navesených
-náveska
+náveska/zZ po:noun is:feminine
 návesný/YN po:adjective
 návesový/YN po:adjective
 návesť/K po:noun is:feminine
@@ -65607,7 +65461,7 @@ navláčiť/XN po:verb
 navlas
 navlažiť
 navlečenú
-návlečka
+návlečka/zZ po:noun is:feminine
 navlek
 návlek/B po:noun is:masculine
 navlhavý/YN po:adjective
@@ -65625,8 +65479,7 @@ navlhnúť/WN
 navlhnutiu
 navlhnutý/YN po:adjective
 navliecť/RN po:verb
-návliečka
-návliečky
+návliečka/zZ po:noun is:feminine
 navliekacej
 navliekacieho
 navliekanie/V po:noun is:neuter
@@ -66157,8 +66010,7 @@ nebožký/Y po:adjective
 nebožtík/C po:noun is:masculine
 nebožtíkov/Y po:adjective
 nebráneniu
-Nebraska
-Nebraske
+Nebraska/zZ po:noun is:feminine
 nebratie
 Nebratie
 nebrbce
@@ -67478,12 +67330,6 @@ nedychtime
 nedychtite
 nedžavotajúc
 neekonomickosť/K po:noun is:feminine
-nefajčenie/V po:noun is:neuter
-nefajči
-nefajčiarka
-nefajčiarsky/Y po:adjective
-nefajčime
-nefajčite
 nefalšovane
 nefalšovanosť/K po:noun is:feminine
 nefandi
@@ -69105,9 +68951,6 @@ nenadužime
 nenadužite
 nenadviažuc
 nenadžganec
-nenafajči
-nenafajčime
-nenafajčite
 nenafarbi
 nenafarbime
 nenafarbite
@@ -70749,8 +70592,7 @@ neondime
 neondite
 neoneskor
 neoneskorte
-neónka
-neónkou
+neónka/zZ po:noun is:feminine
 neónový/Y po:adjective
 neoným
 neopakovateľne/N po:adverb
@@ -71682,9 +71524,6 @@ nepodviažte
 nepodviažu
 nepodviažuc
 nepodvratnosť/K po:noun is:feminine
-nepofajči
-nepofajčime
-nepofajčite
 nepofrancúzšť
 nepofrancúzšti
 nepofrancúzštia
@@ -72812,9 +72651,6 @@ nepredznamenávame
 nepredznamenávaš
 nepredznamenávať
 nepredznamenávate
-neprefajči
-neprefajčime
-neprefajčite
 neprefarbi
 neprefarbime
 neprefarbite
@@ -73795,7 +73631,7 @@ nerinčime
 nerinčite
 neriskujúci
 neritický/Y po:adjective
-nerka
+nerka/zZ po:noun is:feminine
 Nero
 nerobenie/V po:noun is:neuter
 nerobiaci
@@ -76876,9 +76712,6 @@ nevydupáš
 nevydupáte
 nevydur
 nevydurte
-nevyfajči
-nevyfajčime
-nevyfajčite
 nevyfáraných
 nevyfarbi
 nevyfarbime
@@ -78052,9 +77885,6 @@ nezadychčite
 nezaerdži
 nezaerdžime
 nezaerdžite
-nezafajči
-nezafajčime
-nezafajčite
 nezafarbi
 nezafarbime
 nezafarbite
@@ -80609,19 +80439,7 @@ nitrátový/YN po:adjective
 nitrátu
 nitráty
 Nitrian
-Nitrianska
-Nitrianske
-nitrianskeho
-nitrianskej
-nitrianskemu
-nitrianski
-nitrianskom
-nitrianskou
-nitriansku
-nitriansky
-Nitrianskych
-nitrianskym
-nitrianskymi
+nitriansky/YN po:adjective
 Nitrica
 Nitrice
 Nitrici
@@ -80722,8 +80540,8 @@ nížinatý/YN po:adjective
 nížinný/YN po:adjective
 nížiť
 nižne
-Nižnianska
-Nižnoslanská
+nižniansky/YN po:adjective
+nižnoslanský/YN po:adjective
 nižný/YN po:adjective
 Nižovec
 nižší/PF po:adjective
@@ -80916,14 +80734,10 @@ Norimberčanov/Y po:adjective
 Norimberg/B po:noun is:masculine
 norimberský/YN po:adjective
 noriť/EN po:verb
-Nórka
 norka/zZ po:noun is:feminine
-Nórkam
-Nórke
+Nórka/zZ po:noun is:feminine
 norkom
 norkový/YN po:adjective
-Nórku
-Nórky
 norma/zZ po:noun is:feminine
 normál/B po:noun is:masculine
 normála/zZ po:noun is:feminine
@@ -81022,7 +80836,6 @@ nosiť/EN po:verb
 nositeľ/c po:noun is:masculine
 nositeľka/zZ po:noun is:feminine
 nositeľov/Y po:adjective
-nosítka
 nosivo
 noskyňa
 nosne
@@ -81110,19 +80923,7 @@ nóv
 nov/B po:noun is:masculine
 Nováci
 novácia/U po:noun is:feminine
-novácka
-Novácke
-nováckeho
-nováckej
-nováckemu
-Novácki
-nováckom
-nováckou
-novácku
-novácky
-Nováckych
-Nováckym
-Nováckymi
+novácky/YN po:adjective
 nováčik/c po:noun is:masculine
 nováčikov/Y po:adjective
 nováčikovský/YN po:adjective
@@ -81236,17 +81037,7 @@ novogréčtinách
 novogréčtinám
 novogréčtinami
 novoind
-Novojičínska
-novojičínske
-novojičínskeho
-novojičínskej
-novojičínskemu
-novojičínskom
-novojičínskou
-Novojičínsku
-novojičínsky
-novojičínskych
-novojičínskym
+novojičínsky/YN po:adjective
 novokaín/B po:noun is:masculine
 novokaínový/YN po:adjective
 novoklasicistický/YN po:adjective
@@ -81633,10 +81424,9 @@ nymfeum
 nymfický/YN po:adjective
 nymfitída
 nymfománia
-nymfomanka
+nymfomanka/zZ po:noun is:feminine
 nymfotómia
 nymphaeum
-nynfomanka
 nystagmus/B po:noun is:masculine
 ó
 Ó
@@ -99269,11 +99059,8 @@ poézia/U po:noun is:feminine
 pofa
 pofačovať/WN po:verb
 pofajčenie/V po:noun is:neuter
-pofajči
 pofajčievať/XN po:verb
-pofajčime
-pofajčiť/EN po:verb
-pofajčite
+pofajčiť/XN po:verb
 pofajkať
 pofára
 pofarbenie/V po:noun is:neuter
@@ -107815,10 +107602,7 @@ prefabrikátmi
 prefabrikovaný/YN po:adjective
 prefabrikovať/WN po:verb
 prefácia/U po:noun is:feminine
-prefajči
-prefajčime
-prefajčiť/EN po:verb
-prefajčite
+prefajčiť/XN po:verb
 prefarbenie/V po:noun is:neuter
 prefarbený/YN po:adjective
 prefarbi
@@ -157970,10 +157754,7 @@ vyfajčenej
 vyfajčenie/V po:noun is:neuter
 vyfajčených
 vyfajčenými
-vyfajči
-vyfajčime
-vyfajčiť/EN po:verb
-vyfajčite
+vyfajčiť/XN po:verb
 vyfakturovaný/YN po:adjective
 vyfaktúrovaný/YN po:adjective
 vyfakturovať/WN po:verb
@@ -164733,10 +164514,7 @@ zafačovať/WN po:verb
 zafafraný/YN po:adjective
 zafafrať
 zafajčený/YN po:adjective
-zafajči
-zafajčime
-zafajčiť/EN po:verb
-zafajčite
+zafajčiť/XN po:verb
 zafajkovať/WN po:verb
 zafakliť/EN po:verb
 zafarbenie/V po:noun is:neuter
