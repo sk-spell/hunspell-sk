@@ -1,4 +1,4 @@
-176244
+175941
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -14062,23 +14062,11 @@ CZV po:acronym
 ČTK po:acronym
 čubrica
 čuč
-čučal
-čučala
-čučali
-čučalo
-čučať
-čučí
-čučia
-čučiac
-čučím
-čučíme
-čučíš
-čučíte
+čučať/RN po:verb
 čučko/L po:noun is:masculine
 čučkov/Y po:adjective
 čučky
 Čučma
-čučme
 Čučmianska
 čučo/c po:noun is:masculine
 čučoredie
@@ -14086,7 +14074,6 @@ CZV po:acronym
 čučoriedka/zZ po:noun is:feminine
 čučoriedkový/Y po:adjective
 čučov/Y po:adjective
-čučte
 čučuľkať
 čúd
 čudácky/YN po:adjective
@@ -60833,20 +60820,7 @@ mŕtvotami
 mŕtvy/YN po:adjective
 mrúc
 mruč
-mručal
-mručala
-mručali
-mručalo
-mručať
-mručí
-mručia
-mručiac
-mručím
-mručíme
-mručíš
-mručíte
-mručme
-mručte
+mručať/RN po:verb
 mrva/zZ po:noun is:feminine
 mrvách
 mrvám
@@ -66464,20 +66438,7 @@ nečlovekov/Y po:adjective
 nečloveku
 nečrpania
 nečuč
-nečučal
-nečučala
-nečučali
-nečučalo
 nečučať/N po:adverb
-nečučí
-nečučia
-nečučiac
-nečučím
-nečučíme
-nečučíš
-nečučíte
-nečučme
-nečučte
 nečudo
 nečuchre
 nečuchrem
@@ -68844,20 +68805,6 @@ nemrnčime
 nemrnčite
 nemrúc
 nemruč
-nemručal
-nemručala
-nemručali
-nemručalo
-nemručať
-nemručí
-nemručia
-nemručiac
-nemručím
-nemručíme
-nemručíš
-nemručíte
-nemručme
-nemručte
 nemrz
 nemstím
 Nemšová/Y po:adjective
@@ -70228,21 +70175,9 @@ neodseď
 neodsedených
 neodsíril
 neodslúženú
-neodspal
-neodspala
-neodspali
-neodspalo
-neodspať
 neodspi
-neodspí
-neodspia
-neodspiac
-neodspím
 neodspime
-neodspíme
-neodspíš
 neodspite
-neodspíte
 neodstatom
 neodstavenie/V po:noun is:neuter
 neodstránenie/V po:noun is:neuter
@@ -77403,21 +77338,6 @@ nevyškrabúvame
 nevyškrabúvaš
 nevyškrabúvať
 nevyškrabúvate
-nevyškriab
-nevyškriabal
-nevyškriabala
-nevyškriabali
-nevyškriabalo
-nevyškriabať
-nevyškriabe
-nevyškriabem
-nevyškriabeme
-nevyškriabeš
-nevyškriabete
-nevyškriabme
-nevyškriabte
-nevyškriabu
-nevyškriabuc
 nevyškvar
 nevyškvarte
 nevyšľahúva
@@ -77529,38 +77449,8 @@ nevyvrav
 nevyvraždi
 nevyvraždime
 nevyvraždite
-nevyvrtáva
-nevyvrtávaj
-nevyvrtávajme
-nevyvrtávajte
-nevyvrtávajú
-nevyvrtávajúc
-nevyvrtával
-nevyvrtávala
-nevyvrtávali
-nevyvrtávalo
-nevyvrtávam
-nevyvrtávame
-nevyvrtávaš
-nevyvrtávať
-nevyvrtávate
 nevyvrúc
 nevyvstáva
-nevyzdravej
-nevyzdravejme
-nevyzdravejte
-nevyzdravejú
-nevyzdravejúc
-nevyzdravel
-nevyzdravela
-nevyzdraveli
-nevyzdravelo
-nevyzdravie
-nevyzdraviem
-nevyzdravieme
-nevyzdravieš
-nevyzdravieť
-nevyzdraviete
 nevyzdvihnutie/V po:noun is:neuter
 Nevyznačením
 nevyzradenia
@@ -77653,21 +77543,6 @@ nezababrime
 nezababrite
 nezababrú
 nezababrúc
-nezabáča
-nezabáčaj
-nezabáčajme
-nezabáčajte
-nezabáčajú
-nezabáčajúc
-nezabáčal
-nezabáčala
-nezabáčali
-nezabáčalo
-nezabáčam
-nezabáčame
-nezabáčaš
-nezabáčať
-nezabáčate
 nezabasla
 nezabasli
 nezabaslo
@@ -77694,21 +77569,6 @@ nezabelejúc
 nezaberajúci
 nezabezpečenie/V po:noun is:neuter
 nezabľač
-nezabliká
-nezablikaj
-nezablikajme
-nezablikajte
-nezablikajú
-nezablikajúc
-nezablikal
-nezablikala
-nezablikali
-nezablikalo
-nezablikám
-nezablikáme
-nezablikáš
-nezablikať
-nezablikáte
 nezablyšť
 nezablyšťme
 nezablyšťte
@@ -77766,21 +77626,6 @@ nezacelejúc
 nezacelenie/V po:noun is:neuter
 nezacer
 nezacerte
-nezacnej
-nezacnejme
-nezacnejte
-nezacnejú
-nezacnejúc
-nezacnel
-nezacnela
-nezacneli
-nezacnelo
-nezacnie
-nezacniem
-nezacnieme
-nezacnieš
-nezacnieť
-nezacniete
 nezacvendži
 nezacvendžime
 nezacvendžite
@@ -77804,42 +77649,7 @@ nezadaždite
 nezadebni
 nezadebnime
 nezadebnite
-nezadiera
-nezadieraj
-nezadierajme
-nezadierajte
-nezadierajú
-nezadierajúc
-nezadieral
-nezadierala
-nezadierali
-nezadieralo
-nezadieram
-nezadierame
-nezadieraš
-nezadierať
-nezadierate
 nezadlho
-nezadĺžia
-nezadĺžil
-nezadĺžila
-nezadĺžili
-nezadĺžime
-nezadrháva
-nezadrhávaj
-nezadrhávajme
-nezadrhávajte
-nezadrhávajú
-nezadrhávajúc
-nezadrhával
-nezadrhávala
-nezadrhávali
-nezadrhávalo
-nezadrhávam
-nezadrhávame
-nezadrhávaš
-nezadrhávať
-nezadrhávate
 nezadriemaj
 nezadriemajme
 nezadriemajte
@@ -77869,16 +77679,6 @@ nezadudrite
 nezadudrú
 nezadudrúc
 nezaduň
-nezadupá
-nezadupaj
-nezadupajme
-nezadupajte
-nezadupajú
-nezadupajúc
-nezadupám
-nezadupáme
-nezadupáš
-nezadupáte
 nezadychč
 nezadychči
 nezadychčime
@@ -77890,37 +77690,7 @@ nezafarbi
 nezafarbime
 nezafarbite
 nezafič
-nezafňuká
-nezafňukaj
-nezafňukajme
-nezafňukajte
-nezafňukajú
-nezafňukajúc
-nezafňukal
-nezafňukala
-nezafňukali
-nezafňukalo
-nezafňukám
-nezafňukáme
-nezafňukáš
-nezafňukať
-nezafňukáte
 nezafuč
-nezafúľa
-nezafúľaj
-nezafúľajme
-nezafúľajte
-nezafúľajú
-nezafúľajúc
-nezafúľal
-nezafúľala
-nezafúľali
-nezafúľalo
-nezafúľam
-nezafúľame
-nezafúľaš
-nezafúľať
-nezafúľate
 nezahádžu
 nezahádžuc
 nezahájenie/V po:noun is:neuter
@@ -78069,23 +77839,9 @@ nezajachci
 nezajachcime
 nezajachcite
 nezajajč
-nezajajčal
-nezajajčala
-nezajajčali
-nezajajčalo
-nezajajčať
 nezajajči
-nezajajčí
-nezajajčia
-nezajajčiac
-nezajajčím
 nezajajčime
-nezajajčíme
-nezajajčíš
 nezajajčite
-nezajajčíte
-nezajajčme
-nezajajčte
 nezajazdi
 nezajazdime
 nezajazdite
@@ -78853,20 +78609,6 @@ nezazrúc
 nezazver
 nezazverte
 nezazvuč
-nezazvučal
-nezazvučala
-nezazvučali
-nezazvučalo
-nezazvučať
-nezazvučí
-nezazvučia
-nezazvučiac
-nezazvučím
-nezazvučíme
-nezazvučíš
-nezazvučíte
-nezazvučme
-nezazvučte
 nezáživnosť/K po:noun is:feminine
 nezbabre
 nezbabrem
@@ -85630,16 +85372,9 @@ odsoľovací/IN po:adjective
 odsoľovanie/VN po:noun is:neuter
 odsoľovať/WN po:verb
 odsotiť/EN po:verb
-odspal
-odspala
-odspali
-odspalo
-odspať
+odspať/RN po:verb
 odspávať/XN po:verb
 odspi
-odspí
-odspia
-odspiac
 odspieval
 odspievanie/V po:noun is:neuter
 odspievaný/YN po:adjective
@@ -149697,20 +149432,7 @@ uslintaný/YN po:adjective
 úslužnosť/K po:noun is:feminine
 úslužný/YN po:adjective
 uslyš
-uslyšal
-uslyšala
-uslyšali
-uslyšalo
-uslyšať
-uslyší
-uslyšia
-uslyšiac
-uslyším
-uslyšíme
-uslyšíš
-uslyšíte
-uslyšme
-uslyšte
+uslyšať/RN po:verb
 uslzený/YN po:adjective
 usmažená
 usmažiť/EN po:verb
@@ -160834,21 +160556,7 @@ vyškrabúvame
 vyškrabúvaš
 vyškrabúvať
 vyškrabúvate
-vyškriab
-vyškriabal
-vyškriabala
-vyškriabali
-vyškriabalo
-vyškriabať
-vyškriabe
-vyškriabem
-vyškriabeme
-vyškriabeš
-vyškriabete
-vyškriabme
-vyškriabte
-vyškriabu
-vyškriabuc
+vyškriabať/TN po:verb
 vyškrobiť
 vyškrtá
 vyškrtajú
@@ -161680,31 +161388,17 @@ vývrt/B po:noun is:masculine
 vyvŕtanie/V po:noun is:neuter
 vyvŕtaných
 vyvŕtať/XN po:verb
-vyvrtáva
 vyvrtávacie
 vyvrtávacieho
 vyvrtávacích
 vyvrtávačka/zZ po:noun is:feminine
-vyvrtávaj
-vyvrtávajme
-vyvrtávajte
-vyvrtávajú
-vyvrtávajúc
-vyvrtával
-vyvrtávala
-vyvrtávali
-vyvrtávalo
-vyvrtávam
-vyvrtávame
 vyvrtávanie/V po:noun is:neuter
-vyvrtávaš
-vyvrtávať
-vyvrtávate
+vyvrtávať/XN po:verb
 vývrtiek
 vyvrtieť
 vývrtka/zZ po:noun is:feminine
 vývrtmi
-vyvrtnúť/WN
+vyvrtnúť/WN po:verb
 vyvrtnutie/V po:noun is:neuter
 vyvrtnutý/YN po:adjective
 vyvrúc
@@ -161716,7 +161410,7 @@ vývržkov
 vývržku
 vývržky
 vývržok/B po:noun is:masculine
-vyvstať/WN
+vyvstať/WN po:verb
 vyvstáva
 vyvstávajú
 vyvstávala
@@ -161765,24 +161459,10 @@ vyzdobený/YN po:adjective
 vyzdobiť/EN po:verb
 výzdobný/YN po:adjective
 vyzdobovať/WN po:verb
-vyzdravej
-vyzdravejme
-vyzdravejte
-vyzdravejú
-vyzdravejúc
-vyzdravel
-vyzdravela
-vyzdraveli
-vyzdravelo
 vyzdravení
-vyzdravie
-vyzdraviem
-vyzdravieme
-vyzdravieš
-vyzdravieť
-vyzdraviete
+vyzdravieť/XN po:verb
 vyzdravievať/XN po:verb
-vyzdvihnúť/WN
+vyzdvihnúť/WN po:verb
 vyzdvihnutie/V po:noun is:neuter
 vyzdvihnutý/YN po:adjective
 vyzdvihovanie/VN po:noun is:neuter
@@ -162194,16 +161874,8 @@ vzhľadne
 vzhľadný/YN po:adjective
 vzhľadovo
 vzhľadový/YN po:adjective
-vzhliada
-vzhliadajú
-vzhliadajúc
-vzhliadal
-vzhliadala
-vzhliadali
-vzhliadame
-vzhliadať
-vzhliadate
-vzhliadnuť/WN
+vzhliadať/XN po:verb
+vzhliadnuť/WN po:verb
 vzhliadnutej
 vzhliadnutí
 vzhliadnutých
@@ -162820,21 +162492,7 @@ zababrúc
 zababúliť
 zababušené
 zababušiť/EN po:verb
-zabáča
-zabáčaj
-zabáčajme
-zabáčajte
-zabáčajú
-zabáčajúc
-zabáčal
-zabáčala
-zabáčali
-zabáčalo
-zabáčam
-zabáčame
-zabáčaš
-zabáčať
-zabáčate
+zabáčať/XN po:verb
 zabádať
 zabafať/EN po:verb
 zabafkať/EN po:verb
@@ -162997,21 +162655,7 @@ zábleskový/YN po:adjective
 zableslo
 zablesnúť
 zabliakať/XN po:verb
-zabliká
-zablikaj
-zablikajme
-zablikajte
-zablikajú
-zablikajúc
-zablikal
-zablikala
-zablikali
-zablikalo
-zablikám
-zablikáme
-zablikáš
-zablikať
-zablikáte
+zablikať/EN po:verb
 zablokovanie/VN po:noun is:neuter
 zablokovaný/YN po:adjective
 zablokovať/WN po:verb
@@ -163239,22 +162883,8 @@ záclonka/zZ po:noun is:feminine
 záclonovina/zZ po:noun is:feminine
 záclonový/YN po:adjective
 zacmukať/EN po:verb
-zacnej
-zacnejme
-zacnejte
-zacnejú
-zacnejúc
-zacnel
-zacnela
-zacneli
-zacnelo
 zacnenie/V po:noun is:neuter
-zacnie
-zacniem
-zacnieme
-zacnieš
-zacnieť
-zacniete
+zacnieť/XN po:verb
 zacundraný/YN po:adjective
 zacundrať
 zacupkať/EN po:verb
@@ -163434,22 +163064,9 @@ záderčivý/YN po:adjective
 záderka/zZ po:noun is:feminine
 Zádiel
 zádielsky/YN po:adjective
-zadiera
 zadierač
-zadieraj
-zadierajme
-zadierajte
-zadierajú
-zadierajúc
-zadieral
-zadierala
-zadierali
-zadieralo
-zadieram
-zadierame
 zadieranie/VN po:noun is:neuterzadieraš
-zadierať
-zadierate
+zadierať/XN po:verb
 zadieravý/YN po:adjective
 zadina
 zadirigovať/WN po:verb
@@ -163466,16 +163083,7 @@ zadlženosť/K po:noun is:feminine
 zadĺženosť/K po:noun is:feminine
 zadlžený/YN po:adjective
 zadĺžený/YN po:adjective
-zadĺži
-zadĺžil
-zadĺžila
-zadĺžili
-zadĺžilo
-zadĺžim
-zadĺžime
-zadĺžiť
-zadlžiť/EN po:verb
-zadĺžite
+zadĺžiť/XN po:verb
 zadlžovací
 zadlžovanie/VN po:noun is:neuter
 zadlžovaný/YN po:adjective
@@ -163536,22 +163144,8 @@ zadretiu
 zadretý/YN po:adjective
 zádrh/B po:noun is:masculine
 zadŕhať/XN po:verb
-zadrháva
-zadrhávaj
-zadrhávajme
-zadrhávajte
-zadrhávajú
-zadrhávajúc
-zadrhával
-zadrhávala
-zadrhávali
-zadrhávalo
-zadrhávam
-zadrhávame
 zadrhávanie/V po:noun is:neuter
-zadrhávaš
-zadrhávať
-zadrhávate
+zadrhávať/XN po:verb
 zadŕhavo/N po:adverb
 zadŕhavosť/K po:noun is:feminine
 zadŕhavý/YN po:adjective
@@ -163652,17 +163246,7 @@ zadunajskom
 zadunajských
 zadunenie/V po:noun is:neuter
 zadunieť/RN po:verb
-zadupá
-zadupaj
-zadupajme
-zadupajte
-zadupajú
-zadupajúc
-zadupám
-zadupáme
-zadupáš
-zadupať/TN po:verb
-zadupáte
+zadupať/EN po:verb
 zadupávať/XN po:verb
 zadupkať/EN po:verb
 zaduplikovať/WN po:verb
@@ -163734,21 +163318,7 @@ zafixovať/WN po:verb
 zafľakovať/WN po:verb
 zafliaskať
 zafľúskať
-zafňuká
-zafňukaj
-zafňukajme
-zafňukajte
-zafňukajú
-zafňukajúc
-zafňukal
-zafňukala
-zafňukali
-zafňukalo
-zafňukám
-zafňukáme
-zafňukáš
-zafňukať
-zafňukáte
+zafňukať/EN po:verb
 zafŕkať/XN po:verb
 zafuč
 zafučať/RN po:verb
@@ -163758,23 +163328,9 @@ zafúkanie/V po:noun is:neuter
 zafúkať/XN po:verb
 zafukovanie/VN po:noun is:neuter
 zafukovať/WN po:verb
-zafúľa
-zafúľaj
-zafúľajme
-zafúľajte
-zafúľajú
-zafúľajúc
-zafúľal
-zafúľala
-zafúľali
-zafúľalo
-zafúľam
-zafúľame
 zafúľanec
 zafúľaný/YN po:adjective
-zafúľaš
-zafúľať
-zafúľate
+zafúľať/XN po:verb
 zafungovať/WN po:verb
 zagágať/XN po:verb
 zagagotať/ETN
@@ -164560,23 +164116,10 @@ zajachcite
 zajachtať/ETN
 zajachtávať/XN po:verb
 zajajč
-zajajčal
-zajajčala
-zajajčali
-zajajčalo
-zajajčať
+zajajčať/RN po:verb
 zajajči
-zajajčí
-zajajčia
-zajajčiac
-zajajčím
 zajajčime
-zajajčíme
-zajajčíš
 zajajčite
-zajajčíte
-zajajčme
-zajajčte
 zajajkať/EN po:verb
 zajakanie/V po:noun is:neuter
 zajakať/EN po:verb
@@ -168648,20 +168191,7 @@ zázvor/B po:noun is:masculine
 zázvorník
 zázvorový/YN po:adjective
 zazvuč
-zazvučal
-zazvučala
-zazvučali
-zazvučalo
-zazvučať
-zazvučí
-zazvučia
-zazvučiac
-zazvučím
-zazvučíme
-zazvučíš
-zazvučíte
-zazvučme
-zazvučte
+zazvučať/RN po:verb
 zažalovanie/VN po:noun is:neuter
 zažalovaný/YN po:adjective
 zažalovať/WN po:verb
