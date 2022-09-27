@@ -18212,7 +18212,7 @@ dodatkový/Y po:adjective
 dodatočne po:adverb
 dodatočný/YN po:adjective
 dodatok/O po:noun is:masculine
-dodávací/YN po:adjective
+dodávací/IN po:adjective
 dodávajúci/Y po:adjective
 dodávanie/VN po:noun is:neuter
 dodávaný/Y po:adjective
@@ -18364,16 +18364,7 @@ dohľadne
 dohľadnosť/K po:noun is:feminine
 dohľadný/YN po:adjective
 dohlboka po:adverb
-dohliadacej
-dohliadací/YN po:adjective
-Dohliadacia
-dohliadacie
-dohliadacieho
-dohliadacích
-dohliadacím
-dohliadacími
-dohliadaciu
-dohliadacom
+dohliadací/IN po:adjective
 dohliadač/C po:noun is:masculine
 dohliadačka/zZ po:noun is:feminine
 dohliadačov/Y po:adjective
@@ -51062,7 +51053,7 @@ lanarkit
 Lanárne
 lanárov/Y po:adjective
 ľanárov/Y po:adjective
-ľanársky/n po:adverb
+ľanársky po:adverb
 lanársky/YN po:adjective
 ľanársky/YN po:adjective
 ľanárstvach
@@ -54044,9 +54035,7 @@ lunkre
 lunula
 lup/B po:noun is:masculine
 lupa/zZ po:noun is:feminine
-lúpací/YN po:adjective
-lúpacia
-lúpacie
+lúpací/IN po:adjective
 lupáčik/B po:noun is:masculine
 lúpačka/zZ po:noun is:feminine
 lúpačkový/YN po:adjective
@@ -60644,7 +60633,7 @@ mravcov/Y po:adjective
 mravčal
 mravčaní
 mravčať
-mravček/C po:noun is:masculine
+mravček/c po:noun is:masculine
 mravčekov/Y po:adjective
 mravčeky
 mravčenie/V po:noun is:neuter
@@ -103489,7 +103478,7 @@ poškolský/YN po:adjective
 poškrabanie/V po:noun is:neuter
 poškrabaný/YN po:adjective
 poškrabať/TN po:verb
-poškrabček/B po:noun is:masculine
+poškrabček/c po:noun is:masculine
 poškrabčekovi
 poškrabčekovia
 poškrabkať/EN po:verb
@@ -122939,7 +122928,8 @@ sambový/YN po:adjective
 sambucín
 samcov/Y po:adjective
 samček/L po:noun is:masculine
-samčeki
+samčeky
+samčekovia
 samčekov/Y po:adjective
 samčí/I po:adjective
 Same
@@ -146015,15 +146005,7 @@ tunelársky/YN po:adjective
 tunelíkov
 tunelíky
 tunelmi
-tunelovacej
-tunelovací/Y po:adjective
-tunelovací/YN po:adjective
-tunelovacia
-tunelovacie
-tunelovacieho
-tunelovacích
-tunelovaciu
-tunelovacou
+tunelovací/IN po:adjective
 tunelovanie/VN po:noun is:neuter
 tunelovať/WN po:verb
 tunelovo
@@ -168483,7 +168465,7 @@ zbojnícky/YN po:adjective
 zbojníctvach
 zbojníctvam
 zbojníctvo/M po:noun is:neuter
-zbojníček/C po:noun is:masculine
+zbojníček/c po:noun is:masculine
 zbojníčekov/Y po:adjective
 zbojníčiť/XN po:verb
 zbojníčka/zZ po:noun is:feminine
