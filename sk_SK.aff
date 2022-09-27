@@ -1039,7 +1039,7 @@ SFX H   a           ov         a is:accusative is:plural
 SFX H   a           och        a is:locative is:plural
 SFX H   0           mi         a is:instrumental is:plural
 
-SFX B Y 214
+SFX B Y 223
 SFX B   0           a          [áéíóúý]rod is:genitive
 SFX B   0           u          [^áéíóúý]rod is:genitive
 SFX B   0           u          [^r]od is:genitive
@@ -1051,7 +1051,8 @@ SFX B   0           u          el is:genitive
 SFX B   ôl          ola        ôl is:genitive
 SFX B   0           u          [^eoô]l is:genitive
 SFX B   0           e          yv is:genitive
-SFX B   0           a          [^o][knv] is:genitive
+SFX B   0           a          [^aiíoý].[^o][knv] is:genitive
+SFX B   ček         čka        [aiíoý]ček is:genitive
 SFX B   0           a          [oúy]r is:genitive
 SFX B   0           a          ner is:genitive
 SFX B   us          u          mus is:genitive
@@ -1080,7 +1081,8 @@ SFX B   0           u          to[klnv] is:dative
 SFX B   0           u          [^t]o[klnv] is:dative
 SFX B   0           u          el is:dative
 SFX B   ôl          olu        ôl is:dative
-SFX B   0           u          [^o][knv] is:dative
+SFX B   0           u          [^aiíoý].[^o][knv] is:dative
+SFX B   ček         čku        [aiíoý]ček is:dative
 SFX B   0           u          [aeíoúy]r is:dative
 SFX B   0           u          [^u]s is:dative
 SFX B   0           u          [^áéíóúý]vet is:dative
@@ -1115,7 +1117,8 @@ SFX B   0           om         [^t]o[klnv] is:instrumental
 SFX B   0           om         el is:instrumental
 SFX B   ôl          olom       ôl is:instrumental
 SFX B   0           om         [^eoô]l is:instrumental
-SFX B   0           om         [^o][knv] is:instrumental
+SFX B   0           om         [^aiíoý].[^o][knv] is:instrumental
+SFX B   ček         čkom       [aiíoý]ček is:instrumental
 SFX B   us          om         mus is:instrumental
 SFX B   os          om         mos is:instrumental
 SFX B   0           om         [^m]us is:instrumental
@@ -1132,7 +1135,8 @@ SFX B   0           e          [^i]ál is:nominative is:plural
 SFX B   0           y          el is:nominative is:plural
 SFX B   ôl          oly        ôl is:nominative is:plural
 SFX B   0           y          [^eoô]l is:nominative is:plural
-SFX B   0           y          [^o][knv] is:nominative is:plural
+SFX B   ček         čky        [aiíoý]ček is:nominative is:plural
+SFX B   0           y          [^aiíoý].[^o][knv] is:nominative is:plural
 SFX B   0           y          [aeíoúy]r is:nominative is:plural
 SFX B   us          y          mus is:nominative is:plural
 SFX B   os          y          mos is:nominative is:plural
@@ -1156,7 +1160,8 @@ SFX B   0           ov         [^t]o[klnv] is:genitive is:plural
 SFX B   0           ov         el is:genitive is:plural
 SFX B   ôl          olov       ôl is:genitive is:plural
 SFX B   0           ov         [^eoô]l is:genitive is:plural
-SFX B   0           ov         [^o][knv] is:genitive is:plural
+SFX B   ček         čkov       [aiíoý]ček is:genitive is:plural
+SFX B   0           ov         [^aiíoý].[^o][knv] is:genitive is:plural
 SFX B   0           ov         [aeíoúy]r is:genitive is:plural
 SFX B   us          ov         mus is:genitive is:plural
 SFX B   os          ov         mos is:genitive is:plural
@@ -1178,7 +1183,8 @@ SFX B   0           om         to[klnv] is:dative is:plural
 SFX B   0           om         [^t]o[klnv] is:dative is:plural
 SFX B   0           om         el is:dative is:plural
 SFX B   0           om         [^eoô]l is:dative is:plural
-SFX B   0           om         [^o][knv] is:dative is:plural
+SFX B   ček         čkom       [aiíoý]ček is:dative is:plural
+SFX B   0           om         [^aiíoý].[^o][knv] is:dative is:plural
 SFX B   0           om         [aeíoúy]r is:dative is:plural
 SFX B   us          om         mus is:dative is:plural
 SFX B   os          om         mos is:dative is:plural
@@ -1198,7 +1204,8 @@ SFX B   0           y          to[klnv] is:accusative is:plural
 SFX B   0           y          [^t]o[klnv] is:accusative is:plural
 SFX B   ôl          oly        ôl is:accusative is:plural
 SFX B   0           y          [^eoô]l is:accusative is:plural
-SFX B   0           y          [^o][knv] is:accusative is:plural
+SFX B   ček         čky        [aiíoý]ček is:accusative is:plural
+SFX B   0           y          [^aiíoý].[^o][knv] is:accusative is:plural
 SFX B   0           y          [aeíoúy]r is:accusative is:plural
 SFX B   us          y          mus is:accusative is:plural
 SFX B   0           y          [^m]us is:accusative is:plural
@@ -1217,7 +1224,8 @@ SFX B   0           och        [^t]o[klnv] is:locative is:plural
 SFX B   0           och        el is:locative is:plural
 SFX B   ôl          oloch      ôl is:locative is:plural
 SFX B   0           och        [^eoô]l is:locative is:plural
-SFX B   0           och        [^o][knv] is:locative is:plural
+SFX B   ček         čkoch      [aiíoý]ček is:locative is:plural
+SFX B   0           och        [^aiíoý].[^o][knv] is:locative is:plural
 SFX B   0           och        [aeíoúy]r is:locative is:plural
 SFX B   us          och        mus is:locative is:plural
 SFX B   os          och        mos is:locative is:plural
@@ -1239,7 +1247,8 @@ SFX B   0           mi         [^t]o[klnv] is:instrumental is:plural
 SFX B   0           ami        el is:instrumental is:plural
 SFX B   ôl          olami      ôl is:instrumental is:plural
 SFX B   0           ami        [^eoô]l is:instrumental is:plural
-SFX B   0           mi         [^o][knv] is:instrumental is:plural
+SFX B   ček         čkami      [aiíoý]ček is:instrumental is:plural
+SFX B   0           mi         [^aiíoý].[^o][knv] is:instrumental is:plural
 SFX B   0           mi         [aeíoúy]r is:instrumental is:plural
 SFX B   us          ami        mus is:instrumental is:plural
 SFX B   os          ami        mos is:instrumental is:plural

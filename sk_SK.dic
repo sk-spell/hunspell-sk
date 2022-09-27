@@ -1,4 +1,4 @@
-175941
+175198
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -983,7 +983,7 @@ ahjaj
 AHL po:acronym
 ahm
 ahoj
-ahojček
+ahojček/B po:noun is:masculine
 ahojko
 ahojte
 ach po:interjection
@@ -5455,19 +5455,12 @@ baliaci/YN po:adjective
 baliareň/D po:noun is:feminine
 balič/C po:noun is:masculine
 balíček/B po:noun is:masculine
-balíčka
 balička/zZ po:noun is:feminine
-balíčkami
-balíčkoch
-balíčkom
-balíčkov
 balíčkovací/I po:adjective
 balíčkovanie/VN po:noun is:neuter
 balíčkovaný/YN po:adjective
 balíčkovať/WN po:verb
 balíčkový/YN po:adjective
-balíčku
-balíčky
 baličov/Y po:adjective
 balijský/YN po:adjective
 balík/B po:noun is:masculine
@@ -6703,7 +6696,7 @@ betlehemcovi
 Betlehemčan/c po:noun is:masculine
 Betlehemčanka/zZ po:noun is:feminine
 Betlehemčanov/Y po:adjective
-betlehemček
+betlehemček/B po:noun is:masculine
 betlehemec
 betlehemský/YN po:adjective
 Betliar
@@ -8003,13 +7996,6 @@ blnkať
 blnkotať
 bloc
 bloček/B po:noun is:masculine
-bločka
-bločkami
-bločkoch
-bločkom
-bločkov
-bločku
-bločky
 blog/B po:noun is:masculine
 blok/B po:noun is:masculine
 blokácia/U po:noun is:feminine
@@ -8190,7 +8176,6 @@ bobrí/I po:adjective
 bobroch
 bobrov
 Bobrovci
-Bobrovček
 Bobrove
 Bobrovec
 bobrovi
@@ -8442,13 +8427,6 @@ bohyňa/U po:noun is:feminine
 bohzná
 Bochnia
 bochníček/B po:noun is:masculine
-bochníčka
-bochníčkami
-bochníčkoch
-bochníčkom
-bochníčkov
-bochníčku
-bochníčky
 bochník/B po:noun is:masculine
 bochníkový/YN po:adjective
 Bochum
@@ -9847,13 +9825,6 @@ bublú
 bublúc
 Bubnár
 bubníček/B po:noun is:masculine
-bubníčka
-bubníčkami
-bubníčkoch
-bubníčkom
-bubníčkov
-bubníčku
-bubníčky
 bubník/B po:noun is:masculine
 bubnovanie/VN po:noun is:neuter
 bubnovať/WN po:verb
@@ -9951,13 +9922,6 @@ budiaci/Y po:adjective
 budič/C po:noun is:masculine
 budiče
 budíček/B po:noun is:masculine
-budíčka
-budíčkami
-budíčkoch
-budíčkom
-budíčkov
-budíčku
-budíčky
 budičov/Y po:adjective
 budievať/XN po:verb
 budík/B po:noun is:masculine
@@ -10375,13 +10339,7 @@ by
 býci
 býček/B po:noun is:masculine
 býčí/I po:adjective
-býčka
-býčkami
-býčkoch
-býčkom
-býčkov
 býčkovi
-býčky
 Bydgoszcz/B po:noun is:masculine
 bydgoszczský/YN po:adjective
 bydlísk
@@ -11358,7 +11316,6 @@ cicit
 cicka/zZ po:noun is:feminine
 cickať/EN po:verb
 cíckom
-cíček
 cíčkom
 cider
 cidlíkom
@@ -12209,13 +12166,6 @@ cukrárstvach
 cukrárstvam
 cukrárstvo/M po:noun is:neuter
 cukríček/B po:noun is:masculine
-cukríčka
-cukríčkami
-cukríčkoch
-cukríčkom
-cukríčkov
-cukríčku
-cukríčky
 cukrík/B po:noun is:masculine
 cukrikár
 cukrikárka/zZ po:noun is:feminine
@@ -12441,13 +12391,6 @@ cvikový/Y po:adjective
 cvilich
 cvoci
 cvoček/B po:noun is:masculine
-cvočka
-cvočkami
-cvočkoch
-cvočkom
-cvočkov
-cvočku
-cvočky
 cvok/c po:noun is:masculine
 cvokov/Y po:adjective
 cvoku
@@ -12696,13 +12639,6 @@ CZV po:acronym
 Čajakove
 čajčí/I po:adjective
 čajíček/B po:noun is:masculine
-čajíčka
-čajíčkami
-čajíčkoch
-čajíčkom
-čajíčkov
-čajíčku
-čajíčky
 čajík/B po:noun is:masculine
 čajka/zZ po:noun is:feminine
 Čajkov
@@ -13274,13 +13210,7 @@ CZV po:acronym
 červiaky
 červíček/B po:noun is:masculine
 červičí/I po:adjective
-červíčka
-červíčkami
-červíčkoch
-červíčkom
-červíčkov
 červíčkovi
-červíčky
 červienka/z po:noun is:feminine
 červienkach
 červienkam
@@ -13811,8 +13741,6 @@ CZV po:acronym
 článkovitý/YN po:adjective
 článkový/YN po:adjective
 článoček/B po:noun is:masculine
-článočku
-článočky
 článok/O po:noun is:masculine
 čľap
 čľapatý/YN po:adjective
@@ -14730,9 +14658,6 @@ dažde
 daždi
 dáždiček/B po:noun is:masculine
 dáždička/zZ po:noun is:feminine
-dáždičkoch
-dáždičkom
-dáždičkov
 dáždik/B po:noun is:masculine
 daždivo/N po:adverb
 daždivý/YN po:adjective
@@ -17853,13 +17778,6 @@ dnešný/YN po:adjective
 dnešok/O po:noun is:masculine
 dnia
 dníček/B po:noun is:masculine
-dníčka
-dníčkami
-dníčkoch
-dníčkom
-dníčkov
-dníčku
-dníčky
 dniť
 dno/M po:noun is:neuter
 dňov
@@ -20017,13 +19935,6 @@ doťať/TN po:verb
 doťatý/YN po:adjective
 dotaz/B po:noun is:masculine
 dotazníček/B po:noun is:masculine
-dotazníčka
-dotazníčkami
-dotazníčkoch
-dotazníčkom
-dotazníčkov
-dotazníčku
-dotazníčky
 dotazník/B po:noun is:masculine
 dotazníkovo
 dotazníkový/YN po:adjective
@@ -21819,7 +21730,7 @@ durée
 durený/YN po:adjective
 durch
 durič
-Ďuríček
+Ďuríček/c po:noun is:masculine
 durievať/XN po:verb
 Ďurík
 Ďuríka
@@ -28802,7 +28713,7 @@ Gemer/B po:noun is:masculine
 Gemerčan/c po:noun is:masculine
 Gemerčanka/zZ po:noun is:feminine
 Gemerčanov/Y po:adjective
-Gemerček
+Gemerček/B po:noun is:masculine
 gemerský/YN po:adjective
 Gemina
 geminácia/U po:noun is:feminine
@@ -29447,23 +29358,16 @@ gólový/Y po:adjective
 golubci
 gomasio
 gombíček/B po:noun is:masculine
-gombíčka
 gombička/zZ po:noun is:feminine
-gombíčkami
 gombičkár/C po:noun is:masculine
 gombičkáreň/D po:noun is:feminine
 gombičkárka/zZ po:noun is:feminine
 gombičkárov/Y po:adjective
 gombičkársky/Y po:adjective
 gombičkárstvo/M po:noun is:neuter
-gombíčkoch
-gombíčkom
-gombíčkov
 gombičkovitý/Y po:adjective
 gombičkový/Y po:adjective
 gombíčkový/YN po:adjective
-gombíčku
-gombíčky
 gombík/B po:noun is:masculine
 gombikár/C po:noun is:masculine
 gombikáreň/D po:noun is:feminine
@@ -30444,9 +30348,6 @@ hajenkať
 hájených
 hájiček/B po:noun is:masculine
 hájička/zZ po:noun is:feminine
-hájičkoch
-hájičkom
-hájičkov
 hájik/B po:noun is:masculine
 hajinkať/EN po:verb
 hájiť/XN po:verb
@@ -32438,7 +32339,7 @@ hobľami
 hoble
 hobli
 hoblica/U po:noun is:feminine
-hoblíček
+hoblíček/B po:noun is:masculine
 hoblík/B po:noun is:masculine
 hoblíkový/YN po:adjective
 hoblina/zZ po:noun is:feminine
@@ -33628,7 +33529,7 @@ hŕbočka/zZ po:noun is:feminine
 hŕbok/B po:noun is:masculine
 hrboľ/J po:noun is:masculine
 hrboľatý/YN po:adjective
-hrbolček
+hrbolček/B po:noun is:masculine
 hrboľček/B po:noun is:masculine
 hrbolec/J po:noun is:masculine
 hrboľnatý/YN po:adjective
@@ -33882,13 +33783,6 @@ hrnčiarstvach
 hrnčiarstvam
 hrnčiarstvo/M po:noun is:neuter
 hrnčíček/B po:noun is:masculine
-hrnčíčka
-hrnčíčkami
-hrnčíčkoch
-hrnčíčkom
-hrnčíčkov
-hrnčíčku
-hrnčíčky
 hrnčík/B po:noun is:masculine
 hrnčísk
 hrnčisko/M po:noun is:neuter
@@ -35567,13 +35461,6 @@ chladnúci/YN po:adjective
 chladnúť/WN
 chladný/YN po:adjective
 chládoček/B po:noun is:masculine
-chládočka
-chládočkami
-chládočkoch
-chládočkom
-chládočkov
-chládočku
-chládočky
 chládok/O po:noun is:masculine
 chlácholenie/V po:noun is:neuter
 chlácholiť/EN po:verb
@@ -35665,14 +35552,7 @@ chlebáreň/D po:noun is:feminine
 chlebársky
 chlebe
 chlebíček/B po:noun is:masculine
-chlebíčka
-chlebíčkami
 chlebičkársky
-chlebíčkoch
-chlebíčkom
-chlebíčkov
-chlebíčku
-chlebíčky
 chlebík/B po:noun is:masculine
 chlebmi
 chlebník/B po:noun is:masculine
@@ -35923,13 +35803,6 @@ chodievať/XN po:verb
 chodiť/EN po:verb
 chodkyňa/U po:noun is:feminine
 chodníček/B po:noun is:masculine
-chodníčka
-chodníčkami
-chodníčkoch
-chodníčkom
-chodníčkov
-chodníčku
-chodníčky
 chodník/B po:noun is:masculine
 chodníkový/YN po:adjective
 Chodove
@@ -39463,7 +39336,7 @@ Janči
 Jančí
 jančiť
 jang
-Janíček
+Janíček/c po:noun is:masculine
 janičiar/C po:noun is:masculine
 janičiarov/Y po:adjective
 janičiarska
@@ -39844,8 +39717,7 @@ javiskovo
 javiskový/YN po:adjective
 javiť/EN po:verb
 javor/B po:noun is:masculine
-Javorček
-Javorčeka
+Javorček/c po:noun is:masculine
 javorčie/V po:noun is:neuter
 javorie/V po:noun is:neuter
 javorina/zZ po:noun is:feminine
@@ -39927,15 +39799,8 @@ jazýčekový/YN po:adjective
 jazyčísk
 jazyčisko/M po:noun is:neuter
 jazyčiť/EN po:verb
-jazýčka
-jazýčkami
-jazýčkoch
-jazýčkom
-jazýčkov
 jazýčkovitý/YN po:adjective
 jazýčkový/YN po:adjective
-jazýčku
-jazýčky
 jazyčnatý/YN po:adjective
 jazyčnica/U po:noun is:feminine
 jazyčný/YN po:adjective
@@ -39968,9 +39833,6 @@ jedáleň/D po:noun is:feminine
 jedálenský/YN po:adjective
 jedálniček/B po:noun is:masculine
 jedálnička/zZ po:noun is:feminine
-jedálničkoch
-jedálničkom
-jedálničkov
 jedálny/YN po:adjective
 jedávať/XN po:verb
 jeden/CN po:noun is:masculine
@@ -40821,7 +40683,7 @@ Juraj/c po:noun is:masculine
 Jurajov/Y po:adjective
 Juran
 Jurana
-Juríček
+Juríček/c po:noun is:masculine
 Jurík
 Juríka
 Juríkom
@@ -41607,13 +41469,6 @@ kamzica/U po:noun is:feminine
 kamzíča/A po:noun is:neuter
 kamzíček/B po:noun is:masculine
 kamzičí/I po:adjective
-kamzíčka
-kamzíčkami
-kamzíčkoch
-kamzíčkom
-kamzíčkov
-kamzíčku
-kamzíčky
 kamzičník
 kamzík/C po:noun is:masculine
 kamzíkov/Y po:adjective
@@ -41958,13 +41813,6 @@ kapric/B po:noun is:masculine
 kaprici
 kapriciózny/YN po:adjective
 kapríček/B po:noun is:masculine
-kapríčka
-kapríčkami
-kapríčkoch
-kapríčkom
-kapríčkov
-kapríčku
-kapríčky
 kaprík/B po:noun is:masculine
 kapriola
 kaproch
@@ -43897,15 +43745,8 @@ klíčiacej
 klíčiť/XN po:verb
 klíčivosť/K po:noun is:feminine
 klíčivý/YN po:adjective
-klíčka
-klíčkami
-klíčkoch
-klíčkom
-klíčkov
 klíčkovať/WN po:verb
 klíčkový/YN po:adjective
-klíčku
-klíčky
 klíčny/YN po:adjective
 Kliem
 klient/C po:noun is:masculine
@@ -44511,13 +44352,6 @@ kočiar/J po:noun is:masculine
 kočiarik/B po:noun is:masculine
 kočiarmi
 kočíček/B po:noun is:masculine
-kočíčka
-kočíčkami
-kočíčkoch
-kočíčkom
-kočíčkov
-kočíčku
-kočíčky
 kočík/B po:noun is:masculine
 kočikáreň/D po:noun is:feminine
 kočíkovať/WN po:verb
@@ -44951,17 +44785,10 @@ kolibrík/C po:noun is:masculine
 kolibríkov/Y po:adjective
 kolibríky
 kolíček/B po:noun is:masculine
-kolíčka
-kolíčkami
-kolíčkoch
-kolíčkom
-kolíčkov
 kolíčkovací
 kolíčkovanie/VN po:noun is:neuter
 kolíčkovať/WN po:verb
 kolíčkový/YN po:adjective
-kolíčku
-kolíčky
 kolidovať/WN po:verb
 koliečkom
 kolien
@@ -45341,8 +45168,7 @@ kominársky/YN po:adjective
 kominárstvach
 kominárstvam
 kominárstvo/M po:noun is:neuter
-komínček
-komínčekov
+komínček/B po:noun is:masculine
 komínový/YN po:adjective
 Kominterna
 Kominterne
@@ -45961,16 +45787,9 @@ koníča/A po:noun is:neuter
 koníčatiek
 koníčatko/M po:noun is:neuter
 koníček/B po:noun is:masculine
-koníčka
-koníčkami
 koničkár/C po:noun is:masculine
 koničkárov/Y po:adjective
-koníčkoch
-koníčkom
-koníčkov
 koníčkovi
-koníčku
-koníčky
 konídia
 konidráč
 koniec/J po:noun is:masculine
@@ -47266,13 +47085,6 @@ Košičan/c po:noun is:masculine
 Košičanka/zZ po:noun is:feminine
 Košičanov/Y po:adjective
 košíček/B po:noun is:masculine
-košíčka
-košíčkami
-košíčkoch
-košíčkom
-košíčkov
-košíčku
-košíčky
 košieľ
 košieľka/zZ po:noun is:feminine
 košík/B po:noun is:masculine
@@ -47754,13 +47566,6 @@ krajčírstvam
 krajčírstvo/M po:noun is:neuter
 krajec/J po:noun is:masculine
 krajíček/B po:noun is:masculine
-krajíčka
-krajíčkami
-krajíčkoch
-krajíčkom
-krajíčkov
-krajíčku
-krajíčky
 krajina/zZ po:noun is:feminine
 krajinár/C po:noun is:masculine
 krajinárka/zZ po:noun is:feminine
@@ -47831,7 +47636,7 @@ Krakovian
 krakovský/YN po:adjective
 kráľ/C po:noun is:masculine
 králický/YN po:adjective
-králiček
+králiček/B po:noun is:masculine
 králičí/I po:adjective
 králik/C po:noun is:masculine
 králikár/C po:noun is:masculine
@@ -48295,16 +48100,9 @@ kričať/RN po:verb
 kríček/B po:noun is:masculine
 kričiaci/Y po:adjective
 kríčie
-kríčka
-kríčkami
-kríčkoch
-kríčkom
-kríčkov
 kríčkovito
 kríčkovitý/YN po:adjective
 kríčkový/YN po:adjective
-kríčku
-kríčky
 krída
 krídel
 krídelce/S po:noun is:neuter
@@ -49263,13 +49061,6 @@ Kuffa/H po:noun is:masculine
 Kuffov/Y po:adjective
 kufor/J po:noun is:masculine
 kufríček/B po:noun is:masculine
-kufríčka
-kufríčkami
-kufríčkoch
-kufríčkom
-kufríčkov
-kufríčku
-kufríčky
 kufrík/B po:noun is:masculine
 kufríkový/YN po:adjective
 kufrový/YN po:adjective
@@ -49782,13 +49573,6 @@ kúskový/YN po:adjective
 kuskus
 kuso/N po:adverb
 kúsoček/B po:noun is:masculine
-kúsočka
-kúsočkami
-kúsočkoch
-kúsočkom
-kúsočkov
-kúsočku
-kúsočky
 kúsok/O po:noun is:masculine
 kusosť/K po:noun is:feminine
 kusovať/WN po:verb
@@ -49812,9 +49596,6 @@ Kušnírová/Y po:noun is:masculine
 kušte
 kúštiček/B po:noun is:masculine
 kúštička/zZ po:noun is:feminine
-kúštičkoch
-kúštičkom
-kúštičkov
 kúštik/B po:noun is:masculine
 kút/B po:noun is:masculine
 kuť/WN
@@ -49892,7 +49673,7 @@ kúzlo/M po:noun is:neuter
 Kuzmický/YN po:adjective
 kúže
 kužeľ/J po:noun is:masculine
-kužeľček
+kužeľček/B po:noun is:masculine
 Kuželík
 kuželíkov
 kuželíkové
@@ -51407,11 +51188,6 @@ lavírovať/WN po:verb
 lávka/zZ po:noun is:feminine
 ľavo
 ľavoboček/B po:noun is:masculine
-ľavobočka
-ľavobočkami
-ľavobočkoch
-ľavobočkom
-ľavobočkov
 ľavobočkovi
 ľavobočkovia
 ľavopravej
@@ -51938,13 +51714,6 @@ Lesbos
 Lesia/U po:noun is:feminine
 lesica
 lesíček/B po:noun is:masculine
-lesíčka
-lesíčkami
-lesíčkoch
-lesíčkom
-lesíčkov
-lesíčku
-lesíčky
 lesík/B po:noun is:masculine
 Lesin
 lesina
@@ -52970,14 +52739,7 @@ listmi
 listnáč/J po:noun is:masculine
 listnatý/YN po:adjective
 lístoček/B po:noun is:masculine
-lístočka
-lístočkami
-lístočkoch
-lístočkom
-lístočkov
 lístočkový/YN po:adjective
-lístočku
-lístočky
 lístok/O po:noun is:masculine
 listokaz/C po:noun is:masculine
 listokazov/Y po:adjective
@@ -54828,13 +54590,6 @@ majetníkov/Y po:adjective
 majetnosť/K po:noun is:feminine
 majetný/YN po:adjective
 majetoček/B po:noun is:masculine
-majetočka
-majetočkami
-majetočkoch
-majetočkom
-majetočkov
-majetočku
-majetočky
 majetok/O po:noun is:masculine
 májik/B po:noun is:masculine
 majiteľ/c po:noun is:masculine
@@ -55137,16 +54892,9 @@ maliciózny/YN po:adjective
 malíček/B po:noun is:masculine
 máličičko
 maličičký/YN po:adjective
-malíčka
 maličkab pod:adverb
-malíčkami
 máličko
-malíčkoch
-malíčkom
 maličkosť/K po:noun is:feminine
-malíčkov
-malíčku
-malíčky
 maličký/YN po:adjective
 malignita
 malígnosť/K po:noun is:feminine
@@ -56130,7 +55878,7 @@ marte
 martellando
 Martin/c po:noun is:masculine
 Martina/zZ po:noun is:feminine
-Martinček
+Martinček/c po:noun is:masculine
 martini
 Martini
 Martinický/YN po:adjective
@@ -57025,9 +56773,6 @@ medovinka/zZ po:noun is:feminine
 medovka/zZ po:noun is:feminine
 medovníček/B po:noun is:masculine
 medovníčka/zZ po:noun is:feminine
-medovníčkoch
-medovníčkom
-medovníčkov
 medovník/B po:noun is:masculine
 medovnikár/C po:noun is:masculine
 medovnikárov/Y po:adjective
@@ -60543,14 +60288,7 @@ mozgovo
 mozgový/YN po:adjective
 Mozilla/z po:noun is:feminine
 mozoček/B po:noun is:masculine
-mozočka
-mozočkami
-mozočkoch
-mozočkom
-mozočkov
 mozočkový/YN po:adjective
-mozočku
-mozočky
 mozog/B po:noun is:masculine
 mozoľ/J po:noun is:masculine
 mozoliť/EN po:verb
@@ -67912,13 +67650,6 @@ necht/B po:noun is:masculine
 nechta
 nechtiačky
 nechtíček/B po:noun is:masculine
-nechtíčka
-nechtíčkami
-nechtíčkoch
-nechtíčkom
-nechtíčkov
-nechtíčku
-nechtíčky
 nechtík/B po:noun is:masculine
 nechtísk
 nechtisko/M po:noun is:neuter
@@ -80314,13 +80045,6 @@ nocovňa/U po:noun is:feminine
 nocúva
 nocúvajú
 nočníček/B po:noun is:masculine
-nočníčka
-nočníčkami
-nočníčkoch
-nočníčkom
-nočníčkov
-nočníčku
-nočníčky
 nočník/B po:noun is:masculine
 nočný/YN po:adjective
 Node
@@ -80929,14 +80653,7 @@ nožiarsky
 nožiarskych
 nožiarstvo/M po:noun is:neuter
 nožíček/B po:noun is:masculine
-nožíčka
 nožička/zZ po:noun is:feminine
-nožíčkami
-nožíčkoch
-nožíčkom
-nožíčkov
-nožíčku
-nožíčky
 nožík/B po:noun is:masculine
 nožísk
 nožisko/M po:noun is:neuter
@@ -85368,12 +85085,8 @@ odspieval
 odspievanie/V po:noun is:neuter
 odspievaný/YN po:adjective
 odspievať
-odspím
 odspime
-odspíme
-odspíš
 odspite
-odspíte
 odspodku
 odspodu
 odst
@@ -86327,13 +86040,6 @@ ohňami
 ohnať/WN
 ohnica/U po:noun is:feminine
 ohníček/B po:noun is:masculine
-ohníčka
-ohníčkami
-ohníčkoch
-ohníčkom
-ohníčkov
-ohníčku
-ohníčky
 ohník/B po:noun is:masculine
 ohnísk
 ohnisko/M po:noun is:neuter
@@ -91700,9 +91406,6 @@ pamätlivosť/K po:noun is:feminine
 pamätlivý/YN po:adjective
 pamätníček/B po:noun is:masculine
 pamätníčka/zZ po:noun is:feminine
-pamätníčkoch
-pamätníčkom
-pamätníčkov
 pamätník/C po:noun is:masculine
 pamätníkov/Y po:adjective
 pamätníku
@@ -91817,7 +91520,7 @@ pancier/B po:noun is:masculine
 panciera
 pancieri
 pancierik/B po:noun is:masculine
-pancierniček
+pancierniček/B po:noun is:masculine
 panciernik
 pancierovane
 pancierovanie/VN po:noun is:neuter
@@ -92617,13 +92320,6 @@ Párnica
 Párnici
 Párnický/YN po:adjective
 parníček/B po:noun is:masculine
-parníčka
-parníčkami
-parníčkoch
-parníčkom
-parníčkov
-parníčku
-parníčky
 parník/B po:noun is:masculine
 parno
 párnokopytník/C po:noun is:masculine
@@ -94563,10 +94259,7 @@ pernica
 Pernice
 perniciózny/YN po:adjective
 Pernicu
-perníček
-perníčkoch
-perníčkov
-perníčky
+perníček/B po:noun is:masculine
 perník/B po:noun is:masculine
 pernikár
 pernikári
@@ -94808,7 +94501,7 @@ petrence
 petrencov/Y po:adjective
 petrencu
 petrenec/C po:noun is:masculine
-Petríček
+Petríček/c po:noun is:masculine
 petrifikácia/U po:noun is:feminine
 petrifikovaný/YN po:adjective
 petrifikovať/WN po:verb
@@ -95030,13 +94723,6 @@ piesockých
 piesockým
 piesoček/B po:noun is:masculine
 piesočina/zZ po:noun is:feminine
-piesočka
-piesočkami
-piesočkoch
-piesočkom
-piesočkov
-piesočku
-piesočky
 piesočnatý/YN po:adjective
 piesočný/YN po:adjective
 piesok/O po:noun is:masculine
@@ -95205,13 +94891,6 @@ pílnici
 pílniciach
 pílnicu
 pilníček/B po:noun is:masculine
-pilníčka
-pilníčkami
-pilníčkoch
-pilníčkom
-pilníčkov
-pilníčku
-pilníčky
 pilník/B po:noun is:masculine
 pilnikáreň
 pilnikárne
@@ -96756,13 +96435,6 @@ pneumotómia
 pneumotorax
 pniak/B po:noun is:masculine
 pníček/B po:noun is:masculine
-pníčka
-pníčkami
-pníčkoch
-pníčkom
-pníčkov
-pníčku
-pníčky
 pnieť/XN po:verb
 pník/B po:noun is:masculine
 pňoch
@@ -97186,13 +96858,6 @@ podbiť/EN po:verb
 podbite
 podbití
 podbradníček/B po:noun is:masculine
-podbradníčka
-podbradníčkami
-podbradníčkoch
-podbradníčkom
-podbradníčkov
-podbradníčku
-podbradníčky
 podbradník/B po:noun is:masculine
 podbradok/O po:noun is:masculine
 Podbranč
@@ -100910,13 +100575,6 @@ pomĺk
 pomlka/zZ po:noun is:feminine
 pomn
 pomníček/B po:noun is:masculine
-pomníčka
-pomníčkami
-pomníčkoch
-pomníčkom
-pomníčkov
-pomníčku
-pomníčky
 pomníchovský/YN po:adjective
 pomník/B po:noun is:masculine
 pomníkový/YN po:adjective
@@ -101731,13 +101389,6 @@ popolná
 popolnica/U po:noun is:feminine
 popolnicový/YN po:adjective
 popolníček/B po:noun is:masculine
-popolníčka
-popolníčkami
-popolníčkoch
-popolníčkom
-popolníčkov
-popolníčku
-popolníčky
 popolník/B po:noun is:masculine
 popolovín
 popoloviny
@@ -103451,7 +103102,6 @@ pošír
 pošiť/WN
 pošitá
 pošívať/XN po:verb
-poškabček
 poškľabok
 poškľabovať/WN po:verb
 pošklbať/TN po:verb
@@ -103479,8 +103129,6 @@ poškrabanie/V po:noun is:neuter
 poškrabaný/YN po:adjective
 poškrabať/TN po:verb
 poškrabček/c po:noun is:masculine
-poškrabčekovi
-poškrabčekovia
 poškrabkať/EN po:verb
 poškrabkávať/XN po:verb
 poškrabkovi
@@ -105476,13 +105124,6 @@ prací/I po:adjective
 prácička/zZ po:noun is:feminine
 pracka/zZ po:noun is:feminine
 praclíček/B po:noun is:masculine
-praclíčka
-praclíčkami
-praclíčkoch
-praclíčkom
-praclíčkov
-praclíčku
-praclíčky
 praclík/B po:noun is:masculine
 praclikár
 pracne
@@ -112512,8 +112153,7 @@ pristrihovať/WN po:verb
 prístrihy
 pristrkávať/XN po:verb
 prístroj/J po:noun is:masculine
-prístrojček
-prístrojčeka
+prístrojček/B po:noun is:masculine
 pristrojiť/EN po:verb
 prístrojovo
 prístrojový/YN po:adjective
@@ -114201,13 +113841,6 @@ prstížny
 prstmi
 prsto
 prstoček/B po:noun is:masculine
-prstočka
-prstočkami
-prstočkoch
-prstočkom
-prstočkov
-prstočku
-prstočky
 prstoklad/B po:noun is:masculine
 prsťou
 prstový/YN po:adjective
@@ -116367,14 +116000,7 @@ rebierkovou
 rebierok
 reblochont
 rebríček/B po:noun is:masculine
-rebríčka
-rebríčkami
-rebríčkoch
-rebríčkom
-rebríčkov
 rebríčkovitej
-rebríčku
-rebríčky
 rebrík/B po:noun is:masculine
 rebríkový/YN po:adjective
 rebrina/zZ po:noun is:feminine
@@ -117767,7 +117393,7 @@ rezňa
 rezňami
 rezne
 rezni
-Rezníček
+Rezníček/c po:noun is:masculine
 rezník/C po:noun is:masculine
 rezno
 rezňoch
@@ -121855,13 +121481,6 @@ rúčkovanie/VN po:noun is:neuter
 rúčkovať/WN po:verb
 ručne/YN po:adjective
 ručníček/B po:noun is:masculine
-ručníčka
-ručníčkami
-ručníčkoch
-ručníčkom
-ručníčkov
-ručníčku
-ručníčky
 ručník/B po:noun is:masculine
 Ručno
 ručný/YN po:adjective
@@ -122333,15 +121952,6 @@ Rybnická
 rybnickej
 rybnickú
 rybníček/B po:noun is:masculine
-rybníčka
-rybníčkami
-rybníčkoch
-rybníčkom
-Rybníčkom
-rybníčkov
-Rybníčkov
-rybníčku
-rybníčky
 rybničný/YN po:adjective
 rybník/B po:noun is:masculine
 rybnikár/C po:noun is:masculine
@@ -122928,9 +122538,8 @@ sambový/YN po:adjective
 sambucín
 samcov/Y po:adjective
 samček/L po:noun is:masculine
-samčeky
-samčekovia
 samčekov/Y po:adjective
+samčekovia
 samčí/I po:adjective
 Same
 samec/CL po:noun is:masculine
@@ -125183,13 +124792,6 @@ schnutie/V po:noun is:neuter
 schod/B po:noun is:masculine
 schodený/YN po:adjective
 schodíček/B po:noun is:masculine
-schodíčka
-schodíčkami
-schodíčkoch
-schodíčkom
-schodíčkov
-schodíčku
-schodíčky
 schodík/B po:noun is:masculine
 schodísk
 schodisko/M po:noun is:neuter
@@ -127375,13 +126977,7 @@ slavianofilský/YN po:adjective
 slavianofilstvo/M po:noun is:neuter
 sláviček/B po:noun is:masculine
 slávičí/I po:adjective
-slávička
-slávičkami
-slávičkoch
-slávičkom
-slávičkov
 slávičkovi
-slávičky
 Sláviek
 Slavik
 slávik/L po:noun is:masculine
@@ -127771,13 +127367,6 @@ Slovnaftárom
 slovnaftárov
 slovne
 slovníček/B po:noun is:masculine
-slovníčka
-slovníčkami
-slovníčkoch
-slovníčkom
-slovníčkov
-slovníčku
-slovníčky
 slovník/B po:noun is:masculine
 slovnikár/C po:noun is:masculine
 slovnikárka/zZ po:noun is:feminine
@@ -128246,13 +127835,6 @@ sni
 sniacemu
 Snice
 sníček/B po:noun is:masculine
-sníčka
-sníčkami
-sníčkoch
-sníčkom
-sníčkov
-sníčku
-sníčky
 sniežik/B po:noun is:masculine
 snije
 sník/B po:noun is:masculine
@@ -129380,13 +128962,6 @@ spevnenie/V po:noun is:neuter
 spevnený/YN po:adjective
 spevni
 spevníček/B po:noun is:masculine
-spevníčka
-spevníčkami
-spevníčkoch
-spevníčkom
-spevníčkov
-spevníčku
-spevníčky
 spevnieť/XN po:verb
 spevník/B po:noun is:masculine
 spevníkový/YN po:adjective
@@ -131291,7 +130866,7 @@ stanciach
 Stanča
 Standard
 stanica/U po:noun is:feminine
-Staníček
+Staníček/c po:noun is:masculine
 stanička/zZ po:noun is:feminine
 staničný/YN po:adjective
 Staník
@@ -131600,13 +131175,6 @@ statný/YN po:adjective
 statocysta
 statocyt
 statoček/B po:noun is:masculine
-statočka
-statočkami
-statočkoch
-statočkom
-statočkov
-statočku
-statočky
 statočne/YN po:adjective
 statočnosť/K po:noun is:feminine
 statočný/YN po:adjective
@@ -134108,13 +133676,6 @@ súdnosť/K po:noun is:feminine
 súdny/YN po:adjective
 súdobý/YN po:adjective
 súdoček/B po:noun is:masculine
-súdočka
-súdočkami
-súdočkoch
-súdočkom
-súdočkov
-súdočku
-súdočky
 súdok/O po:noun is:masculine
 sudovina/zZ po:noun is:feminine
 sudovite
@@ -135169,13 +134730,6 @@ Svetozár/c po:noun is:masculine
 Svetozárov/Y po:adjective
 svetoznámy/YN po:adjective
 svetríček/B po:noun is:masculine
-svetríčka
-svetríčkami
-svetríčkoch
-svetríčkom
-svetríčkov
-svetríčku
-svetríčky
 svetrík/B po:noun is:masculine
 svetskosť/K po:noun is:feminine
 svetsky/N po:adverb
@@ -138239,13 +137793,6 @@ SZTK po:acronym
 špenátovo
 špenátový/YN po:adjective
 špendlíček/B po:noun is:masculine
-špendlíčka
-špendlíčkami
-špendlíčkoch
-špendlíčkom
-špendlíčkov
-špendlíčku
-špendlíčky
 špendlík/B po:noun is:masculine
 špendlíkový/YN po:adjective
 špendliť/EN po:verb
@@ -139944,13 +139491,6 @@ SZTK po:acronym
 Šulekovo
 šúľkový/YN po:adjective
 šúľoček/B po:noun is:masculine
-šúľočka
-šúľočkami
-šúľočkoch
-šúľočkom
-šúľočkov
-šúľočku
-šúľočky
 šúľok/O po:noun is:masculine
 šum/M po:noun is:neuter
 šumami
@@ -140764,9 +140304,7 @@ tancovanie/VN po:noun is:neuter
 tancovať/WN po:verb
 tancujúci
 tancujúcich
-tanček
-tančekov
-tančeky
+tanček/B po:noun is:masculine
 Tančiarne
 Tančík
 tančiť
@@ -144214,9 +143752,6 @@ trávnic
 trávnica/U po:noun is:feminine
 trávniček/B po:noun is:masculine
 trávnička/zZ po:noun is:feminine
-trávničkoch
-trávničkom
-trávničkov
 trávnik/B po:noun is:masculine
 trávnikový/YN po:adjective
 trávny/YN po:adjective
@@ -145394,13 +144929,6 @@ trojtýždňový/YN po:adjective
 Tróju
 trojuhol
 trojuholníček/B po:noun is:masculine
-trojuholníčka
-trojuholníčkami
-trojuholníčkoch
-trojuholníčkom
-trojuholníčkov
-trojuholníčku
-trojuholníčky
 trojuholník/B po:noun is:masculine
 trojuholníkovitý/YN po:adjective
 trojuholníkový/YN po:adjective
@@ -145538,11 +145066,6 @@ trpaslíček/B po:noun is:masculine
 trpasličí/I po:adjective
 trpaslíčia
 trpaslíčie
-trpaslíčka
-trpaslíčkami
-trpaslíčkoch
-trpaslíčkom
-trpaslíčkov
 trpaslíčkovi
 trpaslíčkovia
 trpaslík/C po:noun is:masculine
@@ -146095,8 +145618,7 @@ Turci
 Turcom
 Turcu
 turčecký/YN po:adjective
-Turček
-Turčeka
+Turček/c po:noun is:masculine
 Turčeku
 Turčianky
 turčianskoteplický/YN po:adjective
@@ -147231,13 +146753,6 @@ uhlíček/B po:noun is:masculine
 uhličitan/B po:noun is:masculine
 uhličitanový/YN po:adjective
 uhličitý/YN po:adjective
-uhlíčka
-uhlíčkami
-uhlíčkoch
-uhlíčkom
-uhlíčkov
-uhlíčku
-uhlíčky
 uhličnatým
 uhlie/V po:noun is:neuter
 uhlík/B po:noun is:masculine
@@ -150646,13 +150161,6 @@ uzimiť
 úzky/YN po:adjective
 uzli
 uzlíček/B po:noun is:masculine
-uzlíčka
-uzlíčkami
-uzlíčkoch
-uzlíčkom
-uzlíčkov
-uzlíčku
-uzlíčky
 uzlík/B po:noun is:masculine
 uzlíkatý/YN po:adjective
 uzlíkový/YN po:adjective
@@ -151688,13 +151196,6 @@ večerňajší/I po:adjective
 večerne
 večernica/U po:noun is:feminine
 večerníček/B po:noun is:masculine
-večerníčka
-večerníčkami
-večerníčkoch
-večerníčkom
-večerníčkov
-večerníčku
-večerníčky
 večerník/B po:noun is:masculine
 večerníkový/YN po:adjective
 večerný/YN po:adjective
@@ -152574,13 +152075,6 @@ vetrať/EN po:verb
 vetrateľných
 vetrené
 vetríček/B po:noun is:masculine
-vetríčka
-vetríčkami
-vetríčkoch
-vetríčkom
-vetríčkov
-vetríčku
-vetríčky
 vétriesku
 vétriesky
 vetrík/B po:noun is:masculine
@@ -154433,7 +153927,7 @@ volávať/XN po:verb
 volavčí/I po:adjective
 volavka/zZ po:noun is:feminine
 voľba/zZ po:noun is:feminine
-volček
+volček/c po:noun is:masculine
 vole
 volebne
 volebno
@@ -154731,17 +154225,10 @@ voziacou
 voziar
 vozič/C po:noun is:masculine
 vozíček/B po:noun is:masculine
-vozíčka
-vozíčkami
 vozičkár/C po:noun is:masculine
 vozičkárka/zZ po:noun is:feminine
 vozičkárov/Y po:adjective
 vozičkársky/YN po:adjective
-vozíčkoch
-vozíčkom
-vozíčkov
-vozíčku
-vozíčky
 vozičov/Y po:adjective
 vozidlo/M po:noun is:neuter
 vozidlový/YN po:adjective
@@ -163078,14 +162565,7 @@ zadnina
 zadný/YN po:adjective
 zadobre
 zadoček/B po:noun is:masculine
-zadočka
-zadočkami
-zadočkoch
-zadočkom
-zadočkov
 zadočkový/YN po:adjective
-zadočku
-zadočky
 zadok/O po:noun is:masculine
 zadokumentovať/WN po:verb
 zadom
@@ -165134,13 +164614,6 @@ zámocký/YN po:adjective
 zámoček/B po:noun is:masculine
 zamočený/YN po:adjective
 zamočiť/EN po:verb
-zámočka
-zámočkami
-zámočkoch
-zámočkom
-zámočkov
-zámočku
-zámočky
 zámočnícky/YN po:adjective
 zámočníctvach
 zámočníctvam
@@ -165783,9 +165256,6 @@ zápisné/Y po:adjective
 zápisnica/U po:noun is:feminine
 zápisníček/B po:noun is:masculine
 zápisníčka/zZ po:noun is:feminine
-zápisníčkoch
-zápisníčkom
-zápisníčkov
 zápisničná
 zápisnične
 zápisničné
@@ -168493,13 +167963,6 @@ zbormajster/C po:noun is:masculine
 zbormajsterka/zZ po:noun is:feminine
 zbormajsterov/Y po:adjective
 zborníček/B po:noun is:masculine
-zborníčka
-zborníčkami
-zborníčkoch
-zborníčkom
-zborníčkov
-zborníčku
-zborníčky
 zborník/B po:noun is:masculine
 zborníkový/YN po:adjective
 Zborova
@@ -173814,13 +173277,6 @@ zväzkovať/WN po:verb
 zväzkovo
 zväzkový/YN po:adjective
 zväzoček/B po:noun is:masculine
-zväzočka
-zväzočkami
-zväzočkoch
-zväzočkom
-zväzočkov
-zväzočku
-zväzočky
 zväzok/O po:noun is:masculine
 zväzovanie/VN po:noun is:neuter
 zväzovaný/YN po:adjective
@@ -174646,13 +174102,6 @@ zžívať/XN po:verb
 žalúdkový/YN po:adjective
 žaludný/YN po:adjective
 žalúdoček/B po:noun is:masculine
-žalúdočka
-žalúdočkami
-žalúdočkoch
-žalúdočkom
-žalúdočkov
-žalúdočku
-žalúdočky
 žalúdočno
 žalúdočný/YN po:adjective
 žalúdok/O po:noun is:masculine
@@ -175398,13 +174847,6 @@ zžívať/XN po:verb
 žliabkovitý/YN po:adjective
 žliabkový/YN po:adjective
 žliaboček/B po:noun is:masculine
-žliabočka
-žliabočkami
-žliabočkoch
-žliabočkom
-žliabočkov
-žliabočku
-žliabočky
 žliabok/O po:noun is:masculine
 žliaz
 žliazka/zZ po:noun is:feminine
@@ -175755,25 +175197,3 @@ zžívať/XN po:verb
 žvacheľ
 žviakať/XN po:verb
 žžonka/zZ po:noun is:feminine
-ahojček/B po:noun is:masculine
-betlehemček/B po:noun is:masculine
-Ďuríček/c po:noun is:masculine
-Gemerček/B po:noun is:masculine
-hoblíček/B po:noun is:masculine
-hrbolček/B po:noun is:masculine
-Janíček/c po:noun is:masculine
-Javorček/c po:noun is:masculine
-Juríček/c po:noun is:masculine
-komínček/B po:noun is:masculine
-králiček/B po:noun is:masculine
-kužeľček/B po:noun is:masculine
-Martinček/c po:noun is:masculine
-pancierniček/B po:noun is:masculine
-perníček/B po:noun is:masculine
-Petríček/c po:noun is:masculine
-prístrojček/B po:noun is:masculine
-Rezníček/c po:noun is:masculine
-Staníček/c po:noun is:masculine
-tanček/B po:noun is:masculine
-Turček/c po:noun is:masculine
-volček/c po:noun is:masculine
