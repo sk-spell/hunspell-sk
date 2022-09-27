@@ -1,4 +1,4 @@
-176510
+176244
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -78797,9 +78797,6 @@ nezavinene
 nezávis
 nezávisle
 nezávislo
-nezavodni
-nezavodnime
-nezavodnite
 nezavráti
 nezavrátim
 nezavrátime
@@ -140844,7 +140841,7 @@ tajuplnosť/K po:noun is:feminine
 tajuplný/YN po:adjective
 ták
 tak po:conjunction
-taka
+taka/zZ po:noun is:feminine
 tákať/EN po:verb
 tákať/XN po:verb
 takáto
@@ -140852,7 +140849,7 @@ takéhoto
 takejto
 takeláž
 takémuto
-takeover
+takeover/B po:noun is:masculine
 takéto
 takhľa
 takisto
@@ -140888,7 +140885,6 @@ taktovať/WN po:verb
 taktovka/zZ po:noun is:feminine
 taktový/YN po:adjective
 takúto
-taky
 taký/YN po:adjective
 takýchto
 takýmito
@@ -141058,7 +141054,7 @@ tandemový/YN po:adjective
 tanec/J po:noun is:masculine
 tanečne
 tanečnica/U po:noun is:feminine
-tanečníčka
+tanečníčka/zZ po:noun is:feminine
 tanečník/C po:noun is:masculine
 tanečníkov/Y po:adjective
 tanečný/YN po:adjective
@@ -141075,7 +141071,7 @@ tangent
 tangenta/zZ po:noun is:feminine
 tangentoida
 tangentový/YN po:adjective
-tangerínka
+tangerínka/zZ po:noun is:feminine
 tango/M po:noun is:neuter
 tangovať/WN po:verb
 tangový/YN po:adjective
@@ -141491,16 +141487,7 @@ táže
 ťažiarom
 ťažiarov
 ťažiarovi
-ťažiarska
-ťažiarske
-ťažiarskej
-ťažiarskom
-ťažiarskou
-ťažiarsku
-ťažiarsky
-ťažiarskych
-ťažiarskym
-ťažiarskymi
+ťažiarsky/YN po:adjective
 ťažiarstvo/M po:noun is:neuter
 ťažidlo/M po:noun is:neuter
 ťažieť/XN po:verb
@@ -142009,7 +141996,7 @@ tender/J po:noun is:masculine
 tenderový/Y po:adjective
 tendinitída
 tendinitis
-tendoplastika
+tendoplastika/zZ po:noun is:feminine
 tendorafia
 tendovanie/VN po:noun is:neuter
 tendovať/WN po:verb
@@ -142247,10 +142234,10 @@ Terany
 terapeut/C po:noun is:masculine
 terapeuticky
 terapeutický/YN po:adjective
-terapeutika
+terapeutika/zZ po:noun is:feminine
 terapeutikum
 terapia/U po:noun is:feminine
-teraristika
+teraristika/zZ po:noun is:feminine
 terárium/M po:noun is:neuter
 terás
 terasa/zZ po:noun is:feminine
@@ -142300,7 +142287,7 @@ terčík/B po:noun is:masculine
 terčovec
 terčový/YN po:adjective
 terebra
-tereka
+tereka/zZ po:noun is:feminine
 teremtetovať/WN po:verb
 terén/B po:noun is:masculine
 terenár/C po:noun is:masculine
@@ -142319,9 +142306,7 @@ tereziánskeho
 tereziánskej
 Tereziánsky
 Terezine
-Terezka
-Terezke
-Terezkou
+Terezka/zZ po:noun is:feminine
 Terezou
 Terezu
 Terezy
@@ -142342,7 +142327,7 @@ terit
 teritorialita
 teritoriálny/YN po:adjective
 teritórium/M po:noun is:neuter
-Terka
+Terka/zZ po:noun is:feminine
 terkelica/U po:noun is:feminine
 terkelička/zZ po:noun is:feminine
 Terkin
@@ -142410,7 +142395,7 @@ termogram
 termochémia
 termoizolačný/YN po:adjective
 termokauter
-termokinetika
+termokinetika/zZ po:noun is:feminine
 termokolor
 termolabilita
 termolýza
@@ -142666,7 +142651,7 @@ tetrit
 tetrov/L po:noun is:masculine
 tetroví/I po:adjective
 tetrovov/Y po:adjective
-tetuľka
+tetuľka/zZ po:noun is:feminine
 tetuška/zZ po:noun is:feminine
 TEU po:acronym
 teurgia
@@ -142691,12 +142676,7 @@ textársky/YN po:adjective
 textenzia
 textika/zZ po:noun is:feminine
 textil/B po:noun is:masculine
-Textilácka
-textiláckeho
-textiláckej
-textilácky
-textiláckych
-textiláckym
+textilácky/YN po:adjective
 textiláčka/zZ po:noun is:feminine
 textilák/C po:noun is:masculine
 textilákov/Y po:adjective
@@ -142945,8 +142925,6 @@ tikot/B po:noun is:masculine
 tikotmi
 tíkový/YN po:adjective
 tiktak
-tilácky
-tiláčka
 tilasit
 tíld
 tilda/zZ po:noun is:feminine
@@ -142987,13 +142965,12 @@ tínedžerka/zZ po:noun is:feminine
 tínedžerov/Y po:adjective
 tínedžerský/YN po:adjective
 tingltangl
-Tinka
+Tinka/zZ po:noun is:feminine
 tinkcia
 tinktúr
 tinktúra/zZ po:noun is:feminine
 tinktúrach
 tinktúram
-Tinku
 tinta
 tintinnado
 tiny
@@ -143051,7 +143028,7 @@ tisícina/zZ po:noun is:feminine
 tisícinka/zZ po:noun is:feminine
 tisícka/zZ po:noun is:feminine
 tisíckorunáčka/zZ po:noun is:feminine
-tisíckorunovka
+tisíckorunovka/zZ po:noun is:feminine
 tisíckorunový/YN po:adjective
 tisíckrát
 tisícmetrový/YN po:adjective
@@ -143344,12 +143321,7 @@ tlmiacou
 tlmiacu
 tlmič/J po:noun is:masculine
 tlmiť/EN po:verb
-tlmiviek
-tlmivka
-tlmivkách
-tlmivke
-tlmivku
-tlmivky
+tlmivka/zZ po:noun is:feminine
 tlmivo/N po:adverb
 tlmivosť/K po:noun is:feminine
 tlmivý/YN po:adjective
@@ -143523,8 +143495,7 @@ tohtoročne
 tohtoročný/Y po:adjective
 tohuvabohu
 tok/B po:noun is:masculine
-toka
-Toka
+toka/zZ po:noun is:feminine
 Tokaja
 Tokaji
 Tokajík
@@ -143669,7 +143640,6 @@ toniete
 tonifikácia/U po:noun is:feminine
 toník
 tonik/B po:noun is:masculine
-tónika
 tonikum/M po:noun is:neuter
 tónin
 tónina/zZ po:noun is:feminine
@@ -143680,10 +143650,9 @@ tonizačný/YN po:adjective
 tonizátor
 tonizovanie/VN po:noun is:neuter
 tonizovať/WN po:verb
-Tonka
+Tonka/zZ po:noun is:feminine
 tonkin
 Tonkin
-Tonku
 toňme
 tonografia
 tonometer
@@ -143721,8 +143690,6 @@ topasit
 topasolit
 topásovec
 topásový/YN po:adjective
-tope
-Topeka
 topenie/V po:noun is:neuter
 topený/YN po:adjective
 topiaca
@@ -143737,7 +143704,7 @@ topiacom
 topiacu
 topický/YN po:adjective
 topievať/XN po:verb
-topika
+topika/zZ po:noun is:feminine
 topikum
 topinambur
 topiť/EN po:verb
@@ -143780,9 +143747,7 @@ topológii
 topológiou
 topológiu
 Topoľou
-Topoľovka
-Topoľovke
-Topoľovky
+Topoľovka/zZ po:noun is:feminine
 topoľový/YN po:adjective
 topom
 toponarkóza
@@ -143811,7 +143776,7 @@ torakálny/YN po:adjective
 torakodýnia
 torakochirurgia
 torakomeióza
-torakoplastika
+torakoplastika/zZ po:noun is:feminine
 torakoschíza
 torakostenóza
 torakotómia
@@ -143912,12 +143877,7 @@ torzovito
 torzovitosť/K po:noun is:feminine
 torzovitý/YN po:adjective
 Toshiba
-Toskánska
-Toskánsko
-Toskánskom
-Toskánsku
-toskánsky
-toskánskym
+toskánsky/YN po:adjective
 tosto
 toť
 totalista/H po:noun is:masculine
@@ -143965,14 +143925,11 @@ tovariš/C po:noun is:masculine
 tovarišov/Y po:adjective
 tovarišský/YN po:adjective
 tovarišstvo/M po:noun is:neuter
-Tovarnícka
+továrnicky po:adverb
 továrnický/YN po:adjective
 továrnička/zZ po:noun is:feminine
 továrnik/C po:noun is:masculine
-Tovarníkoch
 továrnikov/Y po:adjective
-Tovarníky
-Továrniky
 tovarovo
 tovarový/YN po:adjective
 tovaroznalcov/Y po:adjective
@@ -144039,17 +143996,7 @@ trácky/YN po:adjective
 tráč
 tráčik/B po:noun is:masculine
 tráčiky/Q
-tráčka
-Tráčka
-tráčkami
-tračkoch
-tráčkoch
-tračkom
-tráčkom
-tračkov
-tráčkov
-tráčku
-tráčky
+Tráčka/zZ po:noun is:feminine
 tračky/Q
 trademark
 tradeskancia
@@ -144110,7 +144057,7 @@ tracheálny/YN po:adjective
 tracheitída
 tracheitis
 tracheloktómia
-tracheloplastika
+tracheloplastika/zZ po:noun is:feminine
 trachelorafia
 tracheobronchiálny/YN po:adjective
 tracheolarynginálny/YN po:adjective
@@ -144143,8 +144090,8 @@ trajler/B po:noun is:masculine
 trajlera
 trajleri
 trajlerový/YN po:adjective
-Trák
 trak/B po:noun is:masculine
+Trák/C po:noun is:masculine
 trakcia/U po:noun is:feminine
 trakčný/YN po:adjective
 traker
@@ -144447,7 +144394,7 @@ trasát
 trascinando
 trasenie/V po:noun is:neuter
 trasený/YN po:adjective
-trasírka
+trasírka/zZ po:noun is:feminine
 traskavina/zZ po:noun is:feminine
 traskavý/YN po:adjective
 trasľav
@@ -144562,7 +144509,7 @@ trblietanie/V po:noun is:neuter
 trblietať/XTN
 trblietavo
 trblietavý/YN po:adjective
-trblietka
+trblietka/zZ po:noun is:feminine
 trblot/B po:noun is:masculine
 trblotmi
 trcnúť
@@ -144683,7 +144630,7 @@ trepanie/V po:noun is:neuter
 trepanina
 trepanovanie/VN po:noun is:neuter
 trepáreň/D po:noun is:feminine
-trepárka
+trepárka/zZ po:noun is:feminine
 trepať/TN po:verb
 Trepec
 trepidácia/U po:noun is:feminine
@@ -144825,16 +144772,9 @@ Trhovište
 Trhovišti
 Trhovišťom
 trhovkyňa/U po:noun is:feminine
-trhovníci
 trhovnícky/YN po:adjective
 trhovníčka/zZ po:noun is:feminine
-trhovník
-trhovníka
-trhovníkmi
-trhovníkoch
-trhovníkom
-trhovníkov
-trhovníkovi
+trhovník/C po:noun is:masculine
 trhovo/N po:adverb
 trhový/Y po:adjective
 triád
@@ -145431,7 +145371,7 @@ tritol
 tritolov
 tritolu
 tritón
-tritónka
+tritónka/zZ po:noun is:feminine
 triumf/B po:noun is:masculine
 triumfálnosť/K po:noun is:feminine
 triumfálny/YN po:adjective
@@ -145484,10 +145424,7 @@ Trnava/z po:noun is:feminine
 Trnavčan/c po:noun is:masculine
 Trnavčanka/zZ po:noun is:feminine
 Trnavčanov/Y po:adjective
-Trnávka
-Trnávke
-Trnávku
-Trnávky
+Trnávka/zZ po:noun is:feminine
 trnavský/YN po:adjective
 trnie
 Trnie
@@ -145526,7 +145463,7 @@ trofejný/YN po:adjective
 trofejový/YN po:adjective
 troficita
 trofický/YN po:adjective
-trofika
+trofika/zZ po:noun is:feminine
 trofizmus/B po:noun is:masculine
 trofoblast
 trofocyt
@@ -145568,7 +145505,7 @@ trochárte
 trochej/J po:noun is:masculine
 trochejský/YN po:adjective
 trochoida
-Troika
+Troika/zZ po:noun is:feminine
 troilit
 troj
 Trója
@@ -145853,8 +145790,7 @@ trošinku po:adverb
 troška/zZ po:noun is:feminine
 troškár
 troškáriť
-troškárska
-troškársky
+troškársky/YN po:adjective
 trot
 trotu
 trova/zZ po:noun is:feminine
@@ -145962,7 +145898,7 @@ Trubín
 trubiroh/c po:noun is:masculine
 trubirohov/Y po:adjective
 trúbiť/XN po:verb
-trubka
+trubka/zZ po:noun is:feminine
 trúbka/zZ po:noun is:feminine
 trubkár/C po:noun is:masculine
 trúbkár/C po:noun is:masculine
@@ -146058,9 +145994,9 @@ trúp
 trup/B po:noun is:masculine
 trupový/YN po:adjective
 trus/B po:noun is:masculine
-trusirérka
+trusirérka/zZ po:noun is:feminine
 trúsiť/XN po:verb
-Truska
+Truska/zZ po:noun is:feminine
 truskavý/YN po:adjective
 trusky
 trusový/YN po:adjective
@@ -146231,9 +146167,7 @@ túhach
 ťuháj
 ťuhaja
 túham
-Tuhárska
-Tuhárske
-Tuhárskom
+tuhársky/YN po:adjective
 tuhľa
 tuhnúce
 tuhnúceho
@@ -146266,7 +146200,6 @@ tujam
 tují
 ťuk
 tuk/B po:noun is:masculine
-túka
 tukan
 ťukanie/V po:noun is:neuter
 tukať
@@ -146294,7 +146227,6 @@ tulák/C po:noun is:masculine
 tulákov/Y po:adjective
 tuľaľa
 túlanie/V po:noun is:neuter
-túlanka
 tularémia/U po:noun is:feminine
 túlať/XN po:verb
 túlavať/XN po:verb
@@ -146317,7 +146249,7 @@ tulipán/B po:noun is:masculine
 tulipánový/YN po:adjective
 túliť/XN po:verb
 túlium
-túlka
+túlka/zZ po:noun is:feminine
 tuľkať/EN po:verb
 ťulpas/C po:noun is:masculine
 ťulpasov/Y po:adjective
@@ -146380,7 +146312,7 @@ Tunisko/M po:noun is:neuter
 tuniský/YN po:adjective
 Tunisom
 Tunisu
-Tunka
+tunka/zZ po:noun is:feminine
 tunu
 tuny
 tuodtiaľ
@@ -146450,22 +146382,8 @@ Turček
 Turčeka
 Turčeku
 Turčianky
-Turčianska
-Turčianske
-turčianskeho
-Turčianskej
-turčianskemu
-Turčianski
-turčianskom
-turčianskoteplická
-turčianskoteplického
-turčianskoteplickej
-Turčianskoteplickí
-Turčiansku
-Turčiansky
-Turčianskych
-Turčianskym
-Turčianskymi
+turčianskoteplický/YN po:adjective
+turčiansky/YN po:adjective
 Turčok
 Turecko/M po:noun is:neuter
 turecky
@@ -146480,11 +146398,7 @@ Turf
 turfu
 turí
 Turian
-Turianska
-turianskeho
-turianskej
-Turiansky
-turianskych
+turiansky/YN po:adjective
 Turíc
 turica
 Turice
@@ -146501,9 +146415,7 @@ Turín/B po:noun is:masculine
 Turínčan/c po:noun is:masculine
 Turínčanov/Y po:adjective
 turingit
-Turínka
 turínsky/YN po:adjective
-turist
 turista/H po:noun is:masculine
 turisticky
 turistický/YN po:adjective
@@ -146511,17 +146423,12 @@ turistika/zZ po:noun is:feminine
 turistka/zZ po:noun is:feminine
 turistov/Y po:adjective
 turizmus/B po:noun is:masculine
-turk
-Turka
-turkmén
 Turkmén/C po:noun is:masculine
-Turkménka
+Turkménka/zZ po:noun is:feminine
 Turkménov/Y po:adjective
 Turkménsko/M po:noun is:neuter
 turkménsky/YN po:adjective
-turkotatárske
-turkotatársky
-turkotatárskym
+turkotatársky/YN po:adjective
 Turkovi
 Turkyňa/U po:noun is:feminine
 turmalín
@@ -146590,7 +146497,7 @@ tútorov/Y po:adjective
 tútorsky
 tútorský/YN po:adjective
 tútorstvo/M po:noun is:neuter
-tutovka
+tutovka/zZ po:noun is:feminine
 tutú
 tutúkať
 ťuťúkať
@@ -146789,7 +146696,7 @@ tyčovinu
 tyčový/YN po:adjective
 týdenník
 tyflológia
-tyflopedagogika
+tyflopedagogika/zZ po:noun is:feminine
 tyflopedie
 tyflóza
 tyfóm
@@ -146832,7 +146739,7 @@ tympan/B po:noun is:masculine
 tympania
 tympanofónia
 tympanon
-tympanoplastika
+tympanoplastika/zZ po:noun is:feminine
 tympanotómia
 tympanový/YN po:adjective
 týmto
@@ -147255,9 +147162,8 @@ učňa
 učňami
 učni
 učnica/U po:noun is:feminine
-Učník
-Učníka
-Učníkom
+učník/C po:noun is:masculine
+učnisko/M po:noun is:neuter
 učňoch
 učňom
 učňov/YN po:adjective
@@ -147548,7 +147454,7 @@ ugniaviť/XN po:verb
 ugrilovať/WN po:verb
 ugrofín
 ugrofínčina/z po:noun is:feminine
-ugrofinistika
+ugrofinistika/zZ po:noun is:feminine
 Uh/B po:noun is:masculine
 uháčkovať/WN po:verb
 uhádané
@@ -147892,15 +147798,10 @@ uchyľovanie/VN po:noun is:neuter
 uchyľovať/WN po:verb
 uchytenie/V po:noun is:neuter
 uchytený/YN po:adjective
-úchytiek
 uchytiť/EN po:verb
-úchytka
-úchytkami
+úchytka/zZ po:noun is:feminine
 úchytkom
-úchytkou
 úchytkový/YN po:adjective
-úchytku
-úchytky
 úchytov
 úchyty
 uistene
@@ -148373,27 +148274,17 @@ uloženina
 uloženiny
 uloženo
 uložený/YN po:adjective
-úložiek
 úložísk
 úložisko/M po:noun is:neuter
 úložiskový/YN po:adjective
 úložistý/YN po:adjective
 úložišti
 uložiť/EN po:verb
-úložka
-úložkách
-úložkám
-úložkami
-úložke
-úložkou
-úložku
-úložky
+úložka/zZ po:noun is:feminine
 úložný/YN po:adjective
 uľpela
 uľpieť
-Ulrika
-Ulrike
-Ulriky
+Ulrika/zZ po:noun is:feminine
 ultím
 ultima
 ultimát
@@ -148408,7 +148299,7 @@ Ultimo
 ultimom
 ultimu
 ultra
-ultraakustika
+ultraakustika/zZ po:noun is:feminine
 ultračastica
 ultrafialový/YN po:adjective
 ultrafiltrácia/U po:noun is:feminine
@@ -149004,7 +148895,7 @@ upínadiel
 upínadlo
 upínanie/V po:noun is:neuter
 upínať/XN po:verb
-úpinka
+úpinka/zZ po:noun is:feminine
 upír/C po:noun is:masculine
 upírov/Y po:adjective
 úpis/B po:noun is:masculine
@@ -149420,9 +149311,7 @@ Urban/c po:noun is:masculine
 urbanista/H po:noun is:masculine
 urbanisticky
 urbanistický/YN po:adjective
-urbanistika
-urbanistiku
-urbanistiky
+urbanistika/zZ po:noun is:feminine
 urbanistka/zZ po:noun is:feminine
 urbanistov/Y po:adjective
 urbanizácia/U po:noun is:feminine
@@ -149445,16 +149334,7 @@ urbárnych
 urbároch
 urbárom
 urbárov
-Urbárska
-urbárske
-urbárskeho
-urbárskej
-urbárskemu
-urbárskom
-Urbárskou
-urbárskych
-urbárskym
-urbárskymi
+urbársky/YN po:adjective
 urbáru
 urbura
 určene
@@ -149600,18 +149480,16 @@ Urpínu
 urputne/YN po:adjective
 urputnosť/K po:noun is:feminine
 urputný/YN po:adjective
-urquell
-uršilínka
+urquell/B po:noun is:masculine
 Uršuľa/U po:noun is:feminine
 Uršula/zZ po:noun is:feminine
 uršulínka/zZ po:noun is:feminine
 uršulínsky/YN po:adjective
 urtikária
-uruguaj
 Uruguaj/J po:noun is:masculine
 Uruguajcov/Y po:adjective
 Uruguajec/C po:noun is:masculine
-Uruguajka
+Uruguajka/zZ po:noun is:feminine
 uruguajský/YN po:adjective
 urval
 urvala
@@ -150080,11 +149958,7 @@ ustlaté
 ústne/YN po:adjective
 ústny/YN po:adjective
 ústočiek
-ústočka
-ústočká
-ústočkách
-ústočkám
-ústočkami
+ústočká/Q
 ústočke
 ústočku
 ústočky
@@ -150368,15 +150242,7 @@ utečený/YN po:adjective
 Utekáč
 Utekáča
 Utekáči
-Utekáčska
-utekáčske
-utekáčskeho
-utekáčskej
-Utekáčski
-utekáčsku
-utekáčsky
-utekáčskych
-Utekáčskym
+utekáčsky/YN po:adjective
 Utekáču
 utekajúci/YN po:adjective
 utekanie/V po:noun is:neuter
@@ -151263,8 +151129,7 @@ váby
 vacat
 Václav/c po:noun is:masculine
 Václave
-Václavka
-Václavke
+Václavka/zZ po:noun is:feminine
 václavku
 Václavou
 Václavov/Y po:adjective
@@ -151392,9 +151257,8 @@ vajgela
 vajíčko/M po:noun is:neuter
 vajíčkovod/B po:noun is:masculine
 vajíčkový/YN po:adjective
-vajka
+vajka/zZ po:noun is:feminine
 vajkam
-vajkami
 vajko
 Vajnormi
 Vajnoroch
@@ -151405,7 +151269,6 @@ vajnorskom
 vajnorskú
 Vajnorský/YN po:adjective
 Vajnory
-vajok
 Vajsková/Y po:adjective
 Vajskovskej
 vajšja
@@ -151457,9 +151320,7 @@ valašiť/EN po:verb
 valaška/zZ po:noun is:feminine
 valaškári
 valaškový/YN po:adjective
-Valašska
-Valašsko
-Valašsku
+Valašsko/M po:noun is:neuter
 valašsky
 valašský/YN po:adjective
 valaštička/zZ po:noun is:feminine
@@ -151725,7 +151586,7 @@ vár
 var/B po:noun is:masculine
 vara
 vára/zZ po:noun is:feminine
-Varadka
+Varadka/zZ po:noun is:feminine
 várach
 varák/B po:noun is:masculine
 váram
@@ -151886,8 +151747,7 @@ vatrísk
 vatrisko/M po:noun is:neuter
 vatrový/YN po:adjective
 vaudeville
-Vavrečka
-Vavrečku
+Vavrečka/H po:noun is:masculine
 vavrín/B po:noun is:masculine
 Vavrincov/Y po:adjective
 Vavrinec/c po:noun is:masculine
@@ -152175,12 +152035,7 @@ vedeno
 vedený/YN po:adjective
 vedeť
 vedeta
-vedierka
-vedierkach
-vedierkam
-vedierkami
-vedierkom
-vedierku
+vedierko/M po:noun is:neuter
 vedierok
 vedieť/RN po:verb
 vedítor
@@ -152242,8 +152097,8 @@ vejárovite
 vejárovito
 vejárovitý/YN po:adjective
 vejárový/YN po:adjective
-vejka
-vejmutovka
+vejka/zZ po:noun is:feminine
+vejmutovka/zZ po:noun is:feminine
 vejúca
 vejúcej
 vejúci
@@ -152585,8 +152440,7 @@ veloduší
 veľrieka/zZ po:noun is:feminine
 veľríša
 veľryba/zZ po:noun is:feminine
-veľrybárska
-veľrybársky
+veľrybársky/YN po:adjective
 veľrybí/I po:adjective
 velter
 veltlín/B po:noun is:masculine
@@ -152874,7 +152728,7 @@ vertikálny/YN po:adjective
 vertizola
 veru
 verubože
-veruka
+veruka/zZ po:noun is:feminine
 veruže
 verv
 verva/z po:noun is:feminine
@@ -152891,8 +152745,7 @@ verzálka/zZ po:noun is:feminine
 verzálkový/YN po:adjective
 verzálový/YN po:adjective
 verzatilita
-verzatilka
-verzatilky
+verzatilka/zZ po:noun is:feminine
 verzia/U po:noun is:feminine
 verzifikácia/U po:noun is:feminine
 verzírovaný/YN po:adjective
@@ -152936,7 +152789,7 @@ vesna/zZ po:noun is:feminine
 Vesna/zZ po:noun is:feminine
 vesperale
 vesta/zZ po:noun is:feminine
-vestálka
+vestálka/zZ po:noun is:feminine
 vestenickej
 Vestenický/YN po:adjective
 vestfál
@@ -153368,10 +153221,7 @@ videnie/V po:noun is:neuter
 videný/YN po:adjective
 video/M po:noun is:neuter
 videodísk
-videodiska
-videodiská
-videodisko
-videodisku
+videodisko/M po:noun is:neuter
 videofilm/B po:noun is:masculine
 videofón
 videofónov
@@ -153464,10 +153314,7 @@ Vientiančanov/Y po:adjective
 vientiansky/YN po:adjective
 Viera/z po:noun is:feminine
 viera/zZ po:noun is:feminine
-Vierka
-Vierkou
-Vierku
-Vierky
+Vierka/zZ po:noun is:feminine
 vierohodne/YN po:adjective
 vierohodnosť/K po:noun is:feminine
 vierohodný/YN po:adjective
@@ -153613,14 +153460,12 @@ Vince
 vínce
 Vincent/c po:noun is:masculine
 Vincente
-Vincentka
-Vincentku
-Vincentky
+Vincentka/zZ po:noun is:feminine
 Vincentov/Y po:adjective
 Vinci
 vincúr/C po:noun is:masculine
 vincúrov/Y po:adjective
-vinčestrovka
+vinčestrovka/zZ po:noun is:feminine
 vínčisko/M po:noun is:neuter
 vindikácia/U po:noun is:feminine
 vinea/zZ po:noun is:feminine
@@ -153709,7 +153554,7 @@ vinšovať/WN po:verb
 vinšovníčka/zZ po:noun is:feminine
 vinšovník/C po:noun is:masculine
 vinšovníkov/Y po:adjective
-vintovka
+vintovka/zZ po:noun is:feminine
 vinúce
 vinúcemu
 vinúci
@@ -153742,7 +153587,7 @@ violista/H po:noun is:masculine
 violistka/Z po:noun is:feminine
 violistka/zZ po:noun is:feminine
 violistov/Y po:adjective
-violka
+violka/zZ po:noun is:feminine
 violoncello
 violončelista/H po:noun is:masculine
 violončelistka/zZ po:noun is:feminine
@@ -153770,7 +153615,7 @@ Virgínie
 Virgínii
 virginita
 Virgíniu
-Virgínska
+virgínsky/YN po:adjective
 Virgo
 virguľa/U po:noun is:feminine
 virguľový/YN po:adjective
@@ -153831,7 +153676,6 @@ visenie/V po:noun is:neuter
 visiaci/YN po:adjective
 visieť/RN po:verb
 visievať/XN po:verb
-viska
 viskóz
 viskóza/zZ po:noun is:feminine
 viskózach
@@ -153932,7 +153776,7 @@ vitý/YN po:adjective
 vivace
 vivacita
 vivant
-vivaristika
+vivaristika/zZ po:noun is:feminine
 vivárium/M po:noun is:neuter
 vivat
 vivianit
@@ -153958,7 +153802,7 @@ vizionárstvach
 vizionárstvam
 vizionárstvo/M po:noun is:neuter
 vizír
-vizírka
+vizírka/zZ po:noun is:feminine
 vizita/zZ po:noun is:feminine
 vizitácia/U po:noun is:feminine
 vizitka/zZ po:noun is:feminine
@@ -154041,7 +153885,7 @@ vláčením
 vláčeniu
 vláčený/YN po:adjective
 vlačí
-Vlačianska
+vlačianský/YN po:adjective
 vláčievať/XN po:verb
 vláčik/B po:noun is:masculine
 vláčikový/YN po:adjective
@@ -154087,9 +153931,7 @@ Vladislavová/Y po:adjective
 Vladislavu
 Vladislavy
 Vladivostocká
-Vladka
-Vladkou
-Vladky
+Vladka/zZ po:noun is:feminine
 vládkyň
 vládkyňa/U po:noun is:feminine
 vládnuci/Y po:adjective
@@ -154431,7 +154273,7 @@ vločkový/YN po:adjective
 vloha/zZ po:noun is:feminine
 vlohový/YN po:adjective
 vlomiť
-vlotižérka
+vlotižérka/zZ po:noun is:feminine
 vloženie/V po:noun is:neuter
 vložený/YN po:adjective
 vložiť/EN po:verb
@@ -154777,12 +154619,8 @@ vojensky/N po:adverb
 vojenský/YN po:adjective
 vojenstvo/M po:noun is:neuter
 Vojislava
-Vojka
-Vojke
-Vojkou
+Vojka/zZ po:noun is:feminine
 Vojkovský/YN po:adjective
-Vojku
-Vojky
 vojna/zZ po:noun is:feminine
 Vojňany
 vojnovo
@@ -155003,7 +154841,7 @@ voltampérmi
 voltampéry
 voltážou
 voltižér/B po:noun is:masculine
-voltižérka
+voltižérka/zZ po:noun is:feminine
 voltižérsky/YN po:adjective
 voltmeter/J po:noun is:masculine
 voltmi
@@ -155418,11 +155256,10 @@ vraní/I po:adjective
 vraník/B po:noun is:masculine
 vraník/C po:noun is:masculine
 vraníkov/Y po:adjective
-vranka
+vranka/zZ po:noun is:feminine
 vranko
 Vrankom
 Vranková/Y po:adjective
-Vranku
 vraňom
 vraňou
 Vranov/B po:noun is:masculine
@@ -155562,7 +155399,7 @@ Vrbova
 Vrbovce
 Vrbovci
 Vrbove
-Vrbovka
+Vrbovka/zZ po:noun is:feminine
 Vrbovom
 vrbovský/YN po:adjective
 vŕbový/YN po:adjective
@@ -156145,10 +155982,10 @@ všesvet
 všetci
 všetcí
 všetečiť
-všetečka
+všetečka/zZ po:noun is:feminine
 všetečne/YN po:adjective
 všetečnica/U po:noun is:feminine
-všetečníčka
+všetečníčka/zZ po:noun is:feminine
 všetečník/C po:noun is:masculine
 všetečníkov/Y po:adjective
 všetečniť
@@ -156304,7 +156141,6 @@ vtiahnuť/WN
 vtiahnutie/V po:noun is:neuter
 vtiahnutý/YN po:adjective
 vtiecť/RN po:verb
-vtielka
 vtieranie/V po:noun is:neuter
 vtierať/XN po:verb
 vtieravec
@@ -157700,31 +157536,16 @@ východoeuróp
 východoeurópsky/YN po:adjective
 východofrízskeho
 východofrízskym
-východogerm
-východoind
-Východoindická
-Východoindickej
-východoindickom
-Východosibírska
-východosibírske
-východosibírskej
-východosibírskych
+východoindický/YN po:adjective
+východosibírsky/YN po:adjective
 východoslovák/C po:noun is:masculine
 východoslovákov/Y po:adjective
-východoslovan
 východoslovanský/YN po:adjective
 východoslovenský/YN po:adjective
 východový/YN po:adjective
-východozápadného
-východozápadnej
-východozápadnom
-východozápadných
+východozápadný/YN po:adjective
 východzí/I po:adjective
-výchov
-výchova/z po:noun is:feminine
-výchovách
-výchovám
-výchovami
+výchova/zZ po:noun is:feminine
 vychovane
 vychovanie/VN po:noun is:neuter
 vychovanosť/K po:noun is:feminine
@@ -158092,7 +157913,7 @@ vykonávateľka/zZ po:noun is:feminine
 vykonávateľný/YN po:adjective
 vykonávateľov/Y po:adjective
 vykonávateľský/YN po:adjective
-vykonávka
+vykonávka/zZ po:noun is:feminine
 výkonne/YN po:adjective
 výkonno
 výkonnosť/K po:noun is:feminine
@@ -158279,7 +158100,7 @@ výkruta
 vykrútenie/V po:noun is:neuter
 vykrútený/YN po:adjective
 vykrútiť/XN po:verb
-výkrutka
+výkrutka/zZ po:noun is:feminine
 vykrútnuť
 vykrvácanie/V po:noun is:neuter
 vykrvácaný/YN po:adjective
@@ -158939,11 +158760,7 @@ vymudrovať/WN po:verb
 vymurovanie/VN po:noun is:neuter
 vymurovaný/YN po:adjective
 vymurovať/WN po:verb
-vymuroviek
-vymurovka
 výmurovka/zZ po:noun is:feminine
-vymurovku
-vymurovky
 vymurúva
 vymurúvaj
 vymurúvajme
@@ -160575,18 +160392,7 @@ vystaviteľom
 vystaviteľov
 výstavka/zZ po:noun is:feminine
 výstavne/YN po:adjective
-výstavnícka
-výstavnícke
-výstavníckeho
-výstavníckej
-výstavníckemu
-výstavníckom
-výstavníckou
-výstavnícku
-výstavnícky
-výstavníckych
-výstavníckym
-výstavníckymi
+výstavnícky/YN po:adjective
 výstavníctvach
 výstavníctvam
 výstavníctvo/M po:noun is:neuter
@@ -160875,11 +160681,7 @@ vysypávajú
 vysypávania
 vysypávaný/YN po:adjective
 vysypávať
-výsypiek
-výsypka
-výsypkách
-výsypke
-výsypky
+výsypka/zZ po:noun is:feminine
 výsypok
 vysypú
 vysypúc
@@ -161598,12 +161400,8 @@ vyúdite
 vyuhlená
 vyuhlenia
 vyuhlených
-výuka
-výuke
-výukou
+výuka/zZ po:noun is:feminine
 výukový/YN po:adjective
-výuku
-výuky
 vyumelkovane/YN po:adjective
 vyumelkovanosť/K po:noun is:feminine
 vyumelkovaný/YN po:adjective
@@ -162688,10 +162486,7 @@ walkman/B po:noun is:masculine
 wallstreetskej
 wallstreetskou
 wallstreetskych
-waltrovka
-Waltrovke
-Waltrovku
-Waltrovky
+waltrovka/zZ po:noun is:feminine
 waltz/J po:noun is:masculine
 waltzy
 wan
@@ -162769,7 +162564,7 @@ windsurfista/H po:noun is:masculine
 windsurfistka/zZ po:noun is:feminine
 windsurfistov/Y po:adjective
 wing
-winchestrovka
+winchestrovka/zZ po:noun is:feminine
 with
 WLAN
 WN po:acronym
@@ -163581,8 +163376,7 @@ začudovať/WN po:verb
 začuchraný/YN po:adjective
 začuť/WN
 začvirikať/EN po:verb
-zadák
-Zadáka
+zadák/B po:noun is:masculine
 zaďakovať/WN po:verb
 Zadákovi
 zadane
@@ -163637,11 +163431,9 @@ záder/B po:noun is:masculine
 záderčivo/N po:adverb
 záderčivosť/K po:noun is:feminine
 záderčivý/YN po:adjective
-záderka
+záderka/zZ po:noun is:feminine
 Zádiel
-Zádielska
-Zádielskej
-Zádielsky
+zádielsky/YN po:adjective
 zadiera
 zadierač
 zadieraj
@@ -163725,7 +163517,7 @@ zadováženým
 zadovážiť/XN po:verb
 zadovažovanie/VN po:noun is:neuter
 zadovažovať/WN po:verb
-zadovka
+zadovka/zZ po:noun is:feminine
 zádrapčivo/N po:adverb
 zádrapčivosť/K po:noun is:feminine
 zádrapčivý/YN po:adjective
@@ -164206,14 +163998,12 @@ záhonový/YN po:adjective
 zahor
 Záhor
 záhorácky/YN po:adjective
-záhoráčka
 Záhoráčka/zZ po:noun is:feminine
 záhoráčtin
 záhoráčtina/z po:noun is:feminine
 záhoráčtinách
 záhoráčtinám
 záhoráčtinami
-záhorák
 Záhorák/C po:noun is:masculine
 Záhorákov/Y po:adjective
 Záhoráková/Y po:adjective
@@ -164228,7 +164018,7 @@ zahorieť/RN po:verb
 zahorknúť
 Záhorom
 záhorskobystrickej
-záhorsky
+záhorsky po:adverb
 záhorský/YN po:adjective
 Záhoru
 zahorúca
@@ -164508,7 +164298,7 @@ zachladeným
 zachladiť
 zachladnúť
 zachlopiť/EN po:verb
-záchlopka
+záchlopka/zZ po:noun is:feminine
 zachlopnúť/WN
 zachlošti
 zachloštime
@@ -165021,7 +164811,7 @@ zakľúčenie/V po:noun is:neuter
 zakľúčiť/XN po:verb
 zakľučovaný/YN po:adjective
 zakľučovať/WN po:verb
-zákľuka
+zákľuka/zZ po:noun is:feminine
 zákmit/B po:noun is:masculine
 zakmitať/EN po:verb
 zákmitmi
@@ -165326,7 +165116,7 @@ zákvas/B po:noun is:masculine
 Zakvasené
 zakvasenie/V po:noun is:neuter
 zakvasiť/EN po:verb
-zákvaska
+zákvaska/zZ po:noun is:feminine
 zákvasok
 zakvasovať/WN po:verb
 zákvasový/YN po:adjective
@@ -165625,7 +165415,7 @@ zamastiť/EN po:verb
 zamastite
 zamaškrtiť/EN po:verb
 zamat/B po:noun is:masculine
-zamatka
+zamatka/zZ po:noun is:feminine
 zamatmi
 zamatovo/N po:adverb
 zamatový/YN po:adjective
@@ -166207,8 +165997,7 @@ zapadnutý/YN po:adjective
 západný/YN po:adjective
 západoafrický/YN po:adjective
 západoázijský/YN po:adjective
-západoberlínska
-západoberlínskej
+západoberlínsky/YN po:adjective
 západočeský/Y po:adjective
 Západočeský/YN po:adjective
 západoeurópsky/YN po:adjective
@@ -166376,7 +166165,7 @@ zapečatený/YN po:adjective
 zapečatiť/EN po:verb
 zapečaťovať/WN po:verb
 zapečené
-zápeka
+zápeka/zZ po:noun is:feminine
 zapekačka/zZ po:noun is:feminine
 zapekačkový/YN po:adjective
 zapekané
@@ -166468,13 +166257,10 @@ zápisky/Q
 zápisné/Y po:adjective
 zápisnica/U po:noun is:feminine
 zápisníček/B po:noun is:masculine
-zápisníčka
-zápisníčkami
+zápisníčka/zZ po:noun is:feminine
 zápisníčkoch
 zápisníčkom
 zápisníčkov
-zápisníčku
-zápisníčky
 zápisničná
 zápisnične
 zápisničné
@@ -166527,7 +166313,7 @@ zaplatenie/VN po:noun is:neuter
 zaplatený/YN po:adjective
 zaplatiť/EN po:verb
 zaplatiteľný/YN po:adjective
-záplatka
+záplatka/zZ po:noun is:feminine
 záplav
 záplava/zZ po:noun is:feminine
 zaplávať/XN po:verb
@@ -167395,10 +167181,7 @@ zastieracou
 zastieranie/V po:noun is:neuter
 zastieraný/YN po:adjective
 zastierať/XN po:verb
-zástierka
-zástierkou
-zástierku
-zástierky
+zástierka/zZ po:noun is:feminine
 zastihnúť/WN
 zastihnuteľný/YN po:adjective
 zastihnutiu
@@ -168323,11 +168106,7 @@ závadám
 závadami
 Závade
 zavadiť/EN po:verb
-Závadka
-Závadke
-Závadkou
-Závadku
-Závadky
+Závadka/zZ po:noun is:feminine
 závadnosť/K po:noun is:feminine
 závadou
 závadu
@@ -168416,7 +168195,7 @@ zavážať/XN po:verb
 zaváženie/V po:noun is:neuter
 závažie/V po:noun is:neuter
 zavážiť/XN po:verb
-Zavážka
+Zavážka/zZ po:noun is:feminine
 zavážkach
 zavážku
 zavážky
@@ -168640,13 +168419,8 @@ závodiť/EN po:verb
 závodne
 zavodnenie/V po:noun is:neuter
 zavodnený/YN po:adjective
-zavodni
-závodníci
-závodník
-závodníka
-zavodnime
-zavodniť/EN po:verb
-zavodnite
+závodník/C po:noun is:masculine
+zavodniť/XN po:verb
 zavodňovací/I po:adjective
 zavodňovanie/VN po:noun is:neuter
 zavodňovať/WN po:verb
@@ -169127,11 +168901,9 @@ zblednúť/WN
 zblednutý/YN po:adjective
 zbliaknuť
 zblíza
-zblízka
-zblížená
-zblížené
-zblíženého
+zblízka po:adverb
 zblíženie/V po:noun is:neuter
+zblížený/YN po:adjective
 zblížiť/XN po:verb
 zbližovanie/VN po:noun is:neuter
 zbližovaný/YN po:adjective
@@ -169190,8 +168962,8 @@ zbojníkov/Y po:adjective
 zbojný/YN po:adjective
 zbojský/YN po:adjective
 zbojstvo/M po:noun is:neuter
-zboka
-zboku
+zboka po:adverb
+zboku po:adverb
 zbombardovanie/VN po:noun is:neuter
 zbombardovaný/YN po:adjective
 zbombardovať/WN po:verb
@@ -169343,8 +169115,7 @@ ZČSSP po:acronym
 zdajúci
 zdakade
 zdakadiaľ
-zďaleka
-zdanene
+zďaleka po:adverb
 zdanenie/V po:noun is:neuter
 zdanený/YN po:adjective
 zdanie/V po:noun is:neuter
@@ -170061,9 +169832,8 @@ zero
 zestetizovať/WN po:verb
 zeta
 Zeta
-zetiek
 Zetina
-zetka
+zetka/zZ po:noun is:feminine
 Zetor
 Zetore
 zetormi
@@ -170169,7 +169939,7 @@ zhľadávať/XN po:verb
 zhľadúvaní
 zhľadúvať/XN po:verb
 zhlbiny
-zhlboka
+zhlboka po:adverb
 zhliadla
 zhliadli
 zhliadlo
@@ -170961,13 +170731,13 @@ zľahčovaný/YN po:adjective
 zľahčovať/WN po:verb
 zľahčujúci/YN po:adjective
 zľahčujúco
-zľahka
+zľahka po:adverb
 zľahnúť/WN
 zľahnuté
 zľahnutí
 zlahodiť
 zľahostajnieť/XN po:verb
-zľahučka
+zľahučka po:adverb
 zlajdáčiť/XN po:verb
 zlákanie/V po:noun is:neuter
 zlákaný/YN po:adjective
@@ -171054,8 +170824,7 @@ zlatobylí
 zlatobyľou
 zlatočervený/YN po:adjective
 zlatofialový/YN po:adjective
-zlatohlávka
-zlatohlávok
+zlatohlávka/zZ po:noun is:feminine
 zlatohnedý/YN po:adjective
 zlatoidčianskou
 zlatojasný/YN po:adjective
@@ -172097,7 +171866,7 @@ znečisťovateľ/c po:noun is:masculine
 znečisťovateľka/zZ po:noun is:feminine
 znečisťovateľov/Y po:adjective
 znečisťujúci/YN po:adjective
-zneďaleka
+zneďaleka po:adverb
 znedeľnieva
 znedeľnievaj
 znedeľnievajme
@@ -172502,11 +172271,7 @@ znožmo
 znožný/YN po:adjective
 znožovanie/VN po:noun is:neuter
 znožovať/WN po:verb
-znôška
-znôške
-znôškou
-znôšku
-znôšky
+znôška/zZ po:noun is:feminine
 znôtiť
 znuď
 znudene/YN po:adjective
@@ -172904,7 +172669,7 @@ Zorina
 Zorinej
 zoristý/YN po:adjective
 zoriť
-Zorka
+Zorka/zZ po:noun is:feminine
 zornica/U po:noun is:feminine
 zornička/zZ po:noun is:feminine
 zorný/YN po:adjective
@@ -173306,7 +173071,7 @@ zošikovať/WN po:verb
 zošili
 zošinúť/RN po:verb
 zošiplať
-zoširoka
+zoširoka po:adverb
 zošit/B po:noun is:masculine
 zošiť/WN
 zošité
@@ -173557,7 +173322,7 @@ zoznam/B po:noun is:masculine
 zoznámenie/V po:noun is:neuter
 zoznámený/YN po:adjective
 zoznámiť/XN po:verb
-zoznamka
+zoznamka/zZ po:noun is:feminine
 zoznamovací/I po:adjective
 zoznamovanie/VN po:noun is:neuter
 zoznamovaný/YN po:adjective
@@ -173847,7 +173612,7 @@ zrezávame
 zrezávaš
 zrezávať
 zrezávate
-zrezka
+zrezka po:adverb
 zrežírovanie/VN po:noun is:neuter
 zrežírovaný/YN po:adjective
 zrežírovať/WN po:verb
@@ -173972,7 +173737,7 @@ zrohovatieť/XN po:verb
 Zroj
 zroja
 zrok
-zroka
+zroka po:adverb
 zroku
 zrolovaný/YN po:adjective
 zrolovať/WN po:verb
@@ -174117,8 +173882,6 @@ zubadielko/M po:noun is:neuter
 zubadielok
 zubadlo/M po:noun is:neuter
 zubadlový/YN po:adjective
-Zubák
-Zubáka
 zubáľ/J po:noun is:masculine
 zubami
 zubaňa/U po:noun is:feminine
@@ -174382,10 +174145,7 @@ Zuzán
 Zuzana/zZ po:noun is:feminine
 Zuzanin/Y po:adjective
 Zuzina
-Zuzka
-Zuzke
-Zuzkou
-Zuzku
+Zuzka/zZ po:noun is:feminine
 Zuzulová/Y po:noun is:feminine
 zúžene/YN po:adjective
 zúženie/V po:noun is:neuter
@@ -174477,9 +174237,7 @@ zvariaku
 zvariaky
 zvariť/EN po:verb
 zvariteľnosť/K po:noun is:feminine
-zvárka
-zvárkami
-zvárky
+zvárka/zZ po:noun is:feminine
 zvarovacej
 zvarovacie
 zvarovacích
@@ -175027,11 +174785,11 @@ zvoniť/EN po:verb
 zvonivo/N po:adverb
 zvonivosť/K po:noun is:feminine
 zvonivý/YN po:adjective
-zvonka
+zvonka po:adverb
 zvonkať/EN po:verb
 zvonkohra/zZ po:noun is:feminine
 Zvonkom
-zvonkovo
+zvonkovo po:adverb
 zvonkový/YN po:adjective
 zvonku
 zvonky
@@ -175124,9 +174882,7 @@ zvŕšila
 zvŕšili
 zvŕšiť
 zvrškár
-zvrškárka
-zvrškárky
-zvrškárok
+zvrškárka/zZ po:noun is:feminine
 zvrškárskymi
 zvrškový/YN po:adjective
 zvršok/O po:noun is:masculine
@@ -175226,8 +174982,8 @@ zvýskať
 zvýsknuť/WN
 zvýsknutie/V po:noun is:neuter
 zvyskotať
-zvysoka
-zvýšene
+zvysoka po:adverb
+zvýšene po:adverb
 zvýšenie/V po:noun is:neuter
 zvýšeno
 zvýšený/YN po:adjective
@@ -175476,27 +175232,11 @@ zžívať/XN po:verb
 Ždane
 Ždani
 Ždaňu
-Žďárska
-Žďárske
-žďárskeho
-žďárskej
-žďárski
-žďárskom
-Žďársku
-Žďársky
-Žďárskych
-Žďárskym
-Žďárskymi
+žďársky/YN po:adjective
 Ždiar
 Ždiari
 Ždiarom
-Ždiarska
-ždiarske
-ždiarskeho
-ždiarskej
-ždiarskom
-Ždiarsku
-Ždiarsky
+ždiarsky/YN po:adjective
 Ždiaru
 ždipkať
 že po:conjunction
@@ -175530,7 +175270,7 @@ zžívať/XN po:verb
 Žehni
 Žehra/zZ
 žehravý/YN po:adjective
-Žehrianska
+žehriansky/YN po:adjective
 žel
 Žel
 želací/I po:adjective
@@ -175739,7 +175479,7 @@ zžívať/XN po:verb
 žiabram
 žiabre/Q
 žiabrom
-žiabronožka
+žiabronožka/zZ po:noun is:feminine
 žiabronôžka/zZ po:noun is:feminine
 žiabrový/Y po:adjective
 žiacky/YN po:adjective
@@ -175810,16 +175550,13 @@ zžívať/XN po:verb
 žiarovkový/Y po:adjective
 žiarovo
 žiarový/YN po:adjective
-Žiarska
-Žiarske
+Žiarska/zZ po:noun is:feminine
 žiarskeho
 žiarskej
 žiarskemu
 žiarski
 žiarskom
-Žiarskou
 žiarsku
-Žiarsky
 žiarskych
 žiarskym
 žiarskymi
@@ -175987,15 +175724,12 @@ zžívať/XN po:verb
 živáni
 živánka/zZ po:noun is:feminine
 živáňov/Y po:adjective
-živánska
-živánske
+živánska/zZ po:noun is:feminine
 živánskeho
 živánskej
 živánskemu
 živánski
 živánskom
-živánskou
-živánsku
 živánsky/N po:adverb
 živánskych
 živánskym
