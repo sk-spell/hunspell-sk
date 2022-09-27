@@ -1,4 +1,4 @@
-176892
+176510
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -570,6 +570,7 @@ adventívny/YN po:adjective
 adventizmus/B po:noun is:masculine
 adventmi
 adventný/YN po:adjective
+adverb
 adverbálny/YN po:adjective
 adverbializácia/U po:noun is:feminine
 adverbializovať/WN po:verb
@@ -115556,11 +115557,11 @@ rabínsky/YN po:adjective
 rabovačka/zZ po:noun is:feminine
 rabovanie/VN po:noun is:neuter
 rabovať/WN po:verb
-rabovka
+rabovka/zZ po:noun is:feminine
 rabský/YN po:adjective
 rabstvo/M po:noun is:neuter
 rabulista/H po:noun is:masculine
-rabulistika
+rabulistika/zZ po:noun is:feminine
 rác
 Rác
 race
@@ -115602,17 +115603,7 @@ rácuc
 Rača/U po:noun is:feminine
 ráčený/YN po:adjective
 račí/I po:adjective
-Račianska
-Račianske
-Račianskeho
-Račianskej
-račianski
-Račianskom
-Račianskou
-Račiansku
-Račiansky
-račianskych
-Račianskym
+račiansky/YN po:adjective
 Račice
 Račiciach
 Račický/YN po:adjective
@@ -115696,7 +115687,7 @@ rádioaktivita/zZ po:noun is:feminine
 rádioaktívnosť/K po:noun is:feminine
 rádioaktívny/YN po:adjective
 rádioamatér/C po:noun is:masculine
-rádioamatérka
+rádioamatérka/zZ po:noun is:feminine
 rádioamatérov/Y po:adjective
 rádioamatérske
 rádioamatérsky
@@ -115706,15 +115697,14 @@ rádioastronóm
 rádioastronómia
 rádiobiológ/c po:noun is:masculine
 rádiobiológia
-rádiodiagnostika
+rádiodiagnostika/zZ po:noun is:feminine
 rádioekológia
 rádioelektrickými
-rádioelektronika
-rádioelektroniky
+rádioelektronika/zZ po:noun is:feminine
 rádiofarmakum
 rádiofikáciu
 rádiofor
-rádiofyzika
+rádiofyzika/zZ po:noun is:feminine
 rádiogénny/YN po:adjective
 rádiografické
 rádiogram/B po:noun is:masculine
@@ -115842,7 +115832,7 @@ radný/YN po:adjective
 rado
 Radobica
 Radobici
-radodajka
+radodajka/zZ po:noun is:feminine
 radodajne/N po:adverb
 radodajnosť/K po:noun is:feminine
 radodajný/YN po:adjective
@@ -115877,7 +115867,7 @@ radostníky
 radostnosť/K po:noun is:feminine
 radostný/YN po:adjective
 Radošovský/YN po:adjective
-rádotechnika
+rádotechnika/zZ po:noun is:feminine
 rádotelefónia
 Radovan/c po:noun is:masculine
 radovanie/VN po:noun is:neuter
@@ -115892,8 +115882,10 @@ rádovo
 radovravný/YN po:adjective
 radový/YN po:adjective
 rádový/YN po:adjective
-Radôstka
-Radôstke
+Radôstčan/c po:noun is:masculine
+Radôstčanka/zZ po:noun is:feminine
+radôstčanský/YN po:adjective
+radôstka/zZ po:noun is:feminine
 radšej
 radú
 radujúci/YN po:adjective
@@ -115944,13 +115936,7 @@ rafinádam
 rafinát
 rafináty
 rafinéria/U po:noun is:feminine
-rafinérka
-rafinérkach
-rafinérkami
-rafinérke
-rafinérkou
-rafinérky
-rafinérok
+rafinérka/zZ po:noun is:feminine
 rafinérsky/YN po:adjective
 rafinovane
 rafinovanie/VN po:noun is:neuter
@@ -116111,17 +116097,11 @@ rakovinný/YN po:adjective
 rakovinotvorne
 rakovinotvorný/YN po:adjective
 rakovinový/YN po:adjective
-Rakovnica
-Rakovnícka
-Rakovnícke
-rakovníckeho
+Rakovnica/U po:noun is:feminine
 rakovnickej
-rakovníckej
-rakovníckom
-rakovnícku
-rakovnícky
-Rakovnický/YN po:adjective
-Rakovníckych
+rakovnícky/YN po:adjective
+Rakovničan/c po:noun is:masculine
+Rakovničanka/zZ po:noun is:feminine
 Rakovník
 Rakovníka
 Rakovníkom
@@ -116166,7 +116146,6 @@ Ramadánu
 ramapitek/C po:noun is:masculine
 ramapitekov/Y po:adjective
 ramár/C po:noun is:masculine
-ramaritánka
 ramársky/YN po:adjective
 ramárstvach
 ramárstvam
@@ -116454,6 +116433,9 @@ rátať/XN po:verb
 raťazca
 raťazce
 raťazcov
+Ratčan/c po:noun is:masculine
+Ratčianka/zZ po:noun is:feminine
+ratčiansky/YN po:adjective
 ratica/U po:noun is:feminine
 raticový/YN po:adjective
 ratifikácia/U po:noun is:feminine
@@ -116474,14 +116456,13 @@ ratingy
 ratio
 Ratka
 Ratková/Y po:adjective
-Ratkovo
-Ratkovský/YN po:adjective
+Ratkovo/M po:noun is:neuter
+ratkovský/YN po:adjective
 Ratky
 ratlík/B po:noun is:masculine
 ratlíkovi
 ratolesť/K po:noun is:feminine
-ratoliestka
-ratoliestky
+ratoliestka/zZ po:noun is:feminine
 ratovaný/YN po:adjective
 ratovať/WN po:verb
 rattan
@@ -116513,12 +116494,9 @@ razičský/YN po:adjective
 razidlo/M po:noun is:neuter
 razievať/XN po:verb
 raziť/EN po:verb
-razítka
-razítko
-razítkom
+razítko/M po:noun is:neuter
 razítkovací
 razítkovať/WN po:verb
-razítku
 razítok
 rázne/PF po:adjective
 razníc
@@ -117004,8 +116982,10 @@ regentský/YN po:adjective
 regentstvo/M po:noun is:neuter
 regest/B po:noun is:masculine
 regestmi
-Regetovka
-Regetovky
+Regetovčan/c po:noun is:masculine
+Regetovčanka/zZ po:noun is:feminine
+Regetovka/zZ po:noun is:feminine
+regetovský/YN po:adjective
 REGEX
 reggae
 Régia
@@ -117659,7 +117639,7 @@ reptílie
 republička/zZ po:noun is:feminine
 republika/zZ po:noun is:feminine
 republikán/C po:noun is:masculine
-republikánka
+republikánka/zZ po:noun is:feminine
 republikánov/Y po:adjective
 republikánsky/YN po:adjective
 republikovo
@@ -117975,15 +117955,7 @@ révu
 revuálny/YN po:adjective
 Revúcach
 revúci/YN po:adjective
-revúcka
-Revúcke
-revúckeho
-revúckej
-Revúckom
-revúckou
-Revúcku
-Revúcky
-revúckych
+revúcky/YN po:adjective
 revue po:noun is:feminine
 revui st:revue po:noun is:dative is:singular is:feminine
 revuí st:revue po:noun is:genitive is:plural is:feminine
@@ -118008,8 +117980,7 @@ rezancový/YN po:adjective
 rezančeky
 rezanec/J po:noun is:masculine
 rezanie/V po:noun is:neuter
-rezanka
-rezanky
+rezanka/zZ po:noun is:feminine
 rezaný/YN po:adjective
 rezať/TN po:verb
 rezavý/YN po:adjective
@@ -118076,10 +118047,7 @@ rezňami
 rezne
 rezni
 Rezníček
-rezník
-Rezníka
-Rezníkom
-Rezníkov
+rezník/C po:noun is:masculine
 rezno
 rezňoch
 rezňom
@@ -118493,8 +118461,7 @@ ríty
 Riu
 rival/C po:noun is:masculine
 rivalita/zZ po:noun is:feminine
-rivalka
-rivalke
+rivalka/zZ po:noun is:feminine
 rivalov/Y po:adjective
 riviér
 riviéra/zZ po:noun is:feminine
@@ -118668,7 +118635,7 @@ rodísk
 rodisko/M po:noun is:neuter
 rodit
 rodiť/EN po:verb
-roditeľka
+roditeľka/zZ po:noun is:feminine
 ródium/M po:noun is:neuter
 rodivosť/K po:noun is:feminine
 rodne
@@ -118723,10 +118690,7 @@ rohož/D po:noun is:feminine
 rohožka/zZ po:noun is:feminine
 Rohožná
 Rohožnica
-rohožnícka
-rohožníckej
-rohožníckemu
-Rohožnícky
+rohožnícky/YN po:adjective
 Rohožník
 Rohožníka
 Rohožníkom
@@ -118734,8 +118698,8 @@ Rohožníku
 rohožový/YN po:adjective
 rohý/YN po:adjective
 Rocha
-rocheta
-rochetka
+rocheta/zZ po:noun is:feminine
+rochetka/zZ po:noun is:feminine
 Rochom
 Rochová/Y po:adjective
 rochtať
@@ -118914,7 +118878,7 @@ roniť/EN po:verb
 Ronom
 Ronov
 röntgen/B po:noun is:masculine
-röntgenodiagnostika
+röntgenodiagnostika/zZ po:noun is:feminine
 röntgenogram
 röntgenokardiografia
 röntgenológ/c po:noun is:masculine
@@ -119104,7 +119068,7 @@ rovný/YN po:adjective
 rowdie
 Róza
 Rozália/U po:noun is:feminine
-Rozálka
+Rozálka/zZ po:noun is:feminine
 rozanalizovať/WN po:verb
 rozanalyzovanie/VN po:noun is:neuter
 rozanalyzovaný/YN po:adjective
@@ -119704,7 +119668,7 @@ rozhovárali
 rozhovárať
 rozhovor/B po:noun is:masculine
 rozhovoriť/EN po:verb
-rozhovorka
+rozhovorka/zZ po:noun is:feminine
 rozhovorovo
 rozhovorte
 rozhrabať/TN po:verb
@@ -121809,9 +121773,7 @@ rozvidnievať/XN po:verb
 rozvidnime
 rozvidniť/EN po:verb
 rozvidnite
-rozviedčik
-rozviedčika
-rozviedčikov
+rozviedčik/c po:noun is:masculine
 rozviedka/zZ po:noun is:feminine
 rozviesť/RN po:verb
 rozvievať/XN po:verb
@@ -122190,12 +122152,15 @@ rudej
 rudí
 Rudický/YN po:adjective
 rudiment
-rudimentálnej
-rudimentárne/YN po:adjective
+rudimentálny/YN po:adjective
+rudimentárne po:adverb
 rudimentárny/YN po:adjective
 Rudin
 Rudina
-Rudinka
+Rudinčan/c po:noun is:masculine
+Rudinčianka/zZ po:noun is:feminine
+rudinčiansky/YN po:adjective
+Rudinka/zZ po:noun is:feminine
 Rudinský/YN po:adjective
 rudka/zZ po:noun is:feminine
 Rudlov
@@ -122454,8 +122419,7 @@ Rusovskej
 Rusovskou
 Rusovskú
 rusticita
-rustika
-Rustika
+rustika/zZ po:noun is:feminine
 rustikál
 rustikálny/YN po:adjective
 Rusý/YN po:adjective
@@ -122557,9 +122521,7 @@ Ružbachy
 Ružena/zZ po:noun is:feminine
 ružencový/YN po:adjective
 ruženec/J po:noun is:masculine
-Ruženka
-Ruženkou
-Ruženky
+Ruženka/zZ po:noun is:feminine
 ruží
 ružiak/B po:noun is:masculine
 ružica/U po:noun is:feminine
@@ -122578,9 +122540,8 @@ Ružinove
 Ružinovom
 ružinovský/YN po:adjective
 Ružinovu
-Ružínska
-ružínskej
 Ružinský/YN po:adjective
+ružínsky/YN po:adjective
 ružolíce
 Ružomberka
 Ružomberkom
@@ -123088,7 +123049,7 @@ sála/zZ po:noun is:feminine
 salacita
 salačný/YN po:adjective
 sálach
-Salajka
+Salajka/zZ po:noun is:feminine
 sálajúca
 Sálajúce
 sálajúci
@@ -123165,8 +123126,7 @@ Salina
 Saline
 salinita
 salivácia/U po:noun is:feminine
-Salka
-Salke
+Salka/zZ po:noun is:feminine
 salmiak/B po:noun is:masculine
 salmiakový/YN po:adjective
 salmonel
@@ -123287,7 +123247,7 @@ samofinancovanie/VN po:noun is:neuter
 samohl
 samohláska/zZ po:noun is:feminine
 samohláskový/YN po:adjective
-samohonka
+samohonka/zZ po:noun is:feminine
 samohybmi
 samohybný/YN po:adjective
 samochodný/YN po:adjective
@@ -123572,8 +123532,7 @@ sanktissimum
 sanktuárium
 sanktus
 sánky/Q
-Sanmarínska
-sanmarínsky
+sanmarínsky/YN po:adjective
 sánočiek
 sánočky/Q
 sanovanie/VN po:noun is:neuter
@@ -123604,11 +123563,7 @@ santonín
 santos
 Santos
 Santosom
-Santovka
-Santovke
-Santovkou
-Santovku
-Santovky
+Santovka/zZ po:noun is:feminine
 santovský/YN po:adjective
 SAP po:acronym
 sapa
@@ -123647,7 +123602,7 @@ sára/zZ po:noun is:feminine
 sarabanda/Z po:noun is:feminine
 sarabanda/zZ po:noun is:feminine
 Saracéni
-saracénka
+saracénka/zZ po:noun is:feminine
 sarafán
 sárach
 Sárach
@@ -123684,10 +123639,7 @@ Sardínie
 Sardínii
 sardinka/zZ po:noun is:feminine
 sardinkový/YN po:adjective
-Sardínska
-sardínskej
-sardínskou
-sardínsky
+sardínsky/YN po:adjective
 sardonický/YN po:adjective
 sardonyx
 sargas
@@ -123729,10 +123681,8 @@ Sáse
 Sasinkova
 Sasinkovo
 Sasinkovu
-Saska
+Saska/zZ po:noun is:feminine
 Saskia
-Sasku
-Sasky
 saský/YN po:adjective
 Sasom
 Sasov
@@ -123797,8 +123747,7 @@ Satrapom
 Satrapu
 saturácia/U po:noun is:feminine
 saturačný/YN po:adjective
-saturejka
-saturejku
+saturejka/zZ po:noun is:feminine
 Saturn/B po:noun is:masculine
 saturnálie
 saturnizmus/B po:noun is:masculine
@@ -123811,7 +123760,7 @@ satyriáza
 satyrov/Y po:adjective
 satyrský/YN po:adjective
 sauce
-Saudskoarabka
+Saudskoarabka/zZ po:noun is:feminine
 saudskoarabský/YN po:adjective
 saudský/YN po:adjective
 Saul/C po:noun is:masculine
@@ -124064,8 +124013,7 @@ sebakritickosť/K po:noun is:feminine
 sebakriticky/N po:adverb
 sebakritický/YN po:adjective
 sebakritika/zZ po:noun is:feminine
-sebaláska
-sebalásky
+sebaláska/zZ po:noun is:feminine
 sebaľutovanie/VN po:noun is:neuter
 sebaobetavý/YN po:adjective
 sebaobete
@@ -124593,19 +124541,8 @@ sedmoslivkársky/YN po:adjective
 sedmospáč/C po:noun is:masculine
 sedmospáčka/zZ po:noun is:feminine
 sedmospáčov/Y po:adjective
-sedmospáčska
-sedmospáčske
-sedmospáčskeho
-sedmospáčskej
-sedmospáčskemu
-sedmospáčski
-sedmospáčskom
-sedmospáčskou
-sedmospáčsku
 sedmospáčsky/N po:adverb
-sedmospáčskych
-sedmospáčskym
-sedmospáčskymi
+sedmospáčsky/YN po:adjective
 Segedín
 Segedína
 Segedíne
@@ -124637,7 +124574,7 @@ seizmicity
 seizmickosť/K po:noun is:feminine
 seizmicky
 seizmický/YN po:adjective
-seizmika
+seizmika/zZ po:noun is:feminine
 seizmograf/B po:noun is:masculine
 seizmografický/YN po:adjective
 seizmogram/B po:noun is:masculine
@@ -124688,7 +124625,7 @@ sekcionálne
 sekciový/YN po:adjective
 sekčný/YN po:adjective
 sekera/zZ po:noun is:feminine
-sekerečka
+sekerečka/zZ po:noun is:feminine
 sekerka/zZ po:noun is:feminine
 sekerôčka/Z po:noun is:feminine
 sekerôčka/zZ po:noun is:feminine
@@ -124885,7 +124822,7 @@ semifinalista/H po:noun is:masculine
 semifinalistka/zZ po:noun is:feminine
 semifinalistov/Y po:adjective
 semifinálový/YN po:adjective
-semigrafika
+semigrafika/zZ po:noun is:feminine
 semihumidný/YN po:adjective
 Semíl
 Semiloch
@@ -124903,9 +124840,9 @@ semiotický/YN po:adjective
 semiotička/Z po:noun is:feminine
 semiotička/zZ po:noun is:feminine
 semiotik/C po:noun is:masculine
-sémiotika
 semiotika/Z po:noun is:feminine
 semiotika/zZ po:noun is:feminine
+sémiotika/zZ po:noun is:feminine
 semiotikov/Y po:adjective
 semióza
 semiš/J po:noun is:masculine
@@ -125148,7 +125085,7 @@ seriózne/YN po:adjective
 serióznosť/K po:noun is:feminine
 seriózny/YN po:adjective
 sermon
-sérodiagnostika
+sérodiagnostika/zZ po:noun is:feminine
 sérológ/c po:noun is:masculine
 sérológia
 Sérologické
@@ -125282,16 +125219,7 @@ severonem
 severoslovan
 severoslovenský/YN po:adjective
 severotal
-severotalianska
-severotalianske
-severotalianskeho
-severotalianskej
-severotalianskemu
-severotalianskom
-severotaliansku
-severotaliansky
-severotalianskych
-severotalianskym
+severotaliansky/YN po:adjective
 severových
 severovýchod/B po:noun is:masculine
 severovýchodne/YN po:adjective
@@ -125326,19 +125254,7 @@ sextami
 sextán/C po:noun is:masculine
 sextánka/zZ po:noun is:feminine
 sextánov/Y po:adjective
-sextánska
-sextánske
-sextánskeho
-sextánskej
-sextánskemu
-sextánski
-sextánskom
-sextánskou
-sextánsku
-sextánsky
-sextánskych
-sextánskym
-sextánskymi
+sextánsky/YN po:adjective
 sextant
 Sextant
 Sextantu
@@ -125430,7 +125346,7 @@ Sforzando
 sforzato
 Sforzáto
 sfotografovať/WN po:verb
-sfragistika
+sfragistika/zZ po:noun is:feminine
 sfrázovanie/VN po:noun is:neuter
 sfrázovať/WN po:verb
 SFRJ po:acronym
@@ -125891,9 +125807,7 @@ sihotí
 sihotiach
 sihotiam
 sihoťou
-sicherheitsdienst
-sika
-Sika
+sika/zZ po:noun is:feminine
 síkanie/V po:noun is:neuter
 síkať/XN po:verb
 sikatív
@@ -125902,7 +125816,6 @@ Sikenice
 Sikenička/zZ po:noun is:feminine
 Sikha
 Sikhovia
-Siku
 sil
 sila/zZ po:noun is:feminine
 siláckosť/K po:noun is:feminine
@@ -125936,38 +125849,22 @@ silicit
 silícium
 Silická
 silicový/YN po:adjective
-Silika
+silika/zZ po:noun is:feminine
 silikát/B po:noun is:masculine
 silikátmi
 silikátový/YN po:adjective
 silikatóza
 silikón/B po:noun is:masculine
 silikónový/YN po:adjective
-silikou
+silikový/YN po:adjective
 silikóz
 silikóza/zZ po:noun is:feminine
 silikózach
 silikózam
-siliky
 silimanit
 siliť/EN po:verb
-Silk
-Silka
-Silku
-Silky
-silne/YN po:adjective
-silnejúca
-silnejúce
-silnejúceho
-silnejúcej
-silnejúcemu
-silnejúci
-silnejúcich
-silnejúcim
-silnejúcimi
-silnejúcom
-silnejúcou
-silnejúcu
+silne po:adverb
+silnejúci/YN po:adjective
 silnieť/XN po:verb
 silno
 silnoprúd
@@ -126042,8 +125939,7 @@ SIMM po:acronym
 Simon
 Simona/zZ po:noun is:feminine
 simonia
-Simonka
-Simonku
+Simonka/zZ po:noun is:feminine
 Simonom
 Simonov
 Simonová/Y po:adjective
@@ -126141,7 +126037,7 @@ Sino
 sinokve
 sinokvet/B po:noun is:masculine
 sinológ/c po:noun is:masculine
-sinologčika
+sinologčika/zZ po:noun is:feminine
 sinológia/U po:noun is:feminine
 sinologický/YN po:adjective
 sinologička/Z po:noun is:feminine
@@ -126319,9 +126215,8 @@ skaď
 skade
 skadekoľvek
 skadene
-skadenoha
-skaderuka
-skaderukaskadenoha
+skadenoha po:noun
+skaderuka po:noun
 skadesi
 skadeže
 skadiaľ
@@ -126645,9 +126540,7 @@ skleneno
 sklenený/YN po:adjective
 skleník/B po:noun is:masculine
 skleníkový/YN po:adjective
-Sklenka
-Sklenku
-sklenky
+sklenka/zZ po:noun is:feminine
 sklenný/YN po:adjective
 skleno
 sklený/YN po:adjective
@@ -126690,6 +126583,7 @@ sklesnuto/N po:adverb
 sklesnutosť/K po:noun is:feminine
 sklesnutý/YN po:adjective
 sklíčko/M po:noun is:neuter
+sklienka/zZ po:noun is:feminine
 sklincúvaný/YN po:adjective
 sklo/M po:noun is:neuter
 sklobetón/B po:noun is:masculine
@@ -126715,7 +126609,7 @@ sklopec
 sklopenie/V po:noun is:neuter
 sklopený/YN po:adjective
 sklopiť/EN po:verb
-sklopka
+sklopka/zZ po:noun is:feminine
 sklopný/YN po:adjective
 sklovca
 sklovina/zZ po:noun is:feminine
@@ -127030,7 +126924,8 @@ skrátenie/V po:noun is:neuter
 skrátenina/zZ po:noun is:feminine
 skrátený/YN po:adjective
 skrátiť/XN po:verb
-skrátka
+skrátka po:adverb
+skrátka po:participle
 skratka/zZ po:noun is:feminine
 skratkovací
 skratkovacia
@@ -127111,7 +127006,10 @@ skriňový/YN po:adjective
 skrípt
 skript/B po:noun is:masculine
 skriptá/Q
-skriptka
+skriptér/C po:noun is:masculine
+skriptérka/zZ po:noun is:feminine
+skriptérsky/YN po:adjective
+skriptka/zZ po:noun is:feminine
 skriptmi
 skriptórium
 skriptovací/I po:adjective
@@ -127602,15 +127500,7 @@ sladára
 sladári
 sladárom
 sladárov
-sladárska
-sladárske
-sladárskeho
-sladárskej
-sladárskom
-sladárskou
-sladársku
-sladársky
-sladárskych
+sladársky/YN po:adjective
 sladenie/V po:noun is:neuter
 sladený/YN po:adjective
 sladič
@@ -127651,7 +127541,7 @@ Sládkových
 Sládkovým
 sladký/YN po:adjective
 sladnúť/WN
-sládok
+sládok/B po:noun is:masculine
 sladostný/YN po:adjective
 sladovanie/VN po:noun is:neuter
 sladovaný/YN po:adjective
@@ -127811,15 +127701,11 @@ Slavomírov/Y po:adjective
 Slavónia
 Slavónie
 Slavónii
-Slavónska
-Slavónsko
-Slavónskom
-Slavónsku
-slavónsky
+Slavónsko/M po:noun is:neuter
+slavónsky/YN po:adjective
 slávospev
 Slavoška
-slavošovský/Y po:adjective
-Slavošovský/YN po:adjective
+slavošovský/YN po:adjective
 slávožiara
 slavský/YN po:adjective
 Slavy
@@ -127886,18 +127772,7 @@ Sliači
 Sliačoch
 Sliačom
 Sliačov
-Sliačska
-sliačske
-sliačskeho
-sliačskej
-sliačskemu
-sliačskom
-Sliačskou
-sliačsku
-sliačsky
-sliačskych
-sliačskym
-sliačskymi
+sliačsky/YN po:adjective
 slide
 sliedenie/V po:noun is:neuter
 sliedič/C po:noun is:masculine
@@ -127922,19 +127797,7 @@ sliepňať/XN po:verb
 sliepňavý/YN po:adjective
 sliepočka/zZ po:noun is:feminine
 sliezanský/YN po:adjective
-sliezska
-sliezske
-Sliezskeho
-sliezskej
-sliezski
-Sliezsko
-sliezskom
-sliezskou
-sliezsku
-sliezsky
-sliezskych
-Sliezskym
-sliezskymi
+sliezsky/YN po:adjective
 slimačí/I po:adjective
 slimáčik/L po:noun is:masculine
 slimáčikov/Y po:adjective
@@ -127954,10 +127817,7 @@ slinový/YN po:adjective
 slintačka/zZ po:noun is:feminine
 slintajúci
 slintať/EN po:verb
-slintavka
-slintavkou
-slintavku
-slintavky
+slintavka/zZ po:noun is:feminine
 slintoš
 slintošom
 slinuté
@@ -128080,15 +127940,7 @@ slotu
 sloty
 slovaciká
 slovacikum
-Slovácka
-Slovácke
-Slováckeho
-Slováckej
-Slovácko
-slováckom
-Slovácku
-Slovácky
-Slováckych
+slovácky/YN po:adjective
 Slovač
 Slovače
 Slováčisko
@@ -128147,26 +127999,19 @@ slovenčinársky/YN po:adjective
 slovenčiť
 sloveniká
 slovenikum
-slovenistika
+slovenistika/zZ po:noun is:feminine
 Slovenka/zZ po:noun is:feminine
-slovenska
-slovenskách
-slovenskám
-slovenskami
-slovenske
-slovensko
 Slovensko/M po:noun is:neuter
 slovensko-český/YN po:adjective
-slovenskoľupčianskej
+slovenskoľupčiansky/YN po:adjective
 slovensko-ruský/YN po:adjective
 slovenskosť/K po:noun is:feminine
-slovensku
 slovensky/N po:adverb
 slovenský/YN po:adjective
 slovesnosť/K po:noun is:feminine
 slovesný/YN po:adjective
 sloveso/M po:noun is:neuter
-Slovianskej
+sloviansky/YN po:adjective
 slovičkár/C po:noun is:masculine
 slovičkárenie/V po:noun is:neuter
 slovičkáriť/XN po:verb
@@ -128276,19 +128121,8 @@ sluka/zZ po:noun is:feminine
 sľukár/C po:noun is:masculine
 sľukárka/zZ po:noun is:feminine
 sľukárov/Y po:adjective
-sľukárska
-sľukárske
-sľukárskeho
-sľukárskej
-sľukárskemu
-sľukárski
-sľukárskom
-sľukárskou
-sľukársku
 sľukársky/N po:adverb
-sľukárskych
-sľukárskym
-sľukárskymi
+sľukársky/YN po:adjective
 slum
 slump
 sluš
@@ -128470,9 +128304,7 @@ Smižanoch
 Smižanom
 Smižany/Q
 Smižian
-Smižianska
-smižianskeho
-smižiansky
+smižiansky/YN po:adjective
 SMK po:acronym
 smog/B po:noun is:masculine
 smogový/YN po:adjective
@@ -128519,15 +128351,7 @@ smolnatý/YN po:adjective
 smolnica
 smolnicami
 smolniciam
-Smolnícka
-smolnícke
-smolníckeho
-Smolníckej
-smolníckom
-smolnícky
-smolníckych
-smolníckym
-smolníckymi
+smolnícky/YN po:adjective
 smolnička/zZ po:noun is:feminine
 Smolník
 Smolníka
@@ -128798,13 +128622,10 @@ snowboardingom
 snowboardingov
 snowboardingu
 snowboardingy
-snôpka
-snôpkami
+snôpka/zZ po:noun is:feminine
 snôpkoch
 snôpkom
 snôpkov
-snôpku
-snôpky
 snôpok/B po:noun is:masculine
 SNP po:acronym
 SNR po:acronym
@@ -128814,7 +128635,7 @@ snúbencov/Y po:adjective
 snúbenec/C po:noun is:masculine
 snúbenecký/YN po:adjective
 snúbenica/U po:noun is:feminine
-snúbenka
+snúbenka/zZ po:noun is:feminine
 snúbiť/XN po:verb
 snubný/YN po:adjective
 snul
@@ -128857,8 +128678,7 @@ sobotňajší/I po:adjective
 sobotný/YN po:adjective
 sobotský/YN po:adjective
 sobovi
-Sobôtka
-Sobôtku
+Sobôtka/zZ po:noun is:feminine
 Sobrance
 Sobranciach
 Sobranciam
@@ -129064,9 +128884,7 @@ soľ/K po:noun is:feminine
 sólach
 sólam
 solanín
-soľanka
-soľankou
-soľanky
+soľanka/zZ po:noun is:feminine
 solar
 solarimeter
 solárium/M po:noun is:neuter
@@ -129074,9 +128892,7 @@ solarizácia/U po:noun is:feminine
 solárny/Y po:adjective
 Solarová/Y po:adjective
 Solčianky
-Solčianska
-Solčianskeho
-Solčiansky
+solčiansky/YN po:adjective
 Sold
 soldateska/zZ po:noun is:feminine
 solecizmus/B po:noun is:masculine
@@ -129208,7 +129024,7 @@ somárstvam
 somárstvo/M po:noun is:neuter
 somaticky
 somatický/YN po:adjective
-somatika
+somatika/zZ po:noun is:feminine
 somatizácia/U po:noun is:feminine
 somatológ/c po:noun is:masculine
 somatológia/U po:noun is:feminine
@@ -129344,7 +129160,7 @@ soptime
 soptiť/EN po:verb
 soptite
 Sopúch
-sorabistika
+sorabistika/zZ po:noun is:feminine
 sorbát
 sorbent
 sorbit
@@ -129446,13 +129262,10 @@ sovieti
 sovietizácia/U po:noun is:feminine
 sovietská
 sovietsky/YN po:adjective
-sovka
-sovkami
+sovka/zZ po:noun is:feminine
 sovkoch
 sovkom
 sovkov
-sovku
-sovky
 sovok/B po:noun is:masculine
 SOZ po:acronym
 sôch
@@ -129939,13 +129752,9 @@ spiknutie/V po:noun is:neuter
 spikula
 spiláž
 spílená
-spiliek
 spilit
 spíliť/XN po:verb
-Spilka
-spilkách
-Spilku
-spilky
+spilka/zZ po:noun is:feminine
 spilovanie/VN po:noun is:neuter
 spilovať/WN po:verb
 spiľovať/WN po:verb
@@ -130479,10 +130288,7 @@ spolucítiť/XN po:verb
 spoludedič/c po:noun is:masculine
 spoludedička/zZ po:noun is:feminine
 spoludedičov/Y po:adjective
-spoludlžník
-spoludlžníka
-spoludlžníkom
-spoludlžníkov
+spoludlžník/C po:noun is:masculine
 spoludržiteľom
 spoluexistencia
 spolufinancovať/WN po:verb
@@ -131042,8 +130848,7 @@ správny/YN po:adjective
 spravodaj/J po:noun is:masculine
 spravodajca/H po:noun is:masculine
 spravodajcov/Y po:adjective
-spravodajka
-spravodajke
+spravodajka/zZ po:noun is:feminine
 spravodajkyňa/U po:noun is:feminine
 spravodajsko
 spravodajsky
@@ -131364,7 +131169,7 @@ sprš
 spršať
 spršia
 spŕška/zZ po:noun is:feminine
-sprudka
+sprudka po:adverb
 sprúh
 spruha/zZ po:noun is:feminine
 spruhový/YN po:adjective
@@ -131729,9 +131534,7 @@ Stakáto
 Stakčín
 Stakčína
 Stakčíne
-Stakčínska
-stakčínskeho
-stakčínskej
+stakčínsky/YN po:adjective
 stalagmit/B po:noun is:masculine
 stalagmitmi
 stalagnát
@@ -131936,19 +131739,8 @@ staropanensky
 staropanenský/YN po:adjective
 staropanenstvo/M po:noun is:neuter
 starorím
-starorímska
-starorímske
-starorímskeho
-starorímskej
-starorímskemu
-starorímski
-starorímskom
-starorímskou
-starorímsku
 starorímsky/N po:adverb
-starorímskych
-starorímskym
-starorímskymi
+starorímsky/YN po:adjective
 starorodičovský/YN po:adjective
 starorus
 staroruský/YN po:adjective
@@ -131990,21 +131782,17 @@ starosvatov/Y po:adjective
 starosvetsky
 starosvetský/YN po:adjective
 starotal
-staroturianska
-staroturianskeho
-staroturianskej
-staroturiansku
-Staroturianskym
-starousadlé
+staroturiansky/YN po:adjective
 starousadlícky/YN po:adjective
 starousadlíčka/zZ po:noun is:feminine
 starousadlík/C po:noun is:masculine
 starousadlíkov/Y po:adjective
+starousadlý/YN po:adjective
 starovek/B po:noun is:masculine
 starovekosť/K po:noun is:feminine
 staroveký/Y po:adjective
-Staroveský/YN po:adjective
-starozákonne
+staroveský/YN po:adjective
+starozákonne po:adverb
 starozákonný/YN po:adjective
 staroznámy/Y po:adjective
 starožid
@@ -132164,8 +131952,7 @@ stavebno
 stavebnomontážny/YN po:adjective
 stavebnoprávne
 stavebnoprávnej
-stavebnostolárska
-stavebnostolárskymi
+stavebnostolársky/YN po:adjective
 stavebný/YN po:adjective
 stavec/J po:noun is:masculine
 stáveký/YN po:adjective
@@ -132229,7 +132016,7 @@ stážista/H po:noun is:masculine
 stážistka/zZ po:noun is:feminine
 stážistov/Y po:adjective
 sťažiť/EN po:verb
-sťažka
+sťažka po:adverb
 sťažnosť/K po:noun is:feminine
 sťažnostný/YN po:adjective
 sťažňový/YN po:adjective
@@ -132418,10 +132205,10 @@ stepu
 stepy
 ster/B po:noun is:masculine
 steradián
-stereakustika
+stereakustika/zZ po:noun is:feminine
 stereí
 stereo/M po:noun is:neuter
-stereoakustika
+stereoakustika/zZ po:noun is:feminine
 stereoefekt
 stereofilmy
 stereofónia/U po:noun is:feminine
@@ -132826,19 +132613,8 @@ stolárčiť/XN po:verb
 stoláreň
 stolárne
 stolárov/Y po:adjective
-stolárska
-stolárske
-stolárskeho
-stolárskej
-stolárskemu
-stolárski
-stolárskom
-stolárskou
-stolársku
 stolársky/N po:adverb
-stolárskych
-stolárskym
-stolárskymi
+stolársky/YN po:adjective
 stolárstvach
 stolárstvam
 stolárstvo/M po:noun is:neuter
@@ -133114,7 +132890,7 @@ stotisíckou
 stotisícku
 stotisícky
 stotisícok
-stotisícovka
+stotisícovka/zZ po:noun is:feminine
 stotisícový/YN po:adjective
 stoto
 stotonovej
@@ -133253,14 +133029,7 @@ stranný/YN po:adjective
 stránočka/zZ po:noun is:feminine
 stranovo
 stranový/YN po:adjective
-Stránska
-Stránske
-Stránskeho
-Stránskej
-Stránskom
-Stránskou
-Stránsku
-Stránsky
+stránsky/YN po:adjective
 stransparentnenie/V po:noun is:neuter
 strapáč
 strapačka/zZ po:noun is:feminine
@@ -133433,14 +133202,7 @@ Strážove
 Strážovská
 Strážovské
 Strážovských
-Strážska
-Strážske
-Strážskeho
-strážskej
-Strážskom
-Strážsku
-Strážskych
-Strážskym
+strážsky/YN po:adjective
 strbčovať/WN po:verb
 strckať
 strčenie/V po:noun is:neuter
@@ -133632,8 +133394,10 @@ stretávací/I po:adjective
 stretávajúce
 stretávanie/V po:noun is:neuter
 stretávať/XN po:verb
-Stretave
-Stretavka
+Stretavčan/c po:noun is:masculine
+Stretavčianka/zZ po:noun is:feminine
+stretavčiansky/YN po:adjective
+Stretavka/zZ po:noun is:feminine
 stretávka/zZ po:noun is:feminine
 Stretavský/YN po:adjective
 streté
@@ -133864,7 +133628,7 @@ Stročíne
 strof
 strofa/zZ po:noun is:feminine
 strofický/YN po:adjective
-strofika
+strofika/zZ po:noun is:feminine
 strofulus
 stroho
 strohosť/K po:noun is:feminine
@@ -134054,9 +133818,7 @@ strunový/YN po:adjective
 strunôčka/Z po:noun is:feminine
 strunôčka/zZ po:noun is:feminine
 strúsiť/XN po:verb
-struska
-strusku
-strusky
+struska/zZ po:noun is:feminine
 struvit
 strúžik/B po:noun is:masculine
 stružikať
@@ -134214,9 +133976,8 @@ Stupine
 Stupino
 stupiť/EN po:verb
 stúpiť/XN po:verb
-stupka
+stupka/zZ po:noun is:feminine
 stupkať/EN po:verb
-Stupku
 stupňa
 stupňami
 stupne
@@ -134377,15 +134138,7 @@ subdodávateľka/zZ po:noun is:feminine
 subdodávateľov/Y po:adjective
 subdodávateľsky
 subdodávateľský/YN po:adjective
-subdodávka
-subdodávkach
-subdodávkam
-subdodávkami
-subdodávke
-subdodávkou
-subdodávku
-subdodávky
-subdodávok
+subdodávka/zZ po:noun is:feminine
 subdoména/zZ po:noun is:feminine
 subdominanta
 subdukcia
@@ -134406,7 +134159,7 @@ subfebrilný/YN po:adjective
 subfertilita
 subfosília
 subfosílny/YN po:adjective
-subinka
+subinka/zZ po:noun is:feminine
 subito
 subj
 subjekcia
@@ -134592,15 +134345,7 @@ Sudán/B po:noun is:masculine
 Sudániek
 Sudánka/Z po:noun is:feminine
 Sudánka/zZ po:noun is:feminine
-Sudánska
-sudánskeho
-sudánskej
-sudánski
-sudánskom
-sudánsky
-sudánskych
-sudánskym
-sudánskymi
+sudánsky/YN po:adjective
 sudatórium
 sudba/zZ po:noun is:feminine
 sudca/H po:noun is:masculine
@@ -134885,7 +134630,7 @@ sulfur
 Sulín
 Sulíne
 sulínskej
-sulka
+sulka/zZ po:noun is:feminine
 súlodí
 súlodia
 súlodie
@@ -134903,8 +134648,7 @@ súložníkov/Y po:adjective
 sultán/C po:noun is:masculine
 sultanát/B po:noun is:masculine
 sultanátmi
-Sultánka
-Sultánku
+sultánka/zZ po:noun is:feminine
 sultánov/Y po:adjective
 sultánsky/YN po:adjective
 súm
@@ -134931,8 +134675,7 @@ súmernosť/K po:noun is:feminine
 súmerný/YN po:adjective
 súmestie/V po:noun is:neuter
 sumička/zZ po:noun is:feminine
-sumka
-sumkou
+sumka/zZ po:noun is:feminine
 summa
 summarum
 Summe
@@ -134985,7 +134728,7 @@ supé
 super
 súper/C po:noun is:masculine
 súpera
-superaerodynamika
+superaerodynamika/zZ po:noun is:feminine
 superarbitrácia/U po:noun is:feminine
 superdominanta
 súperenie/V po:noun is:neuter
@@ -135072,7 +134815,7 @@ suplementy
 suplent
 supletívnosť/K po:noun is:feminine
 supletívny/YN po:adjective
-suplika
+suplika/zZ po:noun is:feminine
 suplikácia/U po:noun is:feminine
 suplikačný/Y po:adjective
 suplikant/C po:noun is:masculine
@@ -135109,12 +134852,7 @@ supresie
 supresívna
 supresívnych
 supurácia/U po:noun is:feminine
-súpútnici
-súpútnik
-súpútnika
-súpútnikmi
-súpútnikom
-súpútnikov
+súpútnik/C po:noun is:masculine
 súra/zZ po:noun is:feminine
 Surabaji
 súradne
@@ -135447,7 +135185,7 @@ svárom
 svárov
 sváru
 sváry
-svastika
+svastika/zZ po:noun is:feminine
 svat/c po:noun is:masculine
 Svatava
 Svatave
@@ -135535,15 +135273,9 @@ svedčný/YN po:adjective
 svedecky
 svedecký/YN po:adjective
 svedectvo/M po:noun is:neuter
-Svedernícka
-svedernícku
+svedernícky/YN po:adjective
 Svederník
 Svederníku
-svedka
-svedkami
-svedkoch
-svedkom
-svedkov
 svedkovej
 svedkovho
 svedkovi
@@ -135553,11 +135285,11 @@ svedočného
 svedočnému
 svedočnom
 svedočným
-svedok/c po:noun is:masculine
+svedok/O po:noun is:masculine
 svedokov/Y po:adjective
 svedomie/V po:noun is:neuter
-svedomite
-svedomito
+svedomite po:adverb
+svedomito po:adverb
 svedomitosť/K po:noun is:feminine
 svedomitý/YN po:adjective
 svelomilný/YN po:adjective
@@ -135689,26 +135421,15 @@ svetochýrny/YN po:adjective
 svetonáhľad/B po:noun is:masculine
 svetonáhľadový/YN po:adjective
 svetonázor/B po:noun is:masculine
-svetonázorove
-svetonázorovo
+svetonázorove po:adverb
+svetonázorovo po:adverb
 svetonázorový/YN po:adjective
 svetoobčan/c po:noun is:masculine
 svetoobčanov/Y po:adjective
 svetoobčianka/Z po:noun is:feminine
 svetoobčianka/zZ po:noun is:feminine
-svetoobčianska
-svetoobčianske
-svetoobčianskeho
-svetoobčianskej
-svetoobčianskemu
-svetoobčianski
-svetoobčianskom
-svetoobčianskou
-svetoobčiansku
 svetoobčiansky/N po:adverb
-svetoobčianskych
-svetoobčianskym
-svetoobčianskymi
+svetoobčiansky/YN po:adjective
 svetoobčianstvach
 svetoobčianstvam
 svetoobčianstvo/M po:noun is:neuter
@@ -135749,22 +135470,9 @@ sviatostný/Y po:adjective
 svíb/B po:noun is:masculine
 svíba
 svíbový/YN po:adjective
-svidnícka
-Svidnícke
-svidníckeho
-svidníckej
-svidníckemu
 Svidnickí
-Svidnícki
-Svidníckom
-svidnícku
-Svidnícky
-svidníckych
-svidníckym
-svidníckymi
-Svidník
-Svidníka
-Svidníkom
+svidnícky/YN po:adjective
+Svidník/C po:noun is:masculine
 Svidníku
 sviec
 svieca/U po:noun is:feminine
@@ -135806,7 +135514,7 @@ sviežosť/K po:noun is:feminine
 sviiť
 sviňa/U po:noun is:feminine
 sviňacina
-sviňačinka
+sviňačinka/zZ po:noun is:feminine
 svinčí/I po:adjective
 svinčík
 svinčíku
@@ -135971,17 +135679,14 @@ svrab/B po:noun is:masculine
 svrabľavosť/K po:noun is:feminine
 svrabľavý/YN po:adjective
 svrabový/YN po:adjective
-Svratka
-Svratke
-Svratku
-Svratky
+Svratka/zZ po:noun is:feminine
 svrb
 svrbenie/V po:noun is:neuter
 Svrbický/YN po:adjective
 svrbieť/RN po:verb
 svrbievať/XN po:verb
 svrbivý/YN po:adjective
-svrbľavka
+svrbľavka/zZ po:noun is:feminine
 svrbľavosť/K po:noun is:feminine
 svrbľavý/YN po:adjective
 svrček/B po:noun is:masculine
@@ -136019,11 +135724,9 @@ SVŠT po:acronym
 SVTS po:acronym
 SVV po:acronym
 swahil
-Swahilské
-Swahilsky
-swap
-Swastika
-swastikou
+swahilsky
+swahilský/YN po:adjective
+swap/B po:noun is:masculine
 swift
 swing/B po:noun is:masculine
 swingmi
@@ -136155,7 +135858,7 @@ sympózium/M po:noun is:neuter
 symptóm/B po:noun is:masculine
 symptomaticky/N po:adverb
 symptomatický/YN po:adjective
-symptomatika
+symptomatika/zZ po:noun is:feminine
 syn/c po:noun is:masculine
 synáčik/c po:noun is:masculine
 synáčikov/Y po:adjective
@@ -136177,17 +135880,15 @@ synček/c po:noun is:masculine
 synčekov/Y po:adjective
 syndesmológia
 syndesmóza
-syndik
-syndika
-syndikalistickým
+syndik/c po:noun is:masculine
+syndikalistický/YN po:adjective
 syndikalizmus/B po:noun is:masculine
 Syndikalizmus/B po:noun is:masculine
 syndikát/B po:noun is:masculine
 syndikátmi
 syndikátny/YN po:adjective
 syndikátový/YN po:adjective
-Syndikom
-syndikus
+syndikus/B po:noun is:masculine
 syndróm/B po:noun is:masculine
 syndrómový/YN po:adjective
 synechia
@@ -136198,10 +135899,10 @@ synekdochicky
 synekdochický/YN po:adjective
 synekia
 synekológia
-synektika
+synektika/zZ po:noun is:feminine
 synendrion
 synendrium
-synergetika
+synergetika/zZ po:noun is:feminine
 synergetikum
 synergia/U po:noun is:feminine
 synergicky
@@ -136211,7 +135912,7 @@ synergizmus/B po:noun is:masculine
 synestézia
 syngamia
 syngenetický/YN po:adjective
-syngenetika
+syngenetika/zZ po:noun is:feminine
 synchondróza
 synchorológia
 synchrocyklotrón
@@ -136468,7 +136169,7 @@ SZTK po:acronym
 šabľový/YN po:adjective
 šabrak
 Šabrák
-šabraka
+šabraka/zZ po:noun is:feminine
 Šác
 Šaca
 Šace
@@ -136588,15 +136289,7 @@ SZTK po:acronym
 Šalgovíku
 Šáli
 Šalianka
-šalianska
-šalianske
-šalianskeho
-šalianskej
-Šalianskemu
-šalianski
-šalianskom
-šaliansky
-šalianskych
+šaliansky/YN po:adjective
 šalieť/XN po:verb
 šálik/B po:noun is:masculine
 šálka/zZ po:noun is:feminine
@@ -136688,7 +136381,7 @@ SZTK po:acronym
 Šanghajčanka/zZ po:noun is:feminine
 Šanghajčanov/Y po:adjective
 Šanghajec/C po:noun is:masculine
-Šanghajka
+Šanghajka/zZ po:noun is:feminine
 šanghajský/YN po:adjective
 šanon
 šanón
@@ -136776,7 +136469,7 @@ SZTK po:acronym
 šarišskomichalianskych
 šarišský/YN po:adjective
 šarivary
-Šárka
+Šárka/zZ po:noun is:feminine
 šarkan/B po:noun is:masculine
 šarkani
 šarkaní/I po:adjective
@@ -136786,10 +136479,6 @@ SZTK po:acronym
 šarkaňom
 šarkaňou
 šarkanovi
-Šárke
-Šárkou
-Šárku
-Šárky
 šarlach/B po:noun is:masculine
 šarlachový/YN po:adjective
 šarlát/B po:noun is:masculine
@@ -136841,9 +136530,7 @@ SZTK po:acronym
 Šaštína
 Šaštíne
 Šaštínom
-šaštínska
-šaštínskej
-šaštínskym
+šaštínsky/YN po:adjective
 šat/B po:noun is:masculine
 šata
 Šatan/c po:noun is:masculine
@@ -137027,19 +136714,8 @@ SZTK po:acronym
 šepkár/C po:noun is:masculine
 šepkárka/zZ po:noun is:feminine
 šepkárov/Y po:adjective
-šepkárska
-šepkárske
-šepkárskeho
-šepkárskej
-šepkárskemu
-šepkárski
-šepkárskom
-šepkárskou
-šepkársku
 šepkársky/N po:adverb
-šepkárskych
-šepkárskym
-šepkárskymi
+šepkársky/YN po:adjective
 šepkať/EN po:verb
 šepkávať/XN po:verb
 šepkom
@@ -137097,19 +136773,8 @@ SZTK po:acronym
 šermiar/C po:noun is:masculine
 šermiarka/zZ po:noun is:feminine
 šermiarov/Y po:adjective
-šermiarska
-šermiarske
-šermiarskeho
-šermiarskej
-šermiarskemu
-šermiarski
-šermiarskom
-šermiarskou
-šermiarsku
 šermiarsky/N po:adverb
-šermiarskych
-šermiarskym
-šermiarskymi
+šermiarsky/YN po:adjective
 šermovačka/zZ po:noun is:feminine
 šermovanie/VN po:noun is:neuter
 šermovať/WN po:verb
@@ -137227,7 +136892,7 @@ SZTK po:acronym
 šestorák/L po:noun is:masculine
 šestorákov/Y po:adjective
 šestoraký/YN po:adjective
-šestorka
+šestorka/zZ po:noun is:feminine
 šestoro/M po:noun is:neuter
 šesťpercentný/YN po:adjective
 šesťposchodový/YN po:adjective
@@ -137695,7 +137360,7 @@ SZTK po:acronym
 šimľov
 šimľovi
 Šimon/c po:noun is:masculine
-Šimonka
+Šimonka/zZ po:noun is:feminine
 Šimonov/Y po:adjective
 Šimonová/Y po:adjective
 Šimonovský/YN po:adjective
@@ -137886,24 +137551,12 @@ SZTK po:acronym
 Škandinávii
 Škandinávií
 Škandináviou
-škandinavistika
+škandinavistika/zZ po:noun is:feminine
 Škandináviu
 škandinavizmus/B po:noun is:masculine
-Škandinávka
+Škandinávka/zZ po:noun is:feminine
 Škandinávkina
-škandinávska
-škandinávske
-škandinávskeho
-škandinávskej
-škandinávskemu
-škandinávski
-škandinávskom
-škandinávskou
-škandinávsku
-škandinávsky
-škandinávskych
-škandinávskym
-škandinávskymi
+škandinávsky/YN po:adjective
 škapuliar/J po:noun is:masculine
 škapuliarmi
 škapuliarový/YN po:adjective
@@ -138070,11 +137723,7 @@ SZTK po:acronym
 škorpiónovi
 škót/C po:noun is:masculine
 Škót/C po:noun is:masculine
-Škótka
-Škótkam
-Škótke
-Škótku
-Škótky
+Škótka/zZ po:noun is:feminine
 škótov/Y po:adjective
 Škótov/Y po:adjective
 Škótsko/M po:noun is:neuter
@@ -138135,9 +137784,7 @@ SZTK po:acronym
 škrabľavý/YN po:adjective
 škrabnúť/WN
 škrabnutie/V po:noun is:neuter
-škraboška
-škrabošku
-škrabošky
+škraboška/zZ po:noun is:feminine
 škrabot/B po:noun is:masculine
 škrabotajúc
 škrabotať/TN po:verb
@@ -138337,7 +137984,7 @@ SZTK po:acronym
 škutina/zZ po:noun is:feminine
 škutinatý/YN po:adjective
 škutinka/zZ po:noun is:feminine
-Škutka
+škutka/zZ po:noun is:feminine
 škvar
 škvár
 škvára
@@ -138432,7 +138079,6 @@ SZTK po:acronym
 šľachtiteľov/Y po:adjective
 šľachtiteľský/YN po:adjective
 šľachtiteľstvo/M po:noun is:neuter
-šlajfka
 šľak/B po:noun is:masculine
 šľakovať/WN po:verb
 šľakovitý/YN po:adjective
@@ -138550,7 +138196,7 @@ SZTK po:acronym
 šmirgľovať/WN po:verb
 šmirgľový/YN po:adjective
 šmochtať
-Šmolka
+šmolka/zZ po:noun is:feminine
 šmotkať
 šmrdkať/EN po:verb
 šmrnc/J po:noun is:masculine
@@ -138742,9 +138388,7 @@ SZTK po:acronym
 španielčinár/C po:noun is:masculine
 španielčinárka/zZ po:noun is:feminine
 španielčinárov/Y po:adjective
-Španielka
-Španielkou
-Španielku
+Španielka/zZ po:noun is:feminine
 Španielov/Y po:adjective
 Španielová/Y po:adjective
 španielovi
@@ -139085,7 +138729,7 @@ SZTK po:acronym
 šprtať/EN po:verb
 špúlením
 špúliť/XN po:verb
-špuľka
+špuľka/zZ po:noun is:feminine
 špunt/C po:noun is:masculine
 špunte
 špuntov/Y po:adjective
@@ -139105,9 +138749,8 @@ SZTK po:acronym
 šrafovať/WN po:verb
 šrám/B po:noun is:masculine
 šramel
-Šramka
+šramka/zZ po:noun is:feminine
 Šramková/Y po:adjective
-Šramku
 šramot/B po:noun is:masculine
 šramotajúc
 šramotanie/V po:noun is:neuter
@@ -139350,9 +138993,7 @@ SZTK po:acronym
 Štefán
 Štefan/c po:noun is:masculine
 Štefánia/U po:noun is:feminine
-Štefánka
-Štefánke
-Štefánku
+Štefánka/zZ po:noun is:feminine
 Štefanov/Y po:adjective
 Štefanová/Y po:adjective
 štefanovský/YN po:adjective
@@ -139446,21 +139087,15 @@ SZTK po:acronym
 Štetínčanov/Y po:adjective
 štetinka/zZ po:noun is:feminine
 štetinový/YN po:adjective
-štetínska
-Štetínske
-štetínskeho
-štetínskej
-štetínskom
-štetínsky
+štetínsky/YN po:adjective
 štetka/zZ po:noun is:feminine
 štetovníc
 štetovnice
 štetový/YN po:adjective
 štetôčky
 Števa
-Števka
+Števka/zZ po:noun is:feminine
 Števkovi
-Števku
 Števovi
 štiaci
 štiap/B po:noun is:masculine
@@ -140655,8 +140290,7 @@ SZTK po:acronym
 šupasom
 šúpať/TN po:verb
 šúpatiek
-šupátka
-šupátko
+šupátko/M po:noun is:neuter
 šupátkových
 šupátok
 šupieť/RN po:verb
@@ -140688,15 +140322,7 @@ SZTK po:acronym
 Šurany
 Šurian
 Šurianky
-Šurianska
-Šurianskeho
-šurianskej
-šurianskemu
-šurianski
-Šurianskom
-Šuriansky
-Šurianskych
-Šurianskym
+šuriansky/YN po:adjective
 šúrom
 šúrovať/WN po:verb
 Šúrskeho
@@ -140781,7 +140407,7 @@ SZTK po:acronym
 šváb/L po:noun is:masculine
 švabach/B po:noun is:masculine
 švabachový/YN po:adjective
-švábka
+švábka/zZ po:noun is:feminine
 švábov/Y po:adjective
 švábovskej
 Švábovský/YN po:adjective
@@ -140850,14 +140476,6 @@ SZTK po:acronym
 švenkovať/WN po:verb
 Švermova
 Švermove
-švíček/B po:noun is:masculine
-švíčka
-švíčkami
-švíčkoch
-švíčkom
-švíčkov
-švíčku
-švíčky
 švih/B po:noun is:masculine
 šviháckosť/K po:noun is:feminine
 švihácky/YN po:adjective
