@@ -1,4 +1,4 @@
-161445
+161420
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -4554,6 +4554,8 @@ autochtón
 autochtonizmus/B po:noun is:masculine
 autochtónnosť/K po:noun is:feminine
 autochtónny/YN po:adjective
+autoimunita/zZ po:noun is:feminine
+autoimunitný/YN po:adjective
 autointoxikácia/U po:noun is:feminine
 autoka/zZ po:noun is:feminine
 autokar/B po:noun is:masculine
@@ -26492,6 +26494,8 @@ fototípia
 fototlač
 fototropia
 fototypia
+fotovoltický/YN po:adjective
+fotovoltika/zZ po:noun is:feminine
 fox
 Foxom
 Foxov
@@ -38922,7 +38926,7 @@ jednoduchosť/K po:noun is:feminine
 jednoduchší/PF po:adjective
 jednoduchý/YN po:adjective
 jednodušené
-jednodušení
+jednodušenie/V po:noun is:neuter
 jednodznačne po:adverb
 jednofarebne po:adverb
 jednofarebnosť/K po:noun is:feminine
@@ -39718,9 +39722,6 @@ južania
 južanka/zZ po:noun is:feminine
 južanov/Y po:adjective
 južanský/YN po:adjective
-Južno
-južnoslov
-južnoslovan
 južne po:adverb
 južnoslovanský/YN po:adjective
 južný/YN po:adjective
@@ -56956,6 +56957,7 @@ millefiori
 míľnik/B po:noun is:masculine
 míľnikový/Y po:adjective
 milo po:adverb
+milo/N po:adverb
 milodar/B po:noun is:masculine
 Milochov
 Milochova
@@ -65397,7 +65399,6 @@ Nemiec
 nemiernosť/K po:noun is:feminine
 nemieru
 nemiestnosť/K po:noun is:feminine
-milo/N po:adverb
 nemilobohu
 nemilosrdnosť/K po:noun is:feminine
 nemilšej
@@ -68316,8 +68317,6 @@ nesúrodosť/K po:noun is:feminine
 nesústredenie/V po:noun is:neuter
 nesústredenosť/K po:noun is:feminine
 nesúvis
-nesúvisle
-nesúvislo
 nesúvislosť/K po:noun is:feminine
 nesúzvuk
 nesúzvukom
@@ -70133,9 +70132,7 @@ nezatrbliecu
 nezatrbliecuc
 nezatrúc
 nezatvorenie/V po:noun is:neuter
-nezaujate
 nezaujatie
-nezaujato
 nezaujatosť/K po:noun is:feminine
 nezáujem/O po:noun is:masculine
 nezaujímavosť/K po:noun is:feminine
@@ -70153,10 +70150,7 @@ nezaverte
 nezaviažuc
 nezáviď
 Nezavidím
-nezavinene
 nezávis
-nezávisle
-nezávislo
 nezavrav
 nezavraždi
 nezavraždime
@@ -70270,7 +70264,6 @@ nezdupotajúc
 nezdur
 nezdurte
 nezdvorilec
-nezdvorilo
 nezdvorilosť/K po:noun is:feminine
 nezev
 nezgagotajúc
@@ -104106,8 +104099,7 @@ rádioaktívny/YN po:adjective
 rádioamatér/C po:noun is:masculine
 rádioamatérka/zZ po:noun is:feminine
 rádioamatérov/Y po:adjective
-rádioamatérske
-rádioamatérsky
+rádioamatérsky/Y po:adjective
 rádioamatérstvo/M po:noun is:neuter
 rádioaparát
 rádioastronóm
@@ -104123,21 +104115,18 @@ rádiofikáciu
 rádiofor
 rádiofyzika/zZ po:noun is:feminine
 rádiogénny/YN po:adjective
-rádiografické
+rádiografický/YN po:adjective
 rádiogram/B po:noun is:masculine
 rádiogramofón
 rádiogramofónov
 rádiogravimetria
-rádiochémia
+rádiochémia/U po:noun is:feminine
 rádioizotop/B po:noun is:masculine
 rádioizotopový/YN po:adjective
-Rádioklubu
+rádioklub/B po:noun is:masculine
 rádiokomunikácia/U po:noun is:feminine
 rádiokomunikačný/YN po:adjective
-rádioliečba/z po:noun is:feminine
-rádioliečbach
-rádioliečbam
-rádioliečbami
+rádioliečba/zZ po:noun is:feminine
 rádioliečob
 rádiológ/c po:noun is:masculine
 rádiológia/U po:noun is:feminine
@@ -104145,14 +104134,10 @@ rádiologický/YN po:adjective
 rádiologička/zZ po:noun is:feminine
 rádiológov/Y po:adjective
 rádiolokácia/U po:noun is:feminine
-rádiolokačne
+rádiolokačne po:adverb
 rádiolokačný/YN po:adjective
-rádiolokátor/C po:noun is:masculine
-rádiolokátore
-rádiolokátormi
+rádiolokátor/B po:noun is:masculine
 rádiolokátorov/Y po:adjective
-rádiolokátoru
-rádiolokátory
 rádiolýza
 rádiomagnetofón/B po:noun is:masculine
 Rádiomaják
@@ -104177,7 +104162,7 @@ rádiosonda
 rádiostaníc
 rádiostanica
 rádiostanicami
-rádiostanice
+rádiostanice/U po:noun is:feminine
 rádiostaniciach
 rádiostaniciam
 rádiostanicou
@@ -104188,18 +104173,12 @@ rádiotechnička/zZ po:noun is:feminine
 rádiotechnik/C po:noun is:masculine
 rádiotechnika/zZ po:noun is:feminine
 rádiotechnikov/Y po:adjective
-rádiotelefón
-rádiotelefóne
+rádiotelefón/B po:noun is:masculine
+rádiotelefóne po:adverb
 rádiotelefónia/U po:noun is:feminine
 rádiotelefonický/Y po:adjective
-rádiotelefónmi
-rádiotelefónoch
-rádiotelefónom
-rádiotelefónov
-rádiotelefónu
-rádiotelefóny
 rádiotelegrafia/U po:noun is:feminine
-rádiotelegraficky
+rádiotelegraficky po:adverb
 rádiotelegrafický/YN po:adjective
 rádiotelegrafista/H po:noun is:masculine
 rádiotelegrafistka/zZ po:noun is:feminine
@@ -104351,7 +104330,7 @@ rafináty
 rafinéria/U po:noun is:feminine
 rafinérka/zZ po:noun is:feminine
 rafinérsky/YN po:adjective
-rafinovane
+rafinovane po:adverb
 rafinovanie/VN po:noun is:neuter
 rafinovanosť/K po:noun is:feminine
 rafinovaný/YN po:adjective
