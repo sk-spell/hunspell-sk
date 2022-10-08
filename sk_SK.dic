@@ -5499,7 +5499,7 @@ balza
 Balza
 balzám
 balzam/B po:noun is:masculine
-balzamovači
+balzamovač/C po:noun is:masculine
 balzamovanie/VN po:noun is:neuter
 balzamovať/WN po:verb
 balzamový/Y po:adjective
@@ -12170,7 +12170,7 @@ cyklotrónový/YN po:adjective
 cykloturistika/zZ po:noun is:feminine
 cyklotýmia
 cyklov
-cyklovač
+cyklovač/J po:noun is:masculine
 cyklovanie/VN po:noun is:neuter
 cyklovaný/YN po:adjective
 cyklovej
@@ -13232,8 +13232,8 @@ CZV po:acronym
 číslo/M po:noun is:neuter
 číslov
 číslovací/I po:adjective
-číslovač
-číslovači
+číslovač/J po:noun is:masculine
+číslovač/C po:noun is:masculine
 číslovačka/zZ po:noun is:feminine
 číslovane
 číslovanie/VN po:noun is:neuter
@@ -18130,8 +18130,8 @@ doladenie/V po:noun is:neuter
 doladiť/EN po:verb
 dolaďovacie
 dolaďovaciu
-dolaďovač
-dolaďovači
+dolaďovač/J po:noun is:masculine
+dolaďovač/C po:noun is:masculine
 dolaďovanie/VN po:noun is:neuter
 dolaďovať/WN po:verb
 doľahnúť/WN po:verb
@@ -26720,7 +26720,7 @@ frézovacie
 frézovacieho
 frézovacích
 frézovaciu
-frézovač
+frézovač/J po:noun is:masculine
 frézovačka/zZ po:noun is:feminine
 frézovane
 frézovanie/VN po:noun is:neuter
@@ -29707,7 +29707,7 @@ hamman
 hámor/J po:noun is:masculine
 Hámora
 hámorský/YN po:adjective
-hamovač
+hamovač/J po:noun is:masculine
 hamovať/WN po:verb
 hamovka/zZ po:noun is:feminine
 hamovkár
@@ -45221,7 +45221,7 @@ kopijovitý/YN po:adjective
 kopilot
 kopiózny/YN po:adjective
 kopírovací/I po:adjective
-kopírovači
+kopírovač/C po:noun is:masculine
 kopírovačka/zZ po:noun is:feminine
 kopírovanie/VN po:noun is:neuter
 kopírovaný/YN po:adjective
@@ -57165,7 +57165,7 @@ minorita/zZ po:noun is:feminine
 minoritne
 minoritný/YN po:adjective
 minoritský/Y po:adjective
-mínovač
+mínovač/J po:noun is:masculine
 mínovanie/VN po:noun is:neuter
 mínovať/WN po:verb
 Miňovský/YN po:adjective
@@ -60977,7 +60977,7 @@ nahrať/EN po:verb
 nahratie/V po:noun is:neuter
 nahratý/YN po:adjective
 nahrávací/I po:adjective
-nahrávač
+nahrávač/J po:noun is:masculine
 nahrávača
 nahrávačov
 nahrávajúci
@@ -62838,9 +62838,9 @@ nástavieb
 nastaviť/EN po:verb
 nastaviteľný/YN po:adjective
 nastavovací/I po:adjective
-nastavovač
+nastavovač/J po:noun is:masculine
 nastavovača
-nastavovači
+nastavovač/C po:noun is:masculine
 nastavovačov
 nastavovane
 nastavovanie/VN po:noun is:neuter
@@ -62899,7 +62899,7 @@ nástrel
 nastrelené
 nastreliť/EN po:verb
 nástrelná
-nastreľovač
+nastreľovač/J po:noun is:masculine
 nastreľovať/WN po:verb
 nastriekanie/V po:noun is:neuter
 nastriekaný/YN po:adjective
@@ -63588,7 +63588,7 @@ navŕtanie/V po:noun is:neuter
 navŕtaných
 navŕtaným
 navŕtať/XN po:verb
-navrtávač
+navrtávač/J po:noun is:masculine
 navrtávaním
 navrtávať/XN po:verb
 návrte
@@ -72653,7 +72653,7 @@ obliesť
 oblietanie/V po:noun is:neuter
 oblietať/XN po:verb
 oblietnuť/WN po:verb
-oblievač
+oblievač/J po:noun is:masculine
 oblievačka/zZ po:noun is:feminine
 oblievané
 oblievanie/V po:noun is:neuter
@@ -72726,7 +72726,7 @@ oblúdiť
 obludne/N po:adverb
 obludnosť/K po:noun is:feminine
 obludný/YN po:adjective
-obluhovač
+obluhovač/J po:noun is:masculine
 oblúk/B po:noun is:masculine
 oblúkovite
 oblúkovito
@@ -72883,7 +72883,7 @@ obopnúť/WN po:verb
 obor/CB po:noun is:masculine
 oboraním
 oborať/RN po:verb
-oborávač
+oborávač/J po:noun is:masculine
 oborávaním
 oborávať/XN po:verb
 Oborín
@@ -74396,8 +74396,7 @@ odkalisko
 odkaliskom
 odkalisku
 odkaliť
-odkaľovač
-odkaľovači
+odkaľovač/J po:noun is:masculine
 odkalovanie/VN po:noun is:neuter
 odkapať
 odkášať/XN po:verb
@@ -74494,7 +74493,7 @@ odkotúľať/N
 odkotúľať/XN po:verb
 odkôrnený/YN po:adjective
 odkôrniť/XN po:verb
-odkôrňovač
+odkôrňovač/J po:noun is:masculine
 odkôrňovanie/VN po:noun is:neuter
 odkôrňovať/WN po:verb
 odkôstkovať/WN po:verb
@@ -74569,8 +74568,8 @@ odla
 odladenie/V po:noun is:neuter
 odladený/YN po:adjective
 odladiť/EN po:verb
-odlaďovač
-odlaďovači
+odlaďovač/J po:noun is:masculine
+odlaďovač/C po:noun is:masculine
 odlaďovanie/VN po:noun is:neuter
 odlaďovať/WN po:verb
 odľahčene
@@ -74734,7 +74733,7 @@ odlupovať/WN po:verb
 odlupujúci
 odlúštiť
 odľúvať
-odmagnetizovač
+odmagnetizovač/J po:noun is:masculine
 odmáhať
 odmala
 odmalička po:adverb
@@ -75100,7 +75099,7 @@ odpálený/YN po:adjective
 odpáliť/XN po:verb
 odpálkovať/WN po:verb
 odpaľovací/I po:adjective
-odpaľovač
+odpaľovač/J po:noun is:masculine
 odpaľovanie/VN po:noun is:neuter
 odpaľovaný/YN po:adjective
 odpaľovať/WN po:verb
@@ -75166,7 +75165,7 @@ odpísať/TN po:verb
 odpískanie/V po:noun is:neuter
 odpískaný/YN po:adjective
 odpískať/XN po:verb
-odpisovač
+odpisovač/J po:noun is:masculine
 odpisovane
 odpisovanie/VN po:noun is:neuter
 odpisovaný/YN po:adjective
@@ -75255,7 +75254,7 @@ odpojenie/VN po:noun is:neuter
 odpojený/YN po:adjective
 odpojiť/EN po:verb
 odpojiteľný/YN po:adjective
-odpojovač
+odpojovač/J po:noun is:masculine
 odpojovače
 odpojovači
 odpojovačov
@@ -75335,7 +75334,7 @@ odprášenie/V po:noun is:neuter
 odprášených
 odprášiť/XN po:verb
 odprašovací/I po:adjective
-odprašovač
+odprašovač/J po:noun is:masculine
 odprašovača
 odprašovanie/VN po:noun is:neuter
 odprašovaný/YN po:adjective
@@ -75384,7 +75383,7 @@ odpudiť/EN po:verb
 odpudivo/N po:adverb
 odpudivosť/K po:noun is:feminine
 odpudivý/YN po:adjective
-odpudzovač
+odpudzovač/J po:noun is:masculine
 odpudzovače
 odpudzovačom
 odpudzovačov
@@ -75561,7 +75560,7 @@ odrušenie/V po:noun is:neuter
 odrušiť/EN po:verb
 odrušovacích
 odrušovacím
-odrušovač
+odrušovač/J po:noun is:masculine
 odrušovanie/VN po:noun is:neuter
 odrušovať/WN po:verb
 odrýpať
@@ -75712,12 +75711,12 @@ odstredivkový/YN po:adjective
 odstredivo/N po:adverb
 odstredivosť/K po:noun is:feminine
 odstredivý/YN po:adjective
-odstreďovač
+odstreďovač/J po:noun is:masculine
 odstreďovači
 odstreďovanie/VN po:noun is:neuter
 odstreďovať/WN po:verb
 odstreknúť
-odstrekovač
+odstrekovač/J po:noun is:masculine
 odstrekovať/WN po:verb
 odstrel/B po:noun is:masculine
 odstrele
@@ -76181,7 +76180,7 @@ odvodnime
 odvodniť/EN po:verb
 odvodnite
 odvodňovací/I po:adjective
-odvodňovač
+odvodňovač/J po:noun is:masculine
 odvodňovača
 odvodňovanie/VN po:noun is:neuter
 odvodňovaný/YN po:adjective
@@ -76194,7 +76193,7 @@ odvodzovacie
 odvodzovacích
 odvodzovacím
 odvodzovacou
-odvodzovač
+odvodzovač/J po:noun is:masculine
 odvodzovanie/VN po:noun is:neuter
 odvodzovaný/YN po:adjective
 odvodzovať/WN po:verb
@@ -76274,7 +76273,7 @@ odvzdušni
 odvzdušnime
 odvzdušniť/EN po:verb
 odvzdušnite
-odvzdušňovač
+odvzdušňovač/J po:noun is:masculine
 odvzdušňovači
 odvzdušňovanie/VN po:noun is:neuter
 odvzdušňovať/WN po:verb
@@ -77292,7 +77291,7 @@ okysličenie/V po:noun is:neuter
 okysličený/YN po:adjective
 okysličiť/EN po:verb
 okysličovací/IN po:adjective
-okysličovač
+okysličovač/J po:noun is:masculine
 okysličovane
 okysličovanie/VN po:noun is:neuter
 okysličovaný/YN po:adjective
@@ -77359,7 +77358,7 @@ Olejníkov
 olejnina/zZ po:noun is:feminine
 olejný/YN po:adjective
 olejomaľba/zZ po:noun is:feminine
-olejovač
+olejovač/J po:noun is:masculine
 olejovať/WN po:verb
 olejovitý/YN po:adjective
 olejovne
@@ -79439,7 +79438,7 @@ osídľovanie/VN po:noun is:neuter
 osídľovať/WN po:verb
 osiel
 osiem
-osievač
+osievač/J po:noun is:masculine
 osievači
 osievačka/zZ po:noun is:feminine
 osievanie/V po:noun is:neuter
@@ -80905,7 +80904,7 @@ oznámiť/XN po:verb
 oznámkovaný/YN po:adjective
 oznámkovať/WN po:verb
 oznamovací/I po:adjective
-oznamovač
+oznamovač/J po:noun is:masculine
 oznamovanie/VN po:noun is:neuter
 oznamovaný/YN po:adjective
 oznamovať/WN po:verb
@@ -84177,7 +84176,7 @@ perforácia/U po:noun is:feminine
 perforačný/YN po:adjective
 perforátor/B po:noun is:masculine
 performancia
-perforovač
+perforovač/J po:noun is:masculine
 perforovačka/zZ po:noun is:feminine
 perforovanie/VN po:noun is:neuter
 perforovaný/YN po:adjective
@@ -84805,7 +84804,7 @@ piesčitý/YN po:adjective
 pieseň/D po:noun is:feminine
 piesenka/zZ po:noun is:feminine
 pieskovací/IN po:adjective
-pieskovač
+pieskovač/J po:noun is:masculine
 pieskovača
 pieskovanie/VN po:noun is:neuter
 pieskovaný/YN po:adjective
@@ -86645,7 +86644,7 @@ pobúreno
 pobúrenosť/K po:noun is:feminine
 pobúrený/YN po:adjective
 pobúriť/XN po:verb
-poburovač
+poburovač/J po:noun is:masculine
 poburovačov
 poburovanie/VN po:noun is:neuter
 poburovať/WN po:verb
@@ -88305,7 +88304,7 @@ pohlavie/V po:noun is:neuter
 pohlavne
 pohlavnosť/K po:noun is:feminine
 pohlavný/YN po:adjective
-pohlcovač
+pohlcovač/J po:noun is:masculine
 pohlcovačov
 pohlcovane
 pohlcovanie/VN po:noun is:neuter
@@ -89417,7 +89416,7 @@ polienok
 polietať/XN po:verb
 poliev
 polievací/I po:adjective
-polievač
+polievač/J po:noun is:masculine
 polievačka/zZ po:noun is:feminine
 polievanie/V po:noun is:neuter
 polievaný/YN po:adjective
@@ -95249,7 +95248,7 @@ prečiarknutý/YN po:adjective
 prečiarkovať/WN po:verb
 prečin/B po:noun is:masculine
 Prečín/J po:noun is:masculine
-Prečínčan/c po:noun is:masculin
+Prečínčan/c po:noun is:masculine
 Prečínčanka/zZ po:noun is:feminine
 prečínsky/YN po:adjective
 prečísliť/XN po:verb
@@ -96057,7 +96056,7 @@ predznačovať/WN po:verb
 predznamenanie/V po:noun is:neuter
 predznamenať/EN po:verb
 predznamenávať/XN po:verb
-predzosilňovač
+predzosilňovač/J po:noun is:masculine
 predzvesť/K po:noun is:feminine
 predzvestovať/WN po:verb
 predžatevný/YN po:adjective
@@ -96322,7 +96321,7 @@ prehriať/XN po:verb
 prehriatie/V po:noun is:neuter
 prehriatosť/K po:noun is:feminine
 prehriaty/YN po:adjective
-prehrievač
+prehrievač/J po:noun is:masculine
 prehrievača
 prehrievače
 prehrievačov
@@ -96396,7 +96395,7 @@ prechorejúc
 prechorieť/XN po:verb
 prechovaný/YN po:adjective
 prechovať/WN po:verb
-prechovávač
+prechovávač/J po:noun is:masculine
 prechovávačom
 prechovávačov
 prechovávaná
@@ -96719,7 +96718,7 @@ prekryť/WN po:verb
 prekrytie/V po:noun is:neuter
 prekrytu
 prekrytý/YN po:adjective
-prekrývač
+prekrývač/J po:noun is:masculine
 prekrývajúci/YN po:adjective
 prekrývanie/V po:noun is:neuter
 prekrývaný/YN po:adjective
@@ -107400,7 +107399,7 @@ rozdanie/V po:noun is:neuter
 rozdaný/YN po:adjective
 rozdarovať/WN po:verb
 rozdať/EN po:verb
-rozdávač
+rozdávač/J po:noun is:masculine
 rozdávačmi
 rozdávajúci
 rozdávanie/V po:noun is:neuter
@@ -107489,11 +107488,11 @@ rozdúchanie/V po:noun is:neuter
 rozdúchanú
 Rozdúchaný/YN po:adjective
 rozdúchať/XN po:verb
-rozduchávač
+rozduchávač/J po:noun is:masculine
 rozduchávali
 rozdúchavanie/V po:noun is:neuter
 rozdúchavať/XN po:verb
-rozduchovač
+rozduchovač/J po:noun is:masculine
 rozduchovať/WN po:verb
 rozdumovať/WN po:verb
 rozdupať/EN po:verb
@@ -109240,7 +109239,7 @@ rozšíritelne
 rozšíriteľnosť/K po:noun is:feminine
 rozšíriteľný/YN po:adjective
 rozširovací/IN po:adjective
-rozširovač
+rozširovač/J po:noun is:masculine
 rozširovanie/VN po:noun is:neuter
 rozširovaný/YN po:adjective
 rozširovať/WN po:verb
@@ -109564,7 +109563,7 @@ rozvažovať/WN po:verb
 rozväzovacej
 rozväzovacia
 rozväzovaciu
-rozväzovač
+rozväzovač/J po:noun is:masculine
 rozväzovanie/VN po:noun is:neuter
 rozväzovať/WN po:verb
 rozvedenie/V po:noun is:neuter
@@ -117686,7 +117685,7 @@ spľundrovať/WN po:verb
 spľuvať
 splynenie/V po:noun is:neuter
 splyniť/EN po:verb
-splynovač
+splynovač/J po:noun is:masculine
 splynovača
 splynovači
 splynovačov
@@ -119500,7 +119499,7 @@ staty
 sťatý/YN po:adjective
 staurolit
 stav/B po:noun is:masculine
-stavač
+stavač/J po:noun is:masculine
 stavadlo/M po:noun is:neuter
 stavadlový/YN po:adjective
 stávajúce
@@ -120040,7 +120039,7 @@ stmeľovanie/VN po:noun is:neuter
 stmeľovať/WN po:verb
 stmi
 stmieť/XN po:verb
-stmievač
+stmievač/J po:noun is:masculine
 stmievanie/V po:noun is:neuter
 stmievať/XN po:verb
 stmime
@@ -120345,7 +120344,7 @@ stopnutý/YN po:adjective
 stopo
 stoporenia
 stopovací/I po:adjective
-stopovač
+stopovač/J po:noun is:masculine
 stopovanie/VN po:noun is:neuter
 stopovať/WN po:verb
 stopovateľ
@@ -134148,16 +134147,16 @@ UCI po:acronym
 ucítiť/XN po:verb
 UCK po:acronym
 úct
-úcta/zN po:noun is:feminine
+úcta/zZN po:noun is:feminine
 úctach
 úctam
 úctami
 uctenie/V po:noun is:neuter
 ucti
-uctievač
+uctievač/C po:noun is:masculine
 uctievačov
 uctievajúceho
-uctievajúci
+uctievajúci/YN po:adjective
 uctievajúcich
 uctievanie/V po:noun is:neuter
 uctievaný/YN po:adjective
@@ -134346,7 +134345,7 @@ udať/EN po:verb
 udatne/YN po:adjective
 udatnosť/K po:noun is:feminine
 udatný/YN po:adjective
-udávač
+udávač/J po:noun is:masculine
 udavač/C po:noun is:masculine
 udavačka/zZ po:noun is:feminine
 udavačov/Y po:adjective
@@ -135064,7 +135063,7 @@ ukončime
 ukončiť/EN po:verb
 ukončite
 ukončovací/IN po:adjective
-ukončovač
+ukončovač/J po:noun is:masculine
 ukončovači
 ukončovanie/VN po:noun is:neuter
 ukončovať/WN po:verb
@@ -135161,7 +135160,7 @@ ukrytím
 úkrytmi
 ukryto
 ukrytý/YN po:adjective
-ukrývač
+ukrývač/C po:noun is:masculine
 ukrývanie/V po:noun is:neuter
 ukrývaný/YN po:adjective
 ukrývať/XN po:verb
@@ -137109,7 +137108,7 @@ uťahanosť/K po:noun is:feminine
 uťahaný/YN po:adjective
 uťahať
 uťahovacieho
-uťahovač
+uťahovač/J po:noun is:masculine
 uťahovače
 uťahovači
 uťahováka
@@ -137818,7 +137817,7 @@ uzlíkový/YN po:adjective
 uzlina/zZ po:noun is:feminine
 uzlinový/YN po:adjective
 uzliť
-uzľovač
+uzľovač/J po:noun is:masculine
 uzlovatý/YN po:adjective
 uzlovito
 uzlovitosť/K po:noun is:feminine
@@ -139398,7 +139397,7 @@ verbena
 Verbena
 verbista/H po:noun is:masculine
 verbistov/Y po:adjective
-verbovač
+verbovač/C po:noun is:masculine
 verbovača
 Verbovači
 verbovačka/zZ po:noun is:feminine
@@ -143214,7 +143213,7 @@ vycibriť/EN po:verb
 vycicané
 vycicaných
 vycicať/TN po:verb
-vyciciavač
+vyciciavač/J po:noun is:masculine
 vyciciavanie/V po:noun is:neuter
 vyciciavaný/YN po:adjective
 vyciciavať/XN po:verb
@@ -143705,7 +143704,7 @@ vyhádzanie/V po:noun is:neuter
 vyhadzaný/Y po:adjective
 vyhádzať/TN po:verb
 vyhadzov/B po:noun is:masculine
-vyhadzovač
+vyhadzovač/C po:noun is:masculine
 vyhadzovači
 vyhadzovane
 vyhadzovanie/VN po:noun is:neuter
@@ -143958,7 +143957,7 @@ vyhriaty
 vyhriatych
 vyhriatymi
 vyhrievací/I po:adjective
-vyhrievač
+vyhrievač/J po:noun is:masculine
 vyhrievače
 vyhrievačov
 vyhrievanie/V po:noun is:neuter
@@ -144118,8 +144117,8 @@ vychudnúť/WN po:verb
 vychudnutý/YN po:adjective
 vychutnaniu
 vychutnať/EN po:verb
-vychutnávač
 vychutnávania
+vychutnávač/C po:noun is:masculine
 vychutnávaniu
 vychutnávať/XN po:verb
 vychválenie/V po:noun is:neuter
@@ -144426,7 +144425,7 @@ vykonateľne
 vykonateľnosť/K po:noun is:feminine
 vykonateľný/YN po:adjective
 vykonávací/I po:adjective
-vykonávač
+vykonávač/C po:noun is:masculine
 vykonávajúci/YN po:adjective
 vykonávane
 vykonávanie/VN po:noun is:neuter
@@ -144519,7 +144518,7 @@ vykrádať/XN po:verb
 vykradnúť/WN po:verb
 vykradnutie/V po:noun is:neuter
 vykradnutý/YN po:adjective
-vykrajovač
+vykrajovač/J po:noun is:masculine
 vykrajovanie/VN po:noun is:neuter
 vykrajovaný/YN po:adjective
 vykrajovať/WN po:verb
@@ -146090,7 +146089,7 @@ vyrovnaný/YN po:adjective
 vyrovnať/EN po:verb
 vyrovnateľný/YN po:adjective
 vyrovnávací/I po:adjective
-vyrovnávač
+vyrovnávač/C po:noun is:masculine
 vyrovnávača
 vyrovnávače
 vyrovnávači
@@ -146182,7 +146181,7 @@ vysádzanie/V po:noun is:neuter
 vysádzaných
 vysádzať/TN po:verb
 vysádzať/XN po:verb
-vysadzovač
+vysadzovač/C po:noun is:masculine
 vysadzovači
 vysadzovanie/VN po:noun is:neuter
 vysadzovať/WN po:verb
@@ -146205,7 +146204,7 @@ vysávať/XN po:verb
 vysečdávať
 vyseď
 vysedajú
-vysedávač
+vysedávač/C po:noun is:masculine
 vysedávanie/V po:noun is:neuter
 vysedávať/XN po:verb
 vysedené
@@ -146405,7 +146404,7 @@ vyslovovať/WN po:verb
 vyslovujúci
 výsluh
 výsluha/zZ po:noun is:feminine
-vysluhovač
+vysluhovač/C po:noun is:masculine
 vysluhovanie/VN po:noun is:neuter
 vysluhovaný/YN po:adjective
 vysluhovať/WN po:verb
@@ -146439,7 +146438,7 @@ výsmešnosť/K po:noun is:feminine
 výsmešný/YN po:adjective
 vysmiať/XN po:verb
 vysmiaty/YN po:adjective
-vysmievač
+vysmievač/C po:noun is:masculine
 vysmievačný/YN po:adjective
 vysmievanie/V po:noun is:neuter
 vysmievaný/YN po:adjective
@@ -146834,7 +146833,7 @@ vysúšať/XN po:verb
 vysušenie/V po:noun is:neuter
 vysušený/YN po:adjective
 vysušiť/EN po:verb
-vysušovač
+vysušovač/J po:noun is:masculine
 vysušovače
 vysušovači
 vysušovanie/VN po:noun is:neuter
@@ -148384,7 +148383,8 @@ vzorka/zZ po:noun is:feminine
 Vzorkári
 vzorkavý/YN po:adjective
 vzorkovací/I po:adjective
-vzorkovač
+vzorkovač/J po:noun is:masculine
+vzorkovač/C po:noun is:masculine
 vzorkovači
 vzorkovane
 vzorkovanie/VN po:noun is:neuter
@@ -148966,7 +148966,7 @@ zabezpečenosť/K po:noun is:feminine
 zabezpečený/YN po:adjective
 zabezpečiť/EN po:verb
 zabezpečovací/I po:adjective
-zabezpečovač
+zabezpečovač/J po:noun is:masculine
 zabezpečovača
 zabezpečovačom
 zabezpečovanie/VN po:noun is:neuter
@@ -150025,7 +150025,7 @@ zahriate
 zahriatie/V po:noun is:neuter
 zahriaty
 zahrievací/I po:adjective
-zahrievač
+zahrievač/J po:noun is:masculine
 zahrievači
 zahrievačov
 zahrievajúci
@@ -150296,14 +150296,14 @@ zachvievajúcom
 zachvievanie/V po:noun is:neuter
 zachvievať/XN po:verb
 zachviľu
-zachycovač
+zachycovač/J po:noun is:masculine
 zachycovači
 zachycovanie/VN po:noun is:neuter
 zachycovaný/YN po:adjective
 zachycovať/WN po:verb
 záchyľa
 zachytať/EN po:verb
-zachytávač
+zachytávač/J po:noun is:masculine
 zachytávače
 zachytávači
 zachytávačov
@@ -151901,7 +151901,7 @@ zápisník/B po:noun is:masculine
 zápisníkový/YN po:adjective
 zápisný/YN po:adjective
 zapisovací/I po:adjective
-zapisovač
+zapisovač/J po:noun is:masculine
 zapisovača
 zapisovači
 zapisovačmi
@@ -152737,7 +152737,7 @@ zástavníkov/Y po:adjective
 zástavok
 zástavom
 zastavovací/IN po:adjective
-zastavovač
+zastavovač/J po:noun is:masculine
 zastavovanie/VN po:noun is:neuter
 zastavovaný/YN po:adjective
 zastavovať/WN po:verb
@@ -152879,7 +152879,7 @@ zasúšali
 zasušený/YN po:adjective
 zasúťaženia
 zasúvací/I po:adjective
-zasúvač
+zasúvač/J po:noun is:masculine
 zasúvadlo
 zasúvanie/V po:noun is:neuter
 zasúvať/XN po:verb
@@ -153809,7 +153809,7 @@ zavlaženie/V po:noun is:neuter
 zavlažený/YN po:adjective
 zavlažiť/EN po:verb
 zavlažovací/I po:adjective
-zavlažovač
+zavlažovač/J po:noun is:masculine
 zavlažovača
 zavlažovače
 zavlažovačmi
@@ -153993,7 +153993,7 @@ zaznamenanie/V po:noun is:neuter
 zaznamenaný/YN po:adjective
 zaznamenať/EN po:verb
 zaznamenateľný/YN po:adjective
-zaznamenávač
+zaznamenávač/J po:noun is:masculine
 zaznamenávane
 zaznamenávanie/V po:noun is:neuter
 zaznamenávaný/YN po:adjective
@@ -156272,7 +156272,7 @@ zlučiteľnosť/K po:noun is:feminine
 zlučiteľný/YN po:adjective
 zlúčiteľný/YN po:adjective
 zlučovací/I po:adjective
-zlučovač
+zlučovač/J po:noun is:masculine
 zlučovane
 zlučovanie/VN po:noun is:neuter
 zlučovaný/YN po:adjective
@@ -156376,7 +156376,7 @@ zmäkčime
 zmäkčiť/EN po:verb
 zmäkčite
 zmäkčovací/I po:adjective
-zmäkčovač
+zmäkčovač/J po:noun is:masculine
 zmäkčovače
 zmäkčovačmi
 zmäkčovadlo/M po:noun is:neuter
@@ -156520,7 +156520,7 @@ zmierňovať/WN po:verb
 zmierňujúci
 zmierny/YN po:adjective
 zmierovací/I po:adjective
-zmierovač
+zmierovač/J po:noun is:masculine
 zmierovanie/VN po:noun is:neuter
 zmierovať/WN po:verb
 zmierovateľa
@@ -157508,7 +157508,7 @@ Zohriatu
 zohriaty
 zohriatych
 zohrievací/I po:adjective
-zohrievač
+zohrievač/J po:noun is:masculine
 zohrievaná
 zohrievanej
 zohrievanie/V po:noun is:neuter
@@ -158742,7 +158742,7 @@ zrýchlenie/V po:noun is:neuter
 zrýchlený/YN po:adjective
 zrýchliť/XN po:verb
 zrýchľovací/IN po:adjective
-zrýchľovač
+zrýchľovač/J po:noun is:masculine
 zrýchľovanie/VN po:noun is:neuter
 zrýchľovať/WN po:verb
 zrýchľujúca
@@ -159776,7 +159776,7 @@ zvýraznime
 zvýrazniť/EN po:verb
 zvýraznite
 zvýrazňovací/I po:adjective
-zvýrazňovač
+zvýrazňovač/J po:noun is:masculine
 zvýrazňovača
 zvýrazňovane
 zvýrazňovanie/VN po:noun is:neuter
