@@ -5422,7 +5422,7 @@ balíčkovať/WN po:verb
 balíčkový/YN po:adjective
 baličov/Y po:adjective
 balijský/YN po:adjective
-balík/B po:noun is:masculine
+balík/b po:noun is:masculine
 balíkový/Y po:adjective
 balisáž
 balista/H po:noun is:masculine
@@ -78860,21 +78860,14 @@ orlica/U po:noun is:feminine
 orlickej
 Orlíckej
 orlickom
-Orlický/YN po:adjective
+orlický/YN po:adjective
 orlíča/A po:noun is:neuter
 orlík/B po:noun is:masculine
 orlíkovi
 orloj/J po:noun is:masculine
-orľom
-orľou
-Orlova
-Orlove
-orlovi
-Orlovom
-orlovskú
-Orlovský/YN po:adjective
+orlovský/YN po:adjective
 ornament/B po:noun is:masculine
-ornamentáciou
+ornamentácia/U po:noun is:feminine
 ornamentalistika/zZ po:noun is:feminine
 ornamentalizovať/WN po:verb
 ornamentálnosť/K po:noun is:feminine
@@ -78888,8 +78881,8 @@ ornátmi
 orne
 ornica/U po:noun is:feminine
 ornitín
-ornitogamia
-ornitochoria
+ornitogamia/U po:noun is:feminine
+ornitochoria/U po:noun is:feminine
 ornitológ/c po:noun is:masculine
 ornitológia/U po:noun is:feminine
 ornitologický/YN po:adjective
@@ -78906,10 +78899,10 @@ orogén
 orogenetický/YN po:adjective
 orogenéza
 orogénny/YN po:adjective
-orografia
+orografia/U po:noun is:feminine
 orol/O po:noun is:masculine
-orológia
-orometria
+orológia/U po:noun is:feminine
+orometria/U po:noun is:feminine
 orosenie/V po:noun is:neuter
 orosený/YN po:adjective
 orosiť/EN po:verb
@@ -96890,7 +96883,7 @@ preložiť/EN po:verb
 preložiteľnosť/KN po:noun is:feminine
 preložiteľný/YN po:adjective
 preložka/zZ po:noun is:feminine
-preľstili
+preľstiť/EN po:verb
 preľúbezný/YN po:adjective
 prelud/B po:noun is:masculine
 prelúdium/M po:noun is:neuter
@@ -96899,7 +96892,7 @@ preľudnenosť/K po:noun is:feminine
 preľudnený/YN po:adjective
 preľudni
 preľudnime
-preľudniť/EN po:verb
+preľudniť/XN po:verb
 preľudnite
 preľudňovať/WN po:verb
 preludný/YN po:adjective
@@ -96908,6 +96901,7 @@ prelustrovať/WN po:verb
 premáčať/XN po:verb
 premáhanie/V po:noun is:neuter
 premáhaný/YN po:adjective
+premájahúci/YN po:adjective
 premáhať/XN po:verb
 premáľať
 premaľba/zZ po:noun is:feminine
@@ -96931,11 +96925,11 @@ premasťovať/WN po:verb
 premávanie/V po:noun is:neuter
 premávať/XN po:verb
 premávka/zZ po:noun is:feminine
-premávkovo
+premávkovo po:adverb
 premávkový/YN po:adjective
 premazaný/YN po:adjective
 premazať/TN po:verb
-premazávaná
+premazávaný/YN po:adjective
 premazávať/XN po:verb
 premedikácia/U po:noun is:feminine
 premeditácia/U po:noun is:feminine
@@ -96943,12 +96937,12 @@ premena/zZ po:noun is:feminine
 premenenie/V po:noun is:neuter
 premenený/YN po:adjective
 premeniť/EN po:verb
-premeniteľných
+premeniteľný/YN po:adjective
 premenlivo/N po:adverb
 premenlivosť/K po:noun is:feminine
 premenlivý/YN po:adjective
 premenná/Y po:adjective
-premenne
+premenne po:adverb
 premenný/YN po:adjective
 premenovanie/VN po:noun is:neuter
 premenovaný/YN po:adjective
@@ -96960,7 +96954,7 @@ premenúvať/XN po:verb
 premeranie/V po:noun is:neuter
 premeraný/YN po:adjective
 premerať/TN po:verb
-premeriavané
+premeriavaný/YN po:adjective
 premeriavanie/V po:noun is:neuter
 premeriavať/XN po:verb
 premeškanie/V po:noun is:neuter
@@ -96969,13 +96963,15 @@ premeškať/EN po:verb
 premeškávanie/V po:noun is:neuter
 premeškávať/XN po:verb
 premet/B po:noun is:masculine
-Premetal
 prémia/U po:noun is:feminine
-premiant
+premiant/C po:noun is:masculine
+premiantka/zZ po:noun is:feminine
+premiantský/YN po:adjective
+premiantstvo po:adverb
 premieľanie/VN po:noun is:neuterpremieľaním
 premieľať/XN po:verb
-premieňajúca
-premieňané
+premieňajúci/YN po:adjective
+premieňaný/YN po:adjective
 premieňaného
 premieňanej
 premieňanie/V po:noun is:neuter
@@ -98559,6 +98555,7 @@ preuč
 preúčtovanie/VN po:noun is:neuter
 preúčtovaný/YN po:adjective
 preúčtovať/WN po:verb
+doúčtovať/WN po:verb
 preúčtováva
 preúčtovávanie/V po:noun is:neuter
 preúčtovávaný/YN po:adjective
@@ -140156,13 +140153,12 @@ Viko
 vikomt
 Vikovi
 Viktor/c po:noun is:masculine
-viktória
-Viktória/U po:noun is:feminine
+viktória/U po:noun is:feminine
 viktoriánsky/YN po:adjective
 Viktorín
-Viktorína
+Viktorína/zZ po:noun is:feminine
 Viktorínova
-Viktorkou
+Viktorka/zZ po:noun is:feminine
 Viktorky
 Viktormi
 Viktorov/Y po:adjective
