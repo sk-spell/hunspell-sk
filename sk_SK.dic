@@ -1,4 +1,4 @@
-160916
+160860
 a po:conjunction
 á po:interjection
 Á po:interjection
@@ -19327,6 +19327,7 @@ doučovane
 doučovanie/VN po:noun is:neuter
 doučovaný/YN po:adjective
 doučovať/WN po:verb
+doúčtovať/WN po:verb
 doudierať/XN po:verb
 douglaska
 doumývať/XN po:verb
@@ -67033,9 +67034,6 @@ neprelezenou
 neprelov
 nepreloz
 nepreložiteľný/Y po:adjective
-nepreľudni
-nepreľudnime
-nepreľudnite
 nepremárnenie/V po:noun is:neuter
 nepremasti
 nepremastime
@@ -68524,8 +68522,6 @@ neudlapčime
 neudlapčite
 neudreto
 neudrúc
-neudržateľne/N po:adverb
-neudržateľnosť/K po:noun is:feminine
 neudychč
 neudychči
 neudychčime
@@ -68597,33 +68593,21 @@ neumasti
 neumastime
 neumastite
 Neume
-neumelosť/K po:noun is:feminine
 neumenšia
 neumenšili
-neúmernosť/K po:noun is:feminine
 neumiestnenia
 neumlč
 neumocni
 neumocnime
 neumocnite
 neumor
-neúmornosť/K po:noun is:feminine
 neumorte
-neumožnenie/V po:noun is:neuter
 neumožni
 neumožnime
 neumožnite
 neumreto
 neumrúc
-neunáhlenosť/K po:noun is:feminine
-neunáhlila
-neunáhlili
-Neunáhlilo
-neunáhlim
-neunáhliť
-neúnavnosť/K po:noun is:feminine
 neuneseniu
-neúnosnosť/K po:noun is:feminine
 neupachti
 neupachtime
 neupachtite
@@ -68633,16 +68617,11 @@ neupevnite
 neupichnúť
 neupíšu
 neupíšuc
-neuplácal
 neuplatené
 neuplatených
-neuplatnenie/V po:noun is:neuter
 neuplatni
 neuplatnime
 neuplatnite
-neúplnosť/K po:noun is:feminine
-neuplynutia
-Neupokojiteľný/YN po:adjective
 neuposlúchnutie/V po:noun is:neuter
 neupotrebiteľnosť/K po:noun is:feminine
 neupozorni
@@ -68655,8 +68634,7 @@ neuprednostnite
 neupresni
 neupresnime
 neupresnite
-neúprimnosť/K po:noun is:feminine
-neúprosne/N po:adverb
+neúprosne po:adverb
 neúprosnosť/K po:noun is:feminine
 neúprosný/Y po:adjective
 neuprúc
@@ -78857,9 +78835,7 @@ orkus
 orleánsky/YN po:adjective
 orlí/I po:adjective
 orlica/U po:noun is:feminine
-orlickej
 Orlíckej
-orlickom
 orlický/YN po:adjective
 orlíča/A po:noun is:neuter
 orlík/B po:noun is:masculine
@@ -96890,10 +96866,7 @@ prelúdium/M po:noun is:neuter
 preľudnenie/V po:noun is:neuter
 preľudnenosť/K po:noun is:feminine
 preľudnený/YN po:adjective
-preľudni
-preľudnime
 preľudniť/XN po:verb
-preľudnite
 preľudňovať/WN po:verb
 preludný/YN po:adjective
 prelumpovať/WN po:verb
@@ -96901,8 +96874,8 @@ prelustrovať/WN po:verb
 premáčať/XN po:verb
 premáhanie/V po:noun is:neuter
 premáhaný/YN po:adjective
-premájahúci/YN po:adjective
 premáhať/XN po:verb
+premájahúci/YN po:adjective
 premáľať
 premaľba/zZ po:noun is:feminine
 premaľovanie/VN po:noun is:neuter
@@ -96954,8 +96927,8 @@ premenúvať/XN po:verb
 premeranie/V po:noun is:neuter
 premeraný/YN po:adjective
 premerať/TN po:verb
-premeriavaný/YN po:adjective
 premeriavanie/V po:noun is:neuter
+premeriavaný/YN po:adjective
 premeriavať/XN po:verb
 premeškanie/V po:noun is:neuter
 premeškaný/YN po:adjective
@@ -96971,10 +96944,8 @@ premiantstvo po:adverb
 premieľanie/VN po:noun is:neuterpremieľaním
 premieľať/XN po:verb
 premieňajúci/YN po:adjective
-premieňaný/YN po:adjective
-premieňaného
-premieňanej
 premieňanie/V po:noun is:neuter
+premieňaný/YN po:adjective
 premieňať/XN po:verb
 premieňavý/YN po:adjective
 premiér/C po:noun is:masculine
@@ -98555,7 +98526,6 @@ preuč
 preúčtovanie/VN po:noun is:neuter
 preúčtovaný/YN po:adjective
 preúčtovať/WN po:verb
-doúčtovať/WN po:verb
 preúčtováva
 preúčtovávanie/V po:noun is:neuter
 preúčtovávaný/YN po:adjective
@@ -134396,22 +134366,26 @@ udobrenie/V po:noun is:neuter
 udobriť/EN po:verb
 udobrovať/WN po:verb
 Údol
+Údolčan/c po:noun is:masculine
+Údolčanka/zZ po:noun is:feminine
 údolie/V po:noun is:neuter
 udolieť
 údolný/YN po:adjective
+údolský/YN po:adjective
 udomácnenie/V po:noun is:neuter
 udomácnený/YN po:adjective
 udomácniť/XN po:verb
 udomácňovanie/VN po:noun is:neuter
 udomácňovať/WN po:verb
-udretie
+udretie/VN po:noun is:neuter
 udretý/YN po:adjective
 udrieť/XN po:verb
 udrúc
 udržanie/VN po:noun is:neuter
 udržaný/YN po:adjective
 udržať/RN po:verb
-udržateľne
+udržateľne/N po:adverb
+udržateľnosť/K po:noun is:feminine
 udržateľný/YN po:adjective
 údržba/zZ po:noun is:feminine
 údržbár/C po:noun is:masculine
@@ -134423,23 +134397,17 @@ udržateľný/YN po:adjective
 údržbárstvo/M po:noun is:neuter
 údržbový/YN po:adjective
 udržiavací/I po:adjective
-udržiavajúci
-udržiavajúcou
+udržiavajúci/Y po:adjective
 udržiavanie/VN po:noun is:neuter
 udržiavaný/YN po:adjective
 udržiavať/XN po:verb
-udržiavateľ
-udržiavateľa
-udržiavateľom
-udržiavateľov
+udržiavateľ/c po:noun is:masculine
 udržovací/IN po:adjective
-udržovane
+udržovane/N po:adverb
 udržovanie/VN po:noun is:neuter
 udržovaný/YN po:adjective
 udržovať/WN po:verb
-udržujúca
-udržujúce
-udržujúcich
+udržujúci/YN po:adjective
 udské
 udskú
 udupať/EN po:verb
@@ -135414,7 +135382,7 @@ umelo/N po:adverb
 umelohmotne
 umelohmotný/YN po:adjective
 umelohodvábny/YN po:adjective
-umelosť/K po:noun is:feminine
+umelosť/KN po:noun is:feminine
 umelý/YN po:adjective
 umen
 umeniamilovných
@@ -135436,16 +135404,14 @@ umenšuje
 úmer
 úmera/zZ po:noun is:feminine
 úmerne/YN po:adjective
-úmernosť/K po:noun is:feminine
+úmernosť/KN po:noun is:feminine
 úmerný/YN po:adjective
 umeť
 umetá
 umetie
 umiak
 umienenosť/K po:noun is:feminine
-umienil
-umieniš
-umieniť
+umieniť/XN po:verb
 umieňuje
 umieráčik/B po:noun is:masculine
 umierajúci/YN po:adjective
@@ -135522,7 +135488,7 @@ umorený/YN po:adjective
 umoriť/EN po:verb
 umoriteľných
 úmorne/YN po:adjective
-úmornosť/K po:noun is:feminine
+úmornosť/KN po:noun is:feminine
 úmorný/YN po:adjective
 umorovací/IN po:adjective
 umorovanie/VN po:noun is:neuter
@@ -135530,7 +135496,7 @@ umorovaný/YN po:adjective
 umorovať/WN po:verb
 umorte
 Umová/Y po:adjective
-umožnenie/V po:noun is:neuter
+umožnenie/VN po:noun is:neuter
 umožnený/YN po:adjective
 umožni
 umožnime
@@ -135609,14 +135575,9 @@ UN po:acronym
 UNA po:acronym
 unáhlene/YN po:adjective
 unáhlenie/V po:noun is:neuter
-unáhlenosť/K po:noun is:feminine
+unáhlenosť/KN po:noun is:feminine
 unáhlený/YN po:adjective
-unáhli
-unáhlil
-unáhlila
-unáhlili
-unáhlilo
-unáhliť
+unáhliť/XN po:verb
 unáhľovať/WN po:verb
 unanimita
 unanimizmus/B po:noun is:masculine
@@ -135631,28 +135592,28 @@ unášanie/V po:noun is:neuter
 unášaný/YN po:adjective
 unášať/XN po:verb
 Uňatín
+Uňatínčan/c po:noun is:masculine
+Uňatínčanka/zZ po:noun is:feminine
+uňatínsky/YN po:adjective
 únav
 únava/zZ po:noun is:feminine
 unavene/YN po:adjective
-unaveno
+unaveno/N po:adverb
 unavenosť/K po:noun is:feminine
 unavený/YN po:adjective
 unaviť/EN po:verb
 únavne/YN po:adjective
-únavnosť/K po:noun is:feminine
+únavnosť/KN po:noun is:feminine
 únavný/YN po:adjective
 unavovanie/VN po:noun is:neuter
 unavovať/WN po:verb
 únavový/YN po:adjective
 unavujúci/YN po:adjective
-unavujúco
+unavujúco/N po:adverb
 unca/U po:noun is:feminine
 uncí
-uncia
-uncie
-uncií
-unciu
-und
+uncia/U po:noun is:feminine
+unciový/YN po:adjective
 undácia/U po:noun is:feminine
 undbundling
 underground
@@ -135769,9 +135730,9 @@ UNNRA po:acronym
 únoscov/Y po:adjective
 únoskyňa/U po:noun is:feminine
 únosne/YN po:adjective
-únosnosť/K po:noun is:feminine
+únosnosť/KN po:noun is:feminine
 únosný/YN po:adjective
-únosovú
+únosový/YN po:adjective
 unovaný/YN po:adjective
 unožiť/EN po:verb
 únožmo
@@ -135919,14 +135880,8 @@ upíšu
 upíšuc
 upiť/WN po:verb
 UPJŠ po:acronym
-upláca
-uplácajú
-uplácal
-uplácala
-uplácali
 uplácanie/VN po:noun is:neuteruplácaním
-uplácať
-Uplácate
+uplácať/XN po:verb
 upláchnuť
 uplakane/YN po:adjective
 uplakanec
@@ -135934,16 +135889,10 @@ uplakano
 uplakanosť/K po:noun is:feminine
 uplakaný/YN po:adjective
 uplašený/YN po:adjective
-uplať
 úplata
 uplatenie/V po:noun is:neuter
 uplatených
-uplatí
-uplatil
-uplatila
-uplatili
-uplatilo
-uplatiť
+uplatiť/EN po:verb
 úplatkár/C po:noun is:masculine
 úplatkárka/zZ po:noun is:feminine
 úplatkárov/Y po:adjective
@@ -135953,7 +135902,7 @@ uplatiť
 úplatkárstvo/M po:noun is:neuter
 úplatkový/YN po:adjective
 úplatne
-uplatnenie/V po:noun is:neuter
+uplatnenie/VN po:noun is:neuter
 uplatnený/YN po:adjective
 uplatni
 uplatnime
@@ -135979,13 +135928,13 @@ upliesť/RN po:verb
 úplne/YN po:adjective
 úplnku
 úplnok
-úplnosť/K po:noun is:feminine
+úplnosť/KN po:noun is:feminine
 úplný/YN po:adjective
 uplynule
 uplynulý/YN po:adjective
 uplynúť/RN po:verb
 uplynúť/WN po:verb
-uplynutie/V po:noun is:neuter
+uplynutie/VN po:noun is:neuter
 uplynutý/YN po:adjective
 uplývať/XN po:verb
 ÚPN po:acronym
@@ -136004,6 +135953,7 @@ Upohlave
 upokojenie/V po:noun is:neuter
 upokojený/YN po:adjective
 upokojiť/EN po:verb
+upokojiteľný/YN po:adjective
 upokojovanie/VN po:noun is:neuter
 upokojovať/WN po:verb
 upokojujúci/YN po:adjective
@@ -136033,14 +135983,14 @@ uponížiť
 úpornosť/K po:noun is:feminine
 úporný/YN po:adjective
 uposlúchnuť/WN po:verb
-uposlúchnutie/V po:noun is:neuter
+uposlúchnutie/VN po:noun is:neuter
 upotený/YN po:adjective
 upotiť/EN po:verb
 upotrebene
 upotrebenie/V po:noun is:neuter
 upotrebený/YN po:adjective
 upotrebiť/EN po:verb
-upotrebiteľnosť/K po:noun is:feminine
+upotrebiteľnosť/KN po:noun is:feminine
 upotrebiteľný/YN po:adjective
 upotrebovať/WN po:verb
 upovedomenie/V po:noun is:neuter
@@ -136166,7 +136116,7 @@ upriamovať/WN po:verb
 upriasť/RN po:verb
 uprieť/XN po:verb
 úprimne/YN po:adjective
-úprimnosť/K po:noun is:feminine
+úprimnosť/KN po:noun is:feminine
 úprimný/YN po:adjective
 uprosiť/EN po:verb
 uprosovať/WN po:verb
@@ -140155,11 +140105,9 @@ Vikovi
 Viktor/c po:noun is:masculine
 viktória/U po:noun is:feminine
 viktoriánsky/YN po:adjective
-Viktorín
 Viktorína/zZ po:noun is:feminine
 Viktorínova
 Viktorka/zZ po:noun is:feminine
-Viktorky
 Viktormi
 Viktorov/Y po:adjective
 vikuňa
