@@ -1,4 +1,4 @@
-160878
+160858
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -27,7 +27,6 @@ abd/C po:noun is:masculine
 Abdéra
 Abdérita
 Abdiáš
-plieskavý/YN po:adjective
 abdikácia/U po:noun is:feminine
 abdikačný/YN po:adjective
 abdikovaný/YN po:adjective
@@ -13086,8 +13085,7 @@ CZV	 po:acronym
 Čilistov
 Čilistova
 Čilistove
-čilistovskom
-čilistovským
+čilistovský/YN po:adjective
 Čilistovu
 Čiližská
 čílská
@@ -86057,19 +86055,19 @@ pliagať
 pliecko/M po:noun is:neuter
 pliecok
 plienenie/V po:noun is:neuter
-plienených
+plienený/YN po:adjective
 plieniť/XN po:verb
-plieniteľov
+plieniteľ/c po:noun is:masculine
 plienka/zZ po:noun is:feminine
 plienkový/YN po:adjective
 plienočka/zZ po:noun is:feminine
 pliensbach/J
 plient	 st:plenta is:plural is:genitive
 plieseň/D po:noun is:feminine
-plieskanica
+plieskanica/U po:noun is:feminine
 plieskanie/V po:noun is:neuter
 plieskať/XN po:verb
-plieskavýYN po:adjective
+plieskavý/YN po:adjective
 pliesko/M po:noun is:neuter
 pliesok
 pliesť/RN po:verb
@@ -86102,11 +86100,7 @@ plniareň/D po:noun is:feminine
 plniarenský/YN po:adjective
 plnič/J po:noun is:masculine
 plnička/zZ po:noun is:feminine
-plnidiel
-plnidla
-plnidlá
-plnidlami
-plnidlo
+plnidlo/M po:noun is:neuter
 plnievať/XN po:verb
 plniť/EN po:verb
 plniteľ
@@ -86115,12 +86109,11 @@ plniteľov
 plnív
 plnivo/M po:noun is:neuter
 plnka/zZ po:noun is:feminine
-plno
-plnoautomaticky
+plno	 po:adverb
+plnoautomat/B po:noun is:masculine
+plnoautomaticky	 po:adverb
 plnoautomatický/YN po:adjective
 plnoautomatizovaný/YN po:adjective
-plnoautomatov
-plnoautomatu
 plnocenný/YN po:adjective
 plnofarebný/YN po:adjective
 plnohodnotne/N po:adverb
@@ -86167,16 +86160,10 @@ plocha/zZ po:noun is:feminine
 plochastý/YN po:adjective
 plochatý/YN po:adjective
 plocho/N po:adverb
-plochodrážna
-plochodrážne
-plochodrážneho
-plochodrážnej
 plochodrážnici
 plochodrážnik/B po:noun is:masculine
 plochodrážnikovi
-plochodrážnom
-plochodrážny
-plochodrážnych
+plochodrážny/YN po:adjective
 plochosť/K po:noun is:feminine
 plochý/YN po:adjective
 Ploješt/J po:noun is:masculine
@@ -86269,7 +86256,7 @@ pľuhavcov/Y po:adjective
 pľuhavec/C po:noun is:masculine
 pľuhaviť
 pľuhavo/N po:adverb
-pľuhavsky
+pľuhavsky	 po:adverb
 pľuhavský/YN po:adjective
 pľuhavstvo/M po:noun is:neuter
 pľuhavý/YN po:adjective
@@ -86375,7 +86362,7 @@ plynonosných
 plynotesne
 plynotesnosť/K po:noun is:feminine
 plynotesný/YN po:adjective
-plynovo
+plynovo	 po:adverb
 plynovod/B po:noun is:masculine
 plynovodný/YN po:adjective
 plynový/YN po:adjective
@@ -86420,18 +86407,12 @@ pňa
 pňami
 pneuma
 pneumatachograf
-pneumaticky
+pneumaticky	 po:adverb
 pneumatický/YN po:adjective
 pneumatika/zZ po:noun is:feminine
-pneumatikáreň
+pneumatikáreň/D po:noun is:feminine
 pneumatikári
 pneumatikármi
-pneumatikárňach
-pneumatikárňam
-pneumatikárne
-pneumatikárni
-pneumatikární
-pneumatikárňou
 pneumatikárov
 pneumatóza
 pneumatúria
@@ -86440,8 +86421,7 @@ pneumocyt
 pneumograf
 pneumochirurgia
 pneumokok
-pneumokokové
-pneumokokovým
+pneumokokový/YN po:adjective
 pneumokonióza
 pneumolitiáza
 pneumológ/c po:noun is:masculine
@@ -86586,7 +86566,6 @@ pobožnostkársky/YN po:adjective
 pobožnostkárstvach
 pobožnostkárstvam
 pobožnostkárstvo/M po:noun is:neuter
-pobožnôstkársky
 pobožný/YN po:adjective
 pobranie/V po:noun is:neuter
 pobrať/RN po:verb
@@ -86607,7 +86586,7 @@ pobúraný/YN po:adjective
 pobúrať
 pobúrene/N po:adverb
 pobúrenie/V po:noun is:neuter
-pobúreno
+pobúreno/N po:adverb
 pobúrenosť/K po:noun is:feminine
 pobúrený/YN po:adjective
 pobúriť/XN po:verb
@@ -86618,7 +86597,7 @@ poburovateľ/c po:noun is:masculine
 poburovateľka/zZ po:noun is:feminine
 poburovateľov/Y po:adjective
 poburujúci/YN po:adjective
-poburujúco
+poburujúco/N po:adverb
 pobyt/B po:noun is:masculine
 pobytmi
 pobytové
@@ -86645,7 +86624,7 @@ pocitmi
 pociťovanie/VN po:noun is:neuter
 pociťovaný/YN po:adjective
 pociťovať/WN po:verb
-pocitovo
+pocitovo/N po:adverb
 pocitový/YN po:adjective
 pociťujúci
 pociťujúcu
