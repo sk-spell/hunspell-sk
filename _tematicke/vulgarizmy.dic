@@ -1,14 +1,14 @@
 1000
-dosraný/řYN po:adjective
-dosrať/řRN po:verb
-hovno/řM po:noun is:neuter
-jebák/řB po:noun is:masculine
-jebať/řTN po:verb
-jebnutý/řY po:adjective
-kokot/řB po:noun is:masculine
-kokot/řC po:noun is:masculine
-kokotov/řY po:adjective
-kurva/řzZ po:noun is:feminine
+dosraný/$YN po:adjective
+dosrať/$RN po:verb
+hovno/$M po:noun is:neuter
+jebák/$B po:noun is:masculine
+jebať/$TN po:verb
+jebnutý/$Y po:adjective
+kokot/$B po:noun is:masculine
+kokot/$C po:noun is:masculine
+kokotov/$Y po:adjective
+kurva/$zZ po:noun is:feminine
 najjebnutejšej st:jebnutý po:adjective is:superlative is:dative is:feminine
 najjebnutejšej st:jebnutý po:adjective is:superlative is:genitive is:feminine
 najjebnutejšia st:jebnutý po:adjective is:superlative is:feminine is:nominative
@@ -85,29 +85,29 @@ najvyjebanejšiu st:vyjebaný po:adjective is:superlative is:feminine is:accusat
 najvyjebanejšom st:vyjebaný po:adjective is:superlative is:masculine is:locative
 najvyjebanejšom st:vyjebaný po:adjective is:superlative is:neuter is:locative
 najvyjebanejšou st:vyjebaný po:adjective is:superlative is:feminine is:instrumental
-nasrať/řRN po:verb
-obsrať/řWN po:verb
-piča/řU po:noun is:feminine
-pičí/řI po:adjective
-pojebaný/řYN po:adjective
-posranec/řC po:noun is:masculine
-posraný/řYN po:adjective
-posrať/řEN po:verb
-posrať/řRN po:verb
-posratý/řYN po:adjective
-potrtkať/řEN po:verb
-presrať/řNW po:verb
-sranec/řJ po:noun is:masculine
-sranie/řV po:noun is:neuter
-sratie/řV po:noun is:neuter
-srať/řRN po:verb
-šukať/řEN po:verb
-trt/řB po:noun is:masculine
-vyjebaný/řYN po:adjective
-vysraný/řYN po:adjective
-vysrať/řRN po:verb
-vysratý/řYN po:adjective
-zasran/řC po:noun is:masculine
-zasranov/řY po:adjective
-zasratie/řV po:noun is:neuter
-zasrať/řRN po:verb
+nasrať/$RN po:verb
+obsrať/$WN po:verb
+piča/$U po:noun is:feminine
+pičí/$I po:adjective
+pojebaný/$YN po:adjective
+posranec/$C po:noun is:masculine
+posraný/$YN po:adjective
+posrať/$EN po:verb
+posrať/$RN po:verb
+posratý/$YN po:adjective
+potrtkať/$EN po:verb
+presrať/$NW po:verb
+sranec/$J po:noun is:masculine
+sranie/$V po:noun is:neuter
+sratie/$V po:noun is:neuter
+srať/$RN po:verb
+šukať/$EN po:verb
+trt/$B po:noun is:masculine
+vyjebaný/$YN po:adjective
+vysraný/$YN po:adjective
+vysrať/$RN po:verb
+vysratý/$YN po:adjective
+zasran/$C po:noun is:masculine
+zasranov/$Y po:adjective
+zasratie/$V po:noun is:neuter
+zasrať/$RN po:verb
