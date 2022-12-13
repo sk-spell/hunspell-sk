@@ -5,7 +5,7 @@ KEY qwertzuiopúä|asdfghjklô§ň|yxcvbnm,.-|;+ľščťžýáíé=
 TRY aoeintsvrlkmdpuhjzácbyčžíšýúťéľôďgfňäóŕxĺwěřqůAOEINTSVRLKMDPUHJZÁCBYČŽÍŠÝÚŤÉĽÔĎGFŇÄÓŔXĹWĚŘQŮ
 
 # don't suggest word with NOSUGGEST flag (for example vulgar or obscene words)
-NOSUGGEST ř
+NOSUGGEST $
 
 # replacenment table for
 # - multicharacter suggestions
@@ -3566,19 +3566,19 @@ SFX b   0           och        [klr] is:locative is:plural
 SFX b   0           om         [klr] is:instrumental is:plural
 SFX b   0           mi         [klr] is:instrumental is:plural
 
-SFX č Y 15  # v testovaní: pre číslovky
-SFX č   0           násobny    . po:adjective
-SFX č   0           násobna    . po:adverb
-SFX č   0           násobne    . po:adverb
-SFX č   0           násobni    . po:verb is:2nd_person is:imperative
-SFX č   0           násobný    . po:adjective is:nominative
-SFX č   0           násobná    . po:adjective is:nominative is:feminine
-SFX č   0           násobné    . po:adjective is:nominative is:feminine is:plural
-SFX č   0           násobné    . po:adjective is:nominative is:neuter is:plural
-SFX č   0           násobní    . po:adjective is:nominative is:masculine is:plural
-SFX č   0           násobných  . po:adjective is:genitive is:masculine is:plural
-SFX č   0           násobných  . po:adjective is:genitive is:neuter is:plural
-SFX č   0           násobných  . po:adjective is:accusative is:masculine is:plural
-SFX č   0           násobné    . po:adjective is:accusative is:feminine is:plural
-SFX č   0           násobné    . po:adjective is:accusative is:neuter is:plural
-SFX č   0           násobnými  . po:adjective is:instrumental is:plural
+SFX n Y 15  # v testovaní: pre číslovky
+SFX n   0           násobny    . po:adjective
+SFX n   0           násobna    . po:adverb
+SFX n   0           násobne    . po:adverb
+SFX n   0           násobni    . po:verb is:2nd_person is:imperative
+SFX n   0           násobný    . po:adjective is:nominative
+SFX n   0           násobná    . po:adjective is:nominative is:feminine
+SFX n   0           násobné    . po:adjective is:nominative is:feminine is:plural
+SFX n   0           násobné    . po:adjective is:nominative is:neuter is:plural
+SFX n   0           násobní    . po:adjective is:nominative is:masculine is:plural
+SFX n   0           násobných  . po:adjective is:genitive is:masculine is:plural
+SFX n   0           násobných  . po:adjective is:genitive is:neuter is:plural
+SFX n   0           násobných  . po:adjective is:accusative is:masculine is:plural
+SFX n   0           násobné    . po:adjective is:accusative is:feminine is:plural
+SFX n   0           násobné    . po:adjective is:accusative is:neuter is:plural
+SFX n   0           násobnými  . po:adjective is:instrumental is:plural

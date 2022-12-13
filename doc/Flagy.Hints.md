@@ -72,10 +72,10 @@ Zoradené podľa slovných druhov. Slúži len na rýchlu orientáciu, po doplne
 
 ## Číslovky: 
 
-    č - číslovky - -násobný (stonásobný, dvojnásobný…)
+    b - číslovky - -násobný (stonásobný, dvojnásobný…)
 
 ## NOSUGGEST
-    ř - slovo s príznakom NOSUGGEST nebude medzi návrhmi (napríklad vulgárne alebo obscénne slová)
+    $ - slovo s príznakom NOSUGGEST nebude medzi návrhmi (napríklad vulgárne alebo obscénne slová)
 
 # Tipy
 
