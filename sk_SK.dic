@@ -1,4 +1,4 @@
-160858
+160799
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -54790,13 +54790,8 @@ mašura
 Mašuru
 mat/B po:noun is:masculine
 mať/EN po:verb
-matador/B po:noun is:masculine
-matadori
-matadorovi
-matadorské
-matadorskú
-Matadorský/YN po:adjective
-matadorských
+matador/C po:noun is:masculine
+matadorský/YN po:adjective
 mátanie/V po:noun is:neuter
 mátaný/YN po:adjective
 matať
@@ -54809,9 +54804,7 @@ matečníkov
 matečný/YN po:adjective
 Matej/c po:noun is:masculine
 Matejov/Y po:adjective
-matejovské
-matejovskej
-Matejovský/YN po:adjective
+matejovský/YN po:adjective
 matematicky
 matematický/YN po:adjective
 matematička/zZ po:noun is:feminine
@@ -54824,11 +54817,7 @@ matematikov/Y po:adjective
 matematizácia/U po:noun is:feminine
 mateorický/YN po:adjective
 mater/D po:noun is:feminine
-materčín
-materčina/z po:noun is:feminine
-materčinách
-materčinám
-materčinami
+materčina/zZ po:noun is:feminine
 matéria/U po:noun is:feminine
 materiál/B po:noun is:masculine
 materiálik/B po:noun is:masculine
@@ -54850,24 +54839,16 @@ materiálno-technický/YN po:adjective
 materiálny/YN po:adjective
 materiálovo
 materiálový/YN po:adjective
-materin
-materina
-materinčín
-materinčina/z po:noun is:feminine
-materinčinách
-materinčinám
-materinčinami
-materinou
+materin/Y po:adjective
+materinčina/zZ po:noun is:feminine
 materinskosť/K po:noun is:feminine
 materinsky/N po:adverb
 materinský/YN po:adjective
 materinstvo/M po:noun is:neuter
-materinu
 Materne
 maternica/U po:noun is:feminine
 maternicový/YN po:adjective
-maternita
-maternity
+maternita/zZ po:noun is:feminine
 materný/YN po:adjective
 materskosť/K po:noun is:feminine
 matersky/N po:adverb
@@ -54881,7 +54862,7 @@ Matias
 Matiaška/zZ po:noun is:feminine
 Matiašovský/YN po:adjective
 matica/U po:noun is:feminine
-maticovo
+maticovo	 po:adverb
 maticový/YN po:adjective
 matičiar/C po:noun is:masculine
 matičiarka/zZ po:noun is:feminine
@@ -54902,13 +54883,13 @@ matkový/YN po:adjective
 matmi
 matne/N po:adverb
 matnenie/V po:noun is:neuter
-matnica
+matnica/I po:noun is:feminine
 matnici
 matnicu
 matnie
 matnieť
-matno
-matnobiele
+matno	 po:adverb
+matnobiele	 po:adverb
 matnosť/K po:noun is:feminine
 matný/YN po:adjective
 mátoh
@@ -54932,8 +54913,7 @@ matracový/YN po:adjective
 matranský/YN po:adjective
 Matre
 matriarchálny/YN po:adjective
-matriarchát/B po:noun is:masculine
-matriarchátmi
+matriarchát/L po:noun is:masculine
 matrica/U po:noun is:feminine
 matricový/YN po:adjective
 matričný/YN po:adjective
@@ -54944,7 +54924,6 @@ matrikárov/Y po:adjective
 matrikársky/YN po:adjective
 matrikový/YN po:adjective
 matrilinearita/zZ po:noun is:feminine
-matrilineárn
 matrilineárny/Y po:adjective
 matrilokácia/U po:noun is:feminine
 matrilokálny/Y po:adjective
@@ -55046,7 +55025,7 @@ maxilotómia
 Maxim
 maxím
 maximalista/H po:noun is:masculine
-maximalisticky
+maximalisticky	 po:adverb
 maximalistický/YN po:adjective
 maximalistov/Y po:adjective
 maximalizácia/U po:noun is:feminine
@@ -55056,7 +55035,7 @@ maximalizmus/B po:noun is:masculine
 maximalizovanie/VN po:noun is:neuter
 maximalizovaný/YN po:adjective
 maximalizovať/WN po:verb
-maximalizujúca
+maximalizujúci/YN po:adjective
 maximálny/YN po:adjective
 Maximilián/c po:noun is:masculine
 Maximiliánov/Y po:adjective
@@ -55130,10 +55109,8 @@ mažoretka/zZ po:noun is:feminine
 mäčkať
 mädliť/EN po:verb
 mäkčeň/J po:noun is:masculine
-mäkčené
-mäkčeného
-mäkčenej
 mäkčenie/V po:noun is:neuter
+mäkčený/YN po:adjective
 mäkči
 mäkčiaci
 mäkčidlo/M po:noun is:neuter
@@ -65234,9 +65211,6 @@ nemastno
 nematóda
 nemazlí
 nemaznú
-nemäkčené
-nemäkčeného
-nemäkčených
 nemäkči
 nemäkčime
 nemäkčite
@@ -79726,17 +79700,7 @@ ostatný/YN po:adjective
 ostato
 ostatok/O po:noun is:masculine
 ostatý/YN po:adjective
-Ostávajúca
-ostávajúce
-ostávajúceho
-ostávajúcej
-ostávajúcemu
-ostávajúci
-ostávajúcich
-ostávajúcim
-ostávajúcimi
-ostávajúcom
-ostávajúcu
+ostávajúci/Y po:adjective
 ostávať/XN po:verb
 Ostavia
 ostealgia
@@ -79747,10 +79711,8 @@ ostenie/V po:noun is:neuter
 ostentatívnosť/K po:noun is:feminine
 ostentatívny/YN po:adjective
 ostený/YN po:adjective
-osteoartritída
-osteoartróza
-osteoartrózu
-osteoartrózy
+osteoartritída/zZ po:noun is:feminine
+osteoartróza/zZ po:noun is:feminine
 osteoblast
 osteoblastóm
 osteocyt
@@ -79764,14 +79726,10 @@ osteochondrosarkóm
 osteológia
 osteóm
 osteomalácia/U po:noun is:feminine
-osteomyelitída
+osteomyelitída/zZ po:noun is:feminine
 osteonekróza
 osteoperiostitída
-osteoporóza
-osteoporóze
-osteoporózou
-osteoporózu
-osteoporózy
+osteoporóza/zZ po:noun is:feminine
 osteosarkóm
 osteosyntéza
 osteotómia
@@ -79789,8 +79747,8 @@ ostňoch
 ostňom
 ostňov
 ostňu
-ostopäť
-ostošesť
+ostopäť/n
+ostošesť/n
 ostra
 ostrakizmus/B po:noun is:masculine
 ostrakizovať/WN po:verb
@@ -79798,11 +79756,14 @@ ostrakon
 ostrapkať/EN po:verb
 ostrapkávať/XN po:verb
 ostrapkovanie/VN po:noun is:neuter
-ostratických
+Ostratice/Q po:noun is:feminine: is:plural
+ostratický/YN po:adjective
+Ostratičan/c po:noun is:masculine
+Ostratičanka/zZ po:noun is:feminine
 Ostrava/zZ po:noun is:feminine
 ostravský/YN po:adjective
-ostražite
-ostražito
+ostražite	 po:adverb
+ostražito	 po:adverb
 ostražitosť/K po:noun is:feminine
 ostražitý/YN po:adjective
 ostredok/O po:noun is:masculine
@@ -102793,7 +102754,7 @@ pseudohistorický/YN po:adjective
 pseudoideály
 pseudoinštrukcia
 pseudokód
-pseudokríza
+pseudokríza/zZ po:noun is:feminine
 pseudokultúr
 pseudokultúra/zZ po:noun is:feminine
 pseudokultúrach
@@ -102805,12 +102766,10 @@ pseudomor
 pseudonáhodný/Y po:adjective
 pseudo-náhodný/Y po:adjective
 pseudonym/B po:noun is:masculine
-pseudoproblém
-pseudoproblémami
-pseudoproblémov
-pseudoproblémy
+pseudonymný/YN po:adjective
+pseudoproblém/B po:noun is:masculine
 pseudopuberta
-pseudorevolučnú
+pseudorevolučný/Y po:adjective
 pseudosmia
 pseudotuberkulóza
 pseudotumor
@@ -103687,10 +103646,6 @@ racionálno/M po:noun is:neuter
 racionálnosť/K po:noun is:feminine
 racionálny/YN po:adjective
 racionovať/WN po:verb
-racketeering
-raclette
-rácu
-rácuc
 Rača/U po:noun is:feminine
 ráčený/YN po:adjective
 račí/I po:adjective
@@ -103712,10 +103667,8 @@ rád/N
 radá
 rada/N
 rada/zZ po:noun is:feminine
-radar/J po:noun is:masculine
-radarmi
+radar/B po:noun is:masculine
 radarový/YN po:adjective
-radary
 Radava
 Radbuza
 Radbuzou
@@ -103729,19 +103682,15 @@ radene
 radenie/V po:noun is:neuter
 radený/YN po:adjective
 radi
-radiaca
-radiaci
+radiaci/YN po:adjective
 radiácia/U po:noun is:feminine
-radiačne
+radiačne	 po:adverb
 radiačný/YN po:adjective
 radiál
-radiála
+radiála/zZ po:noun is:feminine
 radiálach
-radiále
 radiálky
 radiálny/YN po:adjective
-radiálu
-radiály
 radián/B po:noun is:masculine
 radiant
 radiátor/B po:noun is:masculine
@@ -103753,7 +103702,7 @@ radievať/XN po:verb
 radikál/C po:noun is:masculine
 radikálčenie/V po:noun is:neuter
 radikalista/H po:noun is:masculine
-radikalisticky
+radikalisticky	 po:adverb
 radikalistický/YN po:adjective
 radikalistov/Y po:adjective
 radikalizácia/U po:noun is:feminine
@@ -103769,9 +103718,7 @@ radikula
 Radim
 Radima
 Radimom
-Radimov
-Radimove
-Radimovi
+Radimov/Y po:adjective
 rádio/M po:noun is:neuter
 rádioaktivácia/U po:noun is:feminine
 rádioaktivita/zZ po:noun is:feminine
@@ -103782,17 +103729,17 @@ rádioamatérka/zZ po:noun is:feminine
 rádioamatérov/Y po:adjective
 rádioamatérsky/Y po:adjective
 rádioamatérstvo/M po:noun is:neuter
-rádioaparát
-rádioastronóm
-rádioastronómia
+rádioaparát/B po:noun is:masculine
+rádioastronóm/c po:noun is:masculine
+rádioastronómia/U po:noun is:feminine
 rádiobiológ/c po:noun is:masculine
-rádiobiológia
+rádiobiológia/U po:noun is:feminine
 rádiodiagnostika/zZ po:noun is:feminine
-rádioekológia
-rádioelektrickými
+rádioekológia/U po:noun is:feminine
+rádioelektrický/YN po:adjective
 rádioelektronika/zZ po:noun is:feminine
-rádiofarmakum
-rádiofikáciu
+rádiofarmakum/M po:noun is:neuter
+rádiofikácia/U po:noun is:feminine
 rádiofor
 rádiofyzika/zZ po:noun is:feminine
 rádiogénny/YN po:adjective
@@ -149156,26 +149103,25 @@ začarovaný/YN po:adjective
 začarovať/WN po:verb
 začas
 začať/WN po:verb
-začate
 začatie/V po:noun is:neuter
-začato
 začatý/YN po:adjective
 začernetý/YN po:adjective
 začernieť/XN po:verb
-začerstvo/M po:noun is:neuter
+začerstva	 po:adverb
 začervenanie/V po:noun is:neuter
 začervenaný/YN po:adjective
 začervenať/EN po:verb
 začervenieť/XN po:verb
 začerveniť/EN po:verb
-začesané
+začesaný/YN po:adjective
 začesať/TN po:verb
 začiahnuť/WN po:verb
 začiaraný/YN po:adjective
 začiarať
 začiarkaný/YN po:adjective
 začiarknuť/WN po:verb
-začiatočne
+začiatočnícky	 po:adverb
+začiatočnícky/Y po:adjective
 začiatočnícky/YN po:adjective
 začiatočníctvach
 začiatočníctvam
@@ -149187,10 +149133,8 @@ začiatočný/YN po:adjective
 začiatok/O po:noun is:masculine
 začierania
 začierať/XN po:verb
-začiernení
-začiernenia
-začiernením
-začiernených
+začiernenie/V po:noun is:neuter
+začiernený/YN po:adjective
 začierniť/XN po:verb
 začierňovať/WN po:verb
 záčin/B po:noun is:masculine
@@ -149245,12 +149189,9 @@ zadanie/VN po:noun is:neuter
 zadaný/YN po:adjective
 zadaptovaný/YN po:adjective
 zadaptovať/WN po:verb
-Zadar
-Zadare
-zadarmo
-Zadarské
-Zadarskú
-Zadaru
+Zadar/B po:noun is:masculine
+zadarmo	 po:adverb
+zadarský/Y po:adjective
 zadať/EN po:verb
 zadateľný/YN po:adjective
 zadávací/I po:adjective
