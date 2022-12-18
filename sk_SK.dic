@@ -15318,7 +15318,7 @@ des/B po:noun is:masculine
 desagregácia/U po:noun is:feminine
 desalinizácia/U po:noun is:feminine
 desant
-desať/n
+desať/n po:number
 desaťbodový/YN po:adjective
 desaťboj/B po:noun is:masculine
 desaťboja
@@ -15451,7 +15451,7 @@ desiatnikov/Y po:adjective
 desiatok/O po:noun is:masculine
 desiatovať/WN po:verb
 desiatový/YN po:adjective
-desiaty/n
+desiaty/n po:number
 desiaty/Y po:adjective
 desiatykrát
 design/B po:noun is:masculine
@@ -15665,44 +15665,44 @@ devastačný/Y po:adjective
 devastovanie/VN po:noun is:neuter
 devastovaný/YN po:adjective
 devastovať/WN po:verb
-deväť/n
+deväť/n po:number
 deväťbodového
 deväťbodovú
 deväťciferné
 deväťciferných
 deväťčlenný/YN po:adjective
 deväťdenný/YN po:adjective
-deväťdesiat/n
-deväťdesiatdeväť/n
-deväťdesiatdeväťtisíc/n
-deväťdesiatdva/n
-deväťdesiatdvatisíc/n
+deväťdesiat/n po:number
+deväťdesiatdeväť/n po:number
+deväťdesiatdeväťtisíc/n po:number
+deväťdesiatdva/n po:number
+deväťdesiatdvatisíc/n po:number
 deväťdesiati/Q
-deväťdesiatjeden/n
-deväťdesiatjedentisíc/n
+deväťdesiatjeden/n po:number
+deväťdesiatjedentisíc/n po:number
 deväťdesiatka/zZ po:noun is:feminine
 deväťdesiatkilový/YN po:adjective
 deväťdesiatnička/zZ po:noun is:feminine
 deväťdesiatnik/C po:noun is:masculine
 deväťdesiatnikov/Y po:adjective
-deväťdesiatosem/n
+deväťdesiatosem/n po:number
 deväťdesiatosemročný/Y po:adjective
-deväťdesiatosemtisíc/n
-deväťdesiatpäť/n
+deväťdesiatosemtisíc/n po:number
+deväťdesiatpäť/n po:number
 deväťdesiatpäťku
 deväťdesiatpäťky
-deväťdesiatpäťtisíc/n
+deväťdesiatpäťtisíc/n po:number
 deväťdesiatročný/Y po:adjective
-deväťdesiatsedem/n
-deväťdesiatsedemtisíc/n
-deväťdesiatšesť/n
-deväťdesiatšesťtisíc/n
-deväťdesiatštyri/n
-deväťdesiatštyritisíc/n
-deväťdesiattisíc/n
+deväťdesiatsedem/n po:number
+deväťdesiatsedemtisíc/n po:number
+deväťdesiatšesť/n po:number
+deväťdesiatšesťtisíc/n po:number
+deväťdesiatštyri/n po:number
+deväťdesiatštyritisíc/n po:number
+deväťdesiattisíc/n po:number
 deväťdesiattisícového
-deväťdesiattri/n
-deväťdesiattritisíc/n
+deväťdesiattri/n po:number
+deväťdesiattritisíc/n po:number
 deväťdesiaty/YN po:adjective
 deväťdielneho
 deväťdňový/YN po:adjective
@@ -15712,7 +15712,7 @@ deväťhodinový/YN po:adjective
 deväťchvostá
 devätina/zZ po:noun is:feminine
 deväťkilometrový/YN po:adjective
-deväťkrát/n
+deväťkrát/n po:number
 deväťlitrových
 deväťmesačný/YN po:adjective
 deväťmetrovú
@@ -15723,12 +15723,12 @@ deväťnásobkom
 deväťnásobku
 deväťnásobný/YN po:adjective
 deväťnásobok
-devätnásť/n
+devätnásť/n po:number
 devätnásti/Q
 devätnástina/zZ po:noun is:feminine
 devätnástka/zZ po:noun is:feminine
 devätnásťročný/YN po:adjective
-devätnásťtisíc/n
+devätnásťtisíc/n po:number
 devätnásty/YN po:adjective
 devätorako
 devätoraký/YN po:adjective
@@ -15737,211 +15737,211 @@ deväťpercentný/YN po:adjective
 deväťposchodový/YN po:adjective
 deväťročenkou
 deväťročný/YN po:adjective
-deväťsto/n
-deväťstodesať/n
-deväťstodesaťtisíc/n
-deväťstodeväť/n
-deväťstodeväťdesiat/n
-deväťstodeväťdesiatdeväť/n
-deväťstodeväťdesiatdeväťtisíc/n
-deväťstodeväťdesiatdva/n
-deväťstodeväťdesiatdvatisíc/n
-deväťstodeväťdesiatjeden/n
-deväťstodeväťdesiatjedentisíc/n
-deväťstodeväťdesiatosem/n
-deväťstodeväťdesiatosemtisíc/n
-deväťstodeväťdesiatpäť/n
-deväťstodeväťdesiatpäťtisíc/n
-deväťstodeväťdesiatsedem/n
-deväťstodeväťdesiatsedemtisíc/n
-deväťstodeväťdesiatšesť/n
-deväťstodeväťdesiatšesťtisíc/n
-deväťstodeväťdesiatštyri/n
-deväťstodeväťdesiatštyritisíc/n
-deväťstodeväťdesiattisíc/n
-deväťstodeväťdesiattri/n
-deväťstodeväťdesiattritisíc/n
-deväťstodevätnásť/n
-deväťstodevätnásťtisíc/n
-deväťstodeväťtisíc/n
-deväťstodva/n
-deväťstodvadsať/n
-deväťstodvadsaťdeväť/n
-deväťstodvadsaťdeväťtisíc/n
-deväťstodvadsaťdva/n
-deväťstodvadsaťdvatisíc/n
-deväťstodvadsaťjeden/n
-deväťstodvadsaťjedentisíc/n
-deväťstodvadsaťosem/n
-deväťstodvadsaťosemtisíc/n
-deväťstodvadsaťpäť/n
-deväťstodvadsaťpäťtisíc/n
-deväťstodvadsaťsedem/n
-deväťstodvadsaťsedemtisíc/n
-deväťstodvadsaťšesť/n
-deväťstodvadsaťšesťtisíc/n
-deväťstodvadsaťštyri/n
-deväťstodvadsaťštyritisíc/n
-deväťstodvadsaťtisíc/n
-deväťstodvadsaťtri/n
-deväťstodvadsaťtritisíc/n
-deväťstodvanásť/n
-deväťstodvanásťtisíc/n
-deväťstodvatisíc/n
-deväťstojeden/n
-deväťstojedenásť/n
-deväťstojedenásťtisíc/n
-deväťstojedentisíc/n
-deväťstoosem/n
-deväťstoosemdesiat/n
-deväťstoosemdesiatdeväť/n
-deväťstoosemdesiatdeväťtisíc/n
-deväťstoosemdesiatdva/n
-deväťstoosemdesiatdvatisíc/n
-deväťstoosemdesiatjeden/n
-deväťstoosemdesiatjedentisíc/n
-deväťstoosemdesiatosem/n
-deväťstoosemdesiatosemtisíc/n
-deväťstoosemdesiatpäť/n
-deväťstoosemdesiatpäťtisíc/n
-deväťstoosemdesiatsedem/n
-deväťstoosemdesiatsedemtisíc/n
-deväťstoosemdesiatšesť/n
-deväťstoosemdesiatšesťtisíc/n
-deväťstoosemdesiatštyri/n
-deväťstoosemdesiatštyritisíc/n
-deväťstoosemdesiattisíc/n
-deväťstoosemdesiattri/n
-deväťstoosemdesiattritisíc/n
-deväťstoosemnásť/n
-deväťstoosemnásťtisíc/n
-deväťstoosemtisíc/n
+deväťsto/n po:number
+deväťstodesať/n po:number
+deväťstodesaťtisíc/n po:number
+deväťstodeväť/n po:number
+deväťstodeväťdesiat/n po:number
+deväťstodeväťdesiatdeväť/n po:number
+deväťstodeväťdesiatdeväťtisíc/n po:number
+deväťstodeväťdesiatdva/n po:number
+deväťstodeväťdesiatdvatisíc/n po:number
+deväťstodeväťdesiatjeden/n po:number
+deväťstodeväťdesiatjedentisíc/n po:number
+deväťstodeväťdesiatosem/n po:number
+deväťstodeväťdesiatosemtisíc/n po:number
+deväťstodeväťdesiatpäť/n po:number
+deväťstodeväťdesiatpäťtisíc/n po:number
+deväťstodeväťdesiatsedem/n po:number
+deväťstodeväťdesiatsedemtisíc/n po:number
+deväťstodeväťdesiatšesť/n po:number
+deväťstodeväťdesiatšesťtisíc/n po:number
+deväťstodeväťdesiatštyri/n po:number
+deväťstodeväťdesiatštyritisíc/n po:number
+deväťstodeväťdesiattisíc/n po:number
+deväťstodeväťdesiattri/n po:number
+deväťstodeväťdesiattritisíc/n po:number
+deväťstodevätnásť/n po:number
+deväťstodevätnásťtisíc/n po:number
+deväťstodeväťtisíc/n po:number
+deväťstodva/n po:number
+deväťstodvadsať/n po:number
+deväťstodvadsaťdeväť/n po:number
+deväťstodvadsaťdeväťtisíc/n po:number
+deväťstodvadsaťdva/n po:number
+deväťstodvadsaťdvatisíc/n po:number
+deväťstodvadsaťjeden/n po:number
+deväťstodvadsaťjedentisíc/n po:number
+deväťstodvadsaťosem/n po:number
+deväťstodvadsaťosemtisíc/n po:number
+deväťstodvadsaťpäť/n po:number
+deväťstodvadsaťpäťtisíc/n po:number
+deväťstodvadsaťsedem/n po:number
+deväťstodvadsaťsedemtisíc/n po:number
+deväťstodvadsaťšesť/n po:number
+deväťstodvadsaťšesťtisíc/n po:number
+deväťstodvadsaťštyri/n po:number
+deväťstodvadsaťštyritisíc/n po:number
+deväťstodvadsaťtisíc/n po:number
+deväťstodvadsaťtri/n po:number
+deväťstodvadsaťtritisíc/n po:number
+deväťstodvanásť/n po:number
+deväťstodvanásťtisíc/n po:number
+deväťstodvatisíc/n po:number
+deväťstojeden/n po:number
+deväťstojedenásť/n po:number
+deväťstojedenásťtisíc/n po:number
+deväťstojedentisíc/n po:number
+deväťstoosem/n po:number
+deväťstoosemdesiat/n po:number
+deväťstoosemdesiatdeväť/n po:number
+deväťstoosemdesiatdeväťtisíc/n po:number
+deväťstoosemdesiatdva/n po:number
+deväťstoosemdesiatdvatisíc/n po:number
+deväťstoosemdesiatjeden/n po:number
+deväťstoosemdesiatjedentisíc/n po:number
+deväťstoosemdesiatosem/n po:number
+deväťstoosemdesiatosemtisíc/n po:number
+deväťstoosemdesiatpäť/n po:number
+deväťstoosemdesiatpäťtisíc/n po:number
+deväťstoosemdesiatsedem/n po:number
+deväťstoosemdesiatsedemtisíc/n po:number
+deväťstoosemdesiatšesť/n po:number
+deväťstoosemdesiatšesťtisíc/n po:number
+deväťstoosemdesiatštyri/n po:number
+deväťstoosemdesiatštyritisíc/n po:number
+deväťstoosemdesiattisíc/n po:number
+deväťstoosemdesiattri/n po:number
+deväťstoosemdesiattritisíc/n po:number
+deväťstoosemnásť/n po:number
+deväťstoosemnásťtisíc/n po:number
+deväťstoosemtisíc/n po:number
 deväťstopá
-deväťstopäť/n
-deväťstopäťdesiat/n
-deväťstopäťdesiatdeväť/n
-deväťstopäťdesiatdeväťtisíc/n
-deväťstopäťdesiatdva/n
-deväťstopäťdesiatdvatisíc/n
-deväťstopäťdesiatjeden/n
-deväťstopäťdesiatjedentisíc/n
-deväťstopäťdesiatosem/n
-deväťstopäťdesiatosemtisíc/n
-deväťstopäťdesiatpäť/n
-deväťstopäťdesiatpäťtisíc/n
-deväťstopäťdesiatsedem/n
-deväťstopäťdesiatsedemtisíc/n
-deväťstopäťdesiatšesť/n
-deväťstopäťdesiatšesťtisíc/n
-deväťstopäťdesiatštyri/n
-deväťstopäťdesiatštyritisíc/n
-deväťstopäťdesiattisíc/n
-deväťstopäťdesiattri/n
-deväťstopäťdesiattritisíc/n
-deväťstopätnásť/n
-deväťstopätnásťtisíc/n
-deväťstopäťtisíc/n
-deväťstosedem/n
-deväťstosedemdesiat/n
-deväťstosedemdesiatdeväť/n
-deväťstosedemdesiatdeväťtisíc/n
-deväťstosedemdesiatdva/n
-deväťstosedemdesiatdvatisíc/n
-deväťstosedemdesiatjeden/n
-deväťstosedemdesiatjedentisíc/n
-deväťstosedemdesiatosem/n
-deväťstosedemdesiatosemtisíc/n
-deväťstosedemdesiatpäť/n
-deväťstosedemdesiatpäťtisíc/n
-deväťstosedemdesiatsedem/n
-deväťstosedemdesiatsedemtisíc/n
-deväťstosedemdesiatšesť/n
-deväťstosedemdesiatšesťtisíc/n
-deväťstosedemdesiatštyri/n
-deväťstosedemdesiatštyritisíc/n
-deväťstosedemdesiattisíc/n
-deväťstosedemdesiattri/n
-deväťstosedemdesiattritisíc/n
-deväťstosedemnásť/n
-deväťstosedemnásťtisíc/n
-deväťstosedemtisíc/n
+deväťstopäť/n po:number
+deväťstopäťdesiat/n po:number
+deväťstopäťdesiatdeväť/n po:number
+deväťstopäťdesiatdeväťtisíc/n po:number
+deväťstopäťdesiatdva/n po:number
+deväťstopäťdesiatdvatisíc/n po:number
+deväťstopäťdesiatjeden/n po:number
+deväťstopäťdesiatjedentisíc/n po:number
+deväťstopäťdesiatosem/n po:number
+deväťstopäťdesiatosemtisíc/n po:number
+deväťstopäťdesiatpäť/n po:number
+deväťstopäťdesiatpäťtisíc/n po:number
+deväťstopäťdesiatsedem/n po:number
+deväťstopäťdesiatsedemtisíc/n po:number
+deväťstopäťdesiatšesť/n po:number
+deväťstopäťdesiatšesťtisíc/n po:number
+deväťstopäťdesiatštyri/n po:number
+deväťstopäťdesiatštyritisíc/n po:number
+deväťstopäťdesiattisíc/n po:number
+deväťstopäťdesiattri/n po:number
+deväťstopäťdesiattritisíc/n po:number
+deväťstopätnásť/n po:number
+deväťstopätnásťtisíc/n po:number
+deväťstopäťtisíc/n po:number
+deväťstosedem/n po:number
+deväťstosedemdesiat/n po:number
+deväťstosedemdesiatdeväť/n po:number
+deväťstosedemdesiatdeväťtisíc/n po:number
+deväťstosedemdesiatdva/n po:number
+deväťstosedemdesiatdvatisíc/n po:number
+deväťstosedemdesiatjeden/n po:number
+deväťstosedemdesiatjedentisíc/n po:number
+deväťstosedemdesiatosem/n po:number
+deväťstosedemdesiatosemtisíc/n po:number
+deväťstosedemdesiatpäť/n po:number
+deväťstosedemdesiatpäťtisíc/n po:number
+deväťstosedemdesiatsedem/n po:number
+deväťstosedemdesiatsedemtisíc/n po:number
+deväťstosedemdesiatšesť/n po:number
+deväťstosedemdesiatšesťtisíc/n po:number
+deväťstosedemdesiatštyri/n po:number
+deväťstosedemdesiatštyritisíc/n po:number
+deväťstosedemdesiattisíc/n po:number
+deväťstosedemdesiattri/n po:number
+deväťstosedemdesiattritisíc/n po:number
+deväťstosedemnásť/n po:number
+deväťstosedemnásťtisíc/n po:number
+deväťstosedemtisíc/n po:number
 deväťstostranový/YN po:adjective
-deväťstošesť/n
-deväťstošesťdesiat/n
-deväťstošesťdesiatdeväť/n
-deväťstošesťdesiatdeväťtisíc/n
-deväťstošesťdesiatdva/n
-deväťstošesťdesiatdvatisíc/n
-deväťstošesťdesiatjeden/n
-deväťstošesťdesiatjedentisíc/n
-deväťstošesťdesiatosem/n
-deväťstošesťdesiatosemtisíc/n
-deväťstošesťdesiatpäť/n
-deväťstošesťdesiatpäťtisíc/n
-deväťstošesťdesiatsedem/n
-deväťstošesťdesiatsedemtisíc/n
-deväťstošesťdesiatšesť/n
-deväťstošesťdesiatšesťtisíc/n
-deväťstošesťdesiatštyri/n
-deväťstošesťdesiatštyritisíc/n
-deväťstošesťdesiattisíc/n
-deväťstošesťdesiattri/n
-deväťstošesťdesiattritisíc/n
-deväťstošestnásť/n
-deväťstošestnásťtisíc/n
-deväťstošesťtisíc/n
-deväťstoštrnásť/n
-deväťstoštrnásťtisíc/n
-deväťstoštyri/n
-deväťstoštyridsať/n
-deväťstoštyridsaťdeväť/n
-deväťstoštyridsaťdeväťtisíc/n
-deväťstoštyridsaťdva/n
-deväťstoštyridsaťdvatisíc/n
-deväťstoštyridsaťjeden/n
-deväťstoštyridsaťjedentisíc/n
-deväťstoštyridsaťosem/n
-deväťstoštyridsaťosemtisíc/n
-deväťstoštyridsaťpäť/n
-deväťstoštyridsaťpäťtisíc/n
-deväťstoštyridsaťsedem/n
-deväťstoštyridsaťsedemtisíc/n
-deväťstoštyridsaťšesť/n
-deväťstoštyridsaťšesťtisíc/n
-deväťstoštyridsaťštyri/n
-deväťstoštyridsaťštyritisíc/n
-deväťstoštyridsaťtisíc/n
-deväťstoštyridsaťtri/n
-deväťstoštyridsaťtritisíc/n
-deväťstoštyritisíc/n
-deväťstotisíc/n
-deväťstotri/n
-deväťstotridsať/n
-deväťstotridsaťdeväť/n
-deväťstotridsaťdeväťtisíc/n
-deväťstotridsaťdva/n
-deväťstotridsaťdvatisíc/n
-deväťstotridsaťjeden/n
-deväťstotridsaťjedentisíc/n
-deväťstotridsaťosem/n
-deväťstotridsaťosemtisíc/n
-deväťstotridsaťpäť/n
-deväťstotridsaťpäťtisíc/n
-deväťstotridsaťsedem/n
-deväťstotridsaťsedemtisíc/n
-deväťstotridsaťšesť/n
-deväťstotridsaťšesťtisíc/n
-deväťstotridsaťštyri/n
-deväťstotridsaťštyritisíc/n
-deväťstotridsaťtisíc/n
-deväťstotridsaťtri/n
-deväťstotridsaťtritisíc/n
-deväťstotrinásť/n
-deväťstotrinásťtisíc/n
-deväťstotritisíc/n
+deväťstošesť/n po:number
+deväťstošesťdesiat/n po:number
+deväťstošesťdesiatdeväť/n po:number
+deväťstošesťdesiatdeväťtisíc/n po:number
+deväťstošesťdesiatdva/n po:number
+deväťstošesťdesiatdvatisíc/n po:number
+deväťstošesťdesiatjeden/n po:number
+deväťstošesťdesiatjedentisíc/n po:number
+deväťstošesťdesiatosem/n po:number
+deväťstošesťdesiatosemtisíc/n po:number
+deväťstošesťdesiatpäť/n po:number
+deväťstošesťdesiatpäťtisíc/n po:number
+deväťstošesťdesiatsedem/n po:number
+deväťstošesťdesiatsedemtisíc/n po:number
+deväťstošesťdesiatšesť/n po:number
+deväťstošesťdesiatšesťtisíc/n po:number
+deväťstošesťdesiatštyri/n po:number
+deväťstošesťdesiatštyritisíc/n po:number
+deväťstošesťdesiattisíc/n po:number
+deväťstošesťdesiattri/n po:number
+deväťstošesťdesiattritisíc/n po:number
+deväťstošestnásť/n po:number
+deväťstošestnásťtisíc/n po:number
+deväťstošesťtisíc/n po:number
+deväťstoštrnásť/n po:number
+deväťstoštrnásťtisíc/n po:number
+deväťstoštyri/n po:number
+deväťstoštyridsať/n po:number
+deväťstoštyridsaťdeväť/n po:number
+deväťstoštyridsaťdeväťtisíc/n po:number
+deväťstoštyridsaťdva/n po:number
+deväťstoštyridsaťdvatisíc/n po:number
+deväťstoštyridsaťjeden/n po:number
+deväťstoštyridsaťjedentisíc/n po:number
+deväťstoštyridsaťosem/n po:number
+deväťstoštyridsaťosemtisíc/n po:number
+deväťstoštyridsaťpäť/n po:number
+deväťstoštyridsaťpäťtisíc/n po:number
+deväťstoštyridsaťsedem/n po:number
+deväťstoštyridsaťsedemtisíc/n po:number
+deväťstoštyridsaťšesť/n po:number
+deväťstoštyridsaťšesťtisíc/n po:number
+deväťstoštyridsaťštyri/n po:number
+deväťstoštyridsaťštyritisíc/n po:number
+deväťstoštyridsaťtisíc/n po:number
+deväťstoštyridsaťtri/n po:number
+deväťstoštyridsaťtritisíc/n po:number
+deväťstoštyritisíc/n po:number
+deväťstotisíc/n po:number
+deväťstotri/n po:number
+deväťstotridsať/n po:number
+deväťstotridsaťdeväť/n po:number
+deväťstotridsaťdeväťtisíc/n po:number
+deväťstotridsaťdva/n po:number
+deväťstotridsaťdvatisíc/n po:number
+deväťstotridsaťjeden/n po:number
+deväťstotridsaťjedentisíc/n po:number
+deväťstotridsaťosem/n po:number
+deväťstotridsaťosemtisíc/n po:number
+deväťstotridsaťpäť/n po:number
+deväťstotridsaťpäťtisíc/n po:number
+deväťstotridsaťsedem/n po:number
+deväťstotridsaťsedemtisíc/n po:number
+deväťstotridsaťšesť/n po:number
+deväťstotridsaťšesťtisíc/n po:number
+deväťstotridsaťštyri/n po:number
+deväťstotridsaťštyritisíc/n po:number
+deväťstotridsaťtisíc/n po:number
+deväťstotridsaťtri/n po:number
+deväťstotridsaťtritisíc/n po:number
+deväťstotrinásť/n po:number
+deväťstotrinásťtisíc/n po:number
+deväťstotritisíc/n po:number
 deväťstranný/Y po:adjective
 deväťstupňové
-deväťtisíc/n
+deväťtisíc/n po:number
 deväťtisícový/YN po:adjective
 deväťtonové
 deväťtonovom
@@ -15973,7 +15973,7 @@ deviatok/B po:noun is:masculine
 deviatom
 deviatou
 deviatu
-deviaty/n
+deviaty/n po:number
 deviatych
 deviatykrát
 deviatym
@@ -21036,29 +21036,29 @@ dužnina/zZ po:noun is:feminine
 dv
 DV	 po:acronym
 dva
-dvaapolkrát/n
+dvaapolkrát/n po:number
 dvaapolnásobný/Y po:adjective
 dvaapolnásobok/B po:noun is:masculine
 dvaatridsatina/zZ po:noun is:feminine
 dvaatridsatinový/Y po:adjective
 dvacaťtisícový/Y po:adjective
-dvadsať/n
+dvadsať/n po:number
 dvadsaťdenný/YN po:adjective
-dvadsaťdeväť/n
+dvadsaťdeväť/n po:number
 Dvadsaťdeväťročný/YN po:adjective
-dvadsaťdeväťtisíc/n
+dvadsaťdeväťtisíc/n po:number
 dvadsaťdňový/YN po:adjective
-dvadsaťdva/n
+dvadsaťdva/n po:number
 dvadsaťdvaročný/Y po:adjective
-dvadsaťdvatisíc/n
-dvadsaťdvatisícdvesto/n
-dvadsaťdvatisícdvestosedemdesiattri/n
-dvadsaťdvatisícšesťsto/n
-dvadsaťdvatisíctridsaťštyri/n
+dvadsaťdvatisíc/n po:number
+dvadsaťdvatisícdvesto/n po:number
+dvadsaťdvatisícdvestosedemdesiattri/n po:number
+dvadsaťdvatisícšesťsto/n po:number
+dvadsaťdvatisíctridsaťštyri/n po:number
 dvadsaťhaliernik/B po:noun is:masculine
 dvadsatina/zZ po:noun is:feminine
-dvadsaťjeden/n
-dvadsaťjedentisíc/n
+dvadsaťjeden/n po:number
+dvadsaťjedentisíc/n po:number
 dvadsaťkilometrový/YN po:adjective
 dvadsaťkorún
 dvadsaťkoruna
@@ -21069,7 +21069,7 @@ dvadsaťkorunou
 dvadsaťkorunový/YN po:adjective
 dvadsaťkorunu
 dvadsaťkoruny
-dvadsaťkrát/n
+dvadsaťkrát/n po:number
 dvadsaťnásobkami
 dvadsaťnásobkoch
 dvadsaťnásobkom
@@ -21080,48 +21080,48 @@ dvadsaťnásobný/YN po:adjective
 dvadsaťnásobok/B po:noun is:masculine
 dvadsatorako
 dvadsatoraký/YN po:adjective
-dvadsatoro/n
-dvadsaťosem/n
-dvadsaťosemtisíc/n
-dvadsaťosemtisícšesťsto/n
-dvadsaťpäť/n
+dvadsatoro/n po:number
+dvadsaťosem/n po:number
+dvadsaťosemtisíc/n po:number
+dvadsaťosemtisícšesťsto/n po:number
+dvadsaťpäť/n po:number
 dvadsaťpäťka/zZ po:noun is:feminine
 dvadsaťpäťročie/V po:noun is:neuter
 dvadsaťpäťročnom
 dvadsaťpäťročnú
 Dvadsaťpäťročný/YN po:adjective
-dvadsaťpäťtisíc/n
-dvadsaťpäťtisíckrát/n
+dvadsaťpäťtisíc/n po:number
+dvadsaťpäťtisíckrát/n po:number
 dvadsaťpäťtisícový/Y po:adjective
-dvadsaťpäťtisícsto/n
+dvadsaťpäťtisícsto/n po:number
 dvadsaťpiati
 dvadsaťročia
 dvadsaťročie
 dvadsaťročný/YN po:adjective
-dvadsaťsedem/n
+dvadsaťsedem/n po:number
 dvadsaťsedemročný/Y po:adjective
-dvadsaťsedemtisíc/n
+dvadsaťsedemtisíc/n po:number
 dvadsaťstupňový/YN po:adjective
-dvadsaťšesť/n
-dvadsaťšesťtisíc/n
-dvadsaťštyri/n
+dvadsaťšesť/n po:number
+dvadsaťšesťtisíc/n po:number
+dvadsaťštyri/n po:number
 dvadsaťštyrihodinový/YN po:adjective
-dvadsaťštyritisíc/n
-dvadsaťtisíc/n
-dvadsaťtisícdvesto/n
+dvadsaťštyritisíc/n po:number
+dvadsaťtisíc/n po:number
+dvadsaťtisícdvesto/n po:number
 dvadsaťtisíceho
 dvadsaťtisíci
-dvadsaťtisíckrát/n
+dvadsaťtisíckrát/n po:number
 dvadsaťtisícom
-dvadsaťtisícosemsto/n
-dvadsaťtisícové/n
+dvadsaťtisícosemsto/n po:number
+dvadsaťtisícové/n po:number
 dvadsaťtisícový/YN po:adjective
 dvadsaťtonová
 dvadsaťtonové
-dvadsaťtri/n
-dvadsaťtritisíc/n
-dvadsiati/n
-dvadsiatich/n
+dvadsaťtri/n po:number
+dvadsaťtritisíc/n po:number
+dvadsiati/n po:number
+dvadsiatich/n po:number
 dvadsiatim
 dvadsiatimi
 dvadsiatinu
@@ -21129,9 +21129,9 @@ dvadsiatka/zZ po:noun is:feminine
 dvadsiatnici
 dvadsiatnikov
 dvadsiaty/YN po:adjective
-dvaja/n
-dvakrát/n
-dvanásť/n
+dvaja/n po:number
+dvakrát/n po:number
+dvanásť/n po:number
 dvanásťčlenný/YN po:adjective
 dvanásťdňový/YN po:adjective
 dvanásťhodinový/YN po:adjective
@@ -21139,7 +21139,7 @@ dvanásti/Q
 dvanástina/zZ po:noun is:feminine
 dvanástka/zZ po:noun is:feminine
 dvanástkový/YN po:adjective
-dvanásťkrát/n
+dvanásťkrát/n po:number
 dvanásťky
 dvanásťmetrový/YN po:adjective
 dvanásťnásobný/YN po:adjective
@@ -21152,7 +21152,7 @@ dvanástoraký/YN po:adjective
 dvanásťročný/Y po:adjective
 dvanásťsten
 dvanásťstupňový/YN po:adjective
-dvanásťtisíc/n
+dvanásťtisíc/n po:number
 dvanásťuholník
 dvanásťvalcom
 dvanásťvalcový/YN po:adjective
@@ -21171,235 +21171,235 @@ dvermi
 dverný/Y po:adjective
 dverový/Y po:adjective
 dvesotisíc
-dvesto/n
+dvesto/n po:number
 dvestočlenný/YN po:adjective
-dvestodesať/n
-dvestodesaťtisíc/n
-dvestodeväť/n
-dvestodeväťdesiat/n
-dvestodeväťdesiatdeväť/n
-dvestodeväťdesiatdeväťtisíc/n
-dvestodeväťdesiatdva/n
-dvestodeväťdesiatdvatisíc/n
-dvestodeväťdesiatjeden/n
-dvestodeväťdesiatjedentisíc/n
-dvestodeväťdesiatosem/n
-dvestodeväťdesiatosemtisíc/n
-dvestodeväťdesiatpäť/n
-dvestodeväťdesiatpäťtisíc/n
-dvestodeväťdesiatsedem/n
-dvestodeväťdesiatsedemtisíc/n
-dvestodeväťdesiatšesť/n
-dvestodeväťdesiatšesťtisíc/n
-dvestodeväťdesiatštyri/n
-dvestodeväťdesiatštyritisíc/n
-dvestodeväťdesiattisíc/n
-dvestodeväťdesiattri/n
-dvestodeväťdesiattritisíc/n
-dvestodevätnásť/n
-dvestodevätnásťtisíc/n
-dvestodeväťtisíc/n
-dvestodva/n
-dvestodvadsať/n
-dvestodvadsaťdeväť/n
-dvestodvadsaťdeväťtisíc/n
-dvestodvadsaťdva/n
-dvestodvadsaťdvatisíc/n
-dvestodvadsaťjeden/n
-dvestodvadsaťjedentisíc/n
-dvestodvadsaťosem/n
-dvestodvadsaťosemtisíc/n
-dvestodvadsaťpäť/n
-dvestodvadsaťpäťtisíc/n
-dvestodvadsaťsedem/n
-dvestodvadsaťsedemtisíc/n
-dvestodvadsaťšesť/n
-dvestodvadsaťšesťtisíc/n
-dvestodvadsaťštyri/n
-dvestodvadsaťštyritisíc/n
-dvestodvadsaťtisíc/n
-dvestodvadsaťtri/n
-dvestodvadsaťtritisíc/n
-dvestodvanásť/n
-dvestodvanásťtisíc/n
-dvestodvatisíc/n
-dvestojeden/n
-dvestojedenásť/n
-dvestojedenásťtisíc/n
-dvestojedentisíc/n
+dvestodesať/n po:number
+dvestodesaťtisíc/n po:number
+dvestodeväť/n po:number
+dvestodeväťdesiat/n po:number
+dvestodeväťdesiatdeväť/n po:number
+dvestodeväťdesiatdeväťtisíc/n po:number
+dvestodeväťdesiatdva/n po:number
+dvestodeväťdesiatdvatisíc/n po:number
+dvestodeväťdesiatjeden/n po:number
+dvestodeväťdesiatjedentisíc/n po:number
+dvestodeväťdesiatosem/n po:number
+dvestodeväťdesiatosemtisíc/n po:number
+dvestodeväťdesiatpäť/n po:number
+dvestodeväťdesiatpäťtisíc/n po:number
+dvestodeväťdesiatsedem/n po:number
+dvestodeväťdesiatsedemtisíc/n po:number
+dvestodeväťdesiatšesť/n po:number
+dvestodeväťdesiatšesťtisíc/n po:number
+dvestodeväťdesiatštyri/n po:number
+dvestodeväťdesiatštyritisíc/n po:number
+dvestodeväťdesiattisíc/n po:number
+dvestodeväťdesiattri/n po:number
+dvestodeväťdesiattritisíc/n po:number
+dvestodevätnásť/n po:number
+dvestodevätnásťtisíc/n po:number
+dvestodeväťtisíc/n po:number
+dvestodva/n po:number
+dvestodvadsať/n po:number
+dvestodvadsaťdeväť/n po:number
+dvestodvadsaťdeväťtisíc/n po:number
+dvestodvadsaťdva/n po:number
+dvestodvadsaťdvatisíc/n po:number
+dvestodvadsaťjeden/n po:number
+dvestodvadsaťjedentisíc/n po:number
+dvestodvadsaťosem/n po:number
+dvestodvadsaťosemtisíc/n po:number
+dvestodvadsaťpäť/n po:number
+dvestodvadsaťpäťtisíc/n po:number
+dvestodvadsaťsedem/n po:number
+dvestodvadsaťsedemtisíc/n po:number
+dvestodvadsaťšesť/n po:number
+dvestodvadsaťšesťtisíc/n po:number
+dvestodvadsaťštyri/n po:number
+dvestodvadsaťštyritisíc/n po:number
+dvestodvadsaťtisíc/n po:number
+dvestodvadsaťtri/n po:number
+dvestodvadsaťtritisíc/n po:number
+dvestodvanásť/n po:number
+dvestodvanásťtisíc/n po:number
+dvestodvatisíc/n po:number
+dvestojeden/n po:number
+dvestojedenásť/n po:number
+dvestojedenásťtisíc/n po:number
+dvestojedentisíc/n po:number
 dvestokorunový/YN po:adjective
-dvestokrát/n
+dvestokrát/n po:number
 dvestometrový/YN po:adjective
-dvestoosem/n
-dvestoosemdesiat/n
-dvestoosemdesiatdeväť/n
-dvestoosemdesiatdeväťtisíc/n
-dvestoosemdesiatdva/n
-dvestoosemdesiatdvatisíc/n
-dvestoosemdesiatjeden/n
-dvestoosemdesiatjedentisíc/n
-dvestoosemdesiatosem/n
-dvestoosemdesiatosemtisíc/n
-dvestoosemdesiatpäť/n
-dvestoosemdesiatpäťtisíc/n
-dvestoosemdesiatsedem/n
-dvestoosemdesiatsedemtisíc/n
-dvestoosemdesiatšesť/n
-dvestoosemdesiatšesťtisíc/n
-dvestoosemdesiatštyri/n
-dvestoosemdesiatštyritisíc/n
-dvestoosemdesiattisíc/n
-dvestoosemdesiattri/n
-dvestoosemdesiattritisíc/n
-dvestoosemnásť/n
-dvestoosemnásťtisíc/n
-dvestoosemtisíc/n
-dvestopäť/n
-dvestopäťdesiat/n
-dvestopäťdesiatdeväť/n
-dvestopäťdesiatdeväťtisíc/n
-dvestopäťdesiatdva/n
-dvestopäťdesiatdvatisíc/n
-dvestopäťdesiati/n
-dvestopäťdesiatjeden/n
-dvestopäťdesiatjedentisíc/n
+dvestoosem/n po:number
+dvestoosemdesiat/n po:number
+dvestoosemdesiatdeväť/n po:number
+dvestoosemdesiatdeväťtisíc/n po:number
+dvestoosemdesiatdva/n po:number
+dvestoosemdesiatdvatisíc/n po:number
+dvestoosemdesiatjeden/n po:number
+dvestoosemdesiatjedentisíc/n po:number
+dvestoosemdesiatosem/n po:number
+dvestoosemdesiatosemtisíc/n po:number
+dvestoosemdesiatpäť/n po:number
+dvestoosemdesiatpäťtisíc/n po:number
+dvestoosemdesiatsedem/n po:number
+dvestoosemdesiatsedemtisíc/n po:number
+dvestoosemdesiatšesť/n po:number
+dvestoosemdesiatšesťtisíc/n po:number
+dvestoosemdesiatštyri/n po:number
+dvestoosemdesiatštyritisíc/n po:number
+dvestoosemdesiattisíc/n po:number
+dvestoosemdesiattri/n po:number
+dvestoosemdesiattritisíc/n po:number
+dvestoosemnásť/n po:number
+dvestoosemnásťtisíc/n po:number
+dvestoosemtisíc/n po:number
+dvestopäť/n po:number
+dvestopäťdesiat/n po:number
+dvestopäťdesiatdeväť/n po:number
+dvestopäťdesiatdeväťtisíc/n po:number
+dvestopäťdesiatdva/n po:number
+dvestopäťdesiatdvatisíc/n po:number
+dvestopäťdesiati/n po:number
+dvestopäťdesiatjeden/n po:number
+dvestopäťdesiatjedentisíc/n po:number
 dvestopäťdesiatku
 dvestopäťdesiatky
-dvestopäťdesiatosem/n
-dvestopäťdesiatosemtisíc/n
-dvestopäťdesiatpäť/n
-dvestopäťdesiatpäťtisíc/n
-dvestopäťdesiatsedem/n
-dvestopäťdesiatsedemtisíc/n
-dvestopäťdesiatšesť/n
-dvestopäťdesiatšesťtisíc/n
-dvestopäťdesiatštyri/n
-dvestopäťdesiatštyritisíc/n
-dvestopäťdesiattisíc/n
-dvestopäťdesiattri/n
-dvestopäťdesiattritisíc/n
-dvestopätnásť/n
-dvestopätnásťtisíc/n
-dvestopäťtisíc/n
+dvestopäťdesiatosem/n po:number
+dvestopäťdesiatosemtisíc/n po:number
+dvestopäťdesiatpäť/n po:number
+dvestopäťdesiatpäťtisíc/n po:number
+dvestopäťdesiatsedem/n po:number
+dvestopäťdesiatsedemtisíc/n po:number
+dvestopäťdesiatšesť/n po:number
+dvestopäťdesiatšesťtisíc/n po:number
+dvestopäťdesiatštyri/n po:number
+dvestopäťdesiatštyritisíc/n po:number
+dvestopäťdesiattisíc/n po:number
+dvestopäťdesiattri/n po:number
+dvestopäťdesiattritisíc/n po:number
+dvestopätnásť/n po:number
+dvestopätnásťtisíc/n po:number
+dvestopäťtisíc/n po:number
 dvestoročný/YN po:adjective
-dvestosedem/n
-dvestosedemdesiat/n
-dvestosedemdesiatdeväť/n
-dvestosedemdesiatdeväťtisíc/n
-dvestosedemdesiatdva/n
-dvestosedemdesiatdvatisíc/n
-dvestosedemdesiatjeden/n
-dvestosedemdesiatjedentisíc/n
-dvestosedemdesiatosem/n
-dvestosedemdesiatosemtisíc/n
-dvestosedemdesiatpäť/n
-dvestosedemdesiatpäťtisíc/n
-dvestosedemdesiatsedem/n
-dvestosedemdesiatsedemtisíc/n
-dvestosedemdesiatšesť/n
-dvestosedemdesiatšesťtisíc/n
-dvestosedemdesiatštyri/n
-dvestosedemdesiatštyritisíc/n
-dvestosedemdesiattisíc/n
-dvestosedemdesiattri/n
-dvestosedemdesiattritisíc/n
-dvestosedemnásť/n
-dvestosedemnásťtisíc/n
-dvestosedemtisíc/n
-dvestošesť/n
-dvestošesťdesiat/n
-dvestošesťdesiatdeväť/n
-dvestošesťdesiatdeväťtisíc/n
-dvestošesťdesiatdva/n
-dvestošesťdesiatdvatisíc/n
-dvestošesťdesiatjeden/n
-dvestošesťdesiatjedentisíc/n
-dvestošesťdesiatosem/n
-dvestošesťdesiatosemtisíc/n
-dvestošesťdesiatpäť/n
-dvestošesťdesiatpäťtisíc/n
-dvestošesťdesiatsedem/n
-dvestošesťdesiatsedemtisíc/n
-dvestošesťdesiatšesť/n
-dvestošesťdesiatšesťtisíc/n
-dvestošesťdesiatštyri/n
-dvestošesťdesiatštyritisíc/n
-dvestošesťdesiattisíc/n
-dvestošesťdesiattri/n
-dvestošesťdesiattritisíc/n
-dvestošestnásť/n
-dvestošestnásťtisíc/n
-dvestošesťtisíc/n
-dvestoštrnásť/n
-dvestoštrnásťtisíc/n
-dvestoštyri/n
-dvestoštyridsať/n
-dvestoštyridsaťdeväť/n
-dvestoštyridsaťdeväťtisíc/n
-dvestoštyridsaťdva/n
-dvestoštyridsaťdvatisíc/n
-dvestoštyridsaťjeden/n
-dvestoštyridsaťjedentisíc/n
-dvestoštyridsaťosem/n
-dvestoštyridsaťosemtisíc/n
-dvestoštyridsaťpäť/n
-dvestoštyridsaťpäťtisíc/n
-dvestoštyridsaťsedem/n
-dvestoštyridsaťsedemtisíc/n
-dvestoštyridsaťšesť/n
-dvestoštyridsaťšesťtisíc/n
-dvestoštyridsaťštyri/n
-dvestoštyridsaťštyritisíc/n
-dvestoštyridsaťtisíc/n
-dvestoštyridsaťtri/n
-dvestoštyridsaťtritisíc/n
-dvestoštyritisíc/n
-dvestotisíc/n
+dvestosedem/n po:number
+dvestosedemdesiat/n po:number
+dvestosedemdesiatdeväť/n po:number
+dvestosedemdesiatdeväťtisíc/n po:number
+dvestosedemdesiatdva/n po:number
+dvestosedemdesiatdvatisíc/n po:number
+dvestosedemdesiatjeden/n po:number
+dvestosedemdesiatjedentisíc/n po:number
+dvestosedemdesiatosem/n po:number
+dvestosedemdesiatosemtisíc/n po:number
+dvestosedemdesiatpäť/n po:number
+dvestosedemdesiatpäťtisíc/n po:number
+dvestosedemdesiatsedem/n po:number
+dvestosedemdesiatsedemtisíc/n po:number
+dvestosedemdesiatšesť/n po:number
+dvestosedemdesiatšesťtisíc/n po:number
+dvestosedemdesiatštyri/n po:number
+dvestosedemdesiatštyritisíc/n po:number
+dvestosedemdesiattisíc/n po:number
+dvestosedemdesiattri/n po:number
+dvestosedemdesiattritisíc/n po:number
+dvestosedemnásť/n po:number
+dvestosedemnásťtisíc/n po:number
+dvestosedemtisíc/n po:number
+dvestošesť/n po:number
+dvestošesťdesiat/n po:number
+dvestošesťdesiatdeväť/n po:number
+dvestošesťdesiatdeväťtisíc/n po:number
+dvestošesťdesiatdva/n po:number
+dvestošesťdesiatdvatisíc/n po:number
+dvestošesťdesiatjeden/n po:number
+dvestošesťdesiatjedentisíc/n po:number
+dvestošesťdesiatosem/n po:number
+dvestošesťdesiatosemtisíc/n po:number
+dvestošesťdesiatpäť/n po:number
+dvestošesťdesiatpäťtisíc/n po:number
+dvestošesťdesiatsedem/n po:number
+dvestošesťdesiatsedemtisíc/n po:number
+dvestošesťdesiatšesť/n po:number
+dvestošesťdesiatšesťtisíc/n po:number
+dvestošesťdesiatštyri/n po:number
+dvestošesťdesiatštyritisíc/n po:number
+dvestošesťdesiattisíc/n po:number
+dvestošesťdesiattri/n po:number
+dvestošesťdesiattritisíc/n po:number
+dvestošestnásť/n po:number
+dvestošestnásťtisíc/n po:number
+dvestošesťtisíc/n po:number
+dvestoštrnásť/n po:number
+dvestoštrnásťtisíc/n po:number
+dvestoštyri/n po:number
+dvestoštyridsať/n po:number
+dvestoštyridsaťdeväť/n po:number
+dvestoštyridsaťdeväťtisíc/n po:number
+dvestoštyridsaťdva/n po:number
+dvestoštyridsaťdvatisíc/n po:number
+dvestoštyridsaťjeden/n po:number
+dvestoštyridsaťjedentisíc/n po:number
+dvestoštyridsaťosem/n po:number
+dvestoštyridsaťosemtisíc/n po:number
+dvestoštyridsaťpäť/n po:number
+dvestoštyridsaťpäťtisíc/n po:number
+dvestoštyridsaťsedem/n po:number
+dvestoštyridsaťsedemtisíc/n po:number
+dvestoštyridsaťšesť/n po:number
+dvestoštyridsaťšesťtisíc/n po:number
+dvestoštyridsaťštyri/n po:number
+dvestoštyridsaťštyritisíc/n po:number
+dvestoštyridsaťtisíc/n po:number
+dvestoštyridsaťtri/n po:number
+dvestoštyridsaťtritisíc/n po:number
+dvestoštyritisíc/n po:number
+dvestotisíc/n po:number
 dvestotisíce
 dvestotisíceho
 dvestotisícej
 dvestotisíci
 dvestotisícový/YN po:adjective
 dvestotisícu
-dvestotri/n
-dvestotridsať/n
-dvestotridsaťdeväť/n
-dvestotridsaťdeväťtisíc/n
-dvestotridsaťdva/n
-dvestotridsaťdvatisíc/n
-dvestotridsaťjeden/n
-dvestotridsaťjedentisíc/n
-dvestotridsaťosem/n
-dvestotridsaťosemtisíc/n
-dvestotridsaťpäť/n
-dvestotridsaťpäťtisíc/n
-dvestotridsaťsedem/n
-dvestotridsaťsedemtisíc/n
-dvestotridsaťšesť/n
-dvestotridsaťšesťtisíc/n
-dvestotridsaťštyri/n
-dvestotridsaťštyritisíc/n
-dvestotridsaťtisíc/n
-dvestotridsaťtri/n
-dvestotridsaťtritisíc/n
-dvestotrinásť/n
-dvestotrinásťtisíc/n
-dvestotritisíc/n
+dvestotri/n po:number
+dvestotridsať/n po:number
+dvestotridsaťdeväť/n po:number
+dvestotridsaťdeväťtisíc/n po:number
+dvestotridsaťdva/n po:number
+dvestotridsaťdvatisíc/n po:number
+dvestotridsaťjeden/n po:number
+dvestotridsaťjedentisíc/n po:number
+dvestotridsaťosem/n po:number
+dvestotridsaťosemtisíc/n po:number
+dvestotridsaťpäť/n po:number
+dvestotridsaťpäťtisíc/n po:number
+dvestotridsaťsedem/n po:number
+dvestotridsaťsedemtisíc/n po:number
+dvestotridsaťšesť/n po:number
+dvestotridsaťšesťtisíc/n po:number
+dvestotridsaťštyri/n po:number
+dvestotridsaťštyritisíc/n po:number
+dvestotridsaťtisíc/n po:number
+dvestotridsaťtri/n po:number
+dvestotridsaťtritisíc/n po:number
+dvestotrinásť/n po:number
+dvestotrinásťtisíc/n po:number
+dvestotritisíc/n po:number
 dvestovka/zZ po:noun is:feminine
-dvetisíc/n
+dvetisíc/n po:number
 Dvetisíca
 dvetisíci
 dvetisíckrát
-dvetisícosemstodvanásť/n
-dvetisícosemstoosemnásť/n
+dvetisícosemstodvanásť/n po:number
+dvetisícosemstoosemnásť/n po:number
 dvetisícovej
-dvetisícpäťdesiatšesť/n
-dvetisícsedemsto/n
-dvetisícsedemstopäťdesiat/n
-dvetisícstosedemdesiatdva/n
-dvetisícšesťdesiatsedem/n
-dvetisícšesťsto/n
-dvetisícšesťstotridsať/n
+dvetisícpäťdesiatšesť/n po:number
+dvetisícsedemsto/n po:number
+dvetisícsedemstopäťdesiat/n po:number
+dvetisícstosedemdesiatdva/n po:number
+dvetisícšesťdesiatsedem/n po:number
+dvetisícšesťsto/n po:number
+dvetisícšesťstotridsať/n po:number
 dvierka/Q
 dvierku
 dvíhač
@@ -21413,7 +21413,7 @@ dvíhaný/YN po:adjective
 dvíhať/XN po:verb
 dvihnúť/WN po:verb
 dvihnutý/YN po:adjective
-dvoch/n
+dvoch/n po:number
 dvojak/B po:noun is:masculine
 dvojako
 dvojakosť/K po:noun is:feminine
@@ -21460,7 +21460,7 @@ dvojdobý/YN po:adjective
 dvojdomý/YN po:adjective
 dvojdotyk/B po:noun is:masculine
 dvojdverový/Y po:adjective
-dvoje/n
+dvoje/n po:number
 dvojenie/V po:noun is:neuter
 dvojetážovej
 dvojfarebne
@@ -21721,9 +21721,9 @@ dvojzubý/YN po:adjective
 dvojzväzkový/YN po:adjective
 dvojženstvo/M po:noun is:neuter
 dvojžilový/YN po:adjective
-dvom/n
-dvoma/n
-dvomi/n
+dvom/n po:number
+dvoma/n po:number
+dvomi/n po:number
 dvor/B po:noun is:masculine
 dvorán
 dvoran/c po:noun is:masculine
@@ -38746,7 +38746,7 @@ jedálny/YN po:adjective
 jedávať/XN po:verb
 jeden/CN po:noun is:masculine
 jedenapolročný/YN po:adjective
-jedenásť/n
+jedenásť/n po:number
 jedenásťdňovým
 jedenásťhodinový/YN po:adjective
 jedenásti/Y po:adjective
@@ -38758,7 +38758,7 @@ jedenásťposchodový/YN po:adjective
 jedenásťročenka/zZ po:noun is:feminine
 jedenásťročný/YN po:adjective
 jedenásťstupňový/YN po:adjective
-jedenásťtisíc/n
+jedenásťtisíc/n po:number
 jedenásty/YN po:adjective
 jedenie/V po:noun is:neuter
 jedenkrát/N
@@ -57590,7 +57590,7 @@ mníchovský/YN po:adjective
 mníška/zZ po:noun is:feminine
 mníšsky/YN po:adjective
 mno
-mnoho/n
+mnoho/n po:number
 mnohoaspektový/Y po:adjective
 mnohobodový/YN po:adjective
 mnohobožstvo/M po:noun is:neuter
@@ -70665,7 +70665,7 @@ niekde
 niekdy
 niekedy
 niekoho
-niekoľko/n
+niekoľko/n po:number
 niekoľkocentimetrový/Y po:adjective
 niekoľkočlenný/Y po:adjective
 niekoľkodenný/Y po:adjective
@@ -71904,7 +71904,7 @@ oázach
 oázam
 oázový/YN po:adjective
 OB	 po:acronym
-oba/n
+oba/n po:number
 Obadal
 Obadala
 obadali
@@ -71913,7 +71913,7 @@ obádať
 obahniť
 obáj
 obája
-obaja/n
+obaja/n po:number
 obájili
 obájiť
 obal/B po:noun is:masculine
@@ -72054,7 +72054,7 @@ obdržaných
 obdržať/RN po:verb
 obdukcia
 obdukovať/WN po:verb
-obe/n
+obe/n po:number
 obec/D po:noun is:feminine
 obecať/TN po:verb
 obecenstvo/M po:noun is:neuter
@@ -72266,14 +72266,14 @@ obídenie/V po:noun is:neuter
 obidne
 obidný/YN po:adjective
 obíduc
-obidva/n
-obidvaja/n
-obidve/n
-obidvoch/n
+obidva/n po:number
+obidvaja/n po:number
+obidve/n po:number
+obidvoch/n po:number
 obidvoje
 obidvom
-obidvoma/n
-obidvomi/n
+obidvoma/n po:number
+obidvomi/n po:number
 obiehajúci/YN po:adjective
 obiehané
 obiehanie/V po:noun is:neuter
@@ -72774,7 +72774,7 @@ obohrať/EN po:verb
 obohrávaná
 obohrávanie/V po:noun is:neuter
 obohrávať/XN po:verb
-oboch/n
+oboch/n po:number
 obojako
 obojakosť/K po:noun is:feminine
 obojaký/YN po:adjective
@@ -72804,8 +72804,8 @@ obol
 obole
 obolus
 obom
-oboma/n
-obomi/n
+oboma/n po:number
+obomi/n po:number
 obomknúť/WN po:verb
 obomkýnať/XN po:verb
 obopäť/TN po:verb
@@ -78981,7 +78981,7 @@ oselník/C po:noun is:masculine
 oselníkov/Y po:adjective
 oselníku
 oselníky
-osem/n
+osem/n po:number
 osembodový/YN po:adjective
 osemboj/J po:noun is:masculine
 osembojár/C po:noun is:masculine
@@ -78991,44 +78991,44 @@ osemciferné
 osemcifernú
 osemcipý/Y po:adjective
 osemdenný/YN po:adjective
-osemdesiat/n
+osemdesiat/n po:number
 osemdesiata
-osemdesiatdeväť/n
-osemdesiatdeväťtisíc/n
-osemdesiatdva/n
-osemdesiatdvatisíc/n
+osemdesiatdeväť/n po:number
+osemdesiatdeväťtisíc/n po:number
+osemdesiatdva/n po:number
+osemdesiatdvatisíc/n po:number
 osemdesiate
 osemdesiateho
 osemdesiatej
 osemdesiatemu
 osemdesiati/Q
 osemdesiatina/zZ po:noun is:feminine
-osemdesiatjeden/n
-osemdesiatjedentisíc/n
+osemdesiatjeden/n po:number
+osemdesiatjedentisíc/n po:number
 osemdesiatka/zZ po:noun is:feminine
 osemdesiatkrát
 osemdesiatnička/zZ po:noun is:feminine
 osemdesiatnik/C po:noun is:masculine
 osemdesiatnikov/Y po:adjective
 osemdesiatom
-osemdesiatosem/n
-osemdesiatosemtisíc/n
+osemdesiatosem/n po:number
+osemdesiatosemtisíc/n po:number
 osemdesiatou
-osemdesiatpäť/n
-osemdesiatpäťtisíc/n
+osemdesiatpäť/n po:number
+osemdesiatpäťtisíc/n po:number
 osemdesiatročný/YN po:adjective
-osemdesiatsedem/n
-osemdesiatsedemtisíc/n
-osemdesiatšesť/n
-osemdesiatšesťtisíc/n
-osemdesiatštyri/n
-osemdesiatštyritisíc/n
-osemdesiattisíc/n
+osemdesiatsedem/n po:number
+osemdesiatsedemtisíc/n po:number
+osemdesiatšesť/n po:number
+osemdesiatšesťtisíc/n po:number
+osemdesiatštyri/n po:number
+osemdesiatštyritisíc/n po:number
+osemdesiattisíc/n po:number
 osemdesiattisícemu
 osemdesiattisícovej
 osemdesiattonovej
-osemdesiattri/n
-osemdesiattritisíc/n
+osemdesiattri/n po:number
+osemdesiattritisíc/n po:number
 osemdesiatu
 osemdesiaty/N po:adverb
 osemdesiatych
@@ -79068,7 +79068,7 @@ osemnásobkom
 osemnásobku
 osemnásobný/YN po:adjective
 osemnásobok
-osemnásť/n
+osemnásť/n po:number
 osemnásti/Y po:adjective
 osemnástina
 osemnástinu
@@ -79082,7 +79082,7 @@ osemnásťročnom
 osemnásťročnú
 Osemnásťročný/YN po:adjective
 osemnásťročných
-osemnásťtisíc/n
+osemnásťtisíc/n po:number
 osemnásty/Y po:adjective
 osempercentný/YN po:adjective
 osemposchodový/YN po:adjective
@@ -79092,215 +79092,215 @@ osemročný/YN po:adjective
 osemslabičný/YN po:adjective
 osemsten
 osemstenný/YN po:adjective
-osemsto/n
-osemstodesať/n
-osemstodesaťtisíc/n
-osemstodeväť/n
-osemstodeväťdesiat/n
-osemstodeväťdesiatdeväť/n
-osemstodeväťdesiatdeväťtisíc/n
-osemstodeväťdesiatdva/n
-osemstodeväťdesiatdvatisíc/n
-osemstodeväťdesiatjeden/n
-osemstodeväťdesiatjedentisíc/n
-osemstodeväťdesiatosem/n
-osemstodeväťdesiatosemtisíc/n
-osemstodeväťdesiatpäť/n
-osemstodeväťdesiatpäťtisíc/n
-osemstodeväťdesiatsedem/n
-osemstodeväťdesiatsedemtisíc/n
-osemstodeväťdesiatšesť/n
-osemstodeväťdesiatšesťtisíc/n
-osemstodeväťdesiatštyri/n
-osemstodeväťdesiatštyritisíc/n
-osemstodeväťdesiattisíc/n
-osemstodeväťdesiattri/n
-osemstodeväťdesiattritisíc/n
-osemstodevätnásť/n
-osemstodevätnásťtisíc/n
-osemstodeväťtisíc/n
-osemstodva/n
-osemstodvadsať/n
-osemstodvadsaťdeväť/n
-osemstodvadsaťdeväťtisíc/n
-osemstodvadsaťdva/n
-osemstodvadsaťdvatisíc/n
-osemstodvadsaťjeden/n
-osemstodvadsaťjedentisíc/n
-osemstodvadsaťosem/n
-osemstodvadsaťosemtisíc/n
-osemstodvadsaťpäť/n
-osemstodvadsaťpäťtisíc/n
-osemstodvadsaťsedem/n
-osemstodvadsaťsedemtisíc/n
-osemstodvadsaťšesť/n
-osemstodvadsaťšesťtisíc/n
-osemstodvadsaťštyri/n
-osemstodvadsaťštyritisíc/n
-osemstodvadsaťtisíc/n
-osemstodvadsaťtri/n
-osemstodvadsaťtritisíc/n
-osemstodvanásť/n
-osemstodvanásťtisíc/n
-osemstodvatisíc/n
-osemstojeden/n
-osemstojedenásť/n
-osemstojedenásťtisíc/n
-osemstojedentisíc/n
+osemsto/n po:number
+osemstodesať/n po:number
+osemstodesaťtisíc/n po:number
+osemstodeväť/n po:number
+osemstodeväťdesiat/n po:number
+osemstodeväťdesiatdeväť/n po:number
+osemstodeväťdesiatdeväťtisíc/n po:number
+osemstodeväťdesiatdva/n po:number
+osemstodeväťdesiatdvatisíc/n po:number
+osemstodeväťdesiatjeden/n po:number
+osemstodeväťdesiatjedentisíc/n po:number
+osemstodeväťdesiatosem/n po:number
+osemstodeväťdesiatosemtisíc/n po:number
+osemstodeväťdesiatpäť/n po:number
+osemstodeväťdesiatpäťtisíc/n po:number
+osemstodeväťdesiatsedem/n po:number
+osemstodeväťdesiatsedemtisíc/n po:number
+osemstodeväťdesiatšesť/n po:number
+osemstodeväťdesiatšesťtisíc/n po:number
+osemstodeväťdesiatštyri/n po:number
+osemstodeväťdesiatštyritisíc/n po:number
+osemstodeväťdesiattisíc/n po:number
+osemstodeväťdesiattri/n po:number
+osemstodeväťdesiattritisíc/n po:number
+osemstodevätnásť/n po:number
+osemstodevätnásťtisíc/n po:number
+osemstodeväťtisíc/n po:number
+osemstodva/n po:number
+osemstodvadsať/n po:number
+osemstodvadsaťdeväť/n po:number
+osemstodvadsaťdeväťtisíc/n po:number
+osemstodvadsaťdva/n po:number
+osemstodvadsaťdvatisíc/n po:number
+osemstodvadsaťjeden/n po:number
+osemstodvadsaťjedentisíc/n po:number
+osemstodvadsaťosem/n po:number
+osemstodvadsaťosemtisíc/n po:number
+osemstodvadsaťpäť/n po:number
+osemstodvadsaťpäťtisíc/n po:number
+osemstodvadsaťsedem/n po:number
+osemstodvadsaťsedemtisíc/n po:number
+osemstodvadsaťšesť/n po:number
+osemstodvadsaťšesťtisíc/n po:number
+osemstodvadsaťštyri/n po:number
+osemstodvadsaťštyritisíc/n po:number
+osemstodvadsaťtisíc/n po:number
+osemstodvadsaťtri/n po:number
+osemstodvadsaťtritisíc/n po:number
+osemstodvanásť/n po:number
+osemstodvanásťtisíc/n po:number
+osemstodvatisíc/n po:number
+osemstojeden/n po:number
+osemstojedenásť/n po:number
+osemstojedenásťtisíc/n po:number
+osemstojedentisíc/n po:number
 osemstokorunový/YN po:adjective
-osemstoosem/n
-osemstoosemdesiat/n
-osemstoosemdesiatdeväť/n
-osemstoosemdesiatdeväťtisíc/n
-osemstoosemdesiatdva/n
-osemstoosemdesiatdvatisíc/n
-osemstoosemdesiatjeden/n
-osemstoosemdesiatjedentisíc/n
-osemstoosemdesiatosem/n
-osemstoosemdesiatosemtisíc/n
-osemstoosemdesiatpäť/n
-osemstoosemdesiatpäťtisíc/n
-osemstoosemdesiatsedem/n
-osemstoosemdesiatsedemtisíc/n
-osemstoosemdesiatšesť/n
-osemstoosemdesiatšesťtisíc/n
-osemstoosemdesiatštyri/n
-osemstoosemdesiatštyritisíc/n
-osemstoosemdesiattisíc/n
-osemstoosemdesiattri/n
-osemstoosemdesiattritisíc/n
-osemstoosemnásť/n
-osemstoosemnásťtisíc/n
-osemstoosemtisíc/n
-osemstopäť/n
-osemstopäťdesiat/n
-osemstopäťdesiatdeväť/n
-osemstopäťdesiatdeväťtisíc/n
-osemstopäťdesiatdva/n
-osemstopäťdesiatdvatisíc/n
-osemstopäťdesiatjeden/n
-osemstopäťdesiatjedentisíc/n
-osemstopäťdesiatosem/n
-osemstopäťdesiatosemtisíc/n
-osemstopäťdesiatpäť/n
-osemstopäťdesiatpäťtisíc/n
-osemstopäťdesiatsedem/n
-osemstopäťdesiatsedemtisíc/n
-osemstopäťdesiatšesť/n
-osemstopäťdesiatšesťtisíc/n
-osemstopäťdesiatštyri/n
-osemstopäťdesiatštyritisíc/n
-osemstopäťdesiattisíc/n
-osemstopäťdesiattri/n
-osemstopäťdesiattritisíc/n
-osemstopätnásť/n
-osemstopätnásťtisíc/n
-osemstopäťtisíc/n
+osemstoosem/n po:number
+osemstoosemdesiat/n po:number
+osemstoosemdesiatdeväť/n po:number
+osemstoosemdesiatdeväťtisíc/n po:number
+osemstoosemdesiatdva/n po:number
+osemstoosemdesiatdvatisíc/n po:number
+osemstoosemdesiatjeden/n po:number
+osemstoosemdesiatjedentisíc/n po:number
+osemstoosemdesiatosem/n po:number
+osemstoosemdesiatosemtisíc/n po:number
+osemstoosemdesiatpäť/n po:number
+osemstoosemdesiatpäťtisíc/n po:number
+osemstoosemdesiatsedem/n po:number
+osemstoosemdesiatsedemtisíc/n po:number
+osemstoosemdesiatšesť/n po:number
+osemstoosemdesiatšesťtisíc/n po:number
+osemstoosemdesiatštyri/n po:number
+osemstoosemdesiatštyritisíc/n po:number
+osemstoosemdesiattisíc/n po:number
+osemstoosemdesiattri/n po:number
+osemstoosemdesiattritisíc/n po:number
+osemstoosemnásť/n po:number
+osemstoosemnásťtisíc/n po:number
+osemstoosemtisíc/n po:number
+osemstopäť/n po:number
+osemstopäťdesiat/n po:number
+osemstopäťdesiatdeväť/n po:number
+osemstopäťdesiatdeväťtisíc/n po:number
+osemstopäťdesiatdva/n po:number
+osemstopäťdesiatdvatisíc/n po:number
+osemstopäťdesiatjeden/n po:number
+osemstopäťdesiatjedentisíc/n po:number
+osemstopäťdesiatosem/n po:number
+osemstopäťdesiatosemtisíc/n po:number
+osemstopäťdesiatpäť/n po:number
+osemstopäťdesiatpäťtisíc/n po:number
+osemstopäťdesiatsedem/n po:number
+osemstopäťdesiatsedemtisíc/n po:number
+osemstopäťdesiatšesť/n po:number
+osemstopäťdesiatšesťtisíc/n po:number
+osemstopäťdesiatštyri/n po:number
+osemstopäťdesiatštyritisíc/n po:number
+osemstopäťdesiattisíc/n po:number
+osemstopäťdesiattri/n po:number
+osemstopäťdesiattritisíc/n po:number
+osemstopätnásť/n po:number
+osemstopätnásťtisíc/n po:number
+osemstopäťtisíc/n po:number
 osemstopová
 osemstoročná
-osemstosedem/n
-osemstosedemdesiat/n
-osemstosedemdesiatdeväť/n
-osemstosedemdesiatdeväťtisíc/n
-osemstosedemdesiatdva/n
-osemstosedemdesiatdvatisíc/n
-osemstosedemdesiatjeden/n
-osemstosedemdesiatjedentisíc/n
-osemstosedemdesiatosem/n
-osemstosedemdesiatosemtisíc/n
-osemstosedemdesiatpäť/n
-osemstosedemdesiatpäťtisíc/n
-osemstosedemdesiatsedem/n
-osemstosedemdesiatsedemtisíc/n
-osemstosedemdesiatšesť/n
-osemstosedemdesiatšesťtisíc/n
-osemstosedemdesiatštyri/n
-osemstosedemdesiatštyritisíc/n
-osemstosedemdesiattisíc/n
-osemstosedemdesiattri/n
-osemstosedemdesiattritisíc/n
-osemstosedemnásť/n
-osemstosedemnásťtisíc/n
-osemstosedemtisíc/n
-osemstošesť/n
-osemstošesťdesiat/n
-osemstošesťdesiatdeväť/n
-osemstošesťdesiatdeväťtisíc/n
-osemstošesťdesiatdva/n
-osemstošesťdesiatdvatisíc/n
-osemstošesťdesiatjeden/n
-osemstošesťdesiatjedentisíc/n
-osemstošesťdesiatosem/n
-osemstošesťdesiatosemtisíc/n
-osemstošesťdesiatpäť/n
-osemstošesťdesiatpäťtisíc/n
-osemstošesťdesiatsedem/n
-osemstošesťdesiatsedemtisíc/n
-osemstošesťdesiatšesť/n
-osemstošesťdesiatšesťtisíc/n
-osemstošesťdesiatštyri/n
-osemstošesťdesiatštyritisíc/n
-osemstošesťdesiattisíc/n
-osemstošesťdesiattri/n
-osemstošesťdesiattritisíc/n
-osemstošestnásť/n
-osemstošestnásťtisíc/n
-osemstošesťtisíc/n
-osemstoštrnásť/n
-osemstoštrnásťtisíc/n
-osemstoštyri/n
-osemstoštyridsať/n
-osemstoštyridsaťdeväť/n
-osemstoštyridsaťdeväťtisíc/n
-osemstoštyridsaťdva/n
-osemstoštyridsaťdvatisíc/n
-osemstoštyridsaťjeden/n
-osemstoštyridsaťjedentisíc/n
-osemstoštyridsaťosem/n
-osemstoštyridsaťosemtisíc/n
-osemstoštyridsaťpäť/n
-osemstoštyridsaťpäťtisíc/n
-osemstoštyridsaťsedem/n
-osemstoštyridsaťsedemtisíc/n
-osemstoštyridsaťšesť/n
-osemstoštyridsaťšesťtisíc/n
-osemstoštyridsaťštyri/n
-osemstoštyridsaťštyritisíc/n
-osemstoštyridsaťtisíc/n
-osemstoštyridsaťtri/n
-osemstoštyridsaťtritisíc/n
-osemstoštyritisíc/n
-osemstotisíc/n
-osemstotri/n
-osemstotridsať/n
-osemstotridsaťdeväť/n
-osemstotridsaťdeväťtisíc/n
-osemstotridsaťdva/n
-osemstotridsaťdvatisíc/n
-osemstotridsaťjeden/n
-osemstotridsaťjedentisíc/n
-osemstotridsaťosem/n
-osemstotridsaťosemtisíc/n
-osemstotridsaťpäť/n
-osemstotridsaťpäťtisíc/n
-osemstotridsaťsedem/n
-osemstotridsaťsedemtisíc/n
-osemstotridsaťšesť/n
-osemstotridsaťšesťtisíc/n
-osemstotridsaťštyri/n
-osemstotridsaťštyritisíc/n
-osemstotridsaťtisíc/n
-osemstotridsaťtri/n
-osemstotridsaťtritisíc/n
-osemstotrinásť/n
-osemstotrinásťtisíc/n
-osemstotritisíc/n
+osemstosedem/n po:number
+osemstosedemdesiat/n po:number
+osemstosedemdesiatdeväť/n po:number
+osemstosedemdesiatdeväťtisíc/n po:number
+osemstosedemdesiatdva/n po:number
+osemstosedemdesiatdvatisíc/n po:number
+osemstosedemdesiatjeden/n po:number
+osemstosedemdesiatjedentisíc/n po:number
+osemstosedemdesiatosem/n po:number
+osemstosedemdesiatosemtisíc/n po:number
+osemstosedemdesiatpäť/n po:number
+osemstosedemdesiatpäťtisíc/n po:number
+osemstosedemdesiatsedem/n po:number
+osemstosedemdesiatsedemtisíc/n po:number
+osemstosedemdesiatšesť/n po:number
+osemstosedemdesiatšesťtisíc/n po:number
+osemstosedemdesiatštyri/n po:number
+osemstosedemdesiatštyritisíc/n po:number
+osemstosedemdesiattisíc/n po:number
+osemstosedemdesiattri/n po:number
+osemstosedemdesiattritisíc/n po:number
+osemstosedemnásť/n po:number
+osemstosedemnásťtisíc/n po:number
+osemstosedemtisíc/n po:number
+osemstošesť/n po:number
+osemstošesťdesiat/n po:number
+osemstošesťdesiatdeväť/n po:number
+osemstošesťdesiatdeväťtisíc/n po:number
+osemstošesťdesiatdva/n po:number
+osemstošesťdesiatdvatisíc/n po:number
+osemstošesťdesiatjeden/n po:number
+osemstošesťdesiatjedentisíc/n po:number
+osemstošesťdesiatosem/n po:number
+osemstošesťdesiatosemtisíc/n po:number
+osemstošesťdesiatpäť/n po:number
+osemstošesťdesiatpäťtisíc/n po:number
+osemstošesťdesiatsedem/n po:number
+osemstošesťdesiatsedemtisíc/n po:number
+osemstošesťdesiatšesť/n po:number
+osemstošesťdesiatšesťtisíc/n po:number
+osemstošesťdesiatštyri/n po:number
+osemstošesťdesiatštyritisíc/n po:number
+osemstošesťdesiattisíc/n po:number
+osemstošesťdesiattri/n po:number
+osemstošesťdesiattritisíc/n po:number
+osemstošestnásť/n po:number
+osemstošestnásťtisíc/n po:number
+osemstošesťtisíc/n po:number
+osemstoštrnásť/n po:number
+osemstoštrnásťtisíc/n po:number
+osemstoštyri/n po:number
+osemstoštyridsať/n po:number
+osemstoštyridsaťdeväť/n po:number
+osemstoštyridsaťdeväťtisíc/n po:number
+osemstoštyridsaťdva/n po:number
+osemstoštyridsaťdvatisíc/n po:number
+osemstoštyridsaťjeden/n po:number
+osemstoštyridsaťjedentisíc/n po:number
+osemstoštyridsaťosem/n po:number
+osemstoštyridsaťosemtisíc/n po:number
+osemstoštyridsaťpäť/n po:number
+osemstoštyridsaťpäťtisíc/n po:number
+osemstoštyridsaťsedem/n po:number
+osemstoštyridsaťsedemtisíc/n po:number
+osemstoštyridsaťšesť/n po:number
+osemstoštyridsaťšesťtisíc/n po:number
+osemstoštyridsaťštyri/n po:number
+osemstoštyridsaťštyritisíc/n po:number
+osemstoštyridsaťtisíc/n po:number
+osemstoštyridsaťtri/n po:number
+osemstoštyridsaťtritisíc/n po:number
+osemstoštyritisíc/n po:number
+osemstotisíc/n po:number
+osemstotri/n po:number
+osemstotridsať/n po:number
+osemstotridsaťdeväť/n po:number
+osemstotridsaťdeväťtisíc/n po:number
+osemstotridsaťdva/n po:number
+osemstotridsaťdvatisíc/n po:number
+osemstotridsaťjeden/n po:number
+osemstotridsaťjedentisíc/n po:number
+osemstotridsaťosem/n po:number
+osemstotridsaťosemtisíc/n po:number
+osemstotridsaťpäť/n po:number
+osemstotridsaťpäťtisíc/n po:number
+osemstotridsaťsedem/n po:number
+osemstotridsaťsedemtisíc/n po:number
+osemstotridsaťšesť/n po:number
+osemstotridsaťšesťtisíc/n po:number
+osemstotridsaťštyri/n po:number
+osemstotridsaťštyritisíc/n po:number
+osemstotridsaťtisíc/n po:number
+osemstotridsaťtri/n po:number
+osemstotridsaťtritisíc/n po:number
+osemstotrinásť/n po:number
+osemstotrinásťtisíc/n po:number
+osemstotritisíc/n po:number
 osemstovka/zZ po:noun is:feminine
 osemstránkový/YN po:adjective
 osemstrunový/Y po:adjective
 osemstup/B po:noun is:masculine
 osemstupňový/YN po:adjective
-osemtisíc/n
+osemtisíc/n po:number
 osemtisíckrát
 osemtisícoviek
 osemtisícovkách
@@ -79722,8 +79722,8 @@ ostňoch
 ostňom
 ostňov
 ostňu
-ostopäť/n
-ostošesť/n
+ostopäť/n po:number
+ostošesť/n po:number
 ostra
 ostrakizmus/B po:noun is:masculine
 ostrakizovať/WN po:verb
@@ -83121,7 +83121,7 @@ pästiarstvam
 pästiarstvo/M po:noun is:neuter
 pästička/zZ po:noun is:feminine
 pästný/YN po:adjective
-päť/n
+päť/n po:number
 päta/zZ po:noun is:feminine
 päťadvadsať
 päťadvadsiati
@@ -83146,19 +83146,19 @@ päťčíselným
 päťčíslie/V po:noun is:neuter
 päťčlenný/YN po:adjective
 päťdenný/YN po:adjective
-päťdesiat/n
-päťdesiatdeväť/n
-päťdesiatdeväťtisíc/n
-päťdesiatdva/n
-päťdesiatdvatisíc/n
+päťdesiat/n po:number
+päťdesiatdeväť/n po:number
+päťdesiatdeväťtisíc/n po:number
+päťdesiatdva/n po:number
+päťdesiatdvatisíc/n po:number
 päťdesiatdvatisícsedemsto
 päťdesiathaliernik/B po:noun is:masculine
 päťdesiathalierový/YN po:adjective
 päťdesiati/Q
 päťdesiatinu
 päťdesiatiny/Q
-päťdesiatjeden/n
-päťdesiatjedentisíc/n
+päťdesiatjeden/n po:number
+päťdesiatjedentisíc/n po:number
 päťdesiatka/zZ po:noun is:feminine
 päťdesiatkoruna/zZ po:noun is:feminine
 päťdesiatkorunáčka/zZ po:noun is:feminine
@@ -83171,29 +83171,29 @@ päťdesiatnásobok
 päťdesiatnička/zZ po:noun is:feminine
 päťdesiatnik/C po:noun is:masculine
 päťdesiatnikov/Y po:adjective
-päťdesiatosem/n
-päťdesiatosemtisíc/n
-päťdesiatpäť/n
-päťdesiatpäťtisíc/n
+päťdesiatosem/n po:number
+päťdesiatosemtisíc/n po:number
+päťdesiatpäť/n po:number
+päťdesiatpäťtisíc/n po:number
 päťdesiatpercentná
 päťdesiatpercentnému
 päťdesiatpercentnú
 Päťdesiatpercentný/YN po:adjective
 päťdesiatročný/YN po:adjective
-päťdesiatsedem/n
-päťdesiatsedemtisíc/n
-päťdesiatšesť/n
-päťdesiatšesťtisíc/n
-päťdesiatštyri/n
-päťdesiatštyritisíc/n
-päťdesiattisíc/n
+päťdesiatsedem/n po:number
+päťdesiatsedemtisíc/n po:number
+päťdesiatšesť/n po:number
+päťdesiatšesťtisíc/n po:number
+päťdesiatštyri/n po:number
+päťdesiatštyritisíc/n po:number
+päťdesiattisíc/n po:number
 päťdesiattisíca
 päťdesiattisíceho
 päťdesiattisíci
 päťdesiattisícim
 päťdesiattisícový/YN po:adjective
-päťdesiattri/n
-päťdesiattritisíc/n
+päťdesiattri/n po:number
+päťdesiattritisíc/n po:number
 päťdesiaty/YN po:adjective
 päťdielna
 päťdielneho
@@ -83242,7 +83242,7 @@ päťminútový/YN po:adjective
 päťmocný/YN po:adjective
 päťnásobný/YN po:adjective
 päťnásobok/O po:noun is:masculine
-pätnásť/n
+pätnásť/n po:number
 päťnásťdňová
 päťnásťdňovú
 pätnásťdňový/Y po:adjective
@@ -83254,7 +83254,7 @@ pätnástka/zZ po:noun is:feminine
 pätnásťkrát
 päťnásťročný/Y po:adjective
 pätnásťročný/YN po:adjective
-pätnásťtisíc/n
+pätnásťtisíc/n po:number
 pätnásty/YN po:adjective
 pätník/B po:noun is:masculine
 pätný/Y po:adjective
@@ -83281,224 +83281,224 @@ päťročnica/U po:noun is:feminine
 päťročnicový/YN po:adjective
 päťročný/YN po:adjective
 päťstenný/Y po:adjective
-päťsto/n
-päťstodesať/n
-päťstodesaťtisíc/n
-päťstodeväť/n
-päťstodeväťdesiat/n
-päťstodeväťdesiatdeväť/n
-päťstodeväťdesiatdeväťtisíc/n
-päťstodeväťdesiatdva/n
-päťstodeväťdesiatdvatisíc/n
-päťstodeväťdesiatjeden/n
-päťstodeväťdesiatjedentisíc/n
-päťstodeväťdesiatosem/n
-päťstodeväťdesiatosemtisíc/n
-päťstodeväťdesiatpäť/n
-päťstodeväťdesiatpäťtisíc/n
-päťstodeväťdesiatsedem/n
-päťstodeväťdesiatsedemtisíc/n
-päťstodeväťdesiatšesť/n
-päťstodeväťdesiatšesťtisíc/n
-päťstodeväťdesiatštyri/n
-päťstodeväťdesiatštyritisíc/n
-päťstodeväťdesiattisíc/n
-päťstodeväťdesiattri/n
-päťstodeväťdesiattritisíc/n
-päťstodevätnásť/n
-päťstodevätnásťtisíc/n
-päťstodeväťtisíc/n
-päťstodva/n
-päťstodvadsať/n
-päťstodvadsaťdeväť/n
-päťstodvadsaťdeväťtisíc/n
-päťstodvadsaťdva/n
-päťstodvadsaťdvatisíc/n
-päťstodvadsaťjeden/n
-päťstodvadsaťjedentisíc/n
-päťstodvadsaťosem/n
-päťstodvadsaťosemtisíc/n
-päťstodvadsaťpäť/n
-päťstodvadsaťpäťtisíc/n
-päťstodvadsaťsedem/n
-päťstodvadsaťsedemtisíc/n
-päťstodvadsaťšesť/n
-päťstodvadsaťšesťtisíc/n
-päťstodvadsaťštyri/n
-päťstodvadsaťštyritisíc/n
-päťstodvadsaťtisíc/n
-päťstodvadsaťtri/n
-päťstodvadsaťtritisíc/n
-päťstodvanásť/n
-päťstodvanásťtisíc/n
-päťstodvatisíc/n
-päťstojeden/n
-päťstojedenásť/n
-päťstojedenásťtisíc/n
-päťstojedentisíc/n
+päťsto/n po:number
+päťstodesať/n po:number
+päťstodesaťtisíc/n po:number
+päťstodeväť/n po:number
+päťstodeväťdesiat/n po:number
+päťstodeväťdesiatdeväť/n po:number
+päťstodeväťdesiatdeväťtisíc/n po:number
+päťstodeväťdesiatdva/n po:number
+päťstodeväťdesiatdvatisíc/n po:number
+päťstodeväťdesiatjeden/n po:number
+päťstodeväťdesiatjedentisíc/n po:number
+päťstodeväťdesiatosem/n po:number
+päťstodeväťdesiatosemtisíc/n po:number
+päťstodeväťdesiatpäť/n po:number
+päťstodeväťdesiatpäťtisíc/n po:number
+päťstodeväťdesiatsedem/n po:number
+päťstodeväťdesiatsedemtisíc/n po:number
+päťstodeväťdesiatšesť/n po:number
+päťstodeväťdesiatšesťtisíc/n po:number
+päťstodeväťdesiatštyri/n po:number
+päťstodeväťdesiatštyritisíc/n po:number
+päťstodeväťdesiattisíc/n po:number
+päťstodeväťdesiattri/n po:number
+päťstodeväťdesiattritisíc/n po:number
+päťstodevätnásť/n po:number
+päťstodevätnásťtisíc/n po:number
+päťstodeväťtisíc/n po:number
+päťstodva/n po:number
+päťstodvadsať/n po:number
+päťstodvadsaťdeväť/n po:number
+päťstodvadsaťdeväťtisíc/n po:number
+päťstodvadsaťdva/n po:number
+päťstodvadsaťdvatisíc/n po:number
+päťstodvadsaťjeden/n po:number
+päťstodvadsaťjedentisíc/n po:number
+päťstodvadsaťosem/n po:number
+päťstodvadsaťosemtisíc/n po:number
+päťstodvadsaťpäť/n po:number
+päťstodvadsaťpäťtisíc/n po:number
+päťstodvadsaťsedem/n po:number
+päťstodvadsaťsedemtisíc/n po:number
+päťstodvadsaťšesť/n po:number
+päťstodvadsaťšesťtisíc/n po:number
+päťstodvadsaťštyri/n po:number
+päťstodvadsaťštyritisíc/n po:number
+päťstodvadsaťtisíc/n po:number
+päťstodvadsaťtri/n po:number
+päťstodvadsaťtritisíc/n po:number
+päťstodvanásť/n po:number
+päťstodvanásťtisíc/n po:number
+päťstodvatisíc/n po:number
+päťstojeden/n po:number
+päťstojedenásť/n po:number
+päťstojedenásťtisíc/n po:number
+päťstojedentisíc/n po:number
 päťstokorunáčka/zZ po:noun is:feminine
 päťstokorunový/YN po:adjective
 päťstokrát
-päťstoosem/n
-päťstoosemdesiat/n
-päťstoosemdesiatdeväť/n
-päťstoosemdesiatdeväťtisíc/n
-päťstoosemdesiatdva/n
-päťstoosemdesiatdvatisíc/n
-päťstoosemdesiatjeden/n
-päťstoosemdesiatjedentisíc/n
-päťstoosemdesiatosem/n
-päťstoosemdesiatosemtisíc/n
-päťstoosemdesiatpäť/n
-päťstoosemdesiatpäťtisíc/n
-päťstoosemdesiatsedem/n
-päťstoosemdesiatsedemtisíc/n
-päťstoosemdesiatšesť/n
-päťstoosemdesiatšesťtisíc/n
-päťstoosemdesiatštyri/n
-päťstoosemdesiatštyritisíc/n
-päťstoosemdesiattisíc/n
-päťstoosemdesiattri/n
-päťstoosemdesiattritisíc/n
-päťstoosemnásť/n
-päťstoosemnásťtisíc/n
-päťstoosemtisíc/n
-päťstopäť/n
-päťstopäťdesiat/n
-päťstopäťdesiatdeväť/n
-päťstopäťdesiatdeväťtisíc/n
-päťstopäťdesiatdva/n
-päťstopäťdesiatdvatisíc/n
+päťstoosem/n po:number
+päťstoosemdesiat/n po:number
+päťstoosemdesiatdeväť/n po:number
+päťstoosemdesiatdeväťtisíc/n po:number
+päťstoosemdesiatdva/n po:number
+päťstoosemdesiatdvatisíc/n po:number
+päťstoosemdesiatjeden/n po:number
+päťstoosemdesiatjedentisíc/n po:number
+päťstoosemdesiatosem/n po:number
+päťstoosemdesiatosemtisíc/n po:number
+päťstoosemdesiatpäť/n po:number
+päťstoosemdesiatpäťtisíc/n po:number
+päťstoosemdesiatsedem/n po:number
+päťstoosemdesiatsedemtisíc/n po:number
+päťstoosemdesiatšesť/n po:number
+päťstoosemdesiatšesťtisíc/n po:number
+päťstoosemdesiatštyri/n po:number
+päťstoosemdesiatštyritisíc/n po:number
+päťstoosemdesiattisíc/n po:number
+päťstoosemdesiattri/n po:number
+päťstoosemdesiattritisíc/n po:number
+päťstoosemnásť/n po:number
+päťstoosemnásťtisíc/n po:number
+päťstoosemtisíc/n po:number
+päťstopäť/n po:number
+päťstopäťdesiat/n po:number
+päťstopäťdesiatdeväť/n po:number
+päťstopäťdesiatdeväťtisíc/n po:number
+päťstopäťdesiatdva/n po:number
+päťstopäťdesiatdvatisíc/n po:number
 päťstopäťdesiati
-päťstopäťdesiatjeden/n
-päťstopäťdesiatjedentisíc/n
-päťstopäťdesiatosem/n
-päťstopäťdesiatosemtisíc/n
-päťstopäťdesiatpäť/n
-päťstopäťdesiatpäťtisíc/n
-päťstopäťdesiatsedem/n
-päťstopäťdesiatsedemtisíc/n
-päťstopäťdesiatšesť/n
-päťstopäťdesiatšesťtisíc/n
-päťstopäťdesiatštyri/n
-päťstopäťdesiatštyritisíc/n
-päťstopäťdesiattisíc/n
-päťstopäťdesiattri/n
-päťstopäťdesiattritisíc/n
-päťstopätnásť/n
-päťstopätnásťtisíc/n
-päťstopäťtisíc/n
+päťstopäťdesiatjeden/n po:number
+päťstopäťdesiatjedentisíc/n po:number
+päťstopäťdesiatosem/n po:number
+päťstopäťdesiatosemtisíc/n po:number
+päťstopäťdesiatpäť/n po:number
+päťstopäťdesiatpäťtisíc/n po:number
+päťstopäťdesiatsedem/n po:number
+päťstopäťdesiatsedemtisíc/n po:number
+päťstopäťdesiatšesť/n po:number
+päťstopäťdesiatšesťtisíc/n po:number
+päťstopäťdesiatštyri/n po:number
+päťstopäťdesiatštyritisíc/n po:number
+päťstopäťdesiattisíc/n po:number
+päťstopäťdesiattri/n po:number
+päťstopäťdesiattritisíc/n po:number
+päťstopätnásť/n po:number
+päťstopätnásťtisíc/n po:number
+päťstopäťtisíc/n po:number
 päťstopový/YN po:adjective
 päťstopý/YN po:adjective
 päťstoročná
 päťstoročnú
-päťstosedem/n
-päťstosedemdesiat/n
-päťstosedemdesiatdeväť/n
-päťstosedemdesiatdeväťtisíc/n
-päťstosedemdesiatdva/n
-päťstosedemdesiatdvatisíc/n
-päťstosedemdesiatjeden/n
-päťstosedemdesiatjedentisíc/n
-päťstosedemdesiatosem/n
-päťstosedemdesiatosemtisíc/n
-päťstosedemdesiatpäť/n
-päťstosedemdesiatpäťtisíc/n
-päťstosedemdesiatsedem/n
-päťstosedemdesiatsedemtisíc/n
-päťstosedemdesiatšesť/n
-päťstosedemdesiatšesťtisíc/n
-päťstosedemdesiatštyri/n
-päťstosedemdesiatštyritisíc/n
-päťstosedemdesiattisíc/n
-päťstosedemdesiattri/n
-päťstosedemdesiattritisíc/n
-päťstosedemnásť/n
-päťstosedemnásťtisíc/n
-päťstosedemtisíc/n
-päťstošesť/n
-päťstošesťdesiat/n
-päťstošesťdesiatdeväť/n
-päťstošesťdesiatdeväťtisíc/n
-päťstošesťdesiatdva/n
-päťstošesťdesiatdvatisíc/n
-päťstošesťdesiatjeden/n
-päťstošesťdesiatjedentisíc/n
-päťstošesťdesiatosem/n
-päťstošesťdesiatosemtisíc/n
-päťstošesťdesiatpäť/n
-päťstošesťdesiatpäťtisíc/n
-päťstošesťdesiatsedem/n
-päťstošesťdesiatsedemtisíc/n
-päťstošesťdesiatšesť/n
-päťstošesťdesiatšesťtisíc/n
-päťstošesťdesiatštyri/n
-päťstošesťdesiatštyritisíc/n
-päťstošesťdesiattisíc/n
-päťstošesťdesiattri/n
-päťstošesťdesiattritisíc/n
-päťstošestnásť/n
-päťstošestnásťtisíc/n
-päťstošesťtisíc/n
-päťstoštrnásť/n
-päťstoštrnásťtisíc/n
-päťstoštyri/n
-päťstoštyridsať/n
-päťstoštyridsaťdeväť/n
-päťstoštyridsaťdeväťtisíc/n
-päťstoštyridsaťdva/n
-päťstoštyridsaťdvatisíc/n
-päťstoštyridsaťjeden/n
-päťstoštyridsaťjedentisíc/n
-päťstoštyridsaťosem/n
-päťstoštyridsaťosemtisíc/n
-päťstoštyridsaťpäť/n
-päťstoštyridsaťpäťtisíc/n
-päťstoštyridsaťsedem/n
-päťstoštyridsaťsedemtisíc/n
-päťstoštyridsaťšesť/n
-päťstoštyridsaťšesťtisíc/n
-päťstoštyridsaťštyri/n
-päťstoštyridsaťštyritisíc/n
-päťstoštyridsaťtisíc/n
-päťstoštyridsaťtri/n
-päťstoštyridsaťtritisíc/n
-päťstoštyritisíc/n
-päťstotisíc/n
+päťstosedem/n po:number
+päťstosedemdesiat/n po:number
+päťstosedemdesiatdeväť/n po:number
+päťstosedemdesiatdeväťtisíc/n po:number
+päťstosedemdesiatdva/n po:number
+päťstosedemdesiatdvatisíc/n po:number
+päťstosedemdesiatjeden/n po:number
+päťstosedemdesiatjedentisíc/n po:number
+päťstosedemdesiatosem/n po:number
+päťstosedemdesiatosemtisíc/n po:number
+päťstosedemdesiatpäť/n po:number
+päťstosedemdesiatpäťtisíc/n po:number
+päťstosedemdesiatsedem/n po:number
+päťstosedemdesiatsedemtisíc/n po:number
+päťstosedemdesiatšesť/n po:number
+päťstosedemdesiatšesťtisíc/n po:number
+päťstosedemdesiatštyri/n po:number
+päťstosedemdesiatštyritisíc/n po:number
+päťstosedemdesiattisíc/n po:number
+päťstosedemdesiattri/n po:number
+päťstosedemdesiattritisíc/n po:number
+päťstosedemnásť/n po:number
+päťstosedemnásťtisíc/n po:number
+päťstosedemtisíc/n po:number
+päťstošesť/n po:number
+päťstošesťdesiat/n po:number
+päťstošesťdesiatdeväť/n po:number
+päťstošesťdesiatdeväťtisíc/n po:number
+päťstošesťdesiatdva/n po:number
+päťstošesťdesiatdvatisíc/n po:number
+päťstošesťdesiatjeden/n po:number
+päťstošesťdesiatjedentisíc/n po:number
+päťstošesťdesiatosem/n po:number
+päťstošesťdesiatosemtisíc/n po:number
+päťstošesťdesiatpäť/n po:number
+päťstošesťdesiatpäťtisíc/n po:number
+päťstošesťdesiatsedem/n po:number
+päťstošesťdesiatsedemtisíc/n po:number
+päťstošesťdesiatšesť/n po:number
+päťstošesťdesiatšesťtisíc/n po:number
+päťstošesťdesiatštyri/n po:number
+päťstošesťdesiatštyritisíc/n po:number
+päťstošesťdesiattisíc/n po:number
+päťstošesťdesiattri/n po:number
+päťstošesťdesiattritisíc/n po:number
+päťstošestnásť/n po:number
+päťstošestnásťtisíc/n po:number
+päťstošesťtisíc/n po:number
+päťstoštrnásť/n po:number
+päťstoštrnásťtisíc/n po:number
+päťstoštyri/n po:number
+päťstoštyridsať/n po:number
+päťstoštyridsaťdeväť/n po:number
+päťstoštyridsaťdeväťtisíc/n po:number
+päťstoštyridsaťdva/n po:number
+päťstoštyridsaťdvatisíc/n po:number
+päťstoštyridsaťjeden/n po:number
+päťstoštyridsaťjedentisíc/n po:number
+päťstoštyridsaťosem/n po:number
+päťstoštyridsaťosemtisíc/n po:number
+päťstoštyridsaťpäť/n po:number
+päťstoštyridsaťpäťtisíc/n po:number
+päťstoštyridsaťsedem/n po:number
+päťstoštyridsaťsedemtisíc/n po:number
+päťstoštyridsaťšesť/n po:number
+päťstoštyridsaťšesťtisíc/n po:number
+päťstoštyridsaťštyri/n po:number
+päťstoštyridsaťštyritisíc/n po:number
+päťstoštyridsaťtisíc/n po:number
+päťstoštyridsaťtri/n po:number
+päťstoštyridsaťtritisíc/n po:number
+päťstoštyritisíc/n po:number
+päťstotisíc/n po:number
 Päťstotisícová/Y po:adjective
 päťstotisícového
 päťstotisícovej
 päťstotisícovú
-päťstotri/n
-päťstotridsať/n
-päťstotridsaťdeväť/n
-päťstotridsaťdeväťtisíc/n
-päťstotridsaťdva/n
-päťstotridsaťdvatisíc/n
-päťstotridsaťjeden/n
-päťstotridsaťjedentisíc/n
-päťstotridsaťosem/n
-päťstotridsaťosemtisíc/n
-päťstotridsaťpäť/n
-päťstotridsaťpäťtisíc/n
-päťstotridsaťsedem/n
-päťstotridsaťsedemtisíc/n
-päťstotridsaťšesť/n
-päťstotridsaťšesťtisíc/n
-päťstotridsaťštyri/n
-päťstotridsaťštyritisíc/n
-päťstotridsaťtisíc/n
-päťstotridsaťtri/n
-päťstotridsaťtritisíc/n
-päťstotrinásť/n
-päťstotrinásťtisíc/n
-päťstotritisíc/n
+päťstotri/n po:number
+päťstotridsať/n po:number
+päťstotridsaťdeväť/n po:number
+päťstotridsaťdeväťtisíc/n po:number
+päťstotridsaťdva/n po:number
+päťstotridsaťdvatisíc/n po:number
+päťstotridsaťjeden/n po:number
+päťstotridsaťjedentisíc/n po:number
+päťstotridsaťosem/n po:number
+päťstotridsaťosemtisíc/n po:number
+päťstotridsaťpäť/n po:number
+päťstotridsaťpäťtisíc/n po:number
+päťstotridsaťsedem/n po:number
+päťstotridsaťsedemtisíc/n po:number
+päťstotridsaťšesť/n po:number
+päťstotridsaťšesťtisíc/n po:number
+päťstotridsaťštyri/n po:number
+päťstotridsaťštyritisíc/n po:number
+päťstotridsaťtisíc/n po:number
+päťstotridsaťtri/n po:number
+päťstotridsaťtritisíc/n po:number
+päťstotrinásť/n po:number
+päťstotrinásťtisíc/n po:number
+päťstotritisíc/n po:number
 päťstovka/zZ po:noun is:feminine
 päťstránkový/YN po:adjective
 päťstrannej
 päťstupňový/YN po:adjective
 päťstý/YN po:adjective
-päťtisíc/n
+päťtisíc/n po:number
 Päťtisíci
 päťtisícina
 päťtisíckorunáčka/zZ po:noun is:feminine
@@ -84661,9 +84661,9 @@ piatacký/YN po:adjective
 piatačka/zZ po:noun is:feminine
 piatak/C po:noun is:masculine
 piatakov/Y po:adjective
-piati/n
+piati/n po:number
 piati/Q
-piatich/n
+piatich/n po:number
 piatkový/Y po:adjective
 piatočný/YN po:adjective
 piatok/O po:noun is:masculine
@@ -111798,7 +111798,7 @@ sedávania
 sedávať/XN po:verb
 sedavý/YN po:adjective
 sededmstotisíc
-sedem/n
+sedem/n po:number
 sedembodový/YN po:adjective
 sedemcentového
 sedemciferné
@@ -111809,39 +111809,39 @@ Sedemcipá
 sedemčlenný/YN po:adjective
 sedemdecový/YN po:adjective
 sedemdenný/YN po:adjective
-sedemdesiat/n
-sedemdesiatdeväť/n
-sedemdesiatdeväťtisíc/n
-sedemdesiatdva/n
-sedemdesiatdvatisíc/n
+sedemdesiat/n po:number
+sedemdesiatdeväť/n po:number
+sedemdesiatdeväťtisíc/n po:number
+sedemdesiatdva/n po:number
+sedemdesiatdvatisíc/n po:number
 sedemdesiati/Q
 sedemdesiatina/zZ po:noun is:feminine
 sedemdesiatiny/Q
-sedemdesiatjeden/n
-sedemdesiatjedentisíc/n
+sedemdesiatjeden/n po:number
+sedemdesiatjedentisíc/n po:number
 sedemdesiatka/zZ po:noun is:feminine
 sedemdesiatkrát
 sedemdesiatnásobný/YN po:adjective
 sedemdesiatnička/zZ po:noun is:feminine
 sedemdesiatnik/C po:noun is:masculine
 sedemdesiatnikov/Y po:adjective
-sedemdesiatosem/n
-sedemdesiatosemtisíc/n
-sedemdesiatpäť/n
-sedemdesiatpäťtisíc/n
+sedemdesiatosem/n po:number
+sedemdesiatosemtisíc/n po:number
+sedemdesiatpäť/n po:number
+sedemdesiatpäťtisíc/n po:number
 sedemdesiatročný/YN po:adjective
-sedemdesiatsedem/n
-sedemdesiatsedemtisíc/n
-sedemdesiatšesť/n
-sedemdesiatšesťtisíc/n
+sedemdesiatsedem/n po:number
+sedemdesiatsedemtisíc/n po:number
+sedemdesiatšesť/n po:number
+sedemdesiatšesťtisíc/n po:number
 sedemdesiatšesťtisícpäťsto
-sedemdesiatštyri/n
-sedemdesiatštyritisíc/n
+sedemdesiatštyri/n po:number
+sedemdesiatštyritisíc/n po:number
 sedemdesiatštyritisícšesťsto
-sedemdesiattisíc/n
+sedemdesiattisíc/n po:number
 sedemdesiattisícový/YN po:adjective
-sedemdesiattri/n
-sedemdesiattritisíc/n
+sedemdesiattri/n po:number
+sedemdesiattritisíc/n po:number
 sedemdesiaty/YN po:adjective
 sedemdielny/YN po:adjective
 sedemdňový/YN po:adjective
@@ -111870,13 +111870,13 @@ sedemnásobku
 sedemnásobne/YN po:adjective
 sedemnásobný/YN po:adjective
 sedemnásobok
-sedemnásť/n
+sedemnásť/n po:number
 sedemnásti/Y po:adjective
 sedemnástina/zZ po:noun is:feminine
 sedemnástka/zZ po:noun is:feminine
 sedemnásťkrát
 sedemnásťročný/YN po:adjective
-sedemnásťtisíc/n
+sedemnásťtisíc/n po:number
 sedemnásťtisícdvesto
 sedemnásty/YN po:adjective
 sedemosminový/YN po:adjective
@@ -111889,216 +111889,216 @@ sedemročný/YN po:adjective
 sedemsten/B po:noun is:masculine
 sedemstenný/YN po:adjective
 sedemstenový/YN po:adjective
-sedemsto/n
-sedemstodesať/n
-sedemstodesaťtisíc/n
-sedemstodeväť/n
-sedemstodeväťdesiat/n
-sedemstodeväťdesiatdeväť/n
-sedemstodeväťdesiatdeväťtisíc/n
-sedemstodeväťdesiatdva/n
-sedemstodeväťdesiatdvatisíc/n
-sedemstodeväťdesiatjeden/n
-sedemstodeväťdesiatjedentisíc/n
-sedemstodeväťdesiatosem/n
-sedemstodeväťdesiatosemtisíc/n
-sedemstodeväťdesiatpäť/n
-sedemstodeväťdesiatpäťtisíc/n
-sedemstodeväťdesiatsedem/n
-sedemstodeväťdesiatsedemtisíc/n
-sedemstodeväťdesiatšesť/n
-sedemstodeväťdesiatšesťtisíc/n
-sedemstodeväťdesiatštyri/n
-sedemstodeväťdesiatštyritisíc/n
-sedemstodeväťdesiattisíc/n
-sedemstodeväťdesiattri/n
-sedemstodeväťdesiattritisíc/n
-sedemstodevätnásť/n
-sedemstodevätnásťtisíc/n
-sedemstodeväťtisíc/n
-sedemstodva/n
-sedemstodvadsať/n
-sedemstodvadsaťdeväť/n
-sedemstodvadsaťdeväťtisíc/n
-sedemstodvadsaťdva/n
-sedemstodvadsaťdvatisíc/n
-sedemstodvadsaťjeden/n
-sedemstodvadsaťjedentisíc/n
-sedemstodvadsaťosem/n
-sedemstodvadsaťosemtisíc/n
-sedemstodvadsaťpäť/n
-sedemstodvadsaťpäťtisíc/n
-sedemstodvadsaťsedem/n
-sedemstodvadsaťsedemtisíc/n
-sedemstodvadsaťšesť/n
-sedemstodvadsaťšesťtisíc/n
-sedemstodvadsaťštyri/n
-sedemstodvadsaťštyritisíc/n
-sedemstodvadsaťtisíc/n
-sedemstodvadsaťtri/n
-sedemstodvadsaťtritisíc/n
-sedemstodvanásť/n
-sedemstodvanásťtisíc/n
-sedemstodvatisíc/n
-sedemstojeden/n
-sedemstojedenásť/n
-sedemstojedenásťtisíc/n
-sedemstojedentisíc/n
+sedemsto/n po:number
+sedemstodesať/n po:number
+sedemstodesaťtisíc/n po:number
+sedemstodeväť/n po:number
+sedemstodeväťdesiat/n po:number
+sedemstodeväťdesiatdeväť/n po:number
+sedemstodeväťdesiatdeväťtisíc/n po:number
+sedemstodeväťdesiatdva/n po:number
+sedemstodeväťdesiatdvatisíc/n po:number
+sedemstodeväťdesiatjeden/n po:number
+sedemstodeväťdesiatjedentisíc/n po:number
+sedemstodeväťdesiatosem/n po:number
+sedemstodeväťdesiatosemtisíc/n po:number
+sedemstodeväťdesiatpäť/n po:number
+sedemstodeväťdesiatpäťtisíc/n po:number
+sedemstodeväťdesiatsedem/n po:number
+sedemstodeväťdesiatsedemtisíc/n po:number
+sedemstodeväťdesiatšesť/n po:number
+sedemstodeväťdesiatšesťtisíc/n po:number
+sedemstodeväťdesiatštyri/n po:number
+sedemstodeväťdesiatštyritisíc/n po:number
+sedemstodeväťdesiattisíc/n po:number
+sedemstodeväťdesiattri/n po:number
+sedemstodeväťdesiattritisíc/n po:number
+sedemstodevätnásť/n po:number
+sedemstodevätnásťtisíc/n po:number
+sedemstodeväťtisíc/n po:number
+sedemstodva/n po:number
+sedemstodvadsať/n po:number
+sedemstodvadsaťdeväť/n po:number
+sedemstodvadsaťdeväťtisíc/n po:number
+sedemstodvadsaťdva/n po:number
+sedemstodvadsaťdvatisíc/n po:number
+sedemstodvadsaťjeden/n po:number
+sedemstodvadsaťjedentisíc/n po:number
+sedemstodvadsaťosem/n po:number
+sedemstodvadsaťosemtisíc/n po:number
+sedemstodvadsaťpäť/n po:number
+sedemstodvadsaťpäťtisíc/n po:number
+sedemstodvadsaťsedem/n po:number
+sedemstodvadsaťsedemtisíc/n po:number
+sedemstodvadsaťšesť/n po:number
+sedemstodvadsaťšesťtisíc/n po:number
+sedemstodvadsaťštyri/n po:number
+sedemstodvadsaťštyritisíc/n po:number
+sedemstodvadsaťtisíc/n po:number
+sedemstodvadsaťtri/n po:number
+sedemstodvadsaťtritisíc/n po:number
+sedemstodvanásť/n po:number
+sedemstodvanásťtisíc/n po:number
+sedemstodvatisíc/n po:number
+sedemstojeden/n po:number
+sedemstojedenásť/n po:number
+sedemstojedenásťtisíc/n po:number
+sedemstojedentisíc/n po:number
 sedemstokorunový/YN po:adjective
-sedemstoosem/n
-sedemstoosemdesiat/n
-sedemstoosemdesiatdeväť/n
-sedemstoosemdesiatdeväťtisíc/n
-sedemstoosemdesiatdva/n
-sedemstoosemdesiatdvatisíc/n
-sedemstoosemdesiatjeden/n
-sedemstoosemdesiatjedentisíc/n
-sedemstoosemdesiatosem/n
-sedemstoosemdesiatosemtisíc/n
-sedemstoosemdesiatpäť/n
-sedemstoosemdesiatpäťtisíc/n
-sedemstoosemdesiatsedem/n
-sedemstoosemdesiatsedemtisíc/n
-sedemstoosemdesiatšesť/n
-sedemstoosemdesiatšesťtisíc/n
-sedemstoosemdesiatštyri/n
-sedemstoosemdesiatštyritisíc/n
-sedemstoosemdesiattisíc/n
-sedemstoosemdesiattri/n
-sedemstoosemdesiattritisíc/n
-sedemstoosemnásť/n
-sedemstoosemnásťtisíc/n
-sedemstoosemtisíc/n
-sedemstopäť/n
-sedemstopäťdesiat/n
-sedemstopäťdesiatdeväť/n
-sedemstopäťdesiatdeväťtisíc/n
-sedemstopäťdesiatdva/n
-sedemstopäťdesiatdvatisíc/n
-sedemstopäťdesiatjeden/n
-sedemstopäťdesiatjedentisíc/n
-sedemstopäťdesiatosem/n
-sedemstopäťdesiatosemtisíc/n
-sedemstopäťdesiatpäť/n
-sedemstopäťdesiatpäťtisíc/n
-sedemstopäťdesiatsedem/n
-sedemstopäťdesiatsedemtisíc/n
-sedemstopäťdesiatšesť/n
-sedemstopäťdesiatšesťtisíc/n
-sedemstopäťdesiatštyri/n
-sedemstopäťdesiatštyritisíc/n
-sedemstopäťdesiattisíc/n
-sedemstopäťdesiattri/n
-sedemstopäťdesiattritisíc/n
-sedemstopätnásť/n
-sedemstopätnásťtisíc/n
-sedemstopäťtisíc/n
+sedemstoosem/n po:number
+sedemstoosemdesiat/n po:number
+sedemstoosemdesiatdeväť/n po:number
+sedemstoosemdesiatdeväťtisíc/n po:number
+sedemstoosemdesiatdva/n po:number
+sedemstoosemdesiatdvatisíc/n po:number
+sedemstoosemdesiatjeden/n po:number
+sedemstoosemdesiatjedentisíc/n po:number
+sedemstoosemdesiatosem/n po:number
+sedemstoosemdesiatosemtisíc/n po:number
+sedemstoosemdesiatpäť/n po:number
+sedemstoosemdesiatpäťtisíc/n po:number
+sedemstoosemdesiatsedem/n po:number
+sedemstoosemdesiatsedemtisíc/n po:number
+sedemstoosemdesiatšesť/n po:number
+sedemstoosemdesiatšesťtisíc/n po:number
+sedemstoosemdesiatštyri/n po:number
+sedemstoosemdesiatštyritisíc/n po:number
+sedemstoosemdesiattisíc/n po:number
+sedemstoosemdesiattri/n po:number
+sedemstoosemdesiattritisíc/n po:number
+sedemstoosemnásť/n po:number
+sedemstoosemnásťtisíc/n po:number
+sedemstoosemtisíc/n po:number
+sedemstopäť/n po:number
+sedemstopäťdesiat/n po:number
+sedemstopäťdesiatdeväť/n po:number
+sedemstopäťdesiatdeväťtisíc/n po:number
+sedemstopäťdesiatdva/n po:number
+sedemstopäťdesiatdvatisíc/n po:number
+sedemstopäťdesiatjeden/n po:number
+sedemstopäťdesiatjedentisíc/n po:number
+sedemstopäťdesiatosem/n po:number
+sedemstopäťdesiatosemtisíc/n po:number
+sedemstopäťdesiatpäť/n po:number
+sedemstopäťdesiatpäťtisíc/n po:number
+sedemstopäťdesiatsedem/n po:number
+sedemstopäťdesiatsedemtisíc/n po:number
+sedemstopäťdesiatšesť/n po:number
+sedemstopäťdesiatšesťtisíc/n po:number
+sedemstopäťdesiatštyri/n po:number
+sedemstopäťdesiatštyritisíc/n po:number
+sedemstopäťdesiattisíc/n po:number
+sedemstopäťdesiattri/n po:number
+sedemstopäťdesiattritisíc/n po:number
+sedemstopätnásť/n po:number
+sedemstopätnásťtisíc/n po:number
+sedemstopäťtisíc/n po:number
 sedemstopová
 sedemstoročný/YN po:adjective
-sedemstosedem/n
-sedemstosedemdesiat/n
-sedemstosedemdesiatdeväť/n
-sedemstosedemdesiatdeväťtisíc/n
-sedemstosedemdesiatdva/n
-sedemstosedemdesiatdvatisíc/n
-sedemstosedemdesiatjeden/n
-sedemstosedemdesiatjedentisíc/n
-sedemstosedemdesiatosem/n
-sedemstosedemdesiatosemtisíc/n
-sedemstosedemdesiatpäť/n
-sedemstosedemdesiatpäťtisíc/n
-sedemstosedemdesiatsedem/n
-sedemstosedemdesiatsedemtisíc/n
-sedemstosedemdesiatšesť/n
-sedemstosedemdesiatšesťtisíc/n
-sedemstosedemdesiatštyri/n
-sedemstosedemdesiatštyritisíc/n
-sedemstosedemdesiattisíc/n
-sedemstosedemdesiattri/n
-sedemstosedemdesiattritisíc/n
-sedemstosedemnásť/n
-sedemstosedemnásťtisíc/n
-sedemstosedemtisíc/n
-sedemstošesť/n
-sedemstošesťdesiat/n
-sedemstošesťdesiatdeväť/n
-sedemstošesťdesiatdeväťtisíc/n
-sedemstošesťdesiatdva/n
-sedemstošesťdesiatdvatisíc/n
-sedemstošesťdesiatjeden/n
-sedemstošesťdesiatjedentisíc/n
-sedemstošesťdesiatosem/n
-sedemstošesťdesiatosemtisíc/n
-sedemstošesťdesiatpäť/n
-sedemstošesťdesiatpäťtisíc/n
-sedemstošesťdesiatsedem/n
-sedemstošesťdesiatsedemtisíc/n
-sedemstošesťdesiatšesť/n
-sedemstošesťdesiatšesťtisíc/n
-sedemstošesťdesiatštyri/n
-sedemstošesťdesiatštyritisíc/n
-sedemstošesťdesiattisíc/n
-sedemstošesťdesiattri/n
-sedemstošesťdesiattritisíc/n
-sedemstošestnásť/n
-sedemstošestnásťtisíc/n
-sedemstošesťtisíc/n
-sedemstoštrnásť/n
-sedemstoštrnásťtisíc/n
-sedemstoštyri/n
-sedemstoštyridsať/n
-sedemstoštyridsaťdeväť/n
-sedemstoštyridsaťdeväťtisíc/n
-sedemstoštyridsaťdva/n
-sedemstoštyridsaťdvatisíc/n
-sedemstoštyridsaťjeden/n
-sedemstoštyridsaťjedentisíc/n
-sedemstoštyridsaťosem/n
-sedemstoštyridsaťosemtisíc/n
-sedemstoštyridsaťpäť/n
-sedemstoštyridsaťpäťtisíc/n
-sedemstoštyridsaťsedem/n
-sedemstoštyridsaťsedemtisíc/n
-sedemstoštyridsaťšesť/n
-sedemstoštyridsaťšesťtisíc/n
-sedemstoštyridsaťštyri/n
-sedemstoštyridsaťštyritisíc/n
-sedemstoštyridsaťtisíc/n
-sedemstoštyridsaťtri/n
-sedemstoštyridsaťtritisíc/n
-sedemstoštyritisíc/n
-sedemstotisíc/n
+sedemstosedem/n po:number
+sedemstosedemdesiat/n po:number
+sedemstosedemdesiatdeväť/n po:number
+sedemstosedemdesiatdeväťtisíc/n po:number
+sedemstosedemdesiatdva/n po:number
+sedemstosedemdesiatdvatisíc/n po:number
+sedemstosedemdesiatjeden/n po:number
+sedemstosedemdesiatjedentisíc/n po:number
+sedemstosedemdesiatosem/n po:number
+sedemstosedemdesiatosemtisíc/n po:number
+sedemstosedemdesiatpäť/n po:number
+sedemstosedemdesiatpäťtisíc/n po:number
+sedemstosedemdesiatsedem/n po:number
+sedemstosedemdesiatsedemtisíc/n po:number
+sedemstosedemdesiatšesť/n po:number
+sedemstosedemdesiatšesťtisíc/n po:number
+sedemstosedemdesiatštyri/n po:number
+sedemstosedemdesiatštyritisíc/n po:number
+sedemstosedemdesiattisíc/n po:number
+sedemstosedemdesiattri/n po:number
+sedemstosedemdesiattritisíc/n po:number
+sedemstosedemnásť/n po:number
+sedemstosedemnásťtisíc/n po:number
+sedemstosedemtisíc/n po:number
+sedemstošesť/n po:number
+sedemstošesťdesiat/n po:number
+sedemstošesťdesiatdeväť/n po:number
+sedemstošesťdesiatdeväťtisíc/n po:number
+sedemstošesťdesiatdva/n po:number
+sedemstošesťdesiatdvatisíc/n po:number
+sedemstošesťdesiatjeden/n po:number
+sedemstošesťdesiatjedentisíc/n po:number
+sedemstošesťdesiatosem/n po:number
+sedemstošesťdesiatosemtisíc/n po:number
+sedemstošesťdesiatpäť/n po:number
+sedemstošesťdesiatpäťtisíc/n po:number
+sedemstošesťdesiatsedem/n po:number
+sedemstošesťdesiatsedemtisíc/n po:number
+sedemstošesťdesiatšesť/n po:number
+sedemstošesťdesiatšesťtisíc/n po:number
+sedemstošesťdesiatštyri/n po:number
+sedemstošesťdesiatštyritisíc/n po:number
+sedemstošesťdesiattisíc/n po:number
+sedemstošesťdesiattri/n po:number
+sedemstošesťdesiattritisíc/n po:number
+sedemstošestnásť/n po:number
+sedemstošestnásťtisíc/n po:number
+sedemstošesťtisíc/n po:number
+sedemstoštrnásť/n po:number
+sedemstoštrnásťtisíc/n po:number
+sedemstoštyri/n po:number
+sedemstoštyridsať/n po:number
+sedemstoštyridsaťdeväť/n po:number
+sedemstoštyridsaťdeväťtisíc/n po:number
+sedemstoštyridsaťdva/n po:number
+sedemstoštyridsaťdvatisíc/n po:number
+sedemstoštyridsaťjeden/n po:number
+sedemstoštyridsaťjedentisíc/n po:number
+sedemstoštyridsaťosem/n po:number
+sedemstoštyridsaťosemtisíc/n po:number
+sedemstoštyridsaťpäť/n po:number
+sedemstoštyridsaťpäťtisíc/n po:number
+sedemstoštyridsaťsedem/n po:number
+sedemstoštyridsaťsedemtisíc/n po:number
+sedemstoštyridsaťšesť/n po:number
+sedemstoštyridsaťšesťtisíc/n po:number
+sedemstoštyridsaťštyri/n po:number
+sedemstoštyridsaťštyritisíc/n po:number
+sedemstoštyridsaťtisíc/n po:number
+sedemstoštyridsaťtri/n po:number
+sedemstoštyridsaťtritisíc/n po:number
+sedemstoštyritisíc/n po:number
+sedemstotisíc/n po:number
 sedemstotisícový/YN po:adjective
-sedemstotri/n
-sedemstotridsať/n
-sedemstotridsaťdeväť/n
-sedemstotridsaťdeväťtisíc/n
-sedemstotridsaťdva/n
-sedemstotridsaťdvatisíc/n
-sedemstotridsaťjeden/n
-sedemstotridsaťjedentisíc/n
-sedemstotridsaťosem/n
-sedemstotridsaťosemtisíc/n
-sedemstotridsaťpäť/n
-sedemstotridsaťpäťtisíc/n
-sedemstotridsaťsedem/n
-sedemstotridsaťsedemtisíc/n
-sedemstotridsaťšesť/n
-sedemstotridsaťšesťtisíc/n
-sedemstotridsaťštyri/n
-sedemstotridsaťštyritisíc/n
-sedemstotridsaťtisíc/n
-sedemstotridsaťtri/n
-sedemstotridsaťtritisíc/n
-sedemstotrinásť/n
-sedemstotrinásťtisíc/n
-sedemstotritisíc/n
+sedemstotri/n po:number
+sedemstotridsať/n po:number
+sedemstotridsaťdeväť/n po:number
+sedemstotridsaťdeväťtisíc/n po:number
+sedemstotridsaťdva/n po:number
+sedemstotridsaťdvatisíc/n po:number
+sedemstotridsaťjeden/n po:number
+sedemstotridsaťjedentisíc/n po:number
+sedemstotridsaťosem/n po:number
+sedemstotridsaťosemtisíc/n po:number
+sedemstotridsaťpäť/n po:number
+sedemstotridsaťpäťtisíc/n po:number
+sedemstotridsaťsedem/n po:number
+sedemstotridsaťsedemtisíc/n po:number
+sedemstotridsaťšesť/n po:number
+sedemstotridsaťšesťtisíc/n po:number
+sedemstotridsaťštyri/n po:number
+sedemstotridsaťštyritisíc/n po:number
+sedemstotridsaťtisíc/n po:number
+sedemstotridsaťtri/n po:number
+sedemstotridsaťtritisíc/n po:number
+sedemstotrinásť/n po:number
+sedemstotrinásťtisíc/n po:number
+sedemstotritisíc/n po:number
 sedemstránkový/YN po:adjective
 sedemstrunový/YN po:adjective
 sedemstupňový/YN po:adjective
 sedemstý/YN po:adjective
 sedemsýtny
-sedemtisíc/n
+sedemtisíc/n po:number
 sedemtisícina
 sedemtisícový/YN po:adjective
 sedemtisícpäťsto
@@ -119907,7 +119907,7 @@ sťnime
 sťnite
 sťnú
 sťnúc
-sto/n
+sto/n po:number
 stoa
 stobohovať/WN po:verb
 stocentový/YN po:adjective
@@ -119920,65 +119920,65 @@ stočného
 stočnému
 stočnom
 stočným
-stodesať/n
-stodesaťtisíc/n
+stodesať/n po:number
+stodesaťtisíc/n po:number
 stodesiatich
-stodeväť/n
-stodeväťdesiat/n
-stodeväťdesiatdeväť/n
-stodeväťdesiatdeväťtisíc/n
-stodeväťdesiatdva/n
-stodeväťdesiatdvatisíc/n
-stodeväťdesiatjeden/n
-stodeväťdesiatjedentisíc/n
-stodeväťdesiatosem/n
-stodeväťdesiatosemtisíc/n
-stodeväťdesiatpäť/n
-stodeväťdesiatpäťtisíc/n
-stodeväťdesiatsedem/n
-stodeväťdesiatsedemtisíc/n
-stodeväťdesiatšesť/n
-stodeväťdesiatšesťtisíc/n
-stodeväťdesiatštyri/n
-stodeväťdesiatštyritisíc/n
-stodeväťdesiattisíc/n
-stodeväťdesiattri/n
-stodeväťdesiattritisíc/n
-stodevätnásť/n
-stodevätnásťtisíc/n
-stodeväťtisíc/n
+stodeväť/n po:number
+stodeväťdesiat/n po:number
+stodeväťdesiatdeväť/n po:number
+stodeväťdesiatdeväťtisíc/n po:number
+stodeväťdesiatdva/n po:number
+stodeväťdesiatdvatisíc/n po:number
+stodeväťdesiatjeden/n po:number
+stodeväťdesiatjedentisíc/n po:number
+stodeväťdesiatosem/n po:number
+stodeväťdesiatosemtisíc/n po:number
+stodeväťdesiatpäť/n po:number
+stodeväťdesiatpäťtisíc/n po:number
+stodeväťdesiatsedem/n po:number
+stodeväťdesiatsedemtisíc/n po:number
+stodeväťdesiatšesť/n po:number
+stodeväťdesiatšesťtisíc/n po:number
+stodeväťdesiatštyri/n po:number
+stodeväťdesiatštyritisíc/n po:number
+stodeväťdesiattisíc/n po:number
+stodeväťdesiattri/n po:number
+stodeväťdesiattritisíc/n po:number
+stodevätnásť/n po:number
+stodevätnásťtisíc/n po:number
+stodeväťtisíc/n po:number
 stodol
 stodola/zZ po:noun is:feminine
 Stodolní
-stodva/n
-stodvadsať/n
-stodvadsaťdeväť/n
-stodvadsaťdeväťtisíc/n
-stodvadsaťdva/n
-stodvadsaťdvatisíc/n
-stodvadsaťjeden/n
-stodvadsaťjedentisíc/n
-stodvadsaťosem/n
-stodvadsaťosemtisíc/n
-stodvadsaťpäť/n
-stodvadsaťpäťtisíc/n
-stodvadsaťsedem/n
-stodvadsaťsedemtisíc/n
-stodvadsaťšesť/n
-stodvadsaťšesťtisíc/n
-stodvadsaťštyri/n
-stodvadsaťštyritisíc/n
-stodvadsaťtisíc/n
-stodvadsaťtri/n
-stodvadsaťtritisíc/n
+stodva/n po:number
+stodvadsať/n po:number
+stodvadsaťdeväť/n po:number
+stodvadsaťdeväťtisíc/n po:number
+stodvadsaťdva/n po:number
+stodvadsaťdvatisíc/n po:number
+stodvadsaťjeden/n po:number
+stodvadsaťjedentisíc/n po:number
+stodvadsaťosem/n po:number
+stodvadsaťosemtisíc/n po:number
+stodvadsaťpäť/n po:number
+stodvadsaťpäťtisíc/n po:number
+stodvadsaťsedem/n po:number
+stodvadsaťsedemtisíc/n po:number
+stodvadsaťšesť/n po:number
+stodvadsaťšesťtisíc/n po:number
+stodvadsaťštyri/n po:number
+stodvadsaťštyritisíc/n po:number
+stodvadsaťtisíc/n po:number
+stodvadsaťtri/n po:number
+stodvadsaťtritisíc/n po:number
 stodvadsaťťsedem
 stodvadsiati
 stodvadsiatich
 stodvadsiatimi
-stodvanásť/n
+stodvanásť/n po:number
 stodvanástich
-stodvanásťtisíc/n
-stodvatisíc/n
+stodvanásťtisíc/n po:number
+stodvatisíc/n po:number
 stoh/B po:noun is:masculine
 stohektárový/YN po:adjective
 stohovanie/VN po:noun is:neuter
@@ -120002,10 +120002,10 @@ stojanový/YN po:adjective
 stojato
 stojatosť/K po:noun is:feminine
 stojatý/YN po:adjective
-stojeden/n
-stojedenásť/n
-stojedenásťtisíc/n
-stojedentisíc/n
+stojeden/n po:number
+stojedenásť/n po:number
+stojedenásťtisíc/n po:number
+stojedentisíc/n po:number
 stojísk
 stojisko/M po:noun is:neuter
 stojka/zZ po:noun is:feminine
@@ -120106,32 +120106,32 @@ stonožka/zZ po:noun is:feminine
 stonôh
 stonôžka/zZ po:noun is:feminine
 stoňte
-stoosem/n
-stoosemdesiat/n
-stoosemdesiatdeväť/n
-stoosemdesiatdeväťtisíc/n
-stoosemdesiatdva/n
-stoosemdesiatdvatisíc/n
-stoosemdesiatjeden/n
-stoosemdesiatjedentisíc/n
+stoosem/n po:number
+stoosemdesiat/n po:number
+stoosemdesiatdeväť/n po:number
+stoosemdesiatdeväťtisíc/n po:number
+stoosemdesiatdva/n po:number
+stoosemdesiatdvatisíc/n po:number
+stoosemdesiatjeden/n po:number
+stoosemdesiatjedentisíc/n po:number
 stoosemdesiatkou
-stoosemdesiatosem/n
-stoosemdesiatosemtisíc/n
-stoosemdesiatpäť/n
-stoosemdesiatpäťtisíc/n
-stoosemdesiatsedem/n
-stoosemdesiatsedemtisíc/n
-stoosemdesiatšesť/n
-stoosemdesiatšesťtisíc/n
+stoosemdesiatosem/n po:number
+stoosemdesiatosemtisíc/n po:number
+stoosemdesiatpäť/n po:number
+stoosemdesiatpäťtisíc/n po:number
+stoosemdesiatsedem/n po:number
+stoosemdesiatsedemtisíc/n po:number
+stoosemdesiatšesť/n po:number
+stoosemdesiatšesťtisíc/n po:number
 stoosemdesiatšesťtisícštyristo
-stoosemdesiatštyri/n
-stoosemdesiatštyritisíc/n
-stoosemdesiattisíc/n
-stoosemdesiattri/n
-stoosemdesiattritisíc/n
-stoosemnásť/n
-stoosemnásťtisíc/n
-stoosemtisíc/n
+stoosemdesiatštyri/n po:number
+stoosemdesiatštyritisíc/n po:number
+stoosemdesiattisíc/n po:number
+stoosemdesiattri/n po:number
+stoosemdesiattritisíc/n po:number
+stoosemnásť/n po:number
+stoosemnásťtisíc/n po:number
+stoosemtisíc/n po:number
 stoosemtisícsto
 stop/B po:noun is:masculine
 stopa/zZ po:noun is:feminine
@@ -120144,37 +120144,37 @@ stopárstvach
 stopárstvam
 stopárstvo/M po:noun is:neuter
 stopáru
-stopäť/n
-stopäťdesiat/n
-stopäťdesiatdeväť/n
-stopäťdesiatdeväťtisíc/n
-stopäťdesiatdva/n
-stopäťdesiatdvatisíc/n
+stopäť/n po:number
+stopäťdesiat/n po:number
+stopäťdesiatdeväť/n po:number
+stopäťdesiatdeväťtisíc/n po:number
+stopäťdesiatdva/n po:number
+stopäťdesiatdvatisíc/n po:number
 stopäťdesiate
 stopäťdesiatich
 stopäťdesiatim
-stopäťdesiatjeden/n
-stopäťdesiatjedentisíc/n
+stopäťdesiatjeden/n po:number
+stopäťdesiatjedentisíc/n po:number
 stopäťdesiatky
-stopäťdesiatosem/n
-stopäťdesiatosemtisíc/n
-stopäťdesiatpäť/n
-stopäťdesiatpäťtisíc/n
-stopäťdesiatsedem/n
-stopäťdesiatsedemtisíc/n
+stopäťdesiatosem/n po:number
+stopäťdesiatosemtisíc/n po:number
+stopäťdesiatpäť/n po:number
+stopäťdesiatpäťtisíc/n po:number
+stopäťdesiatsedem/n po:number
+stopäťdesiatsedemtisíc/n po:number
 stopäťdesiatsedemtisícšesťsto
-stopäťdesiatšesť/n
-stopäťdesiatšesťtisíc/n
-stopäťdesiatštyri/n
-stopäťdesiatštyritisíc/n
-stopäťdesiattisíc/n
-stopäťdesiattri/n
-stopäťdesiattritisíc/n
+stopäťdesiatšesť/n po:number
+stopäťdesiatšesťtisíc/n po:number
+stopäťdesiatštyri/n po:number
+stopäťdesiatštyritisíc/n po:number
+stopäťdesiattisíc/n po:number
+stopäťdesiattri/n po:number
+stopäťdesiattritisíc/n po:number
 stopäťdesiattritisícšesťsto
 stopäťdesiaty
-stopätnásť/n
-stopätnásťtisíc/n
-stopäťtisíc/n
+stopätnásť/n po:number
+stopätnásťtisíc/n po:number
+stopäťtisíc/n po:number
 stopenie/V po:noun is:neuter
 stoper
 stopér/C po:noun is:masculine
@@ -120226,86 +120226,86 @@ storočie/V po:noun is:neuter
 storočnica/U po:noun is:feminine
 storočný/YN po:adjective
 story
-stosedem/n
-stosedemdesiat/n
-stosedemdesiatdeväť/n
-stosedemdesiatdeväťtisíc/n
-stosedemdesiatdva/n
-stosedemdesiatdvatisíc/n
-stosedemdesiatjeden/n
-stosedemdesiatjedentisíc/n
-stosedemdesiatosem/n
-stosedemdesiatosemtisíc/n
-stosedemdesiatpäť/n
-stosedemdesiatpäťtisíc/n
-stosedemdesiatsedem/n
-stosedemdesiatsedemtisíc/n
-stosedemdesiatšesť/n
-stosedemdesiatšesťtisíc/n
-stosedemdesiatštyri/n
-stosedemdesiatštyritisíc/n
-stosedemdesiattisíc/n
-stosedemdesiattri/n
-stosedemdesiattritisíc/n
-stosedemnásť/n
-stosedemnásťtisíc/n
-stosedemtisíc/n
+stosedem/n po:number
+stosedemdesiat/n po:number
+stosedemdesiatdeväť/n po:number
+stosedemdesiatdeväťtisíc/n po:number
+stosedemdesiatdva/n po:number
+stosedemdesiatdvatisíc/n po:number
+stosedemdesiatjeden/n po:number
+stosedemdesiatjedentisíc/n po:number
+stosedemdesiatosem/n po:number
+stosedemdesiatosemtisíc/n po:number
+stosedemdesiatpäť/n po:number
+stosedemdesiatpäťtisíc/n po:number
+stosedemdesiatsedem/n po:number
+stosedemdesiatsedemtisíc/n po:number
+stosedemdesiatšesť/n po:number
+stosedemdesiatšesťtisíc/n po:number
+stosedemdesiatštyri/n po:number
+stosedemdesiatštyritisíc/n po:number
+stosedemdesiattisíc/n po:number
+stosedemdesiattri/n po:number
+stosedemdesiattritisíc/n po:number
+stosedemnásť/n po:number
+stosedemnásťtisíc/n po:number
+stosedemtisíc/n po:number
 stostupňový/YN po:adjective
-stošesť/n
-stošesťdesiat/n
-stošesťdesiatdeväť/n
-stošesťdesiatdeväťtisíc/n
-stošesťdesiatdva/n
-stošesťdesiatdvatisíc/n
+stošesť/n po:number
+stošesťdesiat/n po:number
+stošesťdesiatdeväť/n po:number
+stošesťdesiatdeväťtisíc/n po:number
+stošesťdesiatdva/n po:number
+stošesťdesiatdvatisíc/n po:number
 stošesťdesiatimi
-stošesťdesiatjeden/n
-stošesťdesiatjedentisíc/n
+stošesťdesiatjeden/n po:number
+stošesťdesiatjedentisíc/n po:number
 stošesťdesiatkou
-stošesťdesiatosem/n
-stošesťdesiatosemtisíc/n
-stošesťdesiatpäť/n
-stošesťdesiatpäťtisíc/n
-stošesťdesiatsedem/n
-stošesťdesiatsedemtisíc/n
-stošesťdesiatšesť/n
-stošesťdesiatšesťtisíc/n
-stošesťdesiatštyri/n
-stošesťdesiatštyritisíc/n
-stošesťdesiattisíc/n
-stošesťdesiattri/n
-stošesťdesiattritisíc/n
-stošestnásť/n
-stošestnásťtisíc/n
-stošesťtisíc/n
-stoštrnásť/n
-stoštrnásťtisíc/n
-stoštyri/n
-stoštyridsať/n
-stoštyridsaťdeväť/n
-stoštyridsaťdeväťtisíc/n
-stoštyridsaťdva/n
-stoštyridsaťdvatisíc/n
-stoštyridsaťjeden/n
-stoštyridsaťjedentisíc/n
-stoštyridsaťosem/n
-stoštyridsaťosemtisíc/n
-stoštyridsaťpäť/n
-stoštyridsaťpäťtisíc/n
-stoštyridsaťsedem/n
-stoštyridsaťsedemtisíc/n
-stoštyridsaťšesť/n
-stoštyridsaťšesťtisíc/n
-stoštyridsaťštyri/n
-stoštyridsaťštyritisíc/n
-stoštyridsaťtisíc/n
-stoštyridsaťtri/n
-stoštyridsaťtritisíc/n
-stoštyritisíc/n
+stošesťdesiatosem/n po:number
+stošesťdesiatosemtisíc/n po:number
+stošesťdesiatpäť/n po:number
+stošesťdesiatpäťtisíc/n po:number
+stošesťdesiatsedem/n po:number
+stošesťdesiatsedemtisíc/n po:number
+stošesťdesiatšesť/n po:number
+stošesťdesiatšesťtisíc/n po:number
+stošesťdesiatštyri/n po:number
+stošesťdesiatštyritisíc/n po:number
+stošesťdesiattisíc/n po:number
+stošesťdesiattri/n po:number
+stošesťdesiattritisíc/n po:number
+stošestnásť/n po:number
+stošestnásťtisíc/n po:number
+stošesťtisíc/n po:number
+stoštrnásť/n po:number
+stoštrnásťtisíc/n po:number
+stoštyri/n po:number
+stoštyridsať/n po:number
+stoštyridsaťdeväť/n po:number
+stoštyridsaťdeväťtisíc/n po:number
+stoštyridsaťdva/n po:number
+stoštyridsaťdvatisíc/n po:number
+stoštyridsaťjeden/n po:number
+stoštyridsaťjedentisíc/n po:number
+stoštyridsaťosem/n po:number
+stoštyridsaťosemtisíc/n po:number
+stoštyridsaťpäť/n po:number
+stoštyridsaťpäťtisíc/n po:number
+stoštyridsaťsedem/n po:number
+stoštyridsaťsedemtisíc/n po:number
+stoštyridsaťšesť/n po:number
+stoštyridsaťšesťtisíc/n po:number
+stoštyridsaťštyri/n po:number
+stoštyridsaťštyritisíc/n po:number
+stoštyridsaťtisíc/n po:number
+stoštyridsaťtri/n po:number
+stoštyridsaťtritisíc/n po:number
+stoštyritisíc/n po:number
 stotina/zZ po:noun is:feminine
 stotinka/zZ po:noun is:feminine
 stotinný/YN po:adjective
 stotinový/YN po:adjective
-stotisíc/n
+stotisíc/n po:number
 stotisíci/YN po:adjective
 stotisícina/Z po:noun is:feminine
 stotisícina/zZ po:noun is:feminine
@@ -120329,31 +120329,31 @@ stotožňovať/WN po:verb
 stotožňujúce
 stotožňujúci
 stotožňujúcim
-stotri/n
-stotridsať/n
-stotridsaťdeväť/n
-stotridsaťdeväťtisíc/n
-stotridsaťdva/n
-stotridsaťdvatisíc/n
-stotridsaťjeden/n
-stotridsaťjedentisíc/n
-stotridsaťosem/n
-stotridsaťosemtisíc/n
-stotridsaťpäť/n
-stotridsaťpäťtisíc/n
-stotridsaťsedem/n
-stotridsaťsedemtisíc/n
-stotridsaťšesť/n
-stotridsaťšesťtisíc/n
-stotridsaťštyri/n
-stotridsaťštyritisíc/n
-stotridsaťtisíc/n
-stotridsaťtri/n
-stotridsaťtritisíc/n
+stotri/n po:number
+stotridsať/n po:number
+stotridsaťdeväť/n po:number
+stotridsaťdeväťtisíc/n po:number
+stotridsaťdva/n po:number
+stotridsaťdvatisíc/n po:number
+stotridsaťjeden/n po:number
+stotridsaťjedentisíc/n po:number
+stotridsaťosem/n po:number
+stotridsaťosemtisíc/n po:number
+stotridsaťpäť/n po:number
+stotridsaťpäťtisíc/n po:number
+stotridsaťsedem/n po:number
+stotridsaťsedemtisíc/n po:number
+stotridsaťšesť/n po:number
+stotridsaťšesťtisíc/n po:number
+stotridsaťštyri/n po:number
+stotridsaťštyritisíc/n po:number
+stotridsaťtisíc/n po:number
+stotridsaťtri/n po:number
+stotridsaťtritisíc/n po:number
 stotridsiatich
-stotrinásť/n
-stotrinásťtisíc/n
-stotritisíc/n
+stotrinásť/n po:number
+stotrinásťtisíc/n po:number
+stotritisíc/n po:number
 stovák
 stoveký/YN po:adjective
 stovežatý/YN po:adjective
@@ -124087,7 +124087,7 @@ SZTK	 po:acronym
 šerte
 šery
 šerý/YN po:adjective
-šesť/n
+šesť/n po:number
 šesták/B po:noun is:masculine
 Šestákovo
 šestákový/YN po:adjective
@@ -124100,17 +124100,17 @@ SZTK	 po:acronym
 šesťčlenný/YN po:adjective
 šesťdeiatitisíc
 šesťdenný/YN po:adjective
-šesťdesiat/n
-šesťdesiatdeväť/n
-šesťdesiatdeväťtisíc/n
-šesťdesiatdva/n
-šesťdesiatdvatisíc/n
+šesťdesiat/n po:number
+šesťdesiatdeväť/n po:number
+šesťdesiatdeväťtisíc/n po:number
+šesťdesiatdva/n po:number
+šesťdesiatdvatisíc/n po:number
 šesťdesiatdvatisícsedemsto
 šesťdesiati/Q
 šesťdesiatina/zZ po:noun is:feminine
 šesťdesiatiny/Q
-šesťdesiatjeden/n
-šesťdesiatjedentisíc/n
+šesťdesiatjeden/n po:number
+šesťdesiatjedentisíc/n po:number
 šesťdesiatka/zZ po:noun is:feminine
 šesťdesiatkorunový/YN po:adjective
 šesťdesiatkový/YN po:adjective
@@ -124122,24 +124122,24 @@ SZTK	 po:acronym
 šesťdesiatnička/zZ po:noun is:feminine
 šesťdesiatnik/C po:noun is:masculine
 šesťdesiatnikov/Y po:adjective
-šesťdesiatosem/n
-šesťdesiatosemtisíc/n
-šesťdesiatpäť/n
-šesťdesiatpäťtisíc/n
+šesťdesiatosem/n po:number
+šesťdesiatosemtisíc/n po:number
+šesťdesiatpäť/n po:number
+šesťdesiatpäťtisíc/n po:number
 šesťdesiatročný/Y po:adjective
-šesťdesiatsedem/n
-šesťdesiatsedemtisíc/n
-šesťdesiatšesť/n
-šesťdesiatšesťtisíc/n
-šesťdesiatštyri/n
-šesťdesiatštyritisíc/n
+šesťdesiatsedem/n po:number
+šesťdesiatsedemtisíc/n po:number
+šesťdesiatšesť/n po:number
+šesťdesiatšesťtisíc/n po:number
+šesťdesiatštyri/n po:number
+šesťdesiatštyritisíc/n po:number
 šesťdesiatštyritisícštyristo
 šesťdesiatštyritisíctristo
-šesťdesiattisíc/n
+šesťdesiattisíc/n po:number
 šesťdesiattisícový/YN po:adjective
 šesťdesiattisícpäťsto
-šesťdesiattri/n
-šesťdesiattritisíc/n
+šesťdesiattri/n po:number
+šesťdesiattritisíc/n po:number
 šesťdesiaty/YN po:adjective
 šesťdielny/YN po:adjective
 šesťdňový/YN po:adjective
@@ -124172,7 +124172,7 @@ SZTK	 po:acronym
 šesťnásobne/YN po:adjective
 šesťnásobný/YN po:adjective
 šesťnásobok
-šestnásť/n
+šestnásť/n po:number
 šestnásti/Q
 šestnástina/zZ po:noun is:feminine
 šesťnástinová
@@ -124182,7 +124182,7 @@ SZTK	 po:acronym
 šestnásťkrát
 šestnásťnásobného
 šestnásťročný/Y po:adjective
-šestnásťtisíc/n
+šestnásťtisíc/n po:number
 šestnásťtisícsedemstopäťdesiat
 šestnásty/YN po:adjective
 šestonedelie/V po:noun is:neuter
@@ -124200,216 +124200,216 @@ SZTK	 po:acronym
 šesťslabičný/YN po:adjective
 šesťsten/B po:noun is:masculine
 šesťstenný/YN po:adjective
-šesťsto/n
-šesťstodesať/n
-šesťstodesaťtisíc/n
-šesťstodeväť/n
-šesťstodeväťdesiat/n
-šesťstodeväťdesiatdeväť/n
-šesťstodeväťdesiatdeväťtisíc/n
-šesťstodeväťdesiatdva/n
-šesťstodeväťdesiatdvatisíc/n
-šesťstodeväťdesiatjeden/n
-šesťstodeväťdesiatjedentisíc/n
-šesťstodeväťdesiatosem/n
-šesťstodeväťdesiatosemtisíc/n
-šesťstodeväťdesiatpäť/n
-šesťstodeväťdesiatpäťtisíc/n
-šesťstodeväťdesiatsedem/n
-šesťstodeväťdesiatsedemtisíc/n
-šesťstodeväťdesiatšesť/n
-šesťstodeväťdesiatšesťtisíc/n
-šesťstodeväťdesiatštyri/n
-šesťstodeväťdesiatštyritisíc/n
-šesťstodeväťdesiattisíc/n
-šesťstodeväťdesiattri/n
-šesťstodeväťdesiattritisíc/n
-šesťstodevätnásť/n
-šesťstodevätnásťtisíc/n
-šesťstodeväťtisíc/n
-šesťstodva/n
-šesťstodvadsať/n
-šesťstodvadsaťdeväť/n
-šesťstodvadsaťdeväťtisíc/n
-šesťstodvadsaťdva/n
-šesťstodvadsaťdvatisíc/n
-šesťstodvadsaťjeden/n
-šesťstodvadsaťjedentisíc/n
-šesťstodvadsaťosem/n
-šesťstodvadsaťosemtisíc/n
-šesťstodvadsaťpäť/n
-šesťstodvadsaťpäťtisíc/n
-šesťstodvadsaťsedem/n
-šesťstodvadsaťsedemtisíc/n
-šesťstodvadsaťšesť/n
-šesťstodvadsaťšesťtisíc/n
-šesťstodvadsaťštyri/n
-šesťstodvadsaťštyritisíc/n
-šesťstodvadsaťtisíc/n
-šesťstodvadsaťtri/n
-šesťstodvadsaťtritisíc/n
-šesťstodvanásť/n
-šesťstodvanásťtisíc/n
-šesťstodvatisíc/n
-šesťstojeden/n
-šesťstojedenásť/n
-šesťstojedenásťtisíc/n
-šesťstojedentisíc/n
+šesťsto/n po:number
+šesťstodesať/n po:number
+šesťstodesaťtisíc/n po:number
+šesťstodeväť/n po:number
+šesťstodeväťdesiat/n po:number
+šesťstodeväťdesiatdeväť/n po:number
+šesťstodeväťdesiatdeväťtisíc/n po:number
+šesťstodeväťdesiatdva/n po:number
+šesťstodeväťdesiatdvatisíc/n po:number
+šesťstodeväťdesiatjeden/n po:number
+šesťstodeväťdesiatjedentisíc/n po:number
+šesťstodeväťdesiatosem/n po:number
+šesťstodeväťdesiatosemtisíc/n po:number
+šesťstodeväťdesiatpäť/n po:number
+šesťstodeväťdesiatpäťtisíc/n po:number
+šesťstodeväťdesiatsedem/n po:number
+šesťstodeväťdesiatsedemtisíc/n po:number
+šesťstodeväťdesiatšesť/n po:number
+šesťstodeväťdesiatšesťtisíc/n po:number
+šesťstodeväťdesiatštyri/n po:number
+šesťstodeväťdesiatštyritisíc/n po:number
+šesťstodeväťdesiattisíc/n po:number
+šesťstodeväťdesiattri/n po:number
+šesťstodeväťdesiattritisíc/n po:number
+šesťstodevätnásť/n po:number
+šesťstodevätnásťtisíc/n po:number
+šesťstodeväťtisíc/n po:number
+šesťstodva/n po:number
+šesťstodvadsať/n po:number
+šesťstodvadsaťdeväť/n po:number
+šesťstodvadsaťdeväťtisíc/n po:number
+šesťstodvadsaťdva/n po:number
+šesťstodvadsaťdvatisíc/n po:number
+šesťstodvadsaťjeden/n po:number
+šesťstodvadsaťjedentisíc/n po:number
+šesťstodvadsaťosem/n po:number
+šesťstodvadsaťosemtisíc/n po:number
+šesťstodvadsaťpäť/n po:number
+šesťstodvadsaťpäťtisíc/n po:number
+šesťstodvadsaťsedem/n po:number
+šesťstodvadsaťsedemtisíc/n po:number
+šesťstodvadsaťšesť/n po:number
+šesťstodvadsaťšesťtisíc/n po:number
+šesťstodvadsaťštyri/n po:number
+šesťstodvadsaťštyritisíc/n po:number
+šesťstodvadsaťtisíc/n po:number
+šesťstodvadsaťtri/n po:number
+šesťstodvadsaťtritisíc/n po:number
+šesťstodvanásť/n po:number
+šesťstodvanásťtisíc/n po:number
+šesťstodvatisíc/n po:number
+šesťstojeden/n po:number
+šesťstojedenásť/n po:number
+šesťstojedenásťtisíc/n po:number
+šesťstojedentisíc/n po:number
 šesťstojedentisícsedemstotridsať
 šesťstokorunové
 šesťstokorunovej
 Šesťstokorunový/YN po:adjective
 šesťstokorunovými
 šesťstom
-šesťstoosem/n
-šesťstoosemdesiat/n
-šesťstoosemdesiatdeväť/n
-šesťstoosemdesiatdeväťtisíc/n
-šesťstoosemdesiatdva/n
-šesťstoosemdesiatdvatisíc/n
-šesťstoosemdesiatjeden/n
-šesťstoosemdesiatjedentisíc/n
-šesťstoosemdesiatosem/n
-šesťstoosemdesiatosemtisíc/n
-šesťstoosemdesiatpäť/n
-šesťstoosemdesiatpäťtisíc/n
-šesťstoosemdesiatsedem/n
-šesťstoosemdesiatsedemtisíc/n
-šesťstoosemdesiatšesť/n
-šesťstoosemdesiatšesťtisíc/n
-šesťstoosemdesiatštyri/n
-šesťstoosemdesiatštyritisíc/n
-šesťstoosemdesiattisíc/n
-šesťstoosemdesiattri/n
-šesťstoosemdesiattritisíc/n
-šesťstoosemnásť/n
-šesťstoosemnásťtisíc/n
-šesťstoosemtisíc/n
-šesťstopäť/n
-šesťstopäťdesiat/n
-šesťstopäťdesiatdeväť/n
-šesťstopäťdesiatdeväťtisíc/n
-šesťstopäťdesiatdva/n
-šesťstopäťdesiatdvatisíc/n
-šesťstopäťdesiatjeden/n
-šesťstopäťdesiatjedentisíc/n
-šesťstopäťdesiatosem/n
-šesťstopäťdesiatosemtisíc/n
-šesťstopäťdesiatpäť/n
-šesťstopäťdesiatpäťtisíc/n
-šesťstopäťdesiatsedem/n
-šesťstopäťdesiatsedemtisíc/n
-šesťstopäťdesiatšesť/n
-šesťstopäťdesiatšesťtisíc/n
-šesťstopäťdesiatštyri/n
-šesťstopäťdesiatštyritisíc/n
-šesťstopäťdesiattisíc/n
-šesťstopäťdesiattri/n
-šesťstopäťdesiattritisíc/n
-šesťstopätnásť/n
-šesťstopätnásťtisíc/n
-šesťstopäťtisíc/n
+šesťstoosem/n po:number
+šesťstoosemdesiat/n po:number
+šesťstoosemdesiatdeväť/n po:number
+šesťstoosemdesiatdeväťtisíc/n po:number
+šesťstoosemdesiatdva/n po:number
+šesťstoosemdesiatdvatisíc/n po:number
+šesťstoosemdesiatjeden/n po:number
+šesťstoosemdesiatjedentisíc/n po:number
+šesťstoosemdesiatosem/n po:number
+šesťstoosemdesiatosemtisíc/n po:number
+šesťstoosemdesiatpäť/n po:number
+šesťstoosemdesiatpäťtisíc/n po:number
+šesťstoosemdesiatsedem/n po:number
+šesťstoosemdesiatsedemtisíc/n po:number
+šesťstoosemdesiatšesť/n po:number
+šesťstoosemdesiatšesťtisíc/n po:number
+šesťstoosemdesiatštyri/n po:number
+šesťstoosemdesiatštyritisíc/n po:number
+šesťstoosemdesiattisíc/n po:number
+šesťstoosemdesiattri/n po:number
+šesťstoosemdesiattritisíc/n po:number
+šesťstoosemnásť/n po:number
+šesťstoosemnásťtisíc/n po:number
+šesťstoosemtisíc/n po:number
+šesťstopäť/n po:number
+šesťstopäťdesiat/n po:number
+šesťstopäťdesiatdeväť/n po:number
+šesťstopäťdesiatdeväťtisíc/n po:number
+šesťstopäťdesiatdva/n po:number
+šesťstopäťdesiatdvatisíc/n po:number
+šesťstopäťdesiatjeden/n po:number
+šesťstopäťdesiatjedentisíc/n po:number
+šesťstopäťdesiatosem/n po:number
+šesťstopäťdesiatosemtisíc/n po:number
+šesťstopäťdesiatpäť/n po:number
+šesťstopäťdesiatpäťtisíc/n po:number
+šesťstopäťdesiatsedem/n po:number
+šesťstopäťdesiatsedemtisíc/n po:number
+šesťstopäťdesiatšesť/n po:number
+šesťstopäťdesiatšesťtisíc/n po:number
+šesťstopäťdesiatštyri/n po:number
+šesťstopäťdesiatštyritisíc/n po:number
+šesťstopäťdesiattisíc/n po:number
+šesťstopäťdesiattri/n po:number
+šesťstopäťdesiattritisíc/n po:number
+šesťstopätnásť/n po:number
+šesťstopätnásťtisíc/n po:number
+šesťstopäťtisíc/n po:number
 šesťstopový/Y po:adjective
 šesťstoprvom
-šesťstosedem/n
-šesťstosedemdesiat/n
-šesťstosedemdesiatdeväť/n
-šesťstosedemdesiatdeväťtisíc/n
-šesťstosedemdesiatdva/n
-šesťstosedemdesiatdvatisíc/n
-šesťstosedemdesiatjeden/n
-šesťstosedemdesiatjedentisíc/n
-šesťstosedemdesiatosem/n
-šesťstosedemdesiatosemtisíc/n
-šesťstosedemdesiatpäť/n
-šesťstosedemdesiatpäťtisíc/n
-šesťstosedemdesiatsedem/n
-šesťstosedemdesiatsedemtisíc/n
-šesťstosedemdesiatšesť/n
-šesťstosedemdesiatšesťtisíc/n
-šesťstosedemdesiatštyri/n
-šesťstosedemdesiatštyritisíc/n
-šesťstosedemdesiattisíc/n
-šesťstosedemdesiattri/n
-šesťstosedemdesiattritisíc/n
-šesťstosedemnásť/n
-šesťstosedemnásťtisíc/n
-šesťstosedemtisíc/n
-šesťstošesť/n
-šesťstošesťdesiat/n
-šesťstošesťdesiatdeväť/n
-šesťstošesťdesiatdeväťtisíc/n
-šesťstošesťdesiatdva/n
-šesťstošesťdesiatdvatisíc/n
-šesťstošesťdesiatjeden/n
-šesťstošesťdesiatjedentisíc/n
-šesťstošesťdesiatosem/n
-šesťstošesťdesiatosemtisíc/n
-šesťstošesťdesiatpäť/n
-šesťstošesťdesiatpäťtisíc/n
-šesťstošesťdesiatsedem/n
-šesťstošesťdesiatsedemtisíc/n
-šesťstošesťdesiatšesť/n
-šesťstošesťdesiatšesťtisíc/n
-šesťstošesťdesiatštyri/n
-šesťstošesťdesiatštyritisíc/n
-šesťstošesťdesiattisíc/n
-šesťstošesťdesiattri/n
-šesťstošesťdesiattritisíc/n
-šesťstošestnásť/n
-šesťstošestnásťtisíc/n
-šesťstošesťtisíc/n
-šesťstoštrnásť/n
-šesťstoštrnásťtisíc/n
-šesťstoštyri/n
-šesťstoštyridsať/n
-šesťstoštyridsaťdeväť/n
-šesťstoštyridsaťdeväťtisíc/n
-šesťstoštyridsaťdva/n
-šesťstoštyridsaťdvatisíc/n
-šesťstoštyridsaťjeden/n
-šesťstoštyridsaťjedentisíc/n
-šesťstoštyridsaťosem/n
-šesťstoštyridsaťosemtisíc/n
-šesťstoštyridsaťpäť/n
-šesťstoštyridsaťpäťtisíc/n
-šesťstoštyridsaťsedem/n
-šesťstoštyridsaťsedemtisíc/n
-šesťstoštyridsaťšesť/n
-šesťstoštyridsaťšesťtisíc/n
-šesťstoštyridsaťštyri/n
-šesťstoštyridsaťštyritisíc/n
-šesťstoštyridsaťtisíc/n
-šesťstoštyridsaťtri/n
-šesťstoštyridsaťtritisíc/n
-šesťstoštyritisíc/n
-šesťstotisíc/n
+šesťstosedem/n po:number
+šesťstosedemdesiat/n po:number
+šesťstosedemdesiatdeväť/n po:number
+šesťstosedemdesiatdeväťtisíc/n po:number
+šesťstosedemdesiatdva/n po:number
+šesťstosedemdesiatdvatisíc/n po:number
+šesťstosedemdesiatjeden/n po:number
+šesťstosedemdesiatjedentisíc/n po:number
+šesťstosedemdesiatosem/n po:number
+šesťstosedemdesiatosemtisíc/n po:number
+šesťstosedemdesiatpäť/n po:number
+šesťstosedemdesiatpäťtisíc/n po:number
+šesťstosedemdesiatsedem/n po:number
+šesťstosedemdesiatsedemtisíc/n po:number
+šesťstosedemdesiatšesť/n po:number
+šesťstosedemdesiatšesťtisíc/n po:number
+šesťstosedemdesiatštyri/n po:number
+šesťstosedemdesiatštyritisíc/n po:number
+šesťstosedemdesiattisíc/n po:number
+šesťstosedemdesiattri/n po:number
+šesťstosedemdesiattritisíc/n po:number
+šesťstosedemnásť/n po:number
+šesťstosedemnásťtisíc/n po:number
+šesťstosedemtisíc/n po:number
+šesťstošesť/n po:number
+šesťstošesťdesiat/n po:number
+šesťstošesťdesiatdeväť/n po:number
+šesťstošesťdesiatdeväťtisíc/n po:number
+šesťstošesťdesiatdva/n po:number
+šesťstošesťdesiatdvatisíc/n po:number
+šesťstošesťdesiatjeden/n po:number
+šesťstošesťdesiatjedentisíc/n po:number
+šesťstošesťdesiatosem/n po:number
+šesťstošesťdesiatosemtisíc/n po:number
+šesťstošesťdesiatpäť/n po:number
+šesťstošesťdesiatpäťtisíc/n po:number
+šesťstošesťdesiatsedem/n po:number
+šesťstošesťdesiatsedemtisíc/n po:number
+šesťstošesťdesiatšesť/n po:number
+šesťstošesťdesiatšesťtisíc/n po:number
+šesťstošesťdesiatštyri/n po:number
+šesťstošesťdesiatštyritisíc/n po:number
+šesťstošesťdesiattisíc/n po:number
+šesťstošesťdesiattri/n po:number
+šesťstošesťdesiattritisíc/n po:number
+šesťstošestnásť/n po:number
+šesťstošestnásťtisíc/n po:number
+šesťstošesťtisíc/n po:number
+šesťstoštrnásť/n po:number
+šesťstoštrnásťtisíc/n po:number
+šesťstoštyri/n po:number
+šesťstoštyridsať/n po:number
+šesťstoštyridsaťdeväť/n po:number
+šesťstoštyridsaťdeväťtisíc/n po:number
+šesťstoštyridsaťdva/n po:number
+šesťstoštyridsaťdvatisíc/n po:number
+šesťstoštyridsaťjeden/n po:number
+šesťstoštyridsaťjedentisíc/n po:number
+šesťstoštyridsaťosem/n po:number
+šesťstoštyridsaťosemtisíc/n po:number
+šesťstoštyridsaťpäť/n po:number
+šesťstoštyridsaťpäťtisíc/n po:number
+šesťstoštyridsaťsedem/n po:number
+šesťstoštyridsaťsedemtisíc/n po:number
+šesťstoštyridsaťšesť/n po:number
+šesťstoštyridsaťšesťtisíc/n po:number
+šesťstoštyridsaťštyri/n po:number
+šesťstoštyridsaťštyritisíc/n po:number
+šesťstoštyridsaťtisíc/n po:number
+šesťstoštyridsaťtri/n po:number
+šesťstoštyridsaťtritisíc/n po:number
+šesťstoštyritisíc/n po:number
+šesťstotisíc/n po:number
 šesťstotisícová
-šesťstotri/n
-šesťstotridsať/n
-šesťstotridsaťdeväť/n
-šesťstotridsaťdeväťtisíc/n
-šesťstotridsaťdva/n
-šesťstotridsaťdvatisíc/n
-šesťstotridsaťjeden/n
-šesťstotridsaťjedentisíc/n
-šesťstotridsaťosem/n
-šesťstotridsaťosemtisíc/n
-šesťstotridsaťpäť/n
-šesťstotridsaťpäťtisíc/n
-šesťstotridsaťsedem/n
-šesťstotridsaťsedemtisíc/n
-šesťstotridsaťšesť/n
-šesťstotridsaťšesťtisíc/n
-šesťstotridsaťštyri/n
-šesťstotridsaťštyritisíc/n
-šesťstotridsaťtisíc/n
-šesťstotridsaťtri/n
-šesťstotridsaťtritisíc/n
-šesťstotrinásť/n
+šesťstotri/n po:number
+šesťstotridsať/n po:number
+šesťstotridsaťdeväť/n po:number
+šesťstotridsaťdeväťtisíc/n po:number
+šesťstotridsaťdva/n po:number
+šesťstotridsaťdvatisíc/n po:number
+šesťstotridsaťjeden/n po:number
+šesťstotridsaťjedentisíc/n po:number
+šesťstotridsaťosem/n po:number
+šesťstotridsaťosemtisíc/n po:number
+šesťstotridsaťpäť/n po:number
+šesťstotridsaťpäťtisíc/n po:number
+šesťstotridsaťsedem/n po:number
+šesťstotridsaťsedemtisíc/n po:number
+šesťstotridsaťšesť/n po:number
+šesťstotridsaťšesťtisíc/n po:number
+šesťstotridsaťštyri/n po:number
+šesťstotridsaťštyritisíc/n po:number
+šesťstotridsaťtisíc/n po:number
+šesťstotridsaťtri/n po:number
+šesťstotridsaťtritisíc/n po:number
+šesťstotrinásť/n po:number
 šesťstotrinástka/zZ po:noun is:feminine
-šesťstotrinásťtisíc/n
-šesťstotritisíc/n
+šesťstotrinásťtisíc/n po:number
+šesťstotritisíc/n po:number
 šesťstotritisícpäťstopäťdesiat
 šesťstotritisícpäťstopäťdesiatich
 šesťstotrojka/zZ po:noun is:feminine
@@ -124420,7 +124420,7 @@ SZTK	 po:acronym
 šesťstupňovou
 šesťstupňovú
 šesťsýtny
-šesťtisíc/n
+šesťtisíc/n po:number
 šesťtisícdvesto
 šesťtisícosemsto
 šesťtisícový/YN po:adjective
@@ -126609,7 +126609,7 @@ SZTK	 po:acronym
 Štrkovní
 štrkovo
 štrkový/YN po:adjective
-štrnásť/n
+štrnásť/n po:number
 štrnásťčlenný/YN po:adjective
 štrnásťdenne
 štrnásťdenníkov
@@ -126622,7 +126622,7 @@ SZTK	 po:acronym
 štrnásťkrát
 štrnásťmesačné
 štrnásťročný/YN po:adjective
-štrnásťtisíc/n
+štrnásťtisíc/n po:number
 štrnásťtisícsedemsto
 štrnásťveršová
 štrnásty/YN po:adjective
@@ -127033,46 +127033,46 @@ SZTK	 po:acronym
 štyri
 štyria/U po:noun is:feminine
 štyriadvadsať
-štyridsať/n
+štyridsať/n po:number
 štyridsaťdenná
-štyridsaťdeväť/n
-štyridsaťdeväťtisíc/n
-štyridsaťdva/n
-štyridsaťdvatisíc/n
+štyridsaťdeväť/n po:number
+štyridsaťdeväťtisíc/n po:number
+štyridsaťdva/n po:number
+štyridsaťdvatisíc/n po:number
 štyridsaťdvatisíctristošesťdesiat
 štyridsatina/zZ po:noun is:feminine
-štyridsaťjeden/n
-štyridsaťjedentisíc/n
+štyridsaťjeden/n po:number
+štyridsaťjedentisíc/n po:number
 štyridsaťjedentisícpäťsto
 štyridsaťkorunový/YN po:adjective
 štyridsaťkrát
 štyridsaťnásobok
-štyridsaťosem/n
-štyridsaťosemtisíc/n
-štyridsaťpäť/n
+štyridsaťosem/n po:number
+štyridsaťosemtisíc/n po:number
+štyridsaťpäť/n po:number
 štyridsaťpäťke
 štyridsaťpäťky
 štyridsaťpäťročnej
 Štyridsaťpäťročný/YN po:adjective
-štyridsaťpäťtisíc/n
+štyridsaťpäťtisíc/n po:number
 štyridsaťpäťtisícšesťsto
 štyridsaťpäťtisícšesťstopäťdesiat
 štyridsaťpäťtisícštyristo
 štyridsaťročný/YN po:adjective
-štyridsaťsedem/n
-štyridsaťsedemtisíc/n
+štyridsaťsedem/n po:number
+štyridsaťsedemtisíc/n po:number
 štyridsaťstupňový/YN po:adjective
-štyridsaťšesť/n
-štyridsaťšesťtisíc/n
+štyridsaťšesť/n po:number
+štyridsaťšesťtisíc/n po:number
 štyridsaťšesťtisícpäťsto
-štyridsaťštyri/n
-štyridsaťštyritisíc/n
+štyridsaťštyri/n po:number
+štyridsaťštyritisíc/n po:number
 štyridsaťštyritisícsedemstošesťdesiat
-štyridsaťtisíc/n
+štyridsaťtisíc/n po:number
 štyridsaťtisícový/YN po:adjective
 štyridsaťtisícpäťsto
-štyridsaťtri/n
-štyridsaťtritisíc/n
+štyridsaťtri/n po:number
+štyridsaťtritisíc/n po:number
 štyridsaťtritisícsedemstotridsať
 štyridsiati/YN po:adjective
 štyridsiatina/zZ po:noun is:feminine
@@ -127082,213 +127082,213 @@ SZTK	 po:acronym
 štyridsiatnikov/Y po:adjective
 štyridsiaty/YN po:adjective
 štyrikrát
-štyristo/n
-štyristodesať/n
-štyristodesaťtisíc/n
-štyristodeväť/n
-štyristodeväťdesiat/n
-štyristodeväťdesiatdeväť/n
-štyristodeväťdesiatdeväťtisíc/n
-štyristodeväťdesiatdva/n
-štyristodeväťdesiatdvatisíc/n
-štyristodeväťdesiatjeden/n
-štyristodeväťdesiatjedentisíc/n
-štyristodeväťdesiatosem/n
-štyristodeväťdesiatosemtisíc/n
-štyristodeväťdesiatpäť/n
-štyristodeväťdesiatpäťtisíc/n
-štyristodeväťdesiatsedem/n
-štyristodeväťdesiatsedemtisíc/n
-štyristodeväťdesiatšesť/n
-štyristodeväťdesiatšesťtisíc/n
-štyristodeväťdesiatštyri/n
-štyristodeväťdesiatštyritisíc/n
-štyristodeväťdesiattisíc/n
-štyristodeväťdesiattri/n
-štyristodeväťdesiattritisíc/n
-štyristodevätnásť/n
-štyristodevätnásťtisíc/n
-štyristodeväťtisíc/n
-štyristodva/n
-štyristodvadsať/n
-štyristodvadsaťdeväť/n
-štyristodvadsaťdeväťtisíc/n
-štyristodvadsaťdva/n
-štyristodvadsaťdvatisíc/n
-štyristodvadsaťjeden/n
-štyristodvadsaťjedentisíc/n
-štyristodvadsaťosem/n
-štyristodvadsaťosemtisíc/n
-štyristodvadsaťpäť/n
-štyristodvadsaťpäťtisíc/n
-štyristodvadsaťsedem/n
-štyristodvadsaťsedemtisíc/n
-štyristodvadsaťšesť/n
-štyristodvadsaťšesťtisíc/n
-štyristodvadsaťštyri/n
-štyristodvadsaťštyritisíc/n
-štyristodvadsaťtisíc/n
-štyristodvadsaťtri/n
-štyristodvadsaťtritisíc/n
-štyristodvanásť/n
-štyristodvanásťtisíc/n
-štyristodvatisíc/n
-štyristojeden/n
-štyristojedenásť/n
-štyristojedenásťtisíc/n
-štyristojedentisíc/n
+štyristo/n po:number
+štyristodesať/n po:number
+štyristodesaťtisíc/n po:number
+štyristodeväť/n po:number
+štyristodeväťdesiat/n po:number
+štyristodeväťdesiatdeväť/n po:number
+štyristodeväťdesiatdeväťtisíc/n po:number
+štyristodeväťdesiatdva/n po:number
+štyristodeväťdesiatdvatisíc/n po:number
+štyristodeväťdesiatjeden/n po:number
+štyristodeväťdesiatjedentisíc/n po:number
+štyristodeväťdesiatosem/n po:number
+štyristodeväťdesiatosemtisíc/n po:number
+štyristodeväťdesiatpäť/n po:number
+štyristodeväťdesiatpäťtisíc/n po:number
+štyristodeväťdesiatsedem/n po:number
+štyristodeväťdesiatsedemtisíc/n po:number
+štyristodeväťdesiatšesť/n po:number
+štyristodeväťdesiatšesťtisíc/n po:number
+štyristodeväťdesiatštyri/n po:number
+štyristodeväťdesiatštyritisíc/n po:number
+štyristodeväťdesiattisíc/n po:number
+štyristodeväťdesiattri/n po:number
+štyristodeväťdesiattritisíc/n po:number
+štyristodevätnásť/n po:number
+štyristodevätnásťtisíc/n po:number
+štyristodeväťtisíc/n po:number
+štyristodva/n po:number
+štyristodvadsať/n po:number
+štyristodvadsaťdeväť/n po:number
+štyristodvadsaťdeväťtisíc/n po:number
+štyristodvadsaťdva/n po:number
+štyristodvadsaťdvatisíc/n po:number
+štyristodvadsaťjeden/n po:number
+štyristodvadsaťjedentisíc/n po:number
+štyristodvadsaťosem/n po:number
+štyristodvadsaťosemtisíc/n po:number
+štyristodvadsaťpäť/n po:number
+štyristodvadsaťpäťtisíc/n po:number
+štyristodvadsaťsedem/n po:number
+štyristodvadsaťsedemtisíc/n po:number
+štyristodvadsaťšesť/n po:number
+štyristodvadsaťšesťtisíc/n po:number
+štyristodvadsaťštyri/n po:number
+štyristodvadsaťštyritisíc/n po:number
+štyristodvadsaťtisíc/n po:number
+štyristodvadsaťtri/n po:number
+štyristodvadsaťtritisíc/n po:number
+štyristodvanásť/n po:number
+štyristodvanásťtisíc/n po:number
+štyristodvatisíc/n po:number
+štyristojeden/n po:number
+štyristojedenásť/n po:number
+štyristojedenásťtisíc/n po:number
+štyristojedentisíc/n po:number
 štyristokorunové
-štyristoosem/n
-štyristoosemdesiat/n
-štyristoosemdesiatdeväť/n
-štyristoosemdesiatdeväťtisíc/n
-štyristoosemdesiatdva/n
-štyristoosemdesiatdvatisíc/n
-štyristoosemdesiatjeden/n
-štyristoosemdesiatjedentisíc/n
+štyristoosem/n po:number
+štyristoosemdesiat/n po:number
+štyristoosemdesiatdeväť/n po:number
+štyristoosemdesiatdeväťtisíc/n po:number
+štyristoosemdesiatdva/n po:number
+štyristoosemdesiatdvatisíc/n po:number
+štyristoosemdesiatjeden/n po:number
+štyristoosemdesiatjedentisíc/n po:number
 štyristoosemdesiatom
-štyristoosemdesiatosem/n
-štyristoosemdesiatosemtisíc/n
-štyristoosemdesiatpäť/n
-štyristoosemdesiatpäťtisíc/n
-štyristoosemdesiatsedem/n
-štyristoosemdesiatsedemtisíc/n
-štyristoosemdesiatšesť/n
-štyristoosemdesiatšesťtisíc/n
-štyristoosemdesiatštyri/n
-štyristoosemdesiatštyritisíc/n
-štyristoosemdesiattisíc/n
-štyristoosemdesiattri/n
-štyristoosemdesiattritisíc/n
-štyristoosemnásť/n
-štyristoosemnásťtisíc/n
-štyristoosemtisíc/n
-štyristopäť/n
-štyristopäťdesiat/n
-štyristopäťdesiatdeväť/n
-štyristopäťdesiatdeväťtisíc/n
-štyristopäťdesiatdva/n
-štyristopäťdesiatdvatisíc/n
-štyristopäťdesiatjeden/n
-štyristopäťdesiatjedentisíc/n
-štyristopäťdesiatosem/n
-štyristopäťdesiatosemtisíc/n
-štyristopäťdesiatpäť/n
-štyristopäťdesiatpäťtisíc/n
-štyristopäťdesiatsedem/n
-štyristopäťdesiatsedemtisíc/n
-štyristopäťdesiatšesť/n
-štyristopäťdesiatšesťtisíc/n
-štyristopäťdesiatštyri/n
-štyristopäťdesiatštyritisíc/n
-štyristopäťdesiattisíc/n
-štyristopäťdesiattri/n
-štyristopäťdesiattritisíc/n
-štyristopätnásť/n
-štyristopätnásťtisíc/n
-štyristopäťtisíc/n
-štyristosedem/n
-štyristosedemdesiat/n
-štyristosedemdesiatdeväť/n
-štyristosedemdesiatdeväťtisíc/n
-štyristosedemdesiatdva/n
-štyristosedemdesiatdvatisíc/n
-štyristosedemdesiatjeden/n
-štyristosedemdesiatjedentisíc/n
-štyristosedemdesiatosem/n
-štyristosedemdesiatosemtisíc/n
-štyristosedemdesiatpäť/n
-štyristosedemdesiatpäťtisíc/n
-štyristosedemdesiatsedem/n
-štyristosedemdesiatsedemtisíc/n
-štyristosedemdesiatšesť/n
-štyristosedemdesiatšesťtisíc/n
-štyristosedemdesiatštyri/n
-štyristosedemdesiatštyritisíc/n
-štyristosedemdesiattisíc/n
-štyristosedemdesiattri/n
-štyristosedemdesiattritisíc/n
-štyristosedemnásť/n
-štyristosedemnásťtisíc/n
-štyristosedemtisíc/n
-štyristošesť/n
-štyristošesťdesiat/n
-štyristošesťdesiatdeväť/n
-štyristošesťdesiatdeväťtisíc/n
-štyristošesťdesiatdva/n
-štyristošesťdesiatdvatisíc/n
-štyristošesťdesiatjeden/n
-štyristošesťdesiatjedentisíc/n
-štyristošesťdesiatosem/n
-štyristošesťdesiatosemtisíc/n
-štyristošesťdesiatpäť/n
-štyristošesťdesiatpäťtisíc/n
-štyristošesťdesiatsedem/n
-štyristošesťdesiatsedemtisíc/n
-štyristošesťdesiatšesť/n
-štyristošesťdesiatšesťtisíc/n
-štyristošesťdesiatštyri/n
-štyristošesťdesiatštyritisíc/n
-štyristošesťdesiattisíc/n
-štyristošesťdesiattri/n
-štyristošesťdesiattritisíc/n
-štyristošestnásť/n
-štyristošestnásťtisíc/n
-štyristošesťtisíc/n
-štyristoštrnásť/n
-štyristoštrnásťtisíc/n
-štyristoštyri/n
-štyristoštyridsať/n
-štyristoštyridsaťdeväť/n
-štyristoštyridsaťdeväťtisíc/n
-štyristoštyridsaťdva/n
-štyristoštyridsaťdvatisíc/n
-štyristoštyridsaťjeden/n
-štyristoštyridsaťjedentisíc/n
-štyristoštyridsaťosem/n
-štyristoštyridsaťosemtisíc/n
-štyristoštyridsaťpäť/n
-štyristoštyridsaťpäťtisíc/n
-štyristoštyridsaťsedem/n
-štyristoštyridsaťsedemtisíc/n
-štyristoštyridsaťšesť/n
-štyristoštyridsaťšesťtisíc/n
-štyristoštyridsaťštyri/n
-štyristoštyridsaťštyritisíc/n
-štyristoštyridsaťtisíc/n
-štyristoštyridsaťtri/n
-štyristoštyridsaťtritisíc/n
+štyristoosemdesiatosem/n po:number
+štyristoosemdesiatosemtisíc/n po:number
+štyristoosemdesiatpäť/n po:number
+štyristoosemdesiatpäťtisíc/n po:number
+štyristoosemdesiatsedem/n po:number
+štyristoosemdesiatsedemtisíc/n po:number
+štyristoosemdesiatšesť/n po:number
+štyristoosemdesiatšesťtisíc/n po:number
+štyristoosemdesiatštyri/n po:number
+štyristoosemdesiatštyritisíc/n po:number
+štyristoosemdesiattisíc/n po:number
+štyristoosemdesiattri/n po:number
+štyristoosemdesiattritisíc/n po:number
+štyristoosemnásť/n po:number
+štyristoosemnásťtisíc/n po:number
+štyristoosemtisíc/n po:number
+štyristopäť/n po:number
+štyristopäťdesiat/n po:number
+štyristopäťdesiatdeväť/n po:number
+štyristopäťdesiatdeväťtisíc/n po:number
+štyristopäťdesiatdva/n po:number
+štyristopäťdesiatdvatisíc/n po:number
+štyristopäťdesiatjeden/n po:number
+štyristopäťdesiatjedentisíc/n po:number
+štyristopäťdesiatosem/n po:number
+štyristopäťdesiatosemtisíc/n po:number
+štyristopäťdesiatpäť/n po:number
+štyristopäťdesiatpäťtisíc/n po:number
+štyristopäťdesiatsedem/n po:number
+štyristopäťdesiatsedemtisíc/n po:number
+štyristopäťdesiatšesť/n po:number
+štyristopäťdesiatšesťtisíc/n po:number
+štyristopäťdesiatštyri/n po:number
+štyristopäťdesiatštyritisíc/n po:number
+štyristopäťdesiattisíc/n po:number
+štyristopäťdesiattri/n po:number
+štyristopäťdesiattritisíc/n po:number
+štyristopätnásť/n po:number
+štyristopätnásťtisíc/n po:number
+štyristopäťtisíc/n po:number
+štyristosedem/n po:number
+štyristosedemdesiat/n po:number
+štyristosedemdesiatdeväť/n po:number
+štyristosedemdesiatdeväťtisíc/n po:number
+štyristosedemdesiatdva/n po:number
+štyristosedemdesiatdvatisíc/n po:number
+štyristosedemdesiatjeden/n po:number
+štyristosedemdesiatjedentisíc/n po:number
+štyristosedemdesiatosem/n po:number
+štyristosedemdesiatosemtisíc/n po:number
+štyristosedemdesiatpäť/n po:number
+štyristosedemdesiatpäťtisíc/n po:number
+štyristosedemdesiatsedem/n po:number
+štyristosedemdesiatsedemtisíc/n po:number
+štyristosedemdesiatšesť/n po:number
+štyristosedemdesiatšesťtisíc/n po:number
+štyristosedemdesiatštyri/n po:number
+štyristosedemdesiatštyritisíc/n po:number
+štyristosedemdesiattisíc/n po:number
+štyristosedemdesiattri/n po:number
+štyristosedemdesiattritisíc/n po:number
+štyristosedemnásť/n po:number
+štyristosedemnásťtisíc/n po:number
+štyristosedemtisíc/n po:number
+štyristošesť/n po:number
+štyristošesťdesiat/n po:number
+štyristošesťdesiatdeväť/n po:number
+štyristošesťdesiatdeväťtisíc/n po:number
+štyristošesťdesiatdva/n po:number
+štyristošesťdesiatdvatisíc/n po:number
+štyristošesťdesiatjeden/n po:number
+štyristošesťdesiatjedentisíc/n po:number
+štyristošesťdesiatosem/n po:number
+štyristošesťdesiatosemtisíc/n po:number
+štyristošesťdesiatpäť/n po:number
+štyristošesťdesiatpäťtisíc/n po:number
+štyristošesťdesiatsedem/n po:number
+štyristošesťdesiatsedemtisíc/n po:number
+štyristošesťdesiatšesť/n po:number
+štyristošesťdesiatšesťtisíc/n po:number
+štyristošesťdesiatštyri/n po:number
+štyristošesťdesiatštyritisíc/n po:number
+štyristošesťdesiattisíc/n po:number
+štyristošesťdesiattri/n po:number
+štyristošesťdesiattritisíc/n po:number
+štyristošestnásť/n po:number
+štyristošestnásťtisíc/n po:number
+štyristošesťtisíc/n po:number
+štyristoštrnásť/n po:number
+štyristoštrnásťtisíc/n po:number
+štyristoštyri/n po:number
+štyristoštyridsať/n po:number
+štyristoštyridsaťdeväť/n po:number
+štyristoštyridsaťdeväťtisíc/n po:number
+štyristoštyridsaťdva/n po:number
+štyristoštyridsaťdvatisíc/n po:number
+štyristoštyridsaťjeden/n po:number
+štyristoštyridsaťjedentisíc/n po:number
+štyristoštyridsaťosem/n po:number
+štyristoštyridsaťosemtisíc/n po:number
+štyristoštyridsaťpäť/n po:number
+štyristoštyridsaťpäťtisíc/n po:number
+štyristoštyridsaťsedem/n po:number
+štyristoštyridsaťsedemtisíc/n po:number
+štyristoštyridsaťšesť/n po:number
+štyristoštyridsaťšesťtisíc/n po:number
+štyristoštyridsaťštyri/n po:number
+štyristoštyridsaťštyritisíc/n po:number
+štyristoštyridsaťtisíc/n po:number
+štyristoštyridsaťtri/n po:number
+štyristoštyridsaťtritisíc/n po:number
 štyristoštyridsiatich
-štyristoštyritisíc/n
-štyristotisíc/n
+štyristoštyritisíc/n po:number
+štyristotisíc/n po:number
 štyristotisícový/YN po:adjective
 štyristotisícu
-štyristotri/n
-štyristotridsať/n
-štyristotridsaťdeväť/n
-štyristotridsaťdeväťtisíc/n
-štyristotridsaťdva/n
-štyristotridsaťdvatisíc/n
-štyristotridsaťjeden/n
-štyristotridsaťjedentisíc/n
-štyristotridsaťosem/n
-štyristotridsaťosemtisíc/n
-štyristotridsaťpäť/n
-štyristotridsaťpäťtisíc/n
-štyristotridsaťsedem/n
-štyristotridsaťsedemtisíc/n
-štyristotridsaťšesť/n
-štyristotridsaťšesťtisíc/n
-štyristotridsaťštyri/n
-štyristotridsaťštyritisíc/n
-štyristotridsaťtisíc/n
-štyristotridsaťtri/n
-štyristotridsaťtritisíc/n
+štyristotri/n po:number
+štyristotridsať/n po:number
+štyristotridsaťdeväť/n po:number
+štyristotridsaťdeväťtisíc/n po:number
+štyristotridsaťdva/n po:number
+štyristotridsaťdvatisíc/n po:number
+štyristotridsaťjeden/n po:number
+štyristotridsaťjedentisíc/n po:number
+štyristotridsaťosem/n po:number
+štyristotridsaťosemtisíc/n po:number
+štyristotridsaťpäť/n po:number
+štyristotridsaťpäťtisíc/n po:number
+štyristotridsaťsedem/n po:number
+štyristotridsaťsedemtisíc/n po:number
+štyristotridsaťšesť/n po:number
+štyristotridsaťšesťtisíc/n po:number
+štyristotridsaťštyri/n po:number
+štyristotridsaťštyritisíc/n po:number
+štyristotridsaťtisíc/n po:number
+štyristotridsaťtri/n po:number
+štyristotridsaťtritisíc/n po:number
 štyristotridsiatich
-štyristotrinásť/n
-štyristotrinásťtisíc/n
-štyristotritisíc/n
-štyritisíc/n
+štyristotrinásť/n po:number
+štyristotrinásťtisíc/n po:number
+štyristotritisíc/n po:number
+štyritisíc/n po:number
 štyritisíceho
 štyritisíci
 štyritisícovými
@@ -131915,17 +131915,17 @@ Trident
 Tridentom
 tridentský/YN po:adjective
 Tridentu
-tridsať/n
-tridsaťdeväť/n
-tridsaťdeväťtisíc/n
+tridsať/n po:number
+tridsaťdeväť/n po:number
+tridsaťdeväťtisíc/n po:number
 tridsaťdňovú
-tridsaťdva/n
-tridsaťdvatisíc/n
+tridsaťdva/n po:number
+tridsaťdvatisíc/n po:number
 tridsaťdvatisícdvesto
 tridsaťdvatisícpäťsto
 tridsatina/zZ po:noun is:feminine
-tridsaťjeden/n
-tridsaťjedentisíc/n
+tridsaťjeden/n po:number
+tridsaťjedentisíc/n po:number
 tridsaťkilometrový/YN po:adjective
 tridsaťkorunový/YN po:adjective
 tridsaťkrát
@@ -131933,27 +131933,27 @@ tridsaťnásobkom
 tridsaťnásobku
 tridsaťnásobnú
 tridsaťnásobok
-tridsaťosem/n
-tridsaťosemtisíc/n
-tridsaťpäť/n
+tridsaťosem/n po:number
+tridsaťosemtisíc/n po:number
+tridsaťpäť/n po:number
 tridsaťpäťky
 tridsaťpäťročný/YN po:adjective
-tridsaťpäťtisíc/n
+tridsaťpäťtisíc/n po:number
 tridsaťročný/YN po:adjective
-tridsaťsedem/n
-tridsaťsedemtisíc/n
+tridsaťsedem/n po:number
+tridsaťsedemtisíc/n po:number
 tridsaťstupňová
 tridsaťstupňovým
-tridsaťšesť/n
-tridsaťšesťtisíc/n
-tridsaťštyri/n
-tridsaťštyritisíc/n
-tridsaťtisíc/n
+tridsaťšesť/n po:number
+tridsaťšesťtisíc/n po:number
+tridsaťštyri/n po:number
+tridsaťštyritisíc/n po:number
+tridsaťtisíc/n po:number
 tridsaťtisíckrát
 tridsaťtisícový/YN po:adjective
 tridsaťtisícpäťsto
-tridsaťtri/n
-tridsaťtritisíc/n
+tridsaťtri/n po:number
+tridsaťtritisíc/n po:number
 tridsiati/YN po:adjective
 tridsiatina
 tridsiatiny
@@ -132117,7 +132117,7 @@ trimovať/WN po:verb
 trímte
 trimurti
 trimviráte
-trinásť/n
+trinásť/n po:number
 trinásťdňový/YN po:adjective
 trinásti/YN po:adjective
 trinástinu
@@ -132127,7 +132127,7 @@ trinásťmesačné
 trinásťmesačného
 trinásťmesačnom
 trinásťročný/YN po:adjective
-trinásťtisíc/n
+trinásťtisíc/n po:number
 trinásty/YN po:adjective
 tringelt/B po:noun is:masculine
 tringeltmi
@@ -132188,225 +132188,225 @@ triste
 tristí
 tristne
 tristný/YN po:adjective
-tristo/n
+tristo/n po:number
 tristočlennej
 tristočlenným
-tristodesať/n
-tristodesaťtisíc/n
-tristodeväť/n
-tristodeväťdesiat/n
-tristodeväťdesiatdeväť/n
-tristodeväťdesiatdeväťtisíc/n
-tristodeväťdesiatdva/n
-tristodeväťdesiatdvatisíc/n
-tristodeväťdesiatjeden/n
-tristodeväťdesiatjedentisíc/n
-tristodeväťdesiatosem/n
-tristodeväťdesiatosemtisíc/n
-tristodeväťdesiatpäť/n
-tristodeväťdesiatpäťtisíc/n
-tristodeväťdesiatsedem/n
-tristodeväťdesiatsedemtisíc/n
-tristodeväťdesiatšesť/n
-tristodeväťdesiatšesťtisíc/n
-tristodeväťdesiatštyri/n
-tristodeväťdesiatštyritisíc/n
-tristodeväťdesiattisíc/n
-tristodeväťdesiattri/n
-tristodeväťdesiattritisíc/n
-tristodevätnásť/n
-tristodevätnásťtisíc/n
-tristodeväťtisíc/n
-tristodva/n
-tristodvadsať/n
-tristodvadsaťdeväť/n
-tristodvadsaťdeväťtisíc/n
-tristodvadsaťdva/n
-tristodvadsaťdvatisíc/n
-tristodvadsaťjeden/n
-tristodvadsaťjedentisíc/n
-tristodvadsaťosem/n
-tristodvadsaťosemtisíc/n
-tristodvadsaťpäť/n
-tristodvadsaťpäťtisíc/n
-tristodvadsaťsedem/n
-tristodvadsaťsedemtisíc/n
-tristodvadsaťšesť/n
-tristodvadsaťšesťtisíc/n
-tristodvadsaťštyri/n
-tristodvadsaťštyritisíc/n
-tristodvadsaťtisíc/n
-tristodvadsaťtri/n
-tristodvadsaťtritisíc/n
-tristodvanásť/n
-tristodvanásťtisíc/n
-tristodvatisíc/n
-tristojeden/n
-tristojedenásť/n
-tristojedenásťtisíc/n
-tristojedentisíc/n
+tristodesať/n po:number
+tristodesaťtisíc/n po:number
+tristodeväť/n po:number
+tristodeväťdesiat/n po:number
+tristodeväťdesiatdeväť/n po:number
+tristodeväťdesiatdeväťtisíc/n po:number
+tristodeväťdesiatdva/n po:number
+tristodeväťdesiatdvatisíc/n po:number
+tristodeväťdesiatjeden/n po:number
+tristodeväťdesiatjedentisíc/n po:number
+tristodeväťdesiatosem/n po:number
+tristodeväťdesiatosemtisíc/n po:number
+tristodeväťdesiatpäť/n po:number
+tristodeväťdesiatpäťtisíc/n po:number
+tristodeväťdesiatsedem/n po:number
+tristodeväťdesiatsedemtisíc/n po:number
+tristodeväťdesiatšesť/n po:number
+tristodeväťdesiatšesťtisíc/n po:number
+tristodeväťdesiatštyri/n po:number
+tristodeväťdesiatštyritisíc/n po:number
+tristodeväťdesiattisíc/n po:number
+tristodeväťdesiattri/n po:number
+tristodeväťdesiattritisíc/n po:number
+tristodevätnásť/n po:number
+tristodevätnásťtisíc/n po:number
+tristodeväťtisíc/n po:number
+tristodva/n po:number
+tristodvadsať/n po:number
+tristodvadsaťdeväť/n po:number
+tristodvadsaťdeväťtisíc/n po:number
+tristodvadsaťdva/n po:number
+tristodvadsaťdvatisíc/n po:number
+tristodvadsaťjeden/n po:number
+tristodvadsaťjedentisíc/n po:number
+tristodvadsaťosem/n po:number
+tristodvadsaťosemtisíc/n po:number
+tristodvadsaťpäť/n po:number
+tristodvadsaťpäťtisíc/n po:number
+tristodvadsaťsedem/n po:number
+tristodvadsaťsedemtisíc/n po:number
+tristodvadsaťšesť/n po:number
+tristodvadsaťšesťtisíc/n po:number
+tristodvadsaťštyri/n po:number
+tristodvadsaťštyritisíc/n po:number
+tristodvadsaťtisíc/n po:number
+tristodvadsaťtri/n po:number
+tristodvadsaťtritisíc/n po:number
+tristodvanásť/n po:number
+tristodvanásťtisíc/n po:number
+tristodvatisíc/n po:number
+tristojeden/n po:number
+tristojedenásť/n po:number
+tristojedenásťtisíc/n po:number
+tristojedentisíc/n po:number
 tristokorunová
 tristokorunovej
 tristokorunovou
 tristokrát
 tristometrový/YN po:adjective
-tristoosem/n
-tristoosemdesiat/n
-tristoosemdesiatdeväť/n
-tristoosemdesiatdeväťtisíc/n
-tristoosemdesiatdva/n
-tristoosemdesiatdvatisíc/n
-tristoosemdesiatjeden/n
-tristoosemdesiatjedentisíc/n
-tristoosemdesiatosem/n
-tristoosemdesiatosemtisíc/n
-tristoosemdesiatpäť/n
-tristoosemdesiatpäťtisíc/n
-tristoosemdesiatsedem/n
-tristoosemdesiatsedemtisíc/n
-tristoosemdesiatšesť/n
-tristoosemdesiatšesťtisíc/n
-tristoosemdesiatštyri/n
-tristoosemdesiatštyritisíc/n
-tristoosemdesiattisíc/n
-tristoosemdesiattri/n
-tristoosemdesiattritisíc/n
-tristoosemnásť/n
-tristoosemnásťtisíc/n
-tristoosemtisíc/n
-tristopäť/n
-tristopäťdesiat/n
-tristopäťdesiatdeväť/n
-tristopäťdesiatdeväťtisíc/n
-tristopäťdesiatdva/n
-tristopäťdesiatdvatisíc/n
-tristopäťdesiatjeden/n
-tristopäťdesiatjedentisíc/n
-tristopäťdesiatosem/n
-tristopäťdesiatosemtisíc/n
-tristopäťdesiatpäť/n
-tristopäťdesiatpäťtisíc/n
-tristopäťdesiatsedem/n
-tristopäťdesiatsedemtisíc/n
-tristopäťdesiatšesť/n
-tristopäťdesiatšesťtisíc/n
-tristopäťdesiatštyri/n
-tristopäťdesiatštyritisíc/n
-tristopäťdesiattisíc/n
-tristopäťdesiattri/n
-tristopäťdesiattritisíc/n
-tristopätnásť/n
-tristopätnásťtisíc/n
-tristopäťtisíc/n
+tristoosem/n po:number
+tristoosemdesiat/n po:number
+tristoosemdesiatdeväť/n po:number
+tristoosemdesiatdeväťtisíc/n po:number
+tristoosemdesiatdva/n po:number
+tristoosemdesiatdvatisíc/n po:number
+tristoosemdesiatjeden/n po:number
+tristoosemdesiatjedentisíc/n po:number
+tristoosemdesiatosem/n po:number
+tristoosemdesiatosemtisíc/n po:number
+tristoosemdesiatpäť/n po:number
+tristoosemdesiatpäťtisíc/n po:number
+tristoosemdesiatsedem/n po:number
+tristoosemdesiatsedemtisíc/n po:number
+tristoosemdesiatšesť/n po:number
+tristoosemdesiatšesťtisíc/n po:number
+tristoosemdesiatštyri/n po:number
+tristoosemdesiatštyritisíc/n po:number
+tristoosemdesiattisíc/n po:number
+tristoosemdesiattri/n po:number
+tristoosemdesiattritisíc/n po:number
+tristoosemnásť/n po:number
+tristoosemnásťtisíc/n po:number
+tristoosemtisíc/n po:number
+tristopäť/n po:number
+tristopäťdesiat/n po:number
+tristopäťdesiatdeväť/n po:number
+tristopäťdesiatdeväťtisíc/n po:number
+tristopäťdesiatdva/n po:number
+tristopäťdesiatdvatisíc/n po:number
+tristopäťdesiatjeden/n po:number
+tristopäťdesiatjedentisíc/n po:number
+tristopäťdesiatosem/n po:number
+tristopäťdesiatosemtisíc/n po:number
+tristopäťdesiatpäť/n po:number
+tristopäťdesiatpäťtisíc/n po:number
+tristopäťdesiatsedem/n po:number
+tristopäťdesiatsedemtisíc/n po:number
+tristopäťdesiatšesť/n po:number
+tristopäťdesiatšesťtisíc/n po:number
+tristopäťdesiatštyri/n po:number
+tristopäťdesiatštyritisíc/n po:number
+tristopäťdesiattisíc/n po:number
+tristopäťdesiattri/n po:number
+tristopäťdesiattritisíc/n po:number
+tristopätnásť/n po:number
+tristopätnásťtisíc/n po:number
+tristopäťtisíc/n po:number
 tristoraký/YN po:adjective
 tristoročný/YN po:adjective
-tristosedem/n
-tristosedemdesiat/n
-tristosedemdesiatdeväť/n
-tristosedemdesiatdeväťtisíc/n
-tristosedemdesiatdva/n
-tristosedemdesiatdvatisíc/n
-tristosedemdesiatjeden/n
-tristosedemdesiatjedentisíc/n
-tristosedemdesiatosem/n
-tristosedemdesiatosemtisíc/n
-tristosedemdesiatpäť/n
-tristosedemdesiatpäťtisíc/n
-tristosedemdesiatsedem/n
-tristosedemdesiatsedemtisíc/n
-tristosedemdesiatšesť/n
-tristosedemdesiatšesťtisíc/n
-tristosedemdesiatštyri/n
-tristosedemdesiatštyritisíc/n
-tristosedemdesiattisíc/n
-tristosedemdesiattri/n
-tristosedemdesiattritisíc/n
-tristosedemnásť/n
-tristosedemnásťtisíc/n
-tristosedemtisíc/n
+tristosedem/n po:number
+tristosedemdesiat/n po:number
+tristosedemdesiatdeväť/n po:number
+tristosedemdesiatdeväťtisíc/n po:number
+tristosedemdesiatdva/n po:number
+tristosedemdesiatdvatisíc/n po:number
+tristosedemdesiatjeden/n po:number
+tristosedemdesiatjedentisíc/n po:number
+tristosedemdesiatosem/n po:number
+tristosedemdesiatosemtisíc/n po:number
+tristosedemdesiatpäť/n po:number
+tristosedemdesiatpäťtisíc/n po:number
+tristosedemdesiatsedem/n po:number
+tristosedemdesiatsedemtisíc/n po:number
+tristosedemdesiatšesť/n po:number
+tristosedemdesiatšesťtisíc/n po:number
+tristosedemdesiatštyri/n po:number
+tristosedemdesiatštyritisíc/n po:number
+tristosedemdesiattisíc/n po:number
+tristosedemdesiattri/n po:number
+tristosedemdesiattritisíc/n po:number
+tristosedemnásť/n po:number
+tristosedemnásťtisíc/n po:number
+tristosedemtisíc/n po:number
 tristosedemtisícpäťsto
-tristošesť/n
-tristošesťdesiat/n
-tristošesťdesiatdeväť/n
-tristošesťdesiatdeväťtisíc/n
-tristošesťdesiatdva/n
-tristošesťdesiatdvatisíc/n
-tristošesťdesiatjeden/n
-tristošesťdesiatjedentisíc/n
-tristošesťdesiatosem/n
-tristošesťdesiatosemtisíc/n
-tristošesťdesiatpäť/n
-tristošesťdesiatpäťtisíc/n
-tristošesťdesiatsedem/n
-tristošesťdesiatsedemtisíc/n
-tristošesťdesiatšesť/n
-tristošesťdesiatšesťtisíc/n
-tristošesťdesiatštyri/n
-tristošesťdesiatštyritisíc/n
-tristošesťdesiattisíc/n
-tristošesťdesiattri/n
-tristošesťdesiattritisíc/n
-tristošestnásť/n
-tristošestnásťtisíc/n
-tristošesťtisíc/n
-tristoštrnásť/n
-tristoštrnásťtisíc/n
-tristoštyri/n
-tristoštyridsať/n
-tristoštyridsaťdeväť/n
-tristoštyridsaťdeväťtisíc/n
-tristoštyridsaťdva/n
-tristoštyridsaťdvatisíc/n
-tristoštyridsaťjeden/n
-tristoštyridsaťjedentisíc/n
-tristoštyridsaťosem/n
-tristoštyridsaťosemtisíc/n
-tristoštyridsaťpäť/n
-tristoštyridsaťpäťtisíc/n
-tristoštyridsaťsedem/n
-tristoštyridsaťsedemtisíc/n
-tristoštyridsaťšesť/n
-tristoštyridsaťšesťtisíc/n
-tristoštyridsaťštyri/n
-tristoštyridsaťštyritisíc/n
-tristoštyridsaťtisíc/n
-tristoštyridsaťtri/n
-tristoštyridsaťtritisíc/n
-tristoštyritisíc/n
-tristotisíc/n
+tristošesť/n po:number
+tristošesťdesiat/n po:number
+tristošesťdesiatdeväť/n po:number
+tristošesťdesiatdeväťtisíc/n po:number
+tristošesťdesiatdva/n po:number
+tristošesťdesiatdvatisíc/n po:number
+tristošesťdesiatjeden/n po:number
+tristošesťdesiatjedentisíc/n po:number
+tristošesťdesiatosem/n po:number
+tristošesťdesiatosemtisíc/n po:number
+tristošesťdesiatpäť/n po:number
+tristošesťdesiatpäťtisíc/n po:number
+tristošesťdesiatsedem/n po:number
+tristošesťdesiatsedemtisíc/n po:number
+tristošesťdesiatšesť/n po:number
+tristošesťdesiatšesťtisíc/n po:number
+tristošesťdesiatštyri/n po:number
+tristošesťdesiatštyritisíc/n po:number
+tristošesťdesiattisíc/n po:number
+tristošesťdesiattri/n po:number
+tristošesťdesiattritisíc/n po:number
+tristošestnásť/n po:number
+tristošestnásťtisíc/n po:number
+tristošesťtisíc/n po:number
+tristoštrnásť/n po:number
+tristoštrnásťtisíc/n po:number
+tristoštyri/n po:number
+tristoštyridsať/n po:number
+tristoštyridsaťdeväť/n po:number
+tristoštyridsaťdeväťtisíc/n po:number
+tristoštyridsaťdva/n po:number
+tristoštyridsaťdvatisíc/n po:number
+tristoštyridsaťjeden/n po:number
+tristoštyridsaťjedentisíc/n po:number
+tristoštyridsaťosem/n po:number
+tristoštyridsaťosemtisíc/n po:number
+tristoštyridsaťpäť/n po:number
+tristoštyridsaťpäťtisíc/n po:number
+tristoštyridsaťsedem/n po:number
+tristoštyridsaťsedemtisíc/n po:number
+tristoštyridsaťšesť/n po:number
+tristoštyridsaťšesťtisíc/n po:number
+tristoštyridsaťštyri/n po:number
+tristoštyridsaťštyritisíc/n po:number
+tristoštyridsaťtisíc/n po:number
+tristoštyridsaťtri/n po:number
+tristoštyridsaťtritisíc/n po:number
+tristoštyritisíc/n po:number
+tristotisíc/n po:number
 tristotisíceho
 tristotisíci
 tristotisícový/YN po:adjective
-tristotri/n
-tristotridsať/n
-tristotridsaťdeväť/n
-tristotridsaťdeväťtisíc/n
-tristotridsaťdva/n
-tristotridsaťdvatisíc/n
-tristotridsaťjeden/n
-tristotridsaťjedentisíc/n
-tristotridsaťosem/n
-tristotridsaťosemtisíc/n
-tristotridsaťpäť/n
-tristotridsaťpäťtisíc/n
-tristotridsaťsedem/n
-tristotridsaťsedemtisíc/n
+tristotri/n po:number
+tristotridsať/n po:number
+tristotridsaťdeväť/n po:number
+tristotridsaťdeväťtisíc/n po:number
+tristotridsaťdva/n po:number
+tristotridsaťdvatisíc/n po:number
+tristotridsaťjeden/n po:number
+tristotridsaťjedentisíc/n po:number
+tristotridsaťosem/n po:number
+tristotridsaťosemtisíc/n po:number
+tristotridsaťpäť/n po:number
+tristotridsaťpäťtisíc/n po:number
+tristotridsaťsedem/n po:number
+tristotridsaťsedemtisíc/n po:number
 tristotridsaťsedemtisícpäťsto
-tristotridsaťšesť/n
-tristotridsaťšesťtisíc/n
-tristotridsaťštyri/n
-tristotridsaťštyritisíc/n
-tristotridsaťtisíc/n
-tristotridsaťtri/n
-tristotridsaťtritisíc/n
-tristotrinásť/n
-tristotrinásťtisíc/n
-tristotritisíc/n
+tristotridsaťšesť/n po:number
+tristotridsaťšesťtisíc/n po:number
+tristotridsaťštyri/n po:number
+tristotridsaťštyritisíc/n po:number
+tristotridsaťtisíc/n po:number
+tristotridsaťtri/n po:number
+tristotridsaťtritisíc/n po:number
+tristotrinásť/n po:number
+tristotrinásťtisíc/n po:number
+tristotritisíc/n po:number
 tristovke
 trištvrte
 tritanopia
 tritikale
-tritisíc/n
+tritisíc/n po:number
 tritisícdeväťstotridsať
 tritisícdvesto
 tritisíce
