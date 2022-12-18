@@ -1,4 +1,4 @@
-160769
+160690
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -8639,7 +8639,7 @@ Borisov/Y po:adjective
 Borisová/Y po:adjective
 boriť/EN po:verb
 boritan
-boriteľ
+boriteľ/c po:noun is:masculine
 borito
 boritý/YN po:adjective
 borivý/YN po:adjective
@@ -9609,7 +9609,7 @@ brzdič
 brzdime
 brzdiť/EN po:verb
 brzdite
-brzditeľ
+brzditeľ/c po:noun is:masculine
 brzdne
 brzdný/YN po:adjective
 brzdovo
@@ -41674,8 +41674,7 @@ kazínový/YN po:adjective
 kazisvet/C po:noun is:masculine
 kazisvetov/Y po:adjective
 kaziť/EN po:verb
-kaziteľ
-kaziteľovi
+kaziteľ/c po:noun is:masculine
 kazivce
 kazivcov/Y po:adjective
 kazivcový/YN po:adjective
@@ -48828,7 +48827,7 @@ kynologička/zZ po:noun is:feminine
 kynológov/Y po:adjective
 kynór
 kynožiť/EN po:verb
-kynožiteľ
+kynožiteľ/c po:noun is:masculine
 kynúť/RN po:verb
 kynutie/V po:noun is:neuter
 kynutý/YN po:adjective
@@ -67293,8 +67292,6 @@ neprivlastnite
 neprivrav
 neprivrúc
 neprivtel
-neprivyrába
-neprivyrábal
 Neprizarobia
 neprizrúc
 neprizvi
@@ -70976,7 +70973,7 @@ nivočeného
 nivočenie/V po:noun is:neuter
 nivočených
 nivočiť/EN po:verb
-nivočiteľ
+nivočiteľ/c po:noun is:masculine
 nízkofrekvenčný/YN po:adjective
 nízkokalorický/YN po:adjective
 nízkokmenný/Y po:adjective
@@ -85997,7 +85994,7 @@ plieniteľ/c po:noun is:masculine
 plienka/zZ po:noun is:feminine
 plienkový/YN po:adjective
 plienočka/zZ po:noun is:feminine
-pliensbach/J
+pliensbach/B po:noun is:masculine
 plient	 st:plenta is:plural is:genitive
 plieseň/D po:noun is:feminine
 plieskanica/U po:noun is:feminine
@@ -86023,7 +86020,7 @@ plisovaný/YN po:adjective
 plisovať/WN po:verb
 plížením
 plížia
-pljeskavica
+pljeskavica/U po:noun is:feminine
 plk
 plm
 plne/N po:adverb
@@ -86039,9 +86036,7 @@ plnička/zZ po:noun is:feminine
 plnidlo/M po:noun is:neuter
 plnievať/XN po:verb
 plniť/EN po:verb
-plniteľ
-plniteľa
-plniteľov
+plniteľ/c po:noun is:masculine
 plnív
 plnivo/M po:noun is:neuter
 plnka/zZ po:noun is:feminine
@@ -88608,14 +88603,7 @@ poistime
 poistiť/EN po:verb
 poistite
 Poistite
-poistiteľ
-poistiteľa
-poistitelia
-poistiteľmi
-poistiteľoch
-poistiteľom
-poistiteľov
-poistiteľovi
+poistiteľ/c po:noun is:masculine
 poistka/zZ po:noun is:feminine
 poistkový/YN po:adjective
 poistne
@@ -88841,7 +88829,7 @@ pokorenie/V po:noun is:neuter
 pokoreniť/EN po:verb
 pokorený/YN po:adjective
 pokoriť/EN po:verb
-pokoriteľ
+pokoriteľ/c po:noun is:masculine
 pokormútiť
 pokorne/N po:adverb
 pokornosť/K po:noun is:feminine
@@ -92391,7 +92379,7 @@ Postupimčan/c po:noun is:masculine
 Postupimčanov/Y po:adjective
 postupimský/YN po:adjective
 postúpiť/XN po:verb
-postupiteľ
+postupiteľ/c po:noun is:masculine
 postupne/N po:adverb
 postupníci
 postupník
@@ -92792,8 +92780,7 @@ potešene
 potešenie/V po:noun is:neuter
 potešený/YN po:adjective
 potešiť/EN po:verb
-potešiteľ
-potešiteľa
+potešiteľ/c po:noun is:masculine
 potešiteľne/N po:adverb
 potešiteľný/YN po:adjective
 potešovanie/VN po:noun is:neuter
@@ -101328,23 +101315,11 @@ privykať/EN po:verb
 privyknúť/WN po:verb
 privyknutie/V po:noun is:neuter
 privyknutý/YN po:adjective
-privyrába
-privyrábajú
-privyrábal
-privyrábala
-privyrábali
-privyrábalo
 privyrábanie/VN po:noun is:neuterprivyrábaním
-privyrábať
+privyrábať/XN po:verb
 privyrobenie/V po:noun is:neuter
-privyrobí
-privyrobia
-privyrobil
-privyrobila
-privyrobili
-privyrobilo
-privyrobiť
-privysoko
+privyrobiť/EN po:verb
+privysoko	 pod:adverb
 privysoký/YN po:adjective
 prix
 prizabiť/WN po:verb
@@ -102703,7 +102678,7 @@ przni
 prznime
 przniť/EN po:verb
 prznite
-przniteľ
+przniteľ/c po:noun is:masculine
 psalmódia
 psaltérium
 psamit
@@ -103260,8 +103235,7 @@ pustošenie/V po:noun is:neuter
 pustošiaci
 pustošiacim
 pustošiť/EN po:verb
-pustošiteľ
-pustošiteľa
+pustošiteľ/c po:noun is:masculine
 pustošivo/N po:adverb
 pustošivý/YN po:adjective
 pustota/zZ po:noun is:feminine
@@ -111699,7 +111673,7 @@ sebareklama
 sebaskúmanie/V po:noun is:neuter
 sebaspytovanie/VN po:noun is:neuter
 sebatrýznenie/V po:noun is:neuter
-sebatrýzniteľ
+sebatrýzniteľ/c po:noun is:masculine
 sebatrýznivý/YN po:adjective
 sebaúct
 sebaúcta/z po:noun is:feminine
@@ -116157,14 +116131,9 @@ snor
 snoriť/EN po:verb
 snorivý/YN po:adjective
 snorte
-snoubording/B po:noun is:masculine
-snoubordingmi
-snoubordingoch
-snoubordingom
-snoubordingov
+snoubording/L po:noun is:masculine
 snoubordingový/YN po:adjective
 snoubordingu
-snoubordingy
 snoubordista/H po:noun is:masculine
 snoubordistka/zZ po:noun is:feminine
 snoubordistov/Y po:adjective
@@ -116177,13 +116146,8 @@ snovárňou
 snovať/WN po:verb
 snový/YN po:adjective
 snowboard
-snowboarding/B po:noun is:masculine
-snowboardingmi
-snowboardingoch
-snowboardingom
-snowboardingov
+snowboarding/L po:noun is:masculine
 snowboardingu
-snowboardingy
 snôpka/zZ po:noun is:feminine
 snôpkoch
 snôpkom
@@ -116413,21 +116377,12 @@ sokolíča/A po:noun is:neuter
 Sokoliec
 sokolík/B po:noun is:masculine
 sokolíkovi
-Sokolke
-sokoľom
-sokoľou
-Sokoľov/Y po:adjective
-Sokolova
-Sokolová/Y po:adjective
-Sokolove
-sokolovi
-Sokolovi
+sokolov/Y po:adjective
 sokolovňa/U po:noun is:feminine
 sokolovní
-sokolovo
-Sokolovom
 sokolovský/Y po:adjective
 Sokolovský/YN po:adjective
+sokolový/Y po:adjective
 sokoľsky
 sokolský/Y po:adjective
 Sokolský/YN po:adjective
@@ -116502,10 +116457,7 @@ soliť/EN po:verb
 solitárny/YN po:adjective
 solitér
 solitéra
-solitérne
-solitérny
-solitérnych
-solitérnym
+solitérny/YN po:adjective
 solitérom
 solitérov
 solitéry
@@ -116548,9 +116500,7 @@ solux/B po:noun is:masculine
 soluxový/YN po:adjective
 solvát
 solvatácia/U po:noun is:feminine
-solvencia
-solvencie
-solvenciu
+solvencia/U po:noun is:feminine
 solvencium
 solventne/N po:adverb
 solventnosť/K po:noun is:feminine
@@ -116558,7 +116508,7 @@ solventný/YN po:adjective
 som	 st:byť	 po:verb is:1st_person
 soma
 Somálsko/M po:noun is:neuter
-somálsky
+somálsky/YN po:adjective
 soman
 somár/L po:noun is:masculine
 somárčina/zZ po:noun is:feminine
@@ -116568,13 +116518,8 @@ somarica/U po:noun is:feminine
 somárik/B po:noun is:masculine
 somárikovi
 somarina/zZ po:noun is:feminine
-somárisk
-somáriská
-somáriskách
-somáriskám
-somárisko/c po:noun is:masculine
+somárisko/M po:noun is:neuter
 somáriskov/Y po:adjective
-somárisku
 somárov/Y po:adjective
 somársky/YN po:adjective
 somárstvach
@@ -116675,17 +116620,12 @@ sopľa/U po:noun is:feminine
 sopľaňa/U po:noun is:feminine
 sopľaní
 sopľavka/zZ po:noun is:feminine
-sopľavo
+sopľavo	po:adverb
 sopľavosť/K po:noun is:feminine
 sopľavý/YN po:adjective
 sopliacky/YN po:adjective
-sopliačisk
-sopliačiská
-sopliačiskách
-sopliačiskám
-sopliačisko/c po:noun is:masculine
+sopliačisko/M po:noun is:neuter
 sopliačiskov/Y po:adjective
-sopliačisku
 sopliak/C po:noun is:masculine
 sopliakov/Y po:adjective
 soplík/B po:noun is:masculine
@@ -116738,9 +116678,7 @@ sorpcii
 sorpčný/YN po:adjective
 sorta/zZ po:noun is:feminine
 sortiment/B po:noun is:masculine
-sortimentácie
-sortimentácii
-sortimentáciu
+sortimentácia/U po:noun is:feminine
 sortimentačných
 sortimentár/C po:noun is:masculine
 sortimentárka/zZ po:noun is:feminine
@@ -116768,8 +116706,8 @@ sošnosť/K po:noun is:feminine
 sošný/YN po:adjective
 SOT	 po:acronym
 Sote
-sotené
 sotenie/V po:noun is:neuter
+sotený/YN po:adjective
 Soter
 soteriológia
 sotiť/EN po:verb
@@ -131448,7 +131386,7 @@ trápievať/XN po:verb
 Trapistický/YN po:adjective
 trapistických
 trápiť/XN po:verb
-trápiteľ
+trápiteľ/c po:noun is:masculine
 trápne/YN po:adjective
 trápnosť/K po:noun is:feminine
 trápny/YN po:adjective
@@ -133072,10 +133010,7 @@ tryzna/zZ po:noun is:feminine
 trýznenie/V po:noun is:neuter
 trýznenom
 trýzniť/XN po:verb
-trýzniteľ
-trýzniteľom
-trýzniteľov
-trýzniteľovi
+trýzniteľ/c po:noun is:masculine
 trýznivo/N po:adverb
 trýznivý/YN po:adjective
 tržba/zZ po:noun is:feminine
@@ -133336,7 +133271,7 @@ tupieť
 tupievať/XN po:verb
 tupírovať/WN po:verb
 tupiť/EN po:verb
-tupiteľ
+tupiteľ/c po:noun is:masculine
 ťupkať
 tupo/N po:adverb
 tupohlavý/YN po:adjective
@@ -133621,7 +133556,7 @@ tvorenie/V po:noun is:neuter
 tvorený/YN po:adjective
 tvoriaci/YN po:adjective
 tvoriť/EN po:verb
-tvoriteľ
+tvoriteľ/c po:noun is:masculine
 tvorivo/N po:adverb
 tvorivosť/K po:noun is:feminine
 tvorivý/YN po:adjective
@@ -137004,9 +136939,7 @@ utešene/N po:adverb
 utešenie/V po:noun is:neuter
 utešený/YN po:adjective
 utešiť/EN po:verb
-utešiteľ
-utešiteľa
-utešitelia
+utešiteľ/c po:noun is:masculine
 útešlivý/YN po:adjective
 útešný/YN po:adjective
 utešovanie/VN po:noun is:neuter
@@ -143681,7 +143614,7 @@ vyhosťovať/WN po:verb
 vyhotovenie/V po:noun is:neuter
 vyhotovený/YN po:adjective
 vyhotoviť/EN po:verb
-vyhotoviteľ
+vyhotoviteľ/c po:noun is:masculine
 vyhotovovanie/VN po:noun is:neuter
 vyhotovovaný/YN po:adjective
 vyhotovovať/WN po:verb
@@ -146428,11 +146361,7 @@ výstavisko/M po:noun is:neuter
 Výstavište
 výstavišti
 vystaviť/EN po:verb
-vystaviteľ
-vystaviteľa
-vystaviteľmi
-vystaviteľom
-vystaviteľov
+vystaviteľ/c po:noun is:masculine
 výstavka/zZ po:noun is:feminine
 výstavne/YN po:adjective
 výstavnícky/YN po:adjective
@@ -149878,7 +149807,7 @@ záhubca
 zahubenie/V po:noun is:neuter
 zahubený/YN po:adjective
 zahubiť/EN po:verb
-zahubiteľ
+zahubiteľ/c po:noun is:masculine
 zahuč
 zahučať/RN po:verb
 zahudlikať
@@ -156024,9 +155953,7 @@ zloženka/zZ po:noun is:feminine
 zložený/YN po:adjective
 zložiť/EN po:verb
 zložite
-zložiteľ
-zložiteľa
-zložitelia
+zložiteľ/c po:noun is:masculine
 zložito
 zložitoabiturientsky
 zložitosť/K po:noun is:feminine
@@ -157640,8 +157567,8 @@ zostávať/XN po:verb
 zostavenie/V po:noun is:neuter
 zostavený/YN po:adjective
 zostaviť/EN po:verb
-Zostaviteľ
-zostaviteľné
+zostaviteľ/c po:noun is:masculine
+zostaviteľný/YN po:adjective
 zostavovanie/VN po:noun is:neuter
 zostavovaný/YN po:adjective
 zostavovať/WN po:verb
@@ -157711,10 +157638,7 @@ zostupný/YN po:adjective
 zostupovanie/VN po:noun is:neuter
 zostupovať/WN po:verb
 zostupový/YN po:adjective
-zostupujúca
-zostupujúci
-zostupujúcim
-zostupujúcom
+zostupujúci/YN po:adjective
 zosúčasniť
 zosúhlasiť
 zosúhlasovanie/VN po:noun is:neuter
@@ -157734,11 +157658,8 @@ zosun/B po:noun is:masculine
 zosunový/YN po:adjective
 zosunúť/RN po:verb
 zosunúť/WN po:verb
-zosunuté
-zosunutého
-zosunutej
 zosunutie/V po:noun is:neuter
-zosunutých
+zosunutý/YN po:adjective
 zosurovieť/XN po:verb
 zosušený/YN po:adjective
 zosušiť/EN po:verb
@@ -157783,7 +157704,7 @@ zošalený/YN po:adjective
 zošalieť/XN po:verb
 zošarpať
 zošedivieť/XN po:verb
-zošednuté
+zošednutý/YN po:adjective
 zošer
 zošerenie/V po:noun is:neuter
 zošerený/YN po:adjective
