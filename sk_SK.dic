@@ -11993,7 +11993,7 @@ cupkať/EN po:verb
 cupnúť/WN po:verb
 cupot/B po:noun is:masculine
 cupotanie/V po:noun is:neuter
-cupotať/ETN
+cupotať/ETN po:verb
 cupotmi
 cuprum
 cupy
@@ -12427,7 +12427,7 @@ CZV	 po:acronym
 čaptaní
 čaptáni
 čaptáňov/Y po:adjective
-čaptať/ETN
+čaptať/ETN po:verb
 čaptavo/N po:adverb
 čaptavý/Y po:adjective
 čaptoš/C po:noun is:masculine
@@ -13130,7 +13130,7 @@ CZV	 po:acronym
 činiaci
 činidlo/M po:noun is:neuter
 činiť/EN po:verb
-činiteľ/JC po:noun is:masculine
+činiteľ/CJ po:noun is:masculine
 činitelia
 činiteľka/zZ po:noun is:feminine
 činiteľský/YN po:adjective
@@ -13728,7 +13728,7 @@ CZV	 po:acronym
 čvachcite
 čvachtanica
 čvachtanie/V po:noun is:neuter
-čvachtať/ETN
+čvachtať/ETN po:verb
 čvachtavo
 čvárg
 čvarga/z po:noun is:feminine
@@ -18392,7 +18392,7 @@ domorodkyňa/U po:noun is:feminine
 domorodo	 po:adverb
 domorodý/YN po:adjective
 domotaný/YN po:adjective
-domotať/ETN
+domotať/ETN po:verb
 domotkať/EN po:verb
 domov/B po:noun is:masculine
 domovina/zZ po:noun is:feminine
@@ -18810,7 +18810,7 @@ doranci
 doraním
 doraniť
 dorantaný/YN po:adjective
-dorantať/ETN
+dorantať/ETN po:verb
 dorast/B po:noun is:masculine
 dorásť/RN po:verb
 dorastajúci/YN po:adjective
@@ -31154,7 +31154,7 @@ hltaní
 hltaním
 hltanový/YN po:adjective
 hltaným
-hltať/ETN
+hltať/ETN po:verb
 hltavec
 hltavo/N po:adverb
 hltavosť/K po:noun is:feminine
@@ -34581,7 +34581,7 @@ chľastačka/zZ po:noun is:feminine
 chlastanie/V po:noun is:neuter
 chľastanie/V po:noun is:neuter
 chlastať/EN po:verb
-chľastať/ETN
+chľastať/ETN po:verb
 chlastať/TN po:verb
 chleba
 chlebáreň/D po:noun is:feminine
@@ -34739,7 +34739,7 @@ chmárička/zZ po:noun is:feminine
 chmáriť
 chmárka/zZ po:noun is:feminine
 chmat/B po:noun is:masculine
-chmátať/XTN
+chmátať/XTN po:verb
 chmatkanie/VN po:noun is:neuterchmatkáš
 chmatkať/EN po:verb
 chmatmi
@@ -35322,7 +35322,7 @@ chrudimský/YN po:adjective
 chrum
 chrúm
 chrúmanie/V po:noun is:neuter
-chrúmať/XTN
+chrúmať/XTN po:verb
 chrumka/zZ po:noun is:feminine
 chrumkanie/V po:noun is:neuter
 chrumkať/EN po:verb
@@ -35541,7 +35541,7 @@ chvasci
 chvascime
 chvascite
 chvastanie/V po:noun is:neuter
-chvastať/ETN
+chvastať/ETN po:verb
 chvastávať/XN po:verb
 chvastavo/N po:adverb
 chvastavý/YN po:adjective
@@ -35556,7 +35556,7 @@ chvastúnstvach
 chvastúnstvam
 chvastúnstvo/M po:noun is:neuter
 chvat/B po:noun is:masculine
-chvátať/XTN
+chvátať/XTN po:verb
 chvátavo
 Chvatimech
 Chvatimechom
@@ -38078,7 +38078,7 @@ jáger/J po:noun is:masculine
 jágerský/YN po:adjective
 Jagom
 jagot/B po:noun is:masculine
-jagotať/ETN
+jagotať/ETN po:verb
 jagotavo/N po:adverb
 jagotavý/YN po:adjective
 jagotmi
@@ -38139,7 +38139,7 @@ jachtársky/YN
 jachtárstvach
 jachtárstvam
 jachtárstvo/M po:noun is:neuter
-jachtať/ETN
+jachtať/ETN po:verb
 jachtavo/N po:adverb
 jachtavosť/K po:noun is:feminine
 jachtavý/YN po:adjective
@@ -48333,7 +48333,7 @@ kúštik/B po:noun is:masculine
 kút/B po:noun is:masculine
 kuť/WN po:verb
 kutáč/J po:noun is:masculine
-kutať/ETN
+kutať/ETN po:verb
 kuter
 kutica/U po:noun is:feminine
 kutie/V po:noun is:neuter
@@ -49416,7 +49416,7 @@ lalok/B po:noun is:masculine
 lalokový/YN po:adjective
 lalopatia
 lalot/B po:noun is:masculine
-lalotať/ETN
+lalotať/ETN po:verb
 lalotmi
 ľaľov/Y po:adjective
 lalôčik/B po:noun is:masculine
@@ -49647,14 +49647,14 @@ laponsky
 laponský/YN po:adjective
 ľapot/B po:noun is:masculine
 ľapotanie/V po:noun is:neuter
-ľapotať/ETN
+ľapotať/ETN po:verb
 ľapotavý/YN po:adjective
 ľapotmi
 lappončina
 laps
 lapsnúť
 lapsus/B po:noun is:masculine
-ľaptať/ETN
+ľaptať/ETN po:verb
 laptop
 lár
 larderellit
@@ -51020,7 +51020,7 @@ Lignum
 ligot/B po:noun is:masculine
 ligotajúci
 ligotanie/V po:noun is:neuter
-ligotať/ETN
+ligotať/ETN po:verb
 ligotavo/N po:adverb
 ligotavý/YN po:adjective
 ligotmi
@@ -52343,7 +52343,7 @@ luhársky/YN po:adjective
 luhárstvach
 luhárstvam
 luhárstvo/M po:noun is:neuter
-luhať/ETN
+luhať/ETN po:verb
 lúhovacím
 lúhovanie/VN po:noun is:neuter
 lúhovať/WN po:verb
@@ -58750,7 +58750,7 @@ moták/B po:noun is:masculine
 motanica/U po:noun is:feminine
 motanina/zZ po:noun is:feminine
 motanisko
-motať/ETN
+motať/ETN po:verb
 motávať/XN po:verb
 motel/B po:noun is:masculine
 motela
@@ -60852,7 +60852,7 @@ nahlodávaná
 nahlodávanie/V po:noun is:neuter
 nahlodávať/XN po:verb
 náhlosť/K po:noun is:feminine
-nahltať/ETN
+nahltať/ETN po:verb
 nahluchastý/YN po:adjective
 nahluchlosť/K po:noun is:feminine
 nahluchlý/YN po:adjective
@@ -61730,7 +61730,7 @@ namosúrene/N po:adverb
 namosúrenosť/K po:noun is:feminine
 namosúrený/YN po:adjective
 namosúriť/XN po:verb
-namotať/ETN
+namotať/ETN po:verb
 namotávanie/V po:noun is:neuter
 namotávať/XN po:verb
 námraz
@@ -72729,7 +72729,7 @@ obmeňujúci
 obmieňanie/VN po:noun is:neuterobmieňaním
 obmieňaný/YN po:adjective
 obmieňať/XN po:verb
-obmotať/ETN
+obmotať/ETN po:verb
 obmotávať/XN po:verb
 obmurovaný/YN po:adjective
 obmurovať/WN po:verb
@@ -74801,7 +74801,7 @@ odmorovacie
 odmorovanie/VN po:noun is:neuter
 odmorovať/WN po:verb
 odmorte
-odmotať/ETN
+odmotať/ETN po:verb
 odmotávať/XN po:verb
 odmrazenie/V po:noun is:neuter
 odmrazený/YN po:adjective
@@ -77643,7 +77643,7 @@ omnoho
 omočiť/EN po:verb
 omokanie/VN po:noun is:neuteromotaná
 omotané
-omotať/ETN
+omotať/ETN po:verb
 omotávať/XN po:verb
 omotka/zZ po:noun is:feminine
 omráčenie/V po:noun is:neuter
@@ -77916,7 +77916,7 @@ opanovaný/YN po:adjective
 opanovať/WN po:verb
 opanovávať/XN po:verb
 opantaný/YN po:adjective
-opantať/ETN
+opantať/ETN po:verb
 opantávať/XN po:verb
 opanúvať/XN po:verb
 opaprikovaný/YN po:adjective
@@ -81807,7 +81807,7 @@ pánta
 pantaleon
 Pantalone
 pantalóny
-pantať/ETN
+pantať/ETN po:verb
 panteista/H po:noun is:masculine
 panteistický/YN po:adjective
 panteistov/Y po:adjective
@@ -85503,7 +85503,7 @@ planta/zZ po:noun is:feminine
 plantalgia
 plantárny/YN po:adjective
 plantať/EN po:verb
-pľantať/ETN
+pľantať/ETN po:verb
 plantať/TN po:verb
 plantavý/YN po:adjective
 plantáž/D po:noun is:feminine
@@ -88220,7 +88220,7 @@ pohlcujúce
 pohlcujúci
 pohlcujúcom
 pohliadnuť/WN po:verb
-pohltať/ETN
+pohltať/ETN po:verb
 pohltenie/V po:noun is:neuter
 pohltený/YN po:adjective
 pohlti
@@ -88550,7 +88550,7 @@ pochrómovanie/VN po:noun is:neuter
 pochrómovaný/YN po:adjective
 pochrómovať/WN po:verb
 pochrúm
-pochrúmať/XTN
+pochrúmať/XTN po:verb
 pochrumkať
 pochrumkávať
 pochrúmme
@@ -88578,7 +88578,7 @@ pochvaľovať/WN po:verb
 pochvasci
 pochvascime
 pochvascite
-pochvastať/ETN
+pochvastať/ETN po:verb
 pochyba/zZ po:noun is:feminine
 pochybene
 pochybenie/V po:noun is:neuter
@@ -90240,7 +90240,7 @@ pomotano/N po:adverb
 pomotanosť/K po:noun is:feminine
 pomotaný/YN po:adjective
 pomotať/EN po:verb
-pomotať/ETN
+pomotať/ETN po:verb
 pomotkať/EN po:verb
 pomôcka/zZ po:noun is:feminine
 pomôcť/RN po:verb
@@ -91572,7 +91572,7 @@ porozlepovať/WN po:verb
 porozliadať
 porozlievať/XN po:verb
 porozliezať/XN po:verb
-porozmetať/ETN
+porozmetať/ETN po:verb
 porozmetávať/XN po:verb
 porozmetúvať/XN po:verb
 porozmýšlať
@@ -92530,7 +92530,7 @@ pošepkať/EN po:verb
 pošepkávať/XN po:verb
 pošepky
 pošepnúť/WN po:verb
-pošeptať/ETN
+pošeptať/ETN po:verb
 pošeptávať/XN po:verb
 poševeliť
 pošibaj
@@ -92989,7 +92989,7 @@ potrescime
 potrescite
 potrestanie/VN po:noun is:neuter
 potrestaný/YN po:adjective
-potrestať/ETN
+potrestať/ETN po:verb
 potretie
 potretý/YN po:adjective
 potrhaný/YN po:adjective
@@ -96641,7 +96641,7 @@ prekurzívny/YN po:adjective
 prekurzor
 prekurzórny/YN po:adjective
 prekuť/WN po:verb
-prekutať/ETN
+prekutať/ETN po:verb
 prekutávať/XN po:verb
 prekutrať
 prekutrávať
@@ -103099,7 +103099,7 @@ puknúť/WN po:verb
 puknutie/V po:noun is:neuter
 puknutý/YN po:adjective
 pukot/B po:noun is:masculine
-pukotať/ETN
+pukotať/ETN po:verb
 pukotmi
 pula
 pulard
@@ -105097,7 +105097,7 @@ reholu
 reholy
 rehoniť
 rehot/B po:noun is:masculine
-rehotať/ETN
+rehotať/ETN po:verb
 rehotmi
 rehtať
 rehtorstvo/M po:noun is:neuter
@@ -105634,7 +105634,7 @@ reproduktor/B po:noun is:masculine
 reproduktorový/YN po:adjective
 reptajúci
 reptanie/V po:noun is:neuter
-reptať/ETN
+reptať/ETN po:verb
 reptavý/YN po:adjective
 reptílie
 republička/zZ po:noun is:feminine
@@ -107228,7 +107228,7 @@ rozčapiť/EN po:verb
 rozčapkať
 rozčapnúť
 rozčapnutý/YN po:adjective
-rozčaptať/ETN
+rozčaptať/ETN po:verb
 rozčarený/YN po:adjective
 rozčarovane/N po:adverb
 rozčarovanie/VN po:noun is:neuter
@@ -107618,11 +107618,11 @@ rozchádzať/XN po:verb
 rozchechci
 rozchechcime
 rozchechcite
-rozchechotať/ETN
+rozchechotať/ETN po:verb
 rozchechtajúc
 rozchechtať/TN po:verb
 rozchchrať
-rozchichotať/ETN
+rozchichotať/ETN po:verb
 rozchľabiť
 rozchľapiť
 rozchlípiť
@@ -107857,7 +107857,7 @@ rozkúskovať/WN po:verb
 rozkuštraný/YN po:adjective
 rozkuštrený/YN po:adjective
 rozkuť/WN po:verb
-rozkutať/ETN
+rozkutať/ETN po:verb
 rozkutávať/XN po:verb
 rozkutrať/TN po:verb
 rozkutrávať/XN po:verb
@@ -108156,7 +108156,7 @@ rozmontovaný/YN po:adjective
 rozmontovať/WN po:verb
 rozmotanie/VN po:noun is:neuterrozmotaním
 rozmotaný/YN po:adjective
-rozmotať/ETN
+rozmotať/ETN po:verb
 rozmotávanie/V po:noun is:neuter
 rozmotávať/XN po:verb
 rozmôcť/RN po:verb
@@ -108918,7 +108918,7 @@ rozrečniť/EN po:verb
 rozrečniť/XN po:verb
 rozrehliť
 rozrehniť
-rozrehotať/ETN
+rozrehotať/ETN po:verb
 rozrehúňať
 rozremziť
 rozrev
@@ -109169,7 +109169,7 @@ rozšparchať/EN po:verb
 rozšpľachnúť
 rozšprudlovať/WN po:verb
 rozšťastnený/YN po:adjective
-rozštebotať/ETN
+rozštebotať/ETN po:verb
 rozštekaný/YN po:adjective
 rozštekať/EN po:verb
 rozštep/B po:noun is:masculine
@@ -113216,7 +113216,7 @@ schrapšťme
 schrapšťte
 schrastavený/YN po:adjective
 schrúm
-schrúmať/XTN
+schrúmať/XTN po:verb
 schrumkať/EN po:verb
 schrúmme
 schrúmte
@@ -120804,7 +120804,7 @@ stresovať/WN po:verb
 stresový/YN po:adjective
 Stress
 strestaného
-strestať/ETN
+strestať/ETN po:verb
 stresujúce
 stresujúci
 strešidelne
@@ -124065,7 +124065,7 @@ SZTK	 po:acronym
 šept
 šeptajúci
 šeptanie/V po:noun is:neuter
-šeptať/ETN
+šeptať/ETN po:verb
 šeptávať/XN po:verb
 šeptavo
 šeptavý/YN po:adjective
@@ -125903,7 +125903,7 @@ SZTK	 po:acronym
 špľachotavý/YN po:adjective
 špľachotmi
 špľachtanica/U po:noun is:feminine
-špľachtať/ETN
+špľachtať/ETN po:verb
 šplech/B po:noun is:masculine
 šplechci
 šplechcime
@@ -125914,7 +125914,7 @@ SZTK	 po:acronym
 šplechotajúc
 šplechotať/TN po:verb
 šplechotmi
-šplechtať/ETN
+šplechtať/ETN po:verb
 šplh/B po:noun is:masculine
 šplhadlo/M po:noun is:neuter
 šplhanie/V po:noun is:neuter
@@ -126663,7 +126663,7 @@ SZTK	 po:acronym
 štrngnúť/WN po:verb
 štrngnutie/V po:noun is:neuter
 štrngot/B po:noun is:masculine
-štrngotať/ETN
+štrngotať/ETN po:verb
 štrngotmi
 štrudieľ
 štrúdieľ
@@ -127387,13 +127387,13 @@ SZTK	 po:acronym
 šuchot/B po:noun is:masculine
 šuchotajúci
 šuchotanie/V po:noun is:neuter
-šuchotať/ETN
+šuchotať/ETN po:verb
 šuchotavo
 šuchotavý/YN po:adjective
 šuchotmi
 šuchta
 šuchtajúci
-šuchtať/ETN
+šuchtať/ETN po:verb
 šuchtavý/YN po:adjective
 Šuchtu
 šúchy
@@ -128369,7 +128369,7 @@ tapisériový/YN po:adjective
 ťapnutie/V po:noun is:neuter
 ťapot/B po:noun is:masculine
 ťapotanie/V po:noun is:neuter
-ťapotať/ETN
+ťapotať/ETN po:verb
 ťapotmi
 Tapou
 ťapôčka/zZ po:noun is:feminine
@@ -131603,7 +131603,7 @@ trbliecu
 trbliecuc
 trblietajúci/YN po:adjective
 trblietanie/V po:noun is:neuter
-trblietať/XTN
+trblietať/XTN po:verb
 trblietavo
 trblietavý/YN po:adjective
 trblietka/zZ po:noun is:feminine
@@ -131735,7 +131735,7 @@ trepniach
 trepnúť/WN po:verb
 trepot/B po:noun is:masculine
 trepotanie/V po:noun is:neuter
-trepotať/ETN
+trepotať/ETN po:verb
 trepotavá
 trepotavé
 trepotmi
@@ -131768,7 +131768,7 @@ trestanie/VN po:noun is:neuter
 trestanka/zZ po:noun is:feminine
 trestankyňa/U po:noun is:feminine
 trestaný/YN po:adjective
-trestať/ETN
+trestať/ETN po:verb
 trestateľný/YN po:adjective
 trestem
 tresti
@@ -137946,7 +137946,7 @@ vaj
 vajang
 Vajanský/YN po:adjective
 vajatanie/V po:noun is:neuter
-vajatať/ETN
+vajatať/ETN po:verb
 vajce/S po:noun is:neuter
 vajciami
 vajcorodosť/K po:noun is:feminine
@@ -142915,7 +142915,7 @@ vybitie/V po:noun is:neuter
 vybito/N po:adverb
 vybitosť/K po:noun is:feminine
 vybitý/YN po:adjective
-vybľabotať/ETN
+vybľabotať/ETN po:verb
 vyblafnúť
 vybľakovať/WN po:verb
 vybľakúvať/XN po:verb
@@ -143127,7 +143127,7 @@ výčapníkov/Y po:adjective
 vyčapnúť
 výčapný/YN po:adjective
 vyčaptaný/YN po:adjective
-vyčaptať/ETN
+vyčaptať/ETN po:verb
 vyčaptavený/YN po:adjective
 vyčapujú
 vyčar
@@ -144019,7 +144019,7 @@ vyjadrovať/WN po:verb
 vyjadrujúci/YN po:adjective
 vyjagať
 vyjachať
-vyjachtať/ETN
+vyjachtať/ETN po:verb
 vyjarenie/V po:noun is:neuter
 vyjaril
 vyjarili
@@ -144240,7 +144240,7 @@ vyknísať
 vykokci
 vykokcime
 vykokcite
-vykoktať/ETN
+vykoktať/ETN po:verb
 vykoľajenie/V po:noun is:neuter
 vykoľajený/YN po:adjective
 vykoľajiť/EN po:verb
@@ -144503,7 +144503,7 @@ vykurovanie/VN po:noun is:neuter
 vykurovaný/YN po:adjective
 vykurovať/WN po:verb
 vykuť/WN po:verb
-vykutať/ETN
+vykutať/ETN po:verb
 vykutávať/XN po:verb
 vykutie/V po:noun is:neuter
 vykutiť
@@ -144963,7 +144963,7 @@ vymontovaný/YN po:adjective
 vymontovať/WN po:verb
 vymordovať/WN po:verb
 vymoriť
-vymotať/ETN
+vymotať/ETN po:verb
 vymotávať/XN po:verb
 vymoženie/V po:noun is:neuter
 vymoženosť/K po:noun is:feminine
@@ -145796,7 +145796,7 @@ vyraďovať/WN po:verb
 výradový/YN po:adjective
 vyraďujúci
 vyrajbať
-vyrapotať/ETN
+vyrapotať/ETN po:verb
 vyrásť/RN po:verb
 vyrastajúce
 vyrastajúceho
@@ -147159,7 +147159,7 @@ vytresknúť
 vytresnú
 vytresnúť
 vytrestaní
-vytrestať/ETN
+vytrestať/ETN po:verb
 vytrešti
 vytreštime
 vytreštiť/EN po:verb
@@ -148833,7 +148833,7 @@ zabíjaví
 zabiť/WN po:verb
 zabitie/V po:noun is:neuter
 zabitý/YN po:adjective
-zabľabotať/ETN
+zabľabotať/ETN po:verb
 zabľač
 zabľačať/RN po:verb
 zablahoželať/EN po:verb
@@ -149066,7 +149066,7 @@ zacnieť/XN po:verb
 zacundraný/YN po:adjective
 zacundrať
 zacupkať/EN po:verb
-zacupotať/ETN
+zacupotať/ETN po:verb
 zacúvanie/V po:noun is:neuter
 zacúvať/XN po:verb
 zacvakať/EN po:verb
@@ -149415,7 +149415,7 @@ zadupať/EN po:verb
 zadupávať/XN po:verb
 zadupkať/EN po:verb
 zaduplikovať/WN po:verb
-zadupotať/ETN
+zadupotať/ETN po:verb
 zadusenie/V po:noun is:neuter
 zadusený/YN po:adjective
 zadusiť/EN po:verb
@@ -149498,7 +149498,7 @@ zafúľaný/YN po:adjective
 zafúľať/XN po:verb
 zafungovať/WN po:verb
 zagágať/XN po:verb
-zagagotať/ETN
+zagagotať/ETN po:verb
 zagániť/XN po:verb
 zagarantovať/WN po:verb
 zagarážovať/WN po:verb
@@ -149851,7 +149851,7 @@ zahrievanie/V po:noun is:neuter
 zahrievať/XN po:verb
 zahrkať/EN po:verb
 zahrkni
-zahrkotať/ETN
+zahrkotať/ETN po:verb
 zahrkútal
 zahrm
 zahrmenie/V po:noun is:neuter
@@ -149981,9 +149981,9 @@ zachcieť/XN po:verb
 zachechci
 zachechcime
 zachechcite
-zachechotať/ETN
-zachechtať/ETN
-zachichotať/ETN
+zachechotať/ETN po:verb
+zachechtať/ETN po:verb
+zachichotať/ETN po:verb
 Zachladené
 zachladeným
 zachladiť
@@ -150212,7 +150212,7 @@ zajagať/EN po:verb
 zajachci
 zajachcime
 zajachcite
-zajachtať/ETN
+zajachtať/ETN po:verb
 zajachtávať/XN po:verb
 zajajč
 zajajčať/RN po:verb
@@ -150408,7 +150408,7 @@ zaklinovať/WN po:verb
 zakliňovať/WN po:verb
 zaklipkať/EN po:verb
 zaklokotať/TN po:verb
-zakloktať/ETN
+zakloktať/ETN po:verb
 záklon/B po:noun is:masculine
 zaklonenou
 zakloniť/EN po:verb
@@ -150442,7 +150442,7 @@ zakokci
 zakokcime
 zakokcite
 zakoketovať/WN po:verb
-zakoktať/ETN
+zakoktať/ETN po:verb
 zakoktávať/XN po:verb
 zakolembať/EN po:verb
 zakolísa
@@ -150829,7 +150829,7 @@ zalievať/XN po:verb
 zálievka/zZ po:noun is:feminine
 zaliezať/XN po:verb
 zaliezť/RN po:verb
-zaligotať/ETN
+zaligotať/ETN po:verb
 zalichotiť/EN po:verb
 zalisovanie/VN po:noun is:neuter
 zalisovaný/YN po:adjective
@@ -150981,7 +150981,7 @@ zamedzovať/WN po:verb
 zamedzujúci/Y po:adjective
 zamechriť/EN po:verb
 zamékať/XN po:verb
-zamekotať/ETN
+zamekotať/ETN po:verb
 zámen
 zámena/zZ po:noun is:feminine
 zamenením
@@ -151091,7 +151091,7 @@ zamietnuť/WN po:verb
 zamietnutie/V po:noun is:neuter
 zamietnutý/YN po:adjective
 zamihať/EN po:verb
-zamihotať/ETN
+zamihotať/ETN po:verb
 zámik/B po:noun is:masculine
 zamilovane/YN po:adjective
 zamilovanie/VN po:noun is:neuter
@@ -151180,7 +151180,7 @@ zamosúrený/YN po:adjective
 zamosúriť
 zamotanie/V po:noun is:neuter
 zamotaný/YN po:adjective
-zamotať/ETN
+zamotať/ETN po:verb
 zamotávanie/V po:noun is:neuter
 zamotávaný/YN po:adjective
 zamotávať/XN po:verb
@@ -152000,7 +152000,7 @@ zapuchanie/VN po:noun is:neuterzapúchanie/V po:noun is:neuter
 zapúchať/XN po:verb
 zapuchnúť/WN po:verb
 zapukať/EN po:verb
-zapukotať/ETN
+zapukotať/ETN po:verb
 zapustenie/V po:noun is:neuter
 zapustený/YN po:adjective
 zapusti
@@ -152069,7 +152069,7 @@ zarapči
 zarapčime
 zarapčite
 zarapkať/EN po:verb
-zarapotať/ETN
+zarapotať/ETN po:verb
 zárast/B po:noun is:masculine
 zarásť/RN po:verb
 zarastania
@@ -152112,7 +152112,7 @@ zarehni
 zarehnime
 zarehniť/EN po:verb
 zarehnite
-zarehotať/ETN
+zarehotať/ETN po:verb
 zareptať
 zaretušovať/WN po:verb
 zarev
@@ -152758,8 +152758,8 @@ zašelestite
 zašemotiť/EN po:verb
 zašepkať/EN po:verb
 zašepnúť
-zašepotať/ETN
-zašeptať/ETN
+zašepotať/ETN po:verb
+zašeptať/ETN po:verb
 zašereným
 zášerie
 zašermovať/WN po:verb
@@ -152931,9 +152931,9 @@ zaštiťovať/WN po:verb
 zaštopkať/EN po:verb
 zaštopľovať/WN po:verb
 zaštrkať/EN po:verb
-zaštrkotať/ETN
+zaštrkotať/ETN po:verb
 zaštrngať/EN po:verb
-zaštrngotať/ETN
+zaštrngotať/ETN po:verb
 zaštrnutie/V po:noun is:neuter
 zašťukať/EN po:verb
 zaštupľovanie/VN po:noun is:neuter
@@ -152942,7 +152942,7 @@ zašuchnúť/WN po:verb
 zašuchor
 zašuchoriť/EN po:verb
 zašuchorte
-zašuchotať/ETN
+zašuchotať/ETN po:verb
 zašúľať
 zašum
 zášum
@@ -153192,7 +153192,7 @@ zatrepávať/XN po:verb
 zátrepka/zZ po:noun is:feminine
 zatrepnúť
 zatrepotaním
-zatrepotať/ETN
+zatrepotať/ETN po:verb
 zatresknúť/WN po:verb
 zatresnúť/WN po:verb
 zatresnutý/YN po:adjective
@@ -154348,7 +154348,7 @@ zdeprimovaný/YN po:adjective
 zdeprimovať/WN po:verb
 zdepsiť
 zdeptaný/YN po:adjective
-zdeptať/ETN
+zdeptať/ETN po:verb
 zderca
 zderstvo/M po:noun is:neuter
 zdesaťnásobenie/V po:noun is:neuter
@@ -156481,7 +156481,7 @@ ZMOS	 po:acronym
 zmotanie/V po:noun is:neuter
 zmotanina/zZ po:noun is:feminine
 zmotaný/YN po:adjective
-zmotať/ETN
+zmotať/ETN po:verb
 zmotávanie/V po:noun is:neuter
 zmotávať/XN po:verb
 zmotnieť
@@ -157234,7 +157234,7 @@ zodpovedajúco
 zodpovedane
 zodpovedanie/VN po:noun is:neuter
 zodpovedaný/YN po:adjective
-zodpovedať/EWN
+zodpovedať/EWN po:verb
 zodpovedateľná
 zodpovedateľné
 zodpovedndý/YN po:adjective
