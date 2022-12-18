@@ -45353,7 +45353,7 @@ korčuliar/C po:noun is:masculine
 korčuliarka/zZ po:noun is:feminine
 korčuliarov/Y po:adjective
 korčuliarsky/YN po:adjective
-korčulovačka/ZZ po:noun is:feminine
+korčulovačka/zZ po:noun is:feminine
 korčuľovanie/VN po:noun is:neuter
 korčuľovať/WN po:verb
 kord/B po:noun is:masculine
@@ -45400,7 +45400,7 @@ korektívny/YN po:adjective
 korektne	 po:adverb
 korektnosť/K po:noun is:feminine
 korektný/YN po:adjective
-korektor/CB po:noun is:masculine
+korektor/BC po:noun is:masculine
 korektorka/zZ po:noun is:feminine
 korektorňa
 korektorov/Y po:adjective
@@ -72839,7 +72839,7 @@ oboplávanie/V po:noun is:neuter
 oboplávať/XN po:verb
 oboplaviť/EN po:verb
 obopnúť/WN po:verb
-obor/CB po:noun is:masculine
+obor/BC po:noun is:masculine
 oboraním
 oborať/RN po:verb
 oborávač/J po:noun is:masculine
@@ -96112,7 +96112,7 @@ prehlbovaný/YN po:adjective
 prehlbovať/WN po:verb
 prehlbujúce
 prehliadač/C po:noun is:masculine
-prehliadač/CB po:noun is:masculine
+prehliadač/BC po:noun is:masculine
 prehliadačov/Y po:adjective
 prehliadanie/V po:noun is:neuter
 prehliadaný/YN po:adjective
@@ -132603,7 +132603,7 @@ trojdielnosť/K po:noun is:feminine
 trojdielny/YN po:adjective
 trojdimenzionálny/Y po:adjective
 trojdňový/YN po:adjective
-trojdohoda/zz po:noun is:feminine
+trojdohoda/zZ po:noun is:feminine
 troje
 Tróje
 trojetážovú
@@ -157199,7 +157199,7 @@ zobraziť/EN po:verb
 zobraziteľné
 zobrazovací/I po:adjective
 zobrazovací/IN po:adjective
-zobrazovač/CB po:noun is:masculine
+zobrazovač/BC po:noun is:masculine
 zobrazovačov/Y po:adjective
 zobrazovane
 zobrazovanie/VN po:noun is:neuter
@@ -160756,7 +160756,7 @@ zžívať/XN po:verb
 žumpový/YN po:adjective
 žúp
 župa/zZ po:noun is:feminine
-župan/CB po:noun is:masculine
+župan/BC po:noun is:masculine
 županka/zZ po:noun is:feminine
 županov/Y po:adjective
 županový/Y po:adjective
