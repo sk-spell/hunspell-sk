@@ -14033,7 +14033,7 @@ darda
 dardanelský/YN po:adjective
 Dardanely/Q
 darebáckosť/K po:noun is:feminine
-darebácky/YN
+darebácky/YN po:adjective
 darebáctvach
 darebáctvam
 darebáctvo/M po:noun is:neuter
@@ -17399,7 +17399,7 @@ dobovo
 dobovosť/K po:noun is:feminine
 dobový/YN po:adjective
 dobráckosť/K po:noun is:feminine
-dobrácky/YN
+dobrácky/YN po:adjective
 dobráctvach
 dobráctvam
 dobráctvo/M po:noun is:neuter
@@ -25730,7 +25730,7 @@ fiting
 fitnes/B po:noun is:masculine
 fitnescentier
 fitnescentrum/M po:noun is:neuter
-fitness/B
+fitness/B po:noun is:masculine
 fitónia
 fiu
 fix
@@ -36283,7 +36283,7 @@ impresionistický/Y po:adjective
 impresionistka/zZ po:noun is:feminine
 impresionistov/Y po:adjective
 impresionizmus/B po:noun is:masculine
-impresívny/YN
+impresívny/YN po:adjective
 imprimatur
 imprimovať/WN po:verb
 imprinting
@@ -38135,7 +38135,7 @@ jachta/zZ po:noun is:feminine
 jachtár/C po:noun is:masculine
 jachtárka/zZ po:noun is:feminine
 jachtárov/Y po:adjective
-jachtársky/YN
+jachtársky/YN po:adjective
 jachtárstvach
 jachtárstvam
 jachtárstvo/M po:noun is:neuter
@@ -47931,7 +47931,7 @@ kultivácia/U po:noun is:feminine
 kultivačne
 kultivačný/YN po:adjective
 kultivar/B po:noun is:masculine
-kultivátor/b
+kultivátor/b po:noun is:masculine
 kultivátora
 kultivátore
 kultivátorový/YN po:adjective
@@ -49253,7 +49253,7 @@ lahtijský/YN po:adjective
 ľahtikár/C po:noun is:masculine
 ľahtikárka/zZ po:noun is:feminine
 ľahtikárov/Y po:adjective
-ľahtikársky/YN
+ľahtikársky/YN po:adjective
 ľahtikárstvach
 ľahtikárstvam
 ľahtikárstvo/M po:noun is:neuter
@@ -52371,7 +52371,7 @@ lúkarstvo/M po:noun is:neuter
 lúkárstvo/M po:noun is:neuter
 Lukáš/c po:noun is:masculine
 Lukašenko/c po:noun is:masculine
-Lukašenkov/Y
+Lukašenkov/Y po:adjective
 Lukášov/Y po:adjective
 Lukavica
 Lukavice
@@ -53321,7 +53321,7 @@ majúci/YN po:adjective
 majuskula/zZ po:noun is:feminine
 majuskulný/YN po:adjective
 majuskulový/YN po:adjective
-mak/b
+mak/b po:noun is:masculine
 makadam/B po:noun is:masculine
 makadamový/YN po:adjective
 makak
@@ -80391,7 +80391,7 @@ otrieskať/XN po:verb
 otrieť/XN po:verb
 otriezvieť
 otrlo
-otrlý/YN
+otrlý/YN po:adjective
 otrockosť/K po:noun is:feminine
 otrocky/N po:adverb
 otrocký/YN po:adjective
@@ -81642,7 +81642,7 @@ pandemický/YN po:adjective
 pandemónium
 pandermit
 pandit
-pandora/Z
+pandora/zZ po:noun is:feminine
 Pandorin/Y po:adjective
 pandrava/zZ po:noun is:feminine
 pandúr/C po:noun is:masculine
@@ -120954,7 +120954,7 @@ striga/zZ po:noun is:feminine
 strigôň/C po:noun is:masculine
 strigôni
 strigôňov/Y po:adjective
-strigônsky/YN
+strigônsky/YN po:adjective
 strigônstvach
 strigônstvam
 strigônstvo/M po:noun is:neuter
@@ -159868,7 +159868,7 @@ zžívať/XN po:verb
 žehnávať/XN po:verb
 Žehne
 Žehni
-Žehra/zZ
+Žehra/zZ po:noun is:feminine
 žehravý/YN po:adjective
 žehriansky/YN po:adjective
 žel
@@ -160106,7 +160106,7 @@ zžívať/XN po:verb
 žiadostivo/N po:adverb
 žiadostivosť/K po:noun is:feminine
 žiadostivý/YN po:adjective
-žiadúci/YN
+žiadúci/YN po:adjective
 žiaduci/YN po:adjective
 žiadúcnosť/K po:noun is:feminine
 žiak/C po:noun is:masculine
