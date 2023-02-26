@@ -119740,24 +119740,17 @@ stipulovať/WN po:verb
 stisícnásobila
 stisk/B po:noun is:masculine
 stískať/XN po:verb
-stisl
 stisnúť/WN po:verb
-stisnuté
-stisnutie/V po:noun is:neuter
-stisnutými
 stíšenie/V po:noun is:neuter
 stíšený/YN po:adjective
 stíšiť/XN po:verb
 stišovať/WN po:verb
-stivkastý/YN po:adjective
 STK	 po:acronym
-stĺ
 stláčací/I po:adjective
-stláčane
 stláčanie/V po:noun is:neuter
 stláčaný/YN po:adjective
 stláčať/XN po:verb
-stlačene
+stlačený/YN po:adjective
 stlačenie/V po:noun is:neuter
 stlačený/YN po:adjective
 stlačiť/EN po:verb
@@ -152963,6 +152956,7 @@ zateniť
 zateoretizovať/WN po:verb
 zatepliť/EN po:verb
 zatepľovať/WN po:verb
+zatepľovanie/V po:noun is:neuter
 zatesnenie/V po:noun is:neuter
 zatesniť/EN po:verb
 zatešiť
