@@ -1,4 +1,4 @@
-160690
+160653
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -3444,7 +3444,7 @@ arcikňaz
 arcikňažná
 arciknieža/A po:noun is:neuter
 arcivojvoda/H po:noun is:masculine
-arcivojvodkyňa
+arcivojvodkyňa/zZ po:noun is:feminine
 arcivojvodov/Y po:adjective
 arcivojvodský/YN po:adjective
 arcivojvodstvo/M po:noun is:neuter
@@ -3682,24 +3682,12 @@ armatúra/zZ po:noun is:feminine
 armatúrach
 armatúram
 armatúrový/YN po:adjective
-armén
-Armén
-Arména
-arménčin
+Armén/C po:noun is:masculine
 arménčina/z po:noun is:feminine
-arménčinách
-arménčinám
-arménčinami
-Arméni
-Arménia
-Arménie
-Arménii
+Arménia/U po:noun is:feminine
 armenistika/zZ po:noun is:feminine
 armenit
 Arménka/zZ po:noun is:feminine
-Arménmi
-Arménom
-Arménov
 Arménsko/M po:noun is:neuter
 arménsky/Y po:adjective
 ármi
@@ -4381,25 +4369,19 @@ aureomycín
 aurí
 aurikula
 aurit
-Aurora
-Auróra
-Auroru
-Aurory
-Auróry
-aurum
-Aurum
+aurora/z po:noun is:feminine
+Auróra/zZ po:noun is:feminine
+aurum/M po:noun is:neuter
 ausgerechnet
 auskultácia/U po:noun is:feminine
 auslág
 auslender
 auspície
 auspicum
-Austálčan
 austenit
 austenitizácia/U po:noun is:feminine
 austinit
 austr
-austrál
 Austrálčan/c po:noun is:masculine
 Austrálčanka/zZ po:noun is:feminine
 Austrálčanov/Y po:adjective
@@ -4480,7 +4462,6 @@ autocisternou
 autocisternu
 autocisterny
 autodafé
-Autodesk
 autodeštrukcia
 autodetekcia/U po:noun is:feminine
 autodidakt
@@ -4493,20 +4474,9 @@ autodielňam
 autodielní
 autodopráv
 autodoprava/zZ po:noun is:feminine
-autodopravca
-autodopravcami
-autodopravcom
-autodopravcov
-autodopravcovia
-autodopravcu
-autodráh
-autodráhe
-autodráhou
-autodráhy
-Autodrom
+autodopravca/H po:noun is:masculine
+autodráha/zZ po:noun is:feminine
 autodróm/B po:noun is:masculine
-autodrome
-Autodromu
 autoerotika/zZ po:noun is:feminine
 autoerotizmus/B po:noun is:masculine
 autofokus
@@ -4524,13 +4494,7 @@ autogramiáda/zZ po:noun is:feminine
 autogramiádach
 autogramiádam
 autogyro
-autohavária
-autohaváriách
-autohavárie
-autohavárii
-autohavárií
-autohaváriou
-autohaváriu
+autohavária/U po:noun is:feminine
 autohypnóza/zZ po:noun is:feminine
 autochória
 autochróm
@@ -6440,6 +6404,7 @@ benediktínsky/YN po:adjective
 benefície
 benefícium/M po:noun is:neuter
 benefičný/YN po:adjective
+benefit/B	po:noun is:masculine
 Benelux
 Beneluxe
 Beneluxom
@@ -28595,38 +28560,31 @@ gorkovský/YN po:adjective
 gorodiek
 Gorodkov
 gorodky/Q
-gösch
 goslarit
-gospel
+gospel/B	po:noun is:masculine
+gospelový/YN	po:adjective
 gót
 Göteborg/B po:noun is:masculine
 Göteborgčan/c po:noun is:masculine
 Göteborgčanka/zZ po:noun is:feminine
 Göteborgčanov/Y po:adjective
 göteborgčanský/YN po:adjective
-gothajskej
+gothajský/YN po:adjective
 goticky/N po:adverb
 gotický/YN po:adjective
 gotika/zZ po:noun is:feminine
-Gottwaldov
-gottwaldovci
-Gottwaldove
-gottwaldovskej
-gottwaldovských
-gottwaldovským
+gottwaldovský/YN	po:adjective
 gouda
 gourde
 gourmand
 gourmet
 government
-GP	 po:acronym
-GPa
-GPG
+GPG	 po:acronym
 GPL	 po:acronym
 GPRS	 po:acronym
 GPS	 po:acronym
-gr
-GR	 po:acronym
+gr	 po:acronym
+GR	 po:acronymANO
 Grác
 Graca
 Grace
@@ -45995,6 +45953,7 @@ kovnatosť/K po:noun is:feminine
 kovnatou
 kovohutníctvo
 kovolejári
+kovolejárstvo/M	po:noun is:neuter
 kovonosné
 kovonosných
 kovonosným
@@ -57046,6 +57005,7 @@ minigolf/B po:noun is:masculine
 miniikona/zZ po:noun is:feminine
 minikalkulačka/zZ po:noun is:feminine
 minikamera
+minikoncert/B	po:noun is:masculine
 miním
 minimalista/H po:noun is:masculine
 minimalisticky
@@ -68441,8 +68401,6 @@ netto
 netuhnúci
 netušene
 netušenie/V po:noun is:neuter
-netušiace
-netušiaci
 netvor/B po:noun is:masculine
 netvorovi
 netvorte
@@ -71029,6 +70987,7 @@ nno
 no
 nó
 nobélium
+Nobelova
 nobelový/Y po:adjective
 nobilita
 nóbl
@@ -97006,6 +96965,7 @@ premyslenie/V po:noun is:neuter
 premyslenosť/K po:noun is:feminine
 premyslený/YN po:adjective
 premyslieť/RN po:verb
+premýšlajúci/YN	po:adjective
 premýšľane
 premýšľanie/V po:noun is:neuter
 premýšľaný/YN po:adjective
@@ -99049,6 +99009,7 @@ Pribinov/Y po:adjective
 pribiť/EN po:verb
 pribiť/WN po:verb
 pribitý/YN po:adjective
+pribl	 st:približne
 pribledý/YN po:adjective
 priblíženie/V po:noun is:neuter
 priblížený/YN po:adjective
@@ -105533,6 +105494,7 @@ Repove
 repový/YN po:adjective
 repozícia/U po:noun is:feminine
 repozičný/YN po:adjective
+repozitár/C po:noun is:masculine
 represálie/Q st:represália po:noun is:feminine
 represia/U po:noun is:feminine
 represívny/YN po:adjective
@@ -105613,6 +105575,7 @@ resolvens
 resorbens
 resorbovať/WN po:verb
 resorpcia
+resp	 st:respektíve
 respektíve	 po:particle
 respirácia/U po:noun is:feminine
 respiračný/YN po:adjective
@@ -114937,6 +114900,7 @@ skvapalňujúci
 skváriť/XN po:verb
 skvasený/YN po:adjective
 skvasiť/EN po:verb
+skveje
 skvele/N po:adverb
 skvelosť/K po:noun is:feminine
 skvelý/YN po:adjective
@@ -115527,6 +115491,7 @@ slovanofilovia
 slovanofilský/YN po:adjective
 slovanofilstvo/M po:noun is:neuter
 Slovanom
+Slovanov
 slovansko
 slovansko-neslovanský/YN po:adjective
 slovanskosť/K po:noun is:feminine
@@ -119750,7 +119715,6 @@ stláčací/I po:adjective
 stláčanie/V po:noun is:neuter
 stláčaný/YN po:adjective
 stláčať/XN po:verb
-stlačený/YN po:adjective
 stlačenie/V po:noun is:neuter
 stlačený/YN po:adjective
 stlačiť/EN po:verb
@@ -120246,6 +120210,7 @@ stotisícky
 stotisícok
 stotisícovka/zZ po:noun is:feminine
 stotisícový/YN po:adjective
+stotník/C	po:noun is:masculine
 stoto
 stotonovej
 stotožnenie/V po:noun is:neuter
@@ -121937,6 +121902,7 @@ sumbisívny/YN po:adjective
 sumcov/Y po:adjective
 sumčí/I po:adjective
 sumec/CL po:noun is:masculine
+Sumeri
 súmerne/N po:adverb
 súmernosť/K po:noun is:feminine
 súmerný/YN po:adjective
@@ -132579,6 +132545,7 @@ trojperccentný/YN po:adjective
 trojpercentný/Y po:adjective
 trojpočetný/YN po:adjective
 trojpodlažný/YN po:adjective
+trojpoľný/YN	po:adjective
 trojpólový/YN po:adjective
 trojposchodový/YN po:adjective
 trojposteľový/YN po:adjective
@@ -133401,9 +133368,9 @@ turzovský/YN po:adjective
 tusikácia/U po:noun is:feminine
 Tuskulum
 tuš/J po:noun is:masculine
-tušenie/V po:noun is:neuter
-tušený/YN po:adjective
-tušiacich
+tušenie/V	po:noun is:neuter
+tušený/YN	po:adjective
+tušiaci/YN	po:adjective
 Tušická
 tušievať/XN po:verb
 tušiť/EN po:verb
@@ -134942,7 +134909,7 @@ ukúvať/XN po:verb
 ukvapnúť
 ukváriť
 ukvasiť
-ul
+ul	 st:ulica
 úľ/J po:noun is:masculine
 uľahčene
 uľahčenie/V po:noun is:neuter
@@ -135476,6 +135443,7 @@ UNI	 po:acronym
 únia/U po:noun is:feminine
 uniat
 UNICEF	 po:acronym
+UNICEFAbdiáš
 unicelulárny/YN po:adjective
 uniesť/RN po:verb
 unifikácia/U po:noun is:feminine
@@ -139939,6 +139907,7 @@ víkendový/YN po:adjective
 vikier/J po:noun is:masculine
 vikierový/YN po:adjective
 viking
+Vikingovia
 viklefizmus/B po:noun is:masculine
 Viko
 vikomt
@@ -141659,6 +141628,8 @@ vplývať/XN po:verb
 vplyvne
 vplyvný/YN po:adjective
 VPN	 po:acronym
+VPNAbdiáš
+VPNnábr	 st:ulica is:abb
 vpochodovanie/VN po:noun is:neuter
 vpochodovať/WN po:verb
 vpojený/YN po:adjective
@@ -144439,14 +144410,12 @@ vykynožené
 vykynoženie/V po:noun is:neuter
 vykynožiť/EN po:verb
 vykynožovať/WN po:verb
-vykyp
-Vykyp
+vykyp st:vykypieť
 vykypenie/V po:noun is:neuter
 vykypieť/RN po:verb
 vykysnúť/WN po:verb
 vykysnutie/V po:noun is:neuter
 vykysnutý/YN po:adjective
-vykýv
 výkyv/B po:noun is:masculine
 vykývaný/YN po:adjective
 vykývať/TN po:verb
@@ -152955,8 +152924,8 @@ zatemňujúcu
 zateniť
 zateoretizovať/WN po:verb
 zatepliť/EN po:verb
-zatepľovať/WN po:verb
 zatepľovanie/V po:noun is:neuter
+zatepľovať/WN po:verb
 zatesnenie/V po:noun is:neuter
 zatesniť/EN po:verb
 zatešiť
