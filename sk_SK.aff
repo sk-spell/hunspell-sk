@@ -1,4 +1,4 @@
-# verzia: 2.4.7, 2022-12-20
+# verzia: 2.4.7, 2023-08-29
 SET UTF-8
 LANG sk
 KEY qwertzuiopúä|asdfghjklô§ň|yxcvbnm,.-|;+ľščťžýáíé=
@@ -66,7 +66,7 @@ REP ĺ ľ
 REP ľ ĺ
 REP ds c
 
-MAP 14
+MAP 17
 MAP aáä
 MAP eé
 MAP ií
@@ -81,6 +81,9 @@ MAP cč
 MAP sš
 MAP zž
 MAP rŕ
+MAP (hc)(ch)
+MAP (zd)(dz)
+MAP (žd)(dž)
 
 
 PFX N Y 1     # predpona ne-
