@@ -24,7 +24,9 @@ COPY /y NUL build\dict >NUL
 %sed% 1,1d _osobnosti/politika.dic >>build/dict
 %sed% 1,1d _osobnosti/it.dic >>build/dict
 %sed% 1,1d _skratky/it.dic >>build/dict
+%sed% 1,1d _skratky/geografia.dic >>build/dict
 %sed% 1,1d _skratky/politika.dic >>build/dict
+%sed% 1,1d _skratky/rozne.dic >>build/dict
 %sed% 1,1d _tematicke/nabozenske.dic >>build/dict
 %sed% 1,1d _tematicke/cudzie.dic >>build/dict
 %sed% 1,1d _terminy/it.dic >>build/dict
