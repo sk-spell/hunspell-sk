@@ -1,4 +1,6 @@
 1000
-nábr st:ulica is:abb
-ul st:ulica
-resp st:respektíve
+nábr	 st:ulica is:abb
+ul	 st:ulica
+resp	 st:respektíve
+pribl	 st:približne
+UNICEF
