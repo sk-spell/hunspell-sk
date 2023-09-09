@@ -1,4 +1,4 @@
-160653
+160600
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -39,7 +39,7 @@ Abeba/z po:noun is:feminine
 abeceda/zZ po:noun is:feminine
 abecedár/J po:noun is:masculine
 abecedne	 po:adverb
-abecedno
+abecedno	 po:adverb
 abecedný/YN po:adjective
 Ábel/C po:noun is:masculine
 Ábelov/Y po:adjective
@@ -7556,7 +7556,8 @@ bivakovať/WN po:verb
 bivalentný/YN po:adjective
 bizam/B po:noun is:masculine
 bizamový/YN po:adjective
-bizarne
+bizarne	 po:adverb
+bizarnejší/PF po:adjective
 bizarnosť/K po:noun is:feminine
 bizarný/YN po:adjective
 bizet
@@ -51176,6 +51177,7 @@ liniment
 linín
 líniovo
 líniový/YN po:adjective
+link/B po:noun is:masculine
 linka/zZ po:noun is:feminine
 linkovacích
 linkovanie/VN po:noun is:neuter
@@ -145807,9 +145809,8 @@ vyrozprávať/XN po:verb
 vyrozumenie/V po:noun is:neuter
 vyrozumený/YN po:adjective
 vyrozumieť/XN po:verb
-vyrozumievam
-vyrozumievame
 vyrozumievanie/V po:noun is:neuter
+vyrozumievať/XN po:verb
 výrub/B po:noun is:masculine
 vyrúbaj
 vyrúbanie/V po:noun is:neuter
@@ -145831,7 +145832,7 @@ vyrubovať/WN po:verb
 výrubový/YN po:adjective
 vyrúcať/XN po:verb
 vyrukovať/WN po:verb
-vyrušať
+vyrušať/RN po:verb
 vyrušenie/V po:noun is:neuter
 vyrušený/YN po:adjective
 vyrušiť/EN po:verb
@@ -145839,25 +145840,23 @@ vyrušovanie/VN po:noun is:neuter
 vyrušovaný/YN po:adjective
 vyrušovať/WN po:verb
 vyrútiť/XN po:verb
-vyrvané
-vyrvaní
+vyrvaný/YN po:adjective
 vyrvať/TN po:verb
 vyrvi
 vyrvime
 vyrvite
 výry
-vyryknúť
+vyryknúť/WN po:verb
 vyrýpať/TN po:verb
 vyrýpavať/XN po:verb
 vyrypnúť/WN po:verb
 vyrýpnuť/WN po:verb
 vyrypovať/WN po:verb
-vyryskávať
+vyryskávať/XN po:verb
 vyryť/XN po:verb
-vyryto
+vyryto	po:adverb
 vyrytý/YN po:adjective
-vyrývaní
-vyrývania
+vyrývanie/VN po:noun is:neuter
 vyrývať/XN po:verb
 vyryžovať/WN po:verb
 vys
@@ -145891,35 +145890,24 @@ vysádžuc
 vysáľať/XN po:verb
 vysánkovať/WN po:verb
 vysať/WN po:verb
-vysatá
-vysaté
-vysatého
-vysatia
-vysatie
-vysatím
-vysatiu
+vysatie/V po:noun is:neuter
+vysatý/YN po:adjective
 vysávač/J po:noun is:masculine
 vysávanie/V po:noun is:neuter
 vysávaný/YN po:adjective
 vysávať/XN po:verb
-vysečdávať
 vyseď
 vysedajú
 vysedávač/C po:noun is:masculine
 vysedávanie/V po:noun is:neuter
 vysedávať/XN po:verb
-vysedené
+vysedený/YN po:adjective
 vysedieť/RN po:verb
 vysedúvať/XN po:verb
 výsek/B po:noun is:masculine
-vysekaná
-vysekané
+vysekaný/YN po:adjective
 vysekať/EN po:verb
-vysekávací
-vysekávacie
-vysekávacieho
-vysekávacích
-vysekávacími
+vysekávací/I po:adjective
 vysekávané
 vysekávanie/V po:noun is:neuter
 vysekávaných
@@ -145941,38 +145929,26 @@ vyschnutý/YN po:adjective
 vyschýnať/XN po:verb
 vysiakať/XN po:verb
 vysiať/XN po:verb
-vysiata
-vysiate
-vysiateho
 vysiatie
-vysiatu
-vysiatych
-vysídlená
-vysídlenci
-vysídlencov
+vysiaty/YN po:adjective
 vysídlene
-vysídlenej
+vysídlenec/C po:noun is:masculine
 vysídlenie/V po:noun is:neuter
-vysídlenom
-vysídlených
+vysídlený/YN po:adjective
 vysídliť/XN po:verb
 vysídľovanie/VN po:noun is:neuter
 vysídľovať/WN po:verb
 vysielací/I po:adjective
 vysielač/J po:noun is:masculine
 vysielačka/zZ po:noun is:feminine
-vysielajúci
-vysielane
+vysielajúci/YN po:adjective
+vysielane	 po:adverb´
 vysielanie/VN po:noun is:neuter
 vysielaný/YN po:adjective
 vysielať/XN po:verb
-vysielateľ
-vysielateľa
-vysielatelia
-vysielateľmi
-vysielateľom
-vysielateľov
-vysielateľovi
+vysielateľ/c po:noun is:masculine
+vysielateľka/zZ po:noun is:feminine
+vysielateľov/Y po:adjective
 vysievanie/V po:noun is:neuter
 vysievaný/YN po:adjective
 vysievať/XN po:verb
@@ -145986,10 +145962,9 @@ vysiľovanie/VN po:noun is:neuter
 vysilovať/WN po:verb
 vysiľovať/WN po:verb
 vysiľujúci/YN po:adjective
-vysiľujúco
-vysk
-výsk
-Výsk
+vysiľujúco	 po:adverb
+vysk/B po:noun is:masculine
+výsk/B po:noun is:masculine
 výskajúci/YN po:adjective
 vyskákať/WN po:verb
 vyskákať/XN po:verb
@@ -145998,7 +145973,6 @@ vyskakovať/WN po:verb
 vyskakujúci/Y po:adjective
 výskanie/V po:noun is:neuter
 výskať/XN po:verb
-výskla
 vyskladnenie/V po:noun is:neuter
 vyskladnený/YN po:adjective
 vyskladni
@@ -146008,11 +145982,9 @@ vyskladnite
 vyskladňovanie/VN po:noun is:neuter
 vyskladňovaný/YN po:adjective
 vyskladňovať/WN po:verb
-výsknu
-vyskočená
+výsknuť/WN po:verb
 vyskočenie/V po:noun is:neuter
-vyskočenú
-vyskočených
+vyskočený/YN po:adjective
 vyskočiť/EN po:verb
 výskočky
 výskok/B po:noun is:masculine
@@ -146023,12 +145995,11 @@ vyskrutkovaný/YN po:adjective
 vyskrutkovať/WN po:verb
 vyskrutkovávať/XN po:verb
 vyskrutkúvať/XN po:verb
-výsku
 vyskubnúť
 výskum/B po:noun is:masculine
 vyskúmané
 vyskúmať/XN po:verb
-výskumne
+výskumne	po:adverb
 výskumnícky/YN po:adjective
 výskumníctvach
 výskumníctvam
@@ -146132,7 +146103,7 @@ vysmážaný/YN po:adjective
 vysmážať/XN po:verb
 vysmažiť/EN po:verb
 vysmädnúť/WN po:verb
-vysmädnuto
+vysmädnuto	po:adverb
 výsmech/B po:noun is:masculine
 výsmešne/YN po:adjective
 výsmešnosť/K po:noun is:feminine
@@ -146163,15 +146134,8 @@ vysokánsky/YN po:adjective
 vysoko/N po:adverb
 vysokoakostný/YN po:adjective
 vysokocitlivý/YN po:adjective
-vysokoefektívna
-vysokoefektívne
-vysokoefektívneho
-vysokoefektívnou
-vysokoefektívnu
-vysokoefektívny
-vysokoefektívnych
-vysokoefektívnym
-vysokoefektívnymi
+vysokoefektívne	po:adverb
+vysokoefektívny/YN po:adjective
 vysokofrekvenčný/YN po:adjective
 vysokohodnotný/YN po:adjective
 vysokohorský/YN po:adjective
@@ -146179,52 +146143,36 @@ vysokointeligentní
 vysokokalorický/YN po:adjective
 vysokokvalifikovane
 vysokokvalifikovaný/YN po:adjective
-vysokokvalitne
+vysokokvalitne	po:adverb
 vysokokvalitný/Y po:adjective
 vysokomechanizovaný/YN po:adjective
 vysokomolekulárny/YN po:adjective
 vysokomolekulový/YN po:adjective
 vysokomyseľný/YN po:adjective
 vysokonapäťový/YN po:adjective
-vysokonosné
+vysokonosný/YN po:adjective
 vysokoobrátkový/YN po:adjective
 vysokoorganizovaný/YN po:adjective
-vysokopeciara
-Vysokopeciari
-vysokopeciarmi
-vysokopeciarov
+vysokopeciar/C po:noun is:masculine
 vysokopecný/YN po:adjective
 vysokopostavený/YN po:adjective
 vysokopríjmový/YN po:adjective
-vysokoproduktívna
-vysokoproduktívne
-vysokoproduktívneho
-vysokoproduktívnej
-vysokoproduktívny
-vysokoproduktívnych
+vysokoproduktívne	po:adverb
+vysokoproduktívny/YN po:adjective
 vysokosť/K po:noun is:feminine
-vysokoškol
 vysokoškoláčka/zZ po:noun is:feminine
 vysokoškolák/C po:noun is:masculine
 vysokoškolákov/Y po:adjective
-vysokoškolsky
+vysokoškolsky	po:adverb
 vysokoškolský/YN po:adjective
 vysokotatranský/YN po:adjective
-vysokoteľná
-vysokoteľné
-Vysokoteľnú
-vysokoteľných
-vysokotepelné
-vysokotepelnú
-vysokotepelných
-vysokotepelným
+vysokotepelný/YN po:adjective
 vysokotlakový/YN po:adjective
 vysokotratranský/YN po:adjective
 vysokoučený/YN po:adjective
 vysokoúrodný/YN po:adjective
-vysokoúrovňové
 výsokoúrovňové
-vysokoúrovňových
+vysokoúrovňový/YN po:adjective
 vysokoúžitkový/YN po:adjective
 vysokovážený/YN po:adjective
 vysokovýkonný/YN po:adjective
@@ -146241,7 +146189,6 @@ výsostne/YN po:adjective
 výsostný/YN po:adjective
 vysota
 vysotiť/EN po:verb
-vysp
 vyspanie/V po:noun is:neuter
 vyspaný/YN po:adjective
 vyspať/RN po:verb
