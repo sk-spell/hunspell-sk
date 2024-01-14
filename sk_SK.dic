@@ -1,4 +1,4 @@
-160600
+160582
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -6548,6 +6548,8 @@ besedujúci/Y po:adjective
 besemerácia/U po:noun is:feminine
 besi
 besiedka/zZ po:noun is:feminine
+besiedkár/C po:noun is:masculine
+besiedkárka/zZ po:noun is:feminine
 Beskydoch
 beskydský/YN po:adjective
 Beskydy/Q po:noun is:feminine
@@ -11571,9 +11573,10 @@ CNY	 po:acronym
 CO	 po:acronym
 COBOL	 po:acronym
 COCOM	 po:acronym
+coda/zZ	 po:noun is:feminine
 cofať
 cofkať
-coky
+coky	po:interjection
 cól/B po:noun is:masculine
 cóla
 colbertizmus/B po:noun is:masculine
@@ -13407,6 +13410,7 @@ CZV	 po:acronym
 čnosť/K po:noun is:feminine
 čnostne/N po:adverb
 čnostný/Y po:adjective
+čó	 po:interjection
 čo	 po:particle
 čoby
 čoho
@@ -13420,15 +13424,8 @@ CZV	 po:acronym
 čokoládach
 čokoládam
 čokoládka/zZ po:noun is:feminine
-čokoládovňa
-Čokoládovňami
-čokoládovne
-čokoládovni
+čokoládovňa/U po:noun is:feminine
 Čokoládovní
-Čokoládovniach
-Čokoládovniam
-čokoládovňou
-čokoládovňu
 čokoládovo
 čokoládovohnedý/YN po:adjective
 čokoládový/YN po:adjective
@@ -13442,9 +13439,10 @@ CZV	 po:acronym
 čomusi
 čomuže
 čomže
-čoo
-čóó
-čóóó
+čoo	 po:interjection
+čóó	 po:interjection
+čooo	 po:interjection
+čóóó	 po:interjection
 čop
 čopriam
 čoraz
@@ -104645,8 +104643,9 @@ recitovať/WN po:verb
 recme
 reconquista/H po:noun is:masculine
 recte
-recyklácia/U po:noun is:feminine
+recyklácia/UN po:noun is:feminine
 recyklačný/YN po:adjective
+recyklovanie/VN po:noun is:neuter
 recyklovať/WN po:verb
 reč/K po:noun is:feminine
 rečičiek
@@ -105473,9 +105472,9 @@ reportér/C po:noun is:masculine
 reportérka/zZ po:noun is:feminine
 reportérov/Y po:adjective
 reportérsky/YN po:adjective
+reportovací/IN po:adjective
 reportovanie/VN po:noun is:neuter
 reportovaný/YN po:adjective
-Reportovaný/YN po:adjective
 reportovať/WN po:verb
 Repove
 repový/YN po:adjective
@@ -145124,7 +145123,9 @@ výparník/B po:noun is:masculine
 výparnosť/K po:noun is:feminine
 výparný/YN po:adjective
 vyparovanie/VN po:noun is:neuter
+vypárovaný/YN po:adjective
 vyparovať/WN po:verb
+vypárovať/WN po:verb
 vyparte
 vypas
 vypásanie/V po:noun is:neuter
@@ -145952,7 +145953,7 @@ vysk/B po:noun is:masculine
 výsk/B po:noun is:masculine
 výskajúci/YN po:adjective
 vyskákať/WN po:verb
-vyskákať/XN po:verb
+vyskakovací/IN po:adjective
 vyskakovanie/VN po:noun is:neuter
 vyskakovať/WN po:verb
 vyskakujúci/Y po:adjective
@@ -146201,9 +146202,8 @@ vysporadúval
 vysporadúvala
 vysporadúvali
 vysporadúvame
-vysporadúvané
 vysporadúvanie/V po:noun is:neuter
-vysporadúvaných
+vysporadúvaný/YN po:adjective
 vysporadúvať
 vysporiadanie/VN po:noun is:neuter
 vysporiadaný/YN po:adjective
@@ -147214,9 +147214,7 @@ vyvážený/YN po:adjective
 vyvážiť/XN po:verb
 vyvážka/zZ po:noun is:feminine
 vývažok/O po:noun is:masculine
-vyvažovací
-vyvažovacie
-vyvažovacích
+vyvažovací/IN po:adjective
 vyvažovane
 vyvažovanie/VN po:noun is:neuter
 vyvažovaný/YN po:adjective
