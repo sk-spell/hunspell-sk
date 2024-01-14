@@ -11568,7 +11568,6 @@ cnostný/Y po:adjective
 CNV	 po:acronym
 CNX	 po:acronym
 CNY	 po:acronym
-co
 CO	 po:acronym
 coach/c po:noun is:masculine
 coachov/Y po:adjective
@@ -13423,6 +13422,7 @@ CZV	 po:acronym
 čnosť/K po:noun is:feminine
 čnostne/N po:adverb
 čnostný/Y po:adjective
+čo	 po:particle
 čoby
 čoho
 čohokoľvek
@@ -154536,7 +154536,6 @@ zdýmať
 zdynamizovanie/VN po:noun is:neuter
 zdynamizovaný/YN po:adjective
 zdynamizovať/WN po:verb
-ze
 zeatín
 zeaxantín
 zebier
