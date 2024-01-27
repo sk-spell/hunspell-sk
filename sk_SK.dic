@@ -1,4 +1,4 @@
-160582
+160578
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -12529,16 +12529,16 @@ CZV	 po:acronym
 čelby
 čelenie/V po:noun is:neuter
 čelenka/zZ po:noun is:feminine
-čelenou
-čelesta
-čeliaci
+čelesta/zZ po:noun is:feminine
+čeliaci/YN po:adjective
 čeliadka/zZ po:noun is:feminine
 čelíčko/M po:noun is:neuter
+čeliest	st:čelesta is:genitive is:plural
 čelista/H po:noun is:masculine
 čelistov/Y po:adjective
 čeliť/EN po:verb
-čelne
-čelno
+čelne/N po:adverb
+čelno/N po:adverb
 čelný/YN po:adjective
 čelo/M po:noun is:neuter
 čelovský/YN po:adjective
@@ -28072,7 +28072,6 @@ geriatrický/Y po:adjective
 geriatrička/zZ po:noun is:feminine
 geriatrov/Y po:adjective
 gerila/zZ po:noun is:feminine
-gerilla
 gerilový/Y po:adjective
 Gerlach/B po:noun is:masculine
 Gerlachova
@@ -52121,11 +52120,11 @@ Lučatína
 Lučatíne
 Lučatínom
 lúčavka/zZ po:noun is:feminine
-Lučenca
-Lučenci
-Lučencom
 Lučencu
-Lučenec
+Lučenčan/c po:noun is:masculine
+Lučenčanka/zZ po:noun is:feminine
+Lučenec/C po:noun is:masculine
+lučenecký/YN po:adjective
 lúčenie/V po:noun is:neuter
 lučenský/YN po:adjective
 lúčik/B po:noun is:masculine
@@ -73086,10 +73085,7 @@ obsluhovaný/YN po:adjective
 obsluhovať/WN po:verb
 obsluhovateľ
 obsluhovateľov
-obsluhujúca
-obsluhujúci
-obsluhujúcich
-obsluhujúcim
+obsluhujúci/YN po:adjective
 obslúženie/V po:noun is:neuter
 obslúžený/YN po:adjective
 obslúžiť/XN po:verb
@@ -92299,9 +92295,7 @@ postsocialistický/YN po:adjective
 postsovietskeho
 postsynchrón
 posttotalitný/YN po:adjective
-posttraumatického
-posttraumatickú
-posttraumatickým
+posttraumatický/YN po:adjective
 postuká
 postulácia/U po:noun is:feminine
 postulát/B po:noun is:masculine
@@ -117986,6 +117980,7 @@ sporenej
 sporenie/V po:noun is:neuter
 Sporenú
 sporených
+sporiadane/N po:adverb
 sporiadanom
 sporiť/EN po:verb
 sporiteľ/c po:noun is:masculine
@@ -123238,6 +123233,8 @@ syrársky/YN po:adjective
 syrárstvach
 syrárstvam
 syrárstvo/M po:noun is:neuter
+Sýrčan/c po:noun is:masculine
+Sýrčanka/zZ po:noun is:feminine
 syrček/B po:noun is:masculine
 sýrčin
 sýrčina/z po:noun is:feminine
@@ -123266,7 +123263,6 @@ syrný/YN po:adjective
 syrovina
 syrovník
 syrový/YN po:adjective
-Sýrsky/Y po:adjective
 sýrsky/YN po:adjective
 syseľ/J po:noun is:masculine
 sysľa
@@ -129752,7 +129748,6 @@ Thunderbird/B po:noun is:masculine
 thymus/B po:noun is:masculine
 thyrsos
 THz
-Tchaj
 Tchaj-wan/B po:noun is:masculine
 Tchajwancov/Y po:adjective
 Tchajwančan/c po:noun is:masculine
@@ -129770,8 +129765,7 @@ ti	 po:pronoun is:2nd_person is:dative
 tiahel
 tiahlo/M po:noun is:neuter
 tiahly/YN po:adjective
-tiahnú
-tiahnúci/Y po:adjective
+tiahnuci/Y po:adjective
 tiahnuť/WN po:verb
 tiahnutá
 tiahnutie/V po:noun is:neuter
@@ -129895,6 +129889,7 @@ tíchnuť/WN po:verb
 ticho/M po:noun is:neuter
 Tichomír/c po:noun is:masculine
 Tichomírov/Y po:adjective
+Tichomorie/V po:noun is:neuter
 tichomorský/YN po:adjective
 tichooceánsky/YN po:adjective
 tichosť/K po:noun is:feminine
@@ -133317,6 +133312,7 @@ Turkménov/Y po:adjective
 Turkménsko/M po:noun is:neuter
 turkménsky/YN po:adjective
 turkotatársky/YN po:adjective
+Turkov	st:Turek is:genitive is:plural
 Turkovi
 Turkyňa/U po:noun is:feminine
 turmalín
