@@ -54,6 +54,9 @@ IF NOT EXIST "Backups/sk_SK.dic-%datestamp%.bak" (
 
 %wc% -l < build/sk_SK.dic | %cat% - build/sk_SK.dic >sk_SK.dic
 
+copy sk_SK.dic "C:\Program Files\LibreOffice\share\extensions\dict-sk"
+copy sk_SK.aff "C:\Program Files\LibreOffice\share\extensions\dict-sk"
+
 REM Clean up
 REM rmdir /s/q build
 
