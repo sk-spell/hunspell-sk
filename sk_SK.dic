@@ -1,4 +1,4 @@
-160578
+160498
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -38640,13 +38640,13 @@ jazvečíkov/Y po:adjective
 jazvečíky
 jazvička/zZ po:noun is:feminine
 jazviť
-jazvovite
-jazvovito
+jazvovite	 po:adverb
+jazvovito	 po:adverb
 jazvovitý/YN po:adjective
 jazvový/YN po:adjective
 jazýček/B po:noun is:masculine
 jazýčekový/YN po:adjective
-jazyčísk
+jazyčísk	 st:jazyčisko is:genitive is:plural
 jazyčisko/M po:noun is:neuter
 jazyčiť/EN po:verb
 jazýčkovitý/YN po:adjective
@@ -38655,22 +38655,24 @@ jazyčnatý/YN po:adjective
 jazyčnica/U po:noun is:feminine
 jazyčný/YN po:adjective
 jazyk/B po:noun is:masculine
+jazyka
 jazykoveda/zZ po:noun is:feminine
 jazykovedcov/Y po:adjective
 jazykovedec/C po:noun is:masculine
 jazykovedkyňa/U po:noun is:feminine
 jazykovedný/YN po:adjective
 jazykovitý/YN po:adjective
-jazykovo
+jazykovo po:adverb
 jazykový/YN po:adjective
+jazyku
 jazylka/zZ po:noun is:feminine
 jazylkový/YN po:adjective
 jazz/B po:noun is:masculine
-jazzová
+jazzový/YN po:adjective
 JC	 po:acronym
 JCD	 po:acronym
-jé
-je	 st:byť	 po:verb is:3rd_person
+jé	 po:interjection
+je	 st:byť po:verb is:3rd_person
 Jean/c po:noun is:masculine
 Jeanov/Y po:adjective
 jed/B po:noun is:masculine
@@ -38688,10 +38690,10 @@ jedávať/XN po:verb
 jeden/CN po:noun is:masculine
 jedenapolročný/YN po:adjective
 jedenásť/n po:number
-jedenásťdňovým
+jedenásťdňový/YN po:adjective
 jedenásťhodinový/YN po:adjective
 jedenásti/Y po:adjective
-jedenástinu
+jedenástina/zZ po:noun is:feminine
 jedenástka/zZ po:noun is:feminine
 jedenásťkrát
 jedenásťky
@@ -39401,30 +39403,21 @@ Juhomoravský/YN po:adjective
 juhonem
 Juhoslávia/U po:noun is:feminine
 juhoslavizmus/B po:noun is:masculine
-juhoslov
-juhoslovan
-Juhoslovan
-Juhoslovana
+Juhoslovan/c po:noun is:masculine
 juhoslovanský/YN po:adjective
 juhoslovenský/YN po:adjective
 juhošpan
 juhotal
 juhovietnam
 juhovietnamský/Y po:adjective
-juhových
 juhovýchod/B po:noun is:masculine
 juhovýchodne/N po:adverb
 juhovýchodný/YN po:adjective
-juhozáp
 juhozápad/B po:noun is:masculine
 juhozápadne
 juhozápadný/YN po:adjective
-juch
 júcht
-juchta/z po:noun is:feminine
-juchtách
-juchtám
-juchtami
+juchta/zZ po:noun is:feminine
 juchtovina/zZ po:noun is:feminine
 juchtový/YN po:adjective
 juice
@@ -39457,6 +39450,7 @@ jumbo
 Jumper
 Jumperu
 jún/B po:noun is:masculine
+júna
 junáckosť/K po:noun is:feminine
 junácky/YN po:adjective
 junáctvo/M po:noun is:neuter
@@ -53140,21 +53134,12 @@ majestátmi
 majestátne/PF po:adjective
 majestátnosť/K po:noun is:feminine
 majestátny/YN po:adjective
-majetkoprávne
-majetkoprávneho
-majetkoprávnej
-majetkoprávnemu
-majetkoprávnom
-majetkoprávnu
-majetkoprávny
-majetkoprávnych
-majetkoprávnym
-majetkoprávnymi
-majetkove
-majetkovo
+majetkoprávny/YN po:adjective
+majetkove	 po:adverb
+majetkovo	 po:adverb
 majetkovoprávny/YN po:adjective
 majetkový/YN po:adjective
-majetne
+majetne	 po:adverb
 majetnica/U po:noun is:feminine
 majetnícky/YN po:adjective
 majetníctvach
@@ -53171,7 +53156,7 @@ májik/B po:noun is:masculine
 majiteľ/c po:noun is:masculine
 majiteľka/zZ po:noun is:feminine
 majiteľov/Y po:adjective
-majiteľsky
+majiteľsky	 po:adverb
 majiteľský/YN po:adjective
 majiteľstvo/M po:noun is:neuter
 Majka/zZ po:noun is:feminine
@@ -68341,8 +68326,6 @@ netnite
 netnú
 netnúc
 netočiaci/Y po:adjective
-netolerancia/U po:noun is:feminine
-netolerantnosť/K po:noun is:feminine
 netopier/C po:noun is:masculine
 netopiera
 netopiere
@@ -71172,21 +71155,12 @@ normálne/N
 normálnosť/K po:noun is:feminine
 normálny/YN po:adjective
 normálový/YN po:adjective
-Norman
-Normana
-Normandia
-Normandie
-Normandii
+Norman/C po:noun is:masculine
+Normandia/U po:noun is:feminine
 normandský/YN po:adjective
-normanna
-Normanom
-Normanov
-Normanovi
-Normanské
-normanskou
-Normanských
+normanský/YN po:adjective
 normatív/B po:noun is:masculine
-normatíve
+normatív/J po:noun is:masculine
 normatívnosť/K po:noun is:feminine
 normatívny/YN po:adjective
 normlaizácia/U po:noun is:feminine
@@ -71194,13 +71168,8 @@ normoblast
 normocyt
 normograf
 normohodina/zZ po:noun is:feminine
-normotvorba
-normotvorbe
-normotvorbou
-normotvorbu
-normotvorby
-normotvorca
-normotvorcami
+normotvorba/zZ po:noun is:feminine
+normotvorca/C po:noun is:masculine
 normotvorcom
 normotvorný/YN po:adjective
 normovač/C po:noun is:masculine
@@ -98419,43 +98388,35 @@ prevádzať/XN po:verb
 prevádzateľ/c po:noun is:masculine
 prevádzateľov/Y po:adjective
 prevádzka/zZ po:noun is:feminine
-prevádzkár
 prevádzkar/C po:noun is:masculine
 prevádzkára
 prevádzkareň/D po:noun is:feminine
-prevádzkáreň/D po:noun is:feminine
 prevádzkári
 prevádzkarka/zZ po:noun is:feminine
 prevádzkarňach
 prevádzkarňam
 prevádzkarov/Y po:adjective
 prevádzkarský/YN po:adjective
-prevádzkovane
+prevádzkovane	 po:adverb
 prevádzkovanie/VN po:noun is:neuter
 prevádzkovaný/YN po:adjective
 prevádzkovať/WN po:verb
 prevádzkovateľ/c po:noun is:masculine
 prevádzkovateľka/zZ po:noun is:feminine
 prevádzkovateľov/Y po:adjective
-prevádzkovo
+prevádzkovo	 po:adverb
 prevádzkovotechnický/Y po:adjective
 prevádzkový/YN po:adjective
 prevádzkujúci/YN po:adjective
 prevádzkyschopnosť/K po:noun is:feminine
 prevádzkyschopný/YN po:adjective
-preváh
-prevaha/z po:noun is:feminine
-prevahách
-prevahám
-prevahami
+prevaha/zZ po:noun is:feminine
 prevalcovanie/VN po:noun is:neuter
 prevalcovaný/YN po:adjective
 prevalcovať/WN po:verb
-prevalencia
-prevalenciou
-prevalenej
+prevalencia/U po:noun is:feminine
 prevalenie/V po:noun is:neuter
-prevalenou
+prevalený/YN po:adjective
 prevaliť/EN po:verb
 prevaľovanie/VN po:noun is:neuter
 prevaľovať/WN po:verb
@@ -101871,13 +101832,10 @@ prostitúcia/U po:noun is:feminine
 prostituovať/WN po:verb
 prostitúti
 prostitútka/zZ po:noun is:feminine
-prostné
-prostných
-prostným
-prostnými
-prosto
+prostný/YN po:adjective
+prosto	 po:adverb
 Prostocviky
-prostoducho
+prostoducho	 po:adverb
 prostoduchosť/K po:noun is:feminine
 prostoduchý/YN po:adjective
 prostodušne/N po:adverb
@@ -101887,42 +101845,34 @@ prostohlavý/YN po:adjective
 prostomyseľne/N po:adverb
 prostomyseľnosť/K po:noun is:feminine
 prostomyseľný/YN po:adjective
-Prostonárodná
-Prostonárodné
-Prostonárodných
-prostopaš
-prostopašník
+prostonárodný/YN po:adjective
+prostopaš/D po:noun is:feminine
+prostopašník/C po:noun is:masculine
 prostopašnosť/K po:noun is:feminine
 prostopašný/YN po:adjective
 prostoreko/N po:adverb
 prostorekosť/K po:noun is:feminine
 prostoreký/YN po:adjective
 prostosrdečný/YN po:adjective
-prostota/z po:noun is:feminine
-prostotách
-prostotám
-prostotami
+prostota/zZ po:noun is:feminine
 prostovlasý/YN po:adjective
 prostovravný/YN po:adjective
-prostôt
 prostrácia/U po:noun is:feminine
 prostred
 prostredie/V po:noun is:neuter
 prostredkovanie/VN po:noun is:neuter
-prostredne
+prostredne	 po:adverb
 prostredníctvach
 prostredníctvam
 prostredníctvo/M po:noun is:neuter
-prostredník/C po:noun is:masculine
+prostredník/CB po:noun is:masculine
 prostredníkov/Y po:adjective
-prostredníku
-prostredníky
 prostrednosť/K po:noun is:feminine
 prostredný/YN po:adjective
 prostreďový/YN po:adjective
 prostriedkový/YN po:adjective
 prostriedok/O po:noun is:masculine
-prostučko
+prostučko	 po:adverb
 prostučký/YN po:adjective
 prostý/YN po:adjective
 prostylos
@@ -101933,10 +101883,7 @@ protagonistický/YN po:adjective
 protagonistka/zZ po:noun is:feminine
 protagonistov/Y po:adjective
 protagoreizmus/B po:noun is:masculine
-proťajškami
-proťajškom
-proťajškov
-proťajšok
+proťajšok/O po:noun is:masculine
 protálium
 protamín
 protanopsia
@@ -101952,19 +101899,16 @@ protekcionársky/YN po:adjective
 protekcionárstvach
 protekcionárstvam
 protekcionárstvo/M po:noun is:neuter
-protekcionisticky
+protekcionisticky	 po:adverb
 protekcionistický/YN po:adjective
 protekcionizmus/B po:noun is:masculine
-protekčne
+protekčne	 po:adverb
 protekčný/YN po:adjective
 protektor/B po:noun is:masculine
 protektor/C po:noun is:masculine
-protektorát/C po:noun is:masculine
-protektoráte
+protektorát/B po:noun is:masculine
 protektorátny/YN po:adjective
 protektorátov/Y po:adjective
-protektorátu
-protektoráty
 protektorka/zZ po:noun is:feminine
 protektorov/Y po:adjective
 protektorovanie/VN po:noun is:neuter
@@ -107868,17 +107812,17 @@ rozloha/zZ po:noun is:feminine
 rozlomenie/V po:noun is:neuter
 rozlomený/YN po:adjective
 rozlomiť/EN po:verb
-rozložene
+rozložene	 po:adverb
 rozloženie/V po:noun is:neuter
-rozloženo
+rozloženo	 po:adverb
 rozložený/YN po:adjective
 rozložiť/EN po:verb
 rozložiteľnosť/K po:noun is:feminine
 rozložiteľný/YN po:adjective
-rozložito
+rozložito	 po:adverb
 rozložitosť/K po:noun is:feminine
 rozložitý/YN po:adjective
-Rozložná
+rozložný/YN po:adjective
 rozlúčene
 rozlúčenie/V po:noun is:neuter
 rozlúčený/YN po:adjective
@@ -107965,8 +107909,8 @@ rozmeriavať/XN po:verb
 rozmerne/YN po:adjective
 rozmernosť/K po:noun is:feminine
 rozmerný/YN po:adjective
-rozmerove
-rozmerovo
+rozmerove	 po:adverb
+rozmerovo	 po:adverb
 rozmerový/YN po:adjective
 rozmerúvať
 rozmetanie/VN po:noun is:neuterrozmetaniu
@@ -107987,10 +107931,8 @@ rozmieňaný/YN po:adjective
 rozmieňať/XN po:verb
 rozmiesiť/XN po:verb
 rozmiesť/RN po:verb
-rozmiestená
-rozmiestené
 rozmiestenie/V po:noun is:neuter
-rozmiestených
+rozmiestený/YN po:adjective
 rozmiestiť/XN po:verb
 rozmiestnenie/V po:noun is:neuter
 rozmiestnený/YN po:adjective
@@ -108005,8 +107947,8 @@ rozmiesťovať/WN po:verb
 rozmiešanie/V po:noun is:neuter
 rozmiešaný/YN po:adjective
 rozmiešať/XN po:verb
-rozmiešavane
-rozmiešavať
+rozmiešavane	 po:adverb
+rozmiešavať/XN po:verb
 rozmietacie
 rozmietač
 rozmilý/YN po:adjective
@@ -108019,10 +107961,7 @@ rozmliaždiť/XN po:verb
 rozmliažďovať/WN po:verb
 rozmlieť/RN po:verb
 rozmnoženie/V po:noun is:neuter
-rozmnoženín
-rozmnoženina
-rozmnoženinu
-rozmnoženiny
+rozmnoženina/zZ po:noun is:feminine
 rozmnožený/YN po:adjective
 rozmnožiť/EN po:verb
 rozmnožovací/I po:adjective
@@ -108091,7 +108030,7 @@ roznášač/C po:noun is:masculine
 roznášačka/zZ po:noun is:feminine
 roznášačov/Y po:adjective
 roznášané
-roznášanie/V po:noun is:neuter
+roznášanie/VN po:noun is:neuter
 roznášaných
 roznášať/XN po:verb
 roznášateľ
@@ -111672,7 +111611,6 @@ sebevrah/c po:noun is:masculine
 sebevrahov/Y po:adjective
 sebezáchovná
 seborea
-seborrhagia
 sebou
 Sebu
 sec
@@ -111680,7 +111618,7 @@ secco
 secento
 secernovať/WN po:verb
 secesia/U po:noun is:feminine
-secesne
+secesne	 po:adverb
 secesný/YN po:adjective
 secírovať/WN po:verb
 secondhand
@@ -115459,19 +115397,17 @@ slovakofilov/Y po:adjective
 slovakofilský/YN po:adjective
 slovakofilstvo/M po:noun is:neuter
 Slovákov/Y po:adjective
-slovan
-Slovana
+Slovan/c po:noun is:masculine
 slovančina/zZ po:noun is:feminine
 Slovane
 Slovanie/VN po:noun is:neuter
 slovanisti
+Slovanka/zZ po:noun is:feminine
 slovanofil/C po:noun is:masculine
 slovanofilov/Y po:adjective
 slovanofilovia
 slovanofilský/YN po:adjective
 slovanofilstvo/M po:noun is:neuter
-Slovanom
-Slovanov
 slovansko
 slovansko-neslovanský/YN po:adjective
 slovanskosť/K po:noun is:feminine
@@ -118797,7 +118733,7 @@ stabilne/YN po:adjective
 stabilnosť/K po:noun is:feminine
 stabilný/YN po:adjective
 sťaby	 po:conjunction
-staccat
+staccat	st:staccato is:plural is:genitive
 staccatach
 staccatam
 staccato/M po:noun is:neuter
@@ -119026,9 +118962,7 @@ starobylý/YN po:adjective
 Starobystrickej
 Staročech
 staročes
-Staročeská
-staročeské
-staročeskú
+staročeský/YN po:adjective
 stáročia/Q
 stáročie/V po:noun is:neuter
 staročín
@@ -119085,13 +119019,9 @@ staroruský/YN po:adjective
 staroružový/YN po:adjective
 staroslávny/YN po:adjective
 staroslivosť/K po:noun is:feminine
-staroslovan
+staroslovan/c po:noun is:masculine
 staroslovanský/YN po:adjective
-staroslovenčín
-staroslovenčina/z po:noun is:feminine
-staroslovenčinách
-staroslovenčinám
-staroslovenčinami
+staroslovenčina/zZ po:noun is:feminine
 staroslovensky
 staroslovenský/YN po:adjective
 staroslovien
@@ -119100,7 +119030,7 @@ staroslovienčina/zZ po:noun is:feminine
 starosloviensky/YN po:adjective
 starosť/K po:noun is:feminine
 starosta/H po:noun is:masculine
-starostiek
+starostiek	st:starostka is:plural is:genitive
 starostime
 starostiť/EN po:verb
 starostite
@@ -130088,7 +130018,6 @@ titer
 titilácia/U po:noun is:feminine
 titlá
 titlať
-Title
 títo
 titon
 titrácia/U po:noun is:feminine
@@ -130134,11 +130063,8 @@ tkáčov/Y po:adjective
 Tkáčová/Y po:adjective
 tkáčovňa/U po:noun is:feminine
 tkáčovní
-tkáčovské
-tkáčovskej
-tkáčovskú
-tkáčovských
-tkáčsky/YN po:adjective
+tkáčovský/YN po:adjective
+tkáčsky	 po:adverb
 tkáčstvach
 tkáčstvam
 tkáčstvo/M po:noun is:neuter
@@ -130168,17 +130094,10 @@ tlačenica/U po:noun is:feminine
 tlačenie/V po:noun is:neuter
 tlačenka/zZ po:noun is:feminine
 tlačený/YN po:adjective
-tlačiaca
-tlačiace
-tlačiaceho
-tlačiacej
-tlačiaci
-tlačiacich
-tlačiacim
-tlačiacu
+tlačiaci/YN po:adjective
 tlačiar/C po:noun is:masculine
 tlačiareň/D po:noun is:feminine
-tlačiarensky
+tlačiarensky	 po:adverb
 tlačiarenský/YN po:adjective
 tlačiarka/zZ po:noun is:feminine
 tlačiarnička/zZ po:noun is:feminine
@@ -130488,12 +130407,12 @@ tokogónia
 tokograf
 tokografia
 tokológia
-tolerancia/U po:noun is:feminine
+tolerancia/UN po:noun is:feminine
 tolerančný/YN po:adjective
 tolerantne/N po:adverb
-tolerantnosť/K po:noun is:feminine
+tolerantnosť/KN po:noun is:feminine
 tolerantný/YN po:adjective
-tolerovane
+tolerovane/N po:adverb
 tolerovanie/VN po:noun is:neuter
 tolerovanosť/K po:noun is:feminine
 tolerovaný/YN po:adjective
@@ -130524,7 +130443,7 @@ toľkýto/N po:adverb
 tolma
 toľme
 tolos
-tolstojovsky
+tolstojovsky	 po:adverb
 tolstojovský/YN po:adjective
 tolstolobik
 toluén/B po:noun is:masculine
@@ -153102,6 +153021,7 @@ zaujatosť/K po:noun is:feminine
 zaujatý/YN po:adjective
 záujem/O po:noun is:masculine
 záujemca/H po:noun is:masculine
+záujemci
 záujemcov/Y po:adjective
 záujemkyňa/U po:noun is:feminine
 zaujímajúci
