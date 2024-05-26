@@ -1,4 +1,4 @@
-160499
+160414
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -4572,8 +4572,6 @@ automobilistický/YN po:adjective
 automobilistka/zZ po:noun is:feminine
 automobilistov/Y po:adjective
 automobilizácia/U po:noun is:feminine
-automobilizácie
-automobilizácii
 automobilizmus/B po:noun is:masculine
 automobilka/zZ po:noun is:feminine
 automobilmi
@@ -6120,9 +6118,7 @@ Beckov
 Beckova
 Beckove
 Beckovom
-beckovskej
 beckovský/YN po:adjective
-beckovských
 becquerel/B po:noun is:masculine
 becquerela
 becquerelmi
@@ -7128,11 +7124,6 @@ bičovaný/YN po:adjective
 bičovať/WN po:verb
 bičový/Y po:adjective
 bidet/B po:noun is:masculine
-Bidet
-bidetom
-bidetov
-bidetu
-bidety
 bidielko
 bidlo/M po:noun is:neuter
 bidon
@@ -8329,11 +8320,7 @@ bojlera
 bojleri
 Bojná
 Bojnej
-bojnickej
-bojnickou
 bojnický/YN po:adjective
-bojnických
-bojnickými
 Bojničiek
 Bojničkách
 Bojničky
@@ -8389,10 +8376,6 @@ Boleslav/c po:noun is:masculine
 Boleslave
 Boleslavou
 Boleslavov/Y po:adjective
-boleslavské
-boleslavskej
-boleslavskou
-boleslavskú
 boleslavský/YN po:adjective
 Boleslavy
 bolesť/K po:noun is:feminine
@@ -8621,7 +8604,6 @@ Borovine
 Borovka/zZ po:noun is:feminine
 Borovnici
 borovský/YN po:adjective
-borovských
 borový/YN po:adjective
 bórový/YN po:adjective
 borský/YN po:adjective
@@ -8681,9 +8663,7 @@ boš
 Bošáca
 Bošáce
 Bošáci
-bošácku
 bošácky/YN po:adjective
-bošáckych
 Bošácu
 Bošanoch
 Bošanom
@@ -9735,7 +9715,6 @@ budivé
 búdka/zZ po:noun is:feminine
 budkovský/YN po:adjective
 buďme/N st:byť po:verb is:1st_person is:plural is:imperative
-budmerickom
 budmerický/YN po:adjective
 budoár
 budova/zZ po:noun is:feminine
@@ -41123,7 +41102,6 @@ kás
 kasa/zZ po:noun is:feminine
 kasácia/U po:noun is:feminine
 kasačný/YN po:adjective
-kasačnému
 kasanica/U po:noun is:feminine
 Kasanom
 kasár/C po:noun is:masculine
@@ -41138,8 +41116,8 @@ kasať/EN po:verb
 kasať/TN po:verb
 kasava
 kasička/zZ po:noun is:feminine
-kasín
 kasin
+kasín
 kasina
 kasínach
 kasínam
@@ -71157,7 +71135,6 @@ normograf
 normohodina/zZ po:noun is:feminine
 normotvorba/zZ po:noun is:feminine
 normotvorca/C po:noun is:masculine
-normotvorcami
 normotvorcom
 normotvorný/YN po:adjective
 normovač/C po:noun is:masculine
@@ -86674,7 +86651,6 @@ Podbrežie
 podbrušie/V po:noun is:neuter
 podbrušina/zZ po:noun is:feminine
 podbruško/M po:noun is:neuter
-podbrušku
 podbrušník/B po:noun is:masculine
 podcast/B po:noun is:masculine
 podcastový/Y po:adjective
@@ -142855,7 +142831,6 @@ vycúdiť
 vycúvanie/V po:noun is:neuter
 vycúvať/XN po:verb
 výcval
-vycvála
 vycválaný/YN po:adjective
 vycválať/XN po:verb
 výcvalom
@@ -143008,17 +142983,7 @@ výdatný/YN po:adjective
 vydatý/YN po:adjective
 výdav
 vydavaateľstvo/M po:noun is:neuter
-vydávajúca
-vydávajúce
-vydávajúceho
-vydávajúcej
-vydávajúcemu
 vydávajúci/YN po:adjective
-vydávajúcich
-vydávajúcim
-vydávajúcimi
-vydávajúcou
-vydávajúcu
 vydávanie/VN po:noun is:neuter
 vydávaný/Y po:adjective
 vydávať/XN po:verb
@@ -143192,9 +143157,7 @@ vyduto	 po:adverb
 vydutý/YN po:adjective
 vydúvanie/V po:noun is:neuter
 vydúvať/XN po:verb
-vydvihnú
 vydvihnúť/WN po:verb
-vydvihol
 výdych/B po:noun is:masculine
 vydýchanie/V po:noun is:neuter
 vydýchaný/YN po:adjective
@@ -143211,7 +143174,6 @@ vyexpedovanie/VN po:noun is:neuter
 vyexpedovaný/YN po:adjective
 vyexpedovať/WN po:verb
 vyexportovaný/YN po:adjective
-vyexportované
 vyexportuje
 vyfabrikovanie/VN po:noun is:neuter
 vyfabrikovaný/YN po:adjective
@@ -153136,13 +153098,9 @@ zaváženie/V po:noun is:neuter
 závažie/V po:noun is:neuter
 zavážiť/XN po:verb
 zavážka/zZ po:noun is:feminine
-zavážkach
-zavážku
-zavážky
 závažne/N po:adverb
 závažnosť/K po:noun is:feminine
 závažný/YN po:adjective
-zavážok
 závažový/YN po:adjective
 zavažuje
 zavažujú
@@ -153252,11 +153210,8 @@ zavinšovať/WN po:verb
 zavinúť/RN po:verb
 zavinutie/V po:noun is:neuter
 zavinutý/YN po:adjective
-zavírená
 zavírenie/V po:noun is:neuter
-zavírenú
 zavírený/YN po:adjective
-zavírených
 zavíriť/XN po:verb
 zavírusovať/WN po:verb
 závis
@@ -154364,10 +154319,7 @@ zduto
 zdutosť/K po:noun is:feminine
 zdutý/YN po:adjective
 zdúvať/XN po:verb
-zduženiam
-zduženiami
 zduženie/V po:noun is:neuter
-zdužením
 zdužieť
 zdužnieť
 zdvadsaťnásobil
@@ -154465,7 +154417,6 @@ zelenať/EN po:verb
 zelenavo
 zelenavý/YN po:adjective
 Zeleneč
-zelenického
 zelenický/YN po:adjective
 zelenieť/XN po:verb
 zelenina/zZ po:noun is:feminine
@@ -154735,7 +154686,6 @@ zhlobiť/EN po:verb
 zhltá
 zhltať
 zhltnúť/WN po:verb
-zhltnutá
 zhltnutie/V po:noun is:neuter
 zhltnutý/YN po:adjective
 zhluk/B po:noun is:masculine
@@ -155980,7 +155930,6 @@ zmeškať/EN po:verb
 zmeták/B po:noun is:masculine
 zmetať/EN po:verb
 zmetenie/V po:noun is:neuter
-zmeteniu
 zmetený/YN po:adjective
 zmiasť/RN po:verb
 zmieňať
@@ -156062,17 +156011,8 @@ zminimalizovať/WN po:verb
 zmítorený/YN po:adjective
 zmizíka
 zmiznúť/WN po:verb
-zmiznutá
-zmiznuté
-zmiznutého
-zmiznutej
-zmiznutému
 zmiznutie/V po:noun is:neuter
-zmiznutom
 zmiznutý/YN po:adjective
-zmiznutých
-zmiznutým
-zmiznutými
 zmladenie/V po:noun is:neuter
 zmladi
 zmladiť/EN po:verb
@@ -156966,8 +156906,6 @@ zohnutý/YN po:adjective
 Zohor
 Zohore
 Zohorom
-zohorské
-zohorskej
 zohorský/YN po:adjective
 Zohoru
 zohranie/V po:noun is:neuter
@@ -158419,11 +158357,7 @@ zurčivý/YN po:adjective
 zúrenie/V po:noun is:neuter
 zúriace
 zúriaci
-zurišskej
-zurišskou
-zurišskú
 zurišský/YN po:adjective
-zurišských
 zúriť/XN po:verb
 zúrivcov/Y po:adjective
 zúrivec/C po:noun is:masculine
