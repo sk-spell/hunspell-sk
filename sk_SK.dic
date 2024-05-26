@@ -41133,9 +41133,8 @@ karyotyp
 kás
 kasa/zZ po:noun is:feminine
 kasácia/U po:noun is:feminine
-kasačného
+kasačný/YN po:adjective
 kasačnému
-Kasačný/YN po:adjective
 kasanica/U po:noun is:feminine
 Kasanom
 kasár/C po:noun is:masculine
@@ -41150,12 +41149,11 @@ kasať/EN po:verb
 kasať/TN po:verb
 kasava
 kasička/zZ po:noun is:feminine
-kasin
 kasín
+kasin
 kasina
 kasínach
 kasínam
-Kasino
 kasíno/M po:noun is:neuter
 kasínový/YN po:adjective
 kasiterit
@@ -71170,6 +71168,7 @@ normograf
 normohodina/zZ po:noun is:feminine
 normotvorba/zZ po:noun is:feminine
 normotvorca/C po:noun is:masculine
+normotvorcami
 normotvorcom
 normotvorný/YN po:adjective
 normovač/C po:noun is:masculine
@@ -86685,7 +86684,7 @@ podbrezovský/YN po:adjective
 Podbrežie
 podbrušie/V po:noun is:neuter
 podbrušina/zZ po:noun is:feminine
-podbruškom
+podbruško/M po:noun is:neuter
 podbrušku
 podbrušník/B po:noun is:masculine
 podcast/B po:noun is:masculine
@@ -142869,7 +142868,7 @@ vycúvať/XN po:verb
 výcval
 vycvála
 vycválaný/YN po:adjective
-vycválať
+vycválať/XN po:verb
 výcvalom
 vycvičene/N po:adverb
 vycvičenie/V po:noun is:neuter
@@ -142989,7 +142988,7 @@ vyčleňovanie/VN po:noun is:neuter
 vyčleňovaný/YN po:adjective
 vyčleňovať/WN po:verb
 výčnelok/O po:noun is:masculine
-vyčnieť
+vyčnieť/XN po:verb
 vyčnievajúci/YN po:adjective
 vyčnievanie/V po:noun is:neuter
 vyčnievať/XN po:verb
@@ -143005,7 +143004,6 @@ výdajňa/U po:noun is:feminine
 výdajní
 výdajový/YN po:adjective
 vydanie/VN po:noun is:neuter
-vydaniť
 vydaný/YN po:adjective
 vydar
 vydarene/N po:adverb
@@ -143026,7 +143024,7 @@ vydávajúce
 vydávajúceho
 vydávajúcej
 vydávajúcemu
-vydávajúci
+vydávajúci/YN po:adjective
 vydávajúcich
 vydávajúcim
 vydávajúcimi
@@ -143201,13 +143199,13 @@ vydurte
 vyduť/WN po:verb
 vydutie/V po:noun is:neuter
 vydutina/zZ po:noun is:feminine
-vyduto
+vyduto	 po:adverb
 vydutý/YN po:adjective
 vydúvanie/V po:noun is:neuter
 vydúvať/XN po:verb
 vydvihnú
-vydvihnúť
-Vydvihol
+vydvihnúť/WN po:verb
+vydvihol
 výdych/B po:noun is:masculine
 vydýchanie/V po:noun is:neuter
 vydýchaný/YN po:adjective
