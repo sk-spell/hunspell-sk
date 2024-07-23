@@ -1,4 +1,4 @@
-160412
+160376
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -67128,24 +67128,19 @@ nepripoisti
 nepripoistime
 nepripoistite
 nepripojenie/V po:noun is:neuter
-nepripravene
 nepripravenosť/K po:noun is:feminine
 nepriprúc
 neprípusté
-nepripustenie/V po:noun is:neuter
 nepripusti
 nepripustime
 nepripustite
-neprípustne/N po:adverb
-neprípustnosť/K po:noun is:feminine
-nepripúšťajúci
-nepripúšťanými
+neprípustne
+neprípustnosť
 neprirácu
 neprirácuc
 neprirasti
 neprirastime
 neprirastite
-neprirodzenosť/K po:noun is:feminine
 neprísluší
 nepríslušia
 neprisni
@@ -100310,7 +100305,7 @@ pripomínajúci/YN po:adjective
 pripomínanie/V po:noun is:neuter
 pripomínaný/YN po:adjective
 pripomínať/XN po:verb
-prípon
+prípon	po:noun is:feminine st:prípona is: genitive is:plural
 prípona/zZ po:noun is:feminine
 priponáhlo
 príponový/YN po:adjective
@@ -100319,22 +100314,21 @@ prípoviedka/zZ po:noun is:feminine
 pripožičať
 príprah/B po:noun is:masculine
 príprahový/YN po:adjective
-príprav
+príprav	po:noun is:feminine st:príprava is: genitive is:plural
 príprava/zZ po:noun is:feminine
 priprávať
-pripravene
+pripravene/N po:adverb
 pripravenie/V po:noun is:neuter
-pripraveno
 pripravenosť/K po:noun is:feminine
 pripravený/YN po:adjective
 pripraviť/EN po:verb
 prípravka/zZ po:noun is:feminine
-prípravkárov
+prípravkár/C po:noun is:masculine
 prípravňa/U po:noun is:feminine
 prípravný/YN po:adjective
 prípravok/O po:noun is:masculine
-pripravovači
-pripravovane
+pripravovač/C po:noun is:masculine
+pripravovane/N po:adverb
 pripravovanie/VN po:noun is:neuter
 pripravovaný/YN po:adjective
 pripravovať/WN po:verb
@@ -100342,21 +100336,20 @@ pripravovateľ/c po:noun is:masculine
 pripravovateľka/zZ po:noun is:feminine
 pripravovateľov/Y po:adjective
 prípravovňa/U po:noun is:feminine
-prípravovní
-pripravujúce
-pripravujúci
+prípravovní	po:noun is:feminine st:prípravovňa is: genitive is:plural
+pripravujúci/YN po:adjective
 pripražiť
-Pripretých
 pripriahať/XN po:verb
 pripriahnuť/WN po:verb
 priprieť/XN po:verb
-pripríkre
+pripríkro/N po:adverb
+pripríkry/YN po:adjective
 priprúc
 pripúčať/XN po:verb
 pripučiť/EN po:verb
 pripuchnúť
 prípust
-pripustenie/V po:noun is:neuter
+pripustenie/VN po:noun is:neuter
 pripustený/YN po:adjective
 pripusti
 pripustime
@@ -100368,10 +100361,9 @@ prípustkov
 prípustky/Q
 prípustnosť/K po:noun is:feminine
 prípustný/YN po:adjective
-pripúšťajúci
-pripúšťanej
+pripúšťajúci/YN po:adjective
 pripúšťanie/VN po:noun is:neuter
-pripúšťanú
+pripúšťaný/YN po:adjective
 pripúšťať/XN po:verb
 pripútanie/V po:noun is:neuter
 pripútaný/YN po:adjective
@@ -100380,7 +100372,6 @@ pripútavať/XN po:verb
 priputnať/EN po:verb
 priputnávať/XN po:verb
 priputovať/WN po:verb
-prír
 prirábať/XN po:verb
 prirácu
 prirácuc
@@ -100453,21 +100444,17 @@ prírodopisec/C po:noun is:masculine
 prírodopisecký/YN po:adjective
 prírodopiskyňa/U po:noun is:feminine
 prírodopisný/YN po:adjective
-prírodoveda/z po:noun is:feminine
-prírodovedách
-prírodovedám
-prírodovedami
+prírodoveda/zZ po:noun is:feminine
 prírodovedcov/Y po:adjective
 prírodovedec/C po:noun is:masculine
 prírodovedecký/YN po:adjective
 prírodovedkyňa/U po:noun is:feminine
 prírodovedný/YN po:adjective
-prírodovied
-prirodzene/N
+prirodzene/N po:adverb
 prirodzenie/V po:noun is:neuter
 prirodzeno
 prirodzenoprávnu
-prirodzenosť/K po:noun is:feminine
+prirodzenosť/KN po:noun is:feminine
 prirodzený/YN po:adjective
 priroj
 prirolovať/WN po:verb
@@ -100487,19 +100474,9 @@ prirútia
 prirútil
 prirútili
 prirútiť
-prirýchla
-prirýchle
-prirýchleho
-prirýchlej
-prirýchlemu
 prirýchliť/XN po:verb
-prirýchlo
-prirýchlom
-prirýchlou
 prirýchľovať/WN po:verb
-prirýchlu
-prirýchly
-prirýchlym
+prirýchly/YN po:adjective
 prísad
 prísada/zZ po:noun is:feminine
 prisadať/EN po:verb
@@ -114059,8 +114036,6 @@ skloňovanie/VN po:noun is:neuter
 skloňovaný/YN po:adjective
 skloňovať/WN po:verb
 skloňovateľný/YN po:adjective
-sklonové
-sklonovo
 sklopec
 sklopenie/V po:noun is:neuter
 sklopený/YN po:adjective
@@ -114070,32 +114045,20 @@ sklopný/YN po:adjective
 sklovca
 sklovina/zZ po:noun is:feminine
 sklovite/N po:adverb
-sklovito
+sklovito/N po:adverb
 sklovitosť/K po:noun is:feminine
 sklovitý/YN po:adjective
 skľúčene/N po:adverb
 skľúčenie/V po:noun is:neuter
-skľúčeno
+skľúčeno/N po:adverb
 skľúčenosť/K po:noun is:feminine
 skľúčený/YN po:adjective
 skľúčiť/XN po:verb
-skľučovadiel
-skľučovadla
-skľučovadlá
-skľučovadle
-skľučovadlo
-skľučovadlu
+skľučovadlo/M po:noun is:neuter
 skľučovaný/YN po:adjective
 skľučovať/WN po:verb
-skľučujúca
-skľučujúce
-skľučujúceho
-skľučujúcej
-skľučujúci
-skľučujúcich
-skľučujúcim
-skľučujúcimi
-skľučujúco
+skľučujúci/YN po:adjective
+skľučujúco/N po:adverb
 sklz/B po:noun is:masculine
 skĺzať/TN po:verb
 skĺzať/XN po:verb
@@ -148075,6 +148038,7 @@ werfen
 westcoast
 western/B po:noun is:masculine
 westernový/YN po:adjective
+Westminsterský/YN po:adjective
 Whatsapp/B po:noun is:masculine
 whigovia
 whippet
