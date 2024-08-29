@@ -1,4 +1,4 @@
-160376
+160357
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -31937,7 +31937,7 @@ honvédov/Y po:adjective
 honvédsky/YN po:adjective
 hóó
 hop
-Hopak
+hopak/B po:noun is:masculine
 hoper
 hopi
 hopkanie/V po:noun is:neuter
@@ -44583,6 +44583,7 @@ konsky
 konský/YN po:adjective
 konsolidácia/U po:noun is:feminine
 konsolidačný/YN po:adjective
+konsolidovane	 po:adverb
 konsolidovanie/VN po:noun is:neuter
 konsolidovaný/YN po:adjective
 konsolidovať/WN po:verb
@@ -65516,11 +65517,6 @@ neobhádžuc
 neobhor
 neobíduc
 neobiogenéza
-neobjasnenie/V po:noun is:neuter
-neobjasni
-neobjasnime
-neobjasnite
-neobjavné
 neobjektivitu
 neobjektívnosť/K po:noun is:feminine
 neobjím
@@ -72161,35 +72157,26 @@ obilnina/zZ po:noun is:feminine
 obilninár/C po:noun is:masculine
 obilninárov/Y po:adjective
 obilninársky/YN po:adjective
-obilninárstvach
-obilninárstvam
+obilninárstvach	 st:obilninárstvo is:plural is:locative
+obilninárstvam	 st:obilninárstvo is:plural is:dative
 obilninárstvo/M po:noun is:neuter
 obilninový/YN po:adjective
 obilný/YN po:adjective
 obilovina/zZ po:noun is:feminine
 obísť/RN po:verb
 obiť/WN po:verb
-obitie
+obitie/V po:noun is:neuter
 obitý/YN po:adjective
-obj
-objal/N
-objala/N
-objali/N
-objalo/N
-objasnenie/V po:noun is:neuter
-objasnenosť/K po:noun is:feminine
+objasnenie/VN po:noun is:neuter
+objasnenosť/KN po:noun is:feminine
 objasnený/YN po:adjective
-objasni
-objasnime
-objasniť/EN po:verb
-objasnite
+objasniť/XN po:verb
 objasňovanie/VN po:noun is:neuter
 objasňovaný/YN po:adjective
 objasňovať/WN po:verb
-objasňujúci
-objať/N
+objasňujúci/YN po:adjective
+objať/WN po:verb
 objatie/V po:noun is:neuter
-objato
 objatý/YN po:adjective
 objav/B po:noun is:masculine
 objavenie/V po:noun is:neuter
@@ -72198,15 +72185,15 @@ objaviť/EN po:verb
 objaviteľ/c po:noun is:masculine
 objaviteľka/zZ po:noun is:feminine
 objaviteľov/Y po:adjective
-objaviteľsky
+objaviteľsky	 po:adverb
 objaviteľský/YN po:adjective
 objavne/N po:adverb
-objavnosť/K po:noun is:feminine
-objavný/Y po:adjective
+objavnosť/KN po:noun is:feminine
+objavný/YN po:adjective
 objavovanie/VN po:noun is:neuter
 objavovaný/YN po:adjective
 objavovať/WN po:verb
-objavujúci/Y po:adjective
+objavujúci/YN po:adjective
 objazdi
 objazdí
 objedaná
@@ -72214,8 +72201,8 @@ objedanie/V po:noun is:neuter
 objedať/EN po:verb
 objedať/WN po:verb
 objedávať/XN po:verb
-objedená
-objednane
+objedený/YN po:adjective
+objednane	 po:adverb
 objednanie/VN po:noun is:neuter
 objednaný/YN po:adjective
 objednať/EN po:verb
@@ -72234,9 +72221,9 @@ objedze
 objekcia
 objekt/B po:noun is:masculine
 objektív/B po:noun is:masculine
-objektíve
+objektíve	 st:objektív is:singular is:locative
 objektivista/H po:noun is:masculine
-objektivisticky
+objektivisticky	 po:adverb
 objektivistický/YN po:adjective
 objektivistka/zZ po:noun is:feminine
 objektivistov/Y po:adjective
@@ -72250,22 +72237,19 @@ objektivizovať/WN po:verb
 objektívnosť/K po:noun is:feminine
 objektívny/YN po:adjective
 objektívový/YN po:adjective
-objektmi
-objektovo
+objektmi	 st:objekt is:plural is:instrumental
+objektovo	 po:adverb
 objektový/YN po:adjective
 objem/B po:noun is:masculine
 objemnosť/K po:noun is:feminine
 objemný/YN po:adjective
-objemove
-objemovo
+objemove	 po:adverb
+objemovo	 po:adverb
 objemový/YN po:adjective
 objesť/RN po:verb
 objím
-objímajúca
-objímajúce
-objímajúci
+objímajúci/YN po:adjective
 objímajúco
-objímajúcu
 objímanie/V po:noun is:neuter
 objímať/XN po:verb
 objíme
@@ -77720,6 +77704,7 @@ opakovej
 opakovom
 opakovú
 opakových
+opaku
 opakujúci/YN po:adjective
 opal
 opál/B po:noun is:masculine
@@ -114187,6 +114172,7 @@ skonkretizovaný/YN po:adjective
 skonkretizovať/WN po:verb
 skonkrétnení
 skonkrétniť/XN po:verb
+skonsolidovane	 po:adverb
 skonsolidovanie/VN po:noun is:neuter
 skonsolidovaný/YN po:adjective
 skonsolidovať/WN po:verb
@@ -114196,14 +114182,9 @@ skonštatovať/WN po:verb
 skonštruovanie/VN po:noun is:neuter
 skonštruovaný/YN po:adjective
 skonštruovať/WN po:verb
-skont
-skonta
-skontá
 skontaktovať/WN po:verb
-skonto
-skontom
+skonto/M po:noun is:neuter
 skontrácia/U po:noun is:feminine
-skontro
 skontrolovanie/VN po:noun is:neuter
 skontrolovaný/YN po:adjective
 skontrolovať/WN po:verb
