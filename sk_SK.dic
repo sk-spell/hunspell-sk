@@ -33986,7 +33986,6 @@ HZD	 po:acronym
 HZDS	 po:acronym
 HZz
 ch
-Ch
 cha
 Chabarovský/YN po:adjective
 chabazit
@@ -34012,25 +34011,21 @@ chabrus
 chabý/YN po:adjective
 chabzda/zZ po:noun is:feminine
 chabzdový/YN po:adjective
-chačkar
+chačkar/J po:noun is:masculine
 chacha
 chachot
 chachotať/TN po:verb
 chachtať
-chairman
-chájd
+chairman/C po:noun is:masculine
+chájd	po:noun is:feminine st:chajda is:genitive is:plural
 chajda/zZ po:noun is:feminine
 chajdička/zZ po:noun is:feminine
 chalan/C po:noun is:masculine
 chalanísk
-chalaniská
-chalaniskách
-chalaniskám
-chalanisko/c po:noun is:masculine
+chalanisko/M po:noun is:masculine
 chalaniskov/Y po:adjective
-chalanisku
 chalanov/Y po:adjective
-chalansky
+chalansky po:adverb
 chalanský/YN po:adjective
 chalát/B po:noun is:masculine
 chalátik/B po:noun is:masculine
@@ -34051,9 +34046,9 @@ chalkolit
 chalkopyrit/B po:noun is:masculine
 chalkozín
 challenger
-chalúh
+chalúh po:noun is:feminine st:chaluha is:genitive is:plural
 chaluha/zZ po:noun is:feminine
-chalúp
+chalúp po:noun is:feminine st:chalupa is:genitive is:plural
 chalupa/zZ po:noun is:feminine
 chalupár/C po:noun is:masculine
 chalupárčenie/V po:noun is:neuter
@@ -34117,10 +34112,7 @@ chaotičnosť/K po:noun is:feminine
 chápadlo/M po:noun is:neuter
 chápadlový/YN po:adjective
 chápajúc
-chápajúce
-chápajúcej
-chápajúci
-chápajúcim
+chápajúci/Y po:adjective
 chapák
 chápanie/VN po:noun is:neuter
 chápanlivý/YN po:adjective
@@ -34136,7 +34128,7 @@ charakteristicky/N po:adverb
 charakteristický/YN po:adjective
 charakteristika/zZ po:noun is:feminine
 charakterizácia/U po:noun is:feminine
-charakterizačne
+charakterizačne	 po:adverb
 charakterizačný/YN po:adjective
 charakterizovanie/VN po:noun is:neuter
 charakterizovaný/YN po:adjective
@@ -34146,24 +34138,20 @@ charakterne/N po:adverb
 charakternosť/K po:noun is:feminine
 charakterný/YN po:adjective
 charakterove/N po:adverb
-charakterovo
+charakterovo/N po:adverb
 charakterový/Y po:adjective
-charapšťať
 chargé
 charita/zZ po:noun is:feminine
 charitatívnosť/K po:noun is:feminine
 charitatívny/YN po:adjective
-charitnej
-charitných
-chariziem
+charitný/YN po:adjective
+chariziem	 po:noun st:charizma is:genitive is:plural
 charizma/zZ po:noun is:feminine
-charizmaticky
+charizmaticky/N po:adverb
 charizmatický/YN po:adjective
-Charkov
-Charkova
-Charkove
+charizmatik/C po:noun is:masculine
+Charkov/B po:noun is:masculine
 charkovský/YN po:adjective
-Charkovu
 charleston/B po:noun is:masculine
 Charlotta
 Charlotte
@@ -34173,11 +34161,11 @@ Cháron
 Chárov/Y po:adjective
 charta/zZ po:noun is:feminine
 charter
-chartisti
+chartista/H po:noun is:masculine
 chartreuse
 Chartúm
 Chartúme
-chartúmsky
+chartúmsky/Y po:adjective
 Charybda
 chás
 chasa/zZ po:noun is:feminine
@@ -34191,7 +34179,7 @@ chasníkov/Y po:adjective
 chassis
 chasuble
 Chat
-chát
+chát	 po:noun is:feminine st:chata is:genitive is:plural
 chata/zZ po:noun is:feminine
 chatár/C po:noun is:masculine
 chatárčiť/XN po:verb
@@ -34219,13 +34207,12 @@ chaussée
 chazmofyt
 chcejúc
 chcejúci/Y po:adjective
-chcene
+chcene/N po:adverb
 chcenie/V po:noun is:neuter
 chcenosť/K po:noun is:feminine
 chcený/YN po:adjective
 chcieť/XN po:verb
-chcsl
-che
+che	 po:interjection
 Cheb
 Chebe
 Chebom
@@ -34243,61 +34230,52 @@ chechliť
 chechot/B po:noun is:masculine
 chechotajúc
 chechotať/TN po:verb
-chechotavo
+chechotavo	 po:adverb
 chechotavý/YN po:adjective
 chechotmi
 chechtajúc
 chechtať/TN po:verb
-chechtavo
+chechtavo	 po:adverb
 chechtavý/YN po:adjective
-cheilitída
+cheilitída/zZ po:noun is:feminine
 cheirospazmus/B po:noun is:masculine
-chem
+chem	 st:chemický
 chémia/U po:noun is:feminine
-chemicky/YN po:adjective
+chemicky/N po:adverb
 chemický/YN po:adjective
 chemička/zZ po:noun is:feminine
 chemik/C po:noun is:masculine
 chemikália/U po:noun is:feminine
 chemikov/Y po:adjective
-chemisorpcia
+chemisorpcia/U po:noun is:feminine
 chemizácia/U po:noun is:feminine
-chemizmu
+chemizmus/B po:noun is:masculine
 chemlon/B po:noun is:masculine
 chemlón/B po:noun is:masculine
 chemlonový/YN po:adjective
 chemlónový/YN po:adjective
-chemomorfóza
-chemorecepcia
-chemoreceptor
-chemosféra
-chemosyntéza
-chemotaxia
-chemoterapeuticky
+chemomorfóza/zZ po:noun is:feminine
+chemorecepcia/U po:noun is:feminine
+chemoreceptor/B po:noun is:masculine
+chemosféra/zZ po:noun is:feminine
+chemosyntéza/zZ po:noun is:feminine
+chemotaxia/U po:noun is:feminine
+chemoterapeuticky	 po:adverb
 chemoterapeutický/YN po:adjective
-chemoterapeutiká
-chemoterapeutikum
+chemoterapeutikum/M po:noun is:neuter
 chemoterapia/U po:noun is:feminine
-chemotropia
+chemotropia/U po:noun is:feminine
 chemotropizmus/B po:noun is:masculine
-cherry
-cherub
+cherry/ po:noun is:feminine
+cherub/B po:noun is:masculine
 cherubín/C po:noun is:masculine
 cherubínov/Y po:adjective
 cherubínsky/YN po:adjective
-cherubov
-cheshire
 Chetit/B po:noun is:masculine
-chetitčín
-chetitčina/z po:noun is:feminine
-chetitčinách
-chetitčinám
-chetitčinami
-chetitológia
-chetitsky
+chetitčina/zZ po:noun is:feminine
+chetitológia/U po:noun is:feminine
+chetitsky	 po:adverb
 chetitský/YN po:adjective
-chevalier
-chevre
 CHF	 po:acronym
 chi
 chí
@@ -34438,7 +34416,7 @@ chlapiatko/M po:noun is:neuter
 chlapiatok
 chlapík/C po:noun is:masculine
 chlapíkov/Y po:adjective
-Chlapíková/Y po:adjective
+chlapíková/Y po:adjective
 chlapina/zZ po:noun is:feminine
 chlapísk
 chlapiská
@@ -34541,7 +34519,7 @@ chlórbenzén
 chlóre
 chlorečnan/B po:noun is:masculine
 chlorečný/YN po:adjective
-chlorela
+chlorela/zZ po:noun is:feminine
 chlorémia/U po:noun is:feminine
 chlorenchým
 chlórfluórovaný/YN po:adjective
@@ -34846,18 +34824,9 @@ chórový/YN po:adjective
 chóru
 chorus
 chorv
-Chorvát
-Chorváta
-chorvátčin
-chorvátčina/z po:noun is:feminine
-chorvátčinách
-chorvátčinám
-chorvátčinami
-Chorváti
+Chorvát/C po:noun is:masculine
+chorvátčina/zZ po:noun is:feminine
 Chorvátka/zZ po:noun is:feminine
-Chorvátmi
-Chorvátom
-Chorvátov
 Chorvátsko/M po:noun is:neuter
 chorvátsky/Y po:adjective
 Chorváty
