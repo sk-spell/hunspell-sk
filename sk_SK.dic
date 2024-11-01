@@ -1,4 +1,4 @@
-160357
+160318
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -3696,6 +3696,7 @@ armovací/I po:adjective
 armovanie/VN po:noun is:neuter
 armovaný/YN po:adjective
 armovať/WN po:verb
+Armstrong
 Army
 arnika/zZ po:noun is:feminine
 arnikový/YN po:adjective
@@ -5378,6 +5379,7 @@ balíčkový/YN po:adjective
 baličov/Y po:adjective
 balijský/YN po:adjective
 balík/b po:noun is:masculine
+balíka
 balíkový/Y po:adjective
 balisáž
 balista/H po:noun is:masculine
@@ -5520,6 +5522,7 @@ banícky/Y po:adjective
 baníctvach
 baníctvam
 baníctvo/M po:noun is:neuter
+Banič
 baníčiť/XN po:verb
 baniek
 baník/C po:noun is:masculine
@@ -17237,6 +17240,7 @@ dobabrite
 dobabrú
 dobabrúc
 dobačovať/WN po:verb
+dobaliť/EN po:verb
 ďobanie/V po:noun is:neuter
 ďobať/TN po:verb
 dobehá
@@ -18932,19 +18936,8 @@ dossier
 dosť	 po:adverb
 dostačiť/EN po:verb
 dostačovať/WN po:verb
-dostačujúca
-dostačujúce
-dostačujúceho
-dostačujúcej
-dostačujúcemu
-dostačujúci
-dostačujúcich
-dostačujúcim
-dostačujúcimi
+dostačujúci/YN po:adjective
 dostačujúco
-dostačujúcom
-dostačujúcou
-dostačujúcu
 dostajní
 dostanoviť
 dostať/WN po:verb
@@ -27204,6 +27197,7 @@ gag/B po:noun is:masculine
 gágá
 gagačka/zZ po:noun is:feminine
 gáganie/V po:noun is:neuter
+Gagarin
 gágať/XN po:verb
 gagmi
 gagoch
@@ -28535,7 +28529,7 @@ GPL	 po:acronym
 GPRS	 po:acronym
 GPS	 po:acronym
 gr	 po:acronym
-GR	 po:acronymANO
+GR	 po:acronym
 Grác
 Graca
 Grace
@@ -38752,6 +38746,7 @@ jednokorunový/YN po:adjective
 jednokotúčový/YN po:adjective
 jednokrídlový/YN po:adjective
 jednokruhový/YN po:adjective
+jednokusový/YN po:adjective
 jednoliatosť/K po:noun is:feminine
 jednoliaty/YN po:adjective
 jednolícny
@@ -41533,8 +41528,7 @@ kazetotéka/zZ po:noun is:feminine
 kazetotékach
 kazetotékam
 kazetový/YN po:adjective
-kaziace
-kaziaci
+kaziaci/YN po:adjective
 Kazimír/c po:noun is:masculine
 Kazimíre
 Kazimírov/Y po:adjective
@@ -41929,6 +41923,7 @@ kinézia
 kineziológia
 kineziológie
 king
+Kingsleyová
 kinín
 kino/M po:noun is:neuter
 kinocília
@@ -53786,6 +53781,7 @@ mandátorovi
 mandátovo
 mandátový/YN po:adjective
 mandeľ/J po:noun is:masculine
+Mandela
 mandelinka/zZ po:noun is:feminine
 mandibula
 mandľa/U po:noun is:feminine
@@ -59803,6 +59799,7 @@ náboženstvo/M po:noun is:neuter
 nábožne	 po:adverb
 nábožnosť/K po:noun is:feminine
 nábožný/YN po:adjective
+nábr	 st:nábrežie
 nabranie/V po:noun is:neuter
 nabraný/YN po:adjective
 nabrať/RN po:verb
@@ -64177,7 +64174,6 @@ nedospi
 nedospime
 nedospite
 nedosť/K po:noun is:feminine
-nedostačujúci
 nedostato
 nedostatočne/N po:adverb
 nedostatok/O po:noun is:masculine
@@ -64632,7 +64628,6 @@ nechať/EN po:verb
 nechávajúci
 nechávať/XN po:verb
 nechcejúc
-nechcene
 nechcenia
 nechechci
 nechechcime
@@ -65538,7 +65533,6 @@ neobrasti
 neobrastime
 neobrastite
 neobratnosť/K po:noun is:feminine
-neobsadenie/V po:noun is:neuter
 neobseď
 neobsiahnuteľnú
 neobsiatych
@@ -72892,6 +72886,8 @@ obrysový/YN po:adjective
 obryte
 obsadene
 obsadenie/V po:noun is:neuter
+obsadenie/VN po:noun is:neuter
+obsadenosť/KN po:noun is:feminine
 obsadený/YN po:adjective
 obsadiť/EN po:verb
 obsadzovací/I po:adjective
@@ -73878,6 +73874,7 @@ odflákať/XN po:verb
 odfláknuť
 odflinkať/EN po:verb
 odflinkávať/XN po:verb
+odfotiť/EN po:verb
 odfotografovanie/VN po:noun is:neuter
 odfotografovaný/YN po:adjective
 odfotografovať/WN po:verb
@@ -81165,13 +81162,8 @@ palestra
 paletá
 paleta/zZ po:noun is:feminine
 paletizácia/U po:noun is:feminine
-paletizačná
-paletizačné
-paletizačnej
-paletizačnou
-paletizačnú
-paletizačných
-paletizačnými
+paletizačný/YN po:adjective
+paletizovaný/YN po:adjective
 paletka/zZ po:noun is:feminine
 paleto
 paletovo
@@ -81183,11 +81175,7 @@ pálí
 páliacemu
 páliaci
 páliacim
-Paliatívna
-paliatívne
-paliatívnej
-paliatívnu
-paliatívnych
+paliatívny/YN po:adjective
 paliatívum
 palica/U po:noun is:feminine
 palicovať/WN po:verb
@@ -88422,7 +88410,6 @@ poisti
 poistime
 poistiť/EN po:verb
 poistite
-Poistite
 poistiteľ/c po:noun is:masculine
 poistka/zZ po:noun is:feminine
 poistkový/YN po:adjective
@@ -96414,8 +96401,9 @@ prekurovanie/VN po:noun is:neuter
 prekurovaný/YN po:adjective
 prekurovať/WN po:verb
 prekurzívny/YN po:adjective
-prekurzor
+prekurzor/B po:noun is:masculine
 prekurzórny/YN po:adjective
+prekurzorový/YN po:adjective
 prekuť/WN po:verb
 prekutať/ETN po:verb
 prekutávať/XN po:verb
@@ -100227,6 +100215,7 @@ pripodobnite
 pripodobňovať/WN po:verb
 pripochodovať/WN po:verb
 pripoistenie/V po:noun is:neuter
+pripoistený/YN po:adjective
 pripoisti
 pripoistime
 pripoistiť/EN po:verb
@@ -110068,6 +110057,7 @@ rýchlodráh
 rýchlodráha/zZ po:noun is:feminine
 rýchlodráhach
 rýchlodráham
+rýchlokaziaci/YN po:adjective
 rýchlokorčuliar/C po:noun is:masculine
 rýchlokorčuliarka/zZ po:noun is:feminine
 rýchlokorčuliarov/Y po:adjective
@@ -135218,8 +135208,7 @@ uňho
 UNI	 po:acronym
 únia/U po:noun is:feminine
 uniat
-UNICEF	 po:acronym
-UNICEFAbdiáš
+UNICEF
 unicelulárny/YN po:adjective
 uniesť/RN po:verb
 unifikácia/U po:noun is:feminine
@@ -138126,6 +138115,7 @@ vážene
 váženie/V po:noun is:neuter
 váženosť/K po:noun is:feminine
 vážený/YN po:adjective
+vážiaci/YN po:adjective
 vážievať/XN po:verb
 vážiť/XN po:verb
 vážka/zZ po:noun is:feminine
@@ -139339,6 +139329,7 @@ viackanálový/YN po:adjective
 viackoľajnosť/K po:noun is:feminine
 viackoľajný/YN po:adjective
 viackrát
+viackusový/Y po:adjective
 viackvetý/YN po:adjective
 viacmenej
 viacmesačný/YN po:adjective
@@ -141403,9 +141394,7 @@ vplývanie/V po:noun is:neuter
 vplývať/XN po:verb
 vplyvne
 vplyvný/YN po:adjective
-VPN	 po:acronym
-VPNAbdiáš
-VPNnábr	 st:ulica is:abb
+VPN
 vpochodovanie/VN po:noun is:neuter
 vpochodovať/WN po:verb
 vpojený/YN po:adjective
@@ -149543,7 +149532,7 @@ zachádzané
 zachádzanie/V po:noun is:neuter
 zachádzať/XN po:verb
 zachádzka/zZ po:noun is:feminine
-Zachariáš
+Zachariáš/c po:noun is:masculine
 zacharovský/YN po:adjective
 zachcejúc
 zachcieť/XN po:verb
@@ -151693,6 +151682,7 @@ zarezaný/Y po:adjective
 zarezať/TN po:verb
 zarezávajúca
 zarezávať/XN po:verb
+zarezervovať/WN po:verb
 zarezonovať/WN po:verb
 zárezový/YN po:adjective
 zárežec/J po:noun is:masculine
@@ -153346,6 +153336,7 @@ zazívať/XN po:verb
 zazlievané
 zazlievať/XN po:verb
 zazmätkovať/WN po:verb
+zazmluvniť/EN po:verb
 zázn
 zazná
 zaznačenie/V po:noun is:neuter
@@ -154477,6 +154468,7 @@ zeolitov
 zeolitu
 zeolity
 zepelin
+Zeppelin
 zerav
 zero
 zestetizovať/WN po:verb
