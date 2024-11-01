@@ -20,17 +20,10 @@ IF EXIST build (RD /S /Q build)
 MKDIR build
 COPY /y NUL build\dict >NUL
 
-%sed% 1,1d _osobnosti/sport.dic >>build/dict
-%sed% 1,1d _osobnosti/politika.dic >>build/dict
-%sed% 1,1d _osobnosti/it.dic >>build/dict
-%sed% 1,1d _skratky/it.dic >>build/dict
-%sed% 1,1d _skratky/geografia.dic >>build/dict
-%sed% 1,1d _skratky/politika.dic >>build/dict
-%sed% 1,1d _skratky/rozne.dic >>build/dict
-%sed% 1,1d _tematicke/nabozenske.dic >>build/dict
-%sed% 1,1d _tematicke/cudzie.dic >>build/dict
-%sed% 1,1d _terminy/it.dic >>build/dict
-%sed% 1,1d sk_SK.dic >>build/dict
+
+FOR %%f IN (_osobnosti/sport.dic, _osobnosti/politika.dic, _osobnosti/it.dic, _osobnosti/rozne.dic, _skratky/it.dic, _skratky/geografia.dic, _skratky/politika.dic, _skratky/rozne.dic, _tematicke/nabozenske.dic, _tematicke/cudzie.dic, _terminy/it.dic, sk_SK.dic) DO (
+    %sed% 1,1d %%f | %sed% "$a\\n" >> build/dict
+)
 
 %sort% -u build/dict > build/temp.dic
 %grep% -v "/" build/temp.dic | %grep% -v ":" >build/sk_noflag.dic
