@@ -1,4 +1,4 @@
-160318
+160278
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -44084,20 +44084,12 @@ komuže
 komže
 kon
 koňa
-koňacín
-koňacina/B po:noun is:masculine
-koňacinách
-koňacinám
-koňacine
+koňacina/zZ po:noun is:masculine
 koňacinec
-koňacinou
-koňacinu
-koňaciny
 koňačik/B po:noun is:masculine
 konajúci/Y po:adjective
 koňak/B po:noun is:masculine
 koňakový/YN po:adjective
-konane
 konanie/VN po:noun is:neuter
 konaný/Y po:adjective
 konár/J po:noun is:masculine
@@ -44115,22 +44107,21 @@ koncedovať/WN po:verb
 koncelebrácia/U po:noun is:feminine
 koncelebrovať/WN po:verb
 koncentrácia/U po:noun is:feminine
-koncentračne
+koncentračne	 po:adverb
 koncentračný/YN po:adjective
 koncentrák/B po:noun is:masculine
 koncentrát/B po:noun is:masculine
 koncentrátmi
 koncentrátor/B po:noun is:masculine
-koncentricky
+koncentricky	 po:adverb
 koncentrický/YN po:adjective
-koncentrovane
+koncentrovane	 po:adverb
 koncentrovanie/VN po:noun is:neuter
 koncentrovanosť/K po:noun is:feminine
 koncentrovaný/YN po:adjective
 koncentrovať/WN po:verb
 koncepcia/U po:noun is:feminine
 koncepčne/N po:adverb
-koncepčno
 koncepčnosť/K po:noun is:feminine
 koncepčný/YN po:adjective
 koncept/B po:noun is:masculine
@@ -44154,7 +44145,7 @@ koncesionárov/Y po:adjective
 koncesionársky/Y po:adjective
 koncesiovaný/YN po:adjective
 koncesiový/Y po:adjective
-koncesne
+koncesne	 po:adverb
 koncesný/YN po:adjective
 koncesovaný/YN po:adjective
 koncil/B po:noun is:masculine
@@ -44195,61 +44186,54 @@ končina/zZ po:noun is:feminine
 končisto/N po:adverb
 končistý/YN po:adjective
 končiť/EN po:verb
-končite
-končito
+končite	 po:adverb
+končito	 po:adverb
 končitosť/K po:noun is:feminine
 končitý/YN po:adjective
 kondemnácia/U po:noun is:feminine
 kondenzácia/U po:noun is:feminine
-kondenzačne
+kondenzačne	 po:adverb
 kondenzačný/YN po:adjective
 kondenzát/B po:noun is:masculine
 kondenzátor/B po:noun is:masculine
 kondenzátorový/YN po:adjective
-kondenzor
+kondenzor/C po:noun is:masculine
 kondenzovaný/YN po:adjective
 kondenzovať/WN po:verb
-kondenzujúci
+kondenzujúci/YN po:adjective
 kondícia/U po:noun is:feminine
-kondiciogram
-kondicionál/B po:noun is:masculine
+kondiciogram/B po:noun is:masculine
+kondicionál/L po:noun is:masculine
 kondicionáli
 kondicionalizmus/B po:noun is:masculine
-kondicionálmi
 kondicionálny/YN po:adjective
 kondicionálový/YN po:adjective
-kondicionér/B po:noun is:masculine
-kondicionéri
+kondicionér/J po:noun is:masculine
 kondicionérmi
-kondicionéroch
-kondicionérom
-kondicionérov
-kondicionéru
 kondicionéry
 kondicionovanie/VN po:noun is:neuter
 kondička/zZ po:noun is:feminine
-kondične
+kondične	 po:adverb
 kondično
 kondičný/YN po:adjective
-kondikcia
+kondikcia/U po:noun is:feminine
 kondolencia/U po:noun is:feminine
 kondolenčný/YN po:adjective
 kondolovať/WN po:verb
 kondóm/B po:noun is:masculine
 kondomínium/M po:noun is:neuter
 kondómový/Y po:adjective
-kondor/B po:noun is:masculine
-kondorovi
-kondotiér
-kondukcia
-kondukt
-konduktivita
-konduktomer
-konduktometria
-konduktor
-kondyl
-kondylóm
-kone
+kondor/L po:noun is:masculine
+kondotiér/C po:noun is:masculine
+kondukcia/U po:noun is:feminine
+kondukt/B po:noun is:masculine
+konduktivita/zZ po:noun is:feminine
+konduktomer/B po:noun is:masculine
+konduktometria/U po:noun is:feminine
+konduktor/C po:noun is:masculine
+kondyl/b po:noun is:masculine
+kondylóm/B po:noun is:masculine
+kone po:noun is:masculine st:kôň is:nominative is:plural
 konečník/B po:noun is:masculine
 konečníkový/YN po:adjective
 konečno/M po:noun is:neuter
@@ -44261,14 +44245,13 @@ konektorový/YN po:adjective
 konexia/U po:noun is:feminine
 konfabulácia/U po:noun is:feminine
 konfederácia/U po:noun is:feminine
-konfederačne
+konfederačne	 po:adverb
 konfederačný/YN po:adjective
 konfekcia/U po:noun is:feminine
-konfekčne
+konfekčne	 po:adverb
 konfekčný/YN po:adjective
 konferencia/U po:noun is:feminine
-konferencier/C po:noun is:masculine
-konferenciera
+konferencier/c po:noun is:masculine
 konferencierka/zZ po:noun is:feminine
 konferencierov/Y po:adjective
 konferenciersky/YN po:adjective
@@ -44281,7 +44264,7 @@ konfesionalizmus/B po:noun is:masculine
 konfesionálny/YN po:adjective
 konfeta/zZ po:noun is:feminine
 konfetový/YN po:adjective
-konfidencia
+konfidencia/U po:noun is:feminine
 konfident/C po:noun is:masculine
 konfidentov/Y po:adjective
 konfidentský/YN po:adjective
@@ -44293,11 +44276,11 @@ konfigurovaný/YN po:adjective
 konfigurovať/WN po:verb
 konfigurovateľný/Y po:adjective
 konfinácia/U po:noun is:feminine
-konfínium
+konfínium/M po:noun is:neuter
 konfirmácia/U po:noun is:feminine
 konfirmačný/YN po:adjective
 konfirmand/C po:noun is:masculine
-konfirmandiek
+konfirmandiek po:noun is:feminine st:konfirmandka is:genitive is:plural
 konfirmandka/zZ po:noun is:feminine
 konfirmandov/Y po:adjective
 konfirmovaný/YN po:adjective
@@ -44312,49 +44295,44 @@ konfiškovať/WN po:verb
 konflagrácia/U po:noun is:feminine
 konflikt/B po:noun is:masculine
 konfliktmi
-konfliktne
+konfliktne	 po:adverb
 konfliktnosť/K po:noun is:feminine
 konfliktný/YN po:adjective
 konfliktovosť/K po:noun is:feminine
 konfliktový/YN po:adjective
-konfluencia
+konfluencia/U po:noun is:feminine
 konformácia/U po:noun is:feminine
 konformista/H po:noun is:masculine
-konformisticky
 konformistický/YN po:adjective
+konformistickye	 po:adverb
 konformistov/Y po:adjective
-konformita
-konformite
-konformitu
-konformity
+konformita/zZ po:noun is:feminine
 konformizmus/B po:noun is:masculine
 konformne/N po:adverb
 konformnosť/K po:noun is:feminine
 konformný/YN po:adjective
-Konfráter
 konfrontácia/U po:noun is:feminine
-konfrontačne
+konfrontačne	 po:adverb
 konfrontačný/YN po:adjective
 konfrontovanie/VN po:noun is:neuter
 konfrontovaný/YN po:adjective
 konfrontovať/WN po:verb
 konfucianizmus/B po:noun is:masculine
-konfuciánskou
+konfuciánsky/YN po:adjective
 konfuciánstvo/M po:noun is:neuter
 konfundovať/WN po:verb
 konfutácia/U po:noun is:feminine
 konfúzia/U po:noun is:feminine
 konfúznosť/K po:noun is:feminine
 konfúzny/YN po:adjective
-kongelifrakcia
+kongelifrakcia/U po:noun is:feminine
 kongeliturbácia/U po:noun is:feminine
-kongenialita
+kongenialita/zZ po:noun is:feminine
 kongeniálnosť/K po:noun is:feminine
 kongeniálny/YN po:adjective
 kongenitálny/YN po:adjective
-kongescia
-konglomerát/B po:noun is:masculine
-konglomerátmi
+kongescia/U po:noun is:feminine
+konglomerát/L po:noun is:masculine
 konglutinácia/U po:noun is:feminine
 Kongo/M po:noun is:neuter
 kongregácia/U po:noun is:feminine
@@ -44363,22 +44341,22 @@ kongregačný/YN po:adjective
 kongres/B po:noun is:masculine
 kongresman/C po:noun is:masculine
 kongresmanov/Y po:adjective
-Kongresovo
+kongresovo	 po:adverb
 kongresový/Y po:adjective
-kongrua
+kongrua/zZ po:noun is:feminine
 kongruencia/U po:noun is:feminine
 kongruenčný/YN po:adjective
 kongruentnosť/K po:noun is:feminine
 kongruentný/YN po:adjective
-koncha
-konchológia
-koni
-koní
+koncha/zZ po:noun is:feminine
+konchológia/U po:noun is:feminine
+koní po:noun is:masculine st:kôň is:genitive is:plural
+koni po:noun is:masculine st:kôň is:locative is:singular
 koniar/C po:noun is:masculine
 koniareň/D po:noun is:feminine
 koniarov/Y po:adjective
-Koniarovská
-kónicky
+koniarovský/YN po:adjective
+kónicky	 po:adverb
 kónický/YN po:adjective
 koníča/A po:noun is:neuter
 koníčatiek
@@ -44511,55 +44489,39 @@ koňovať/WN po:verb
 koňovi
 konôp
 konôpka/zZ po:noun is:feminine
-Konrád
+Konrád/B po:noun is:masculine
 Konráda
-Konrádom
 konsangvinita
 konsekrácia/U po:noun is:feminine
 konsekračný/YN po:adjective
 konsekvencia/U po:noun is:feminine
-konsens
-konsensu
-konsenzami
+konsens/B po:noun is:masculine
 konsenze
-konsenzoch
-konsenzom
-konsenzov
 konsenzu
-konsenzuálay
-konsenzuálej
-konsenzuáley
-konsenzuáleyho
-konsenzuáleymu
-konsenzuáliy
 konsenzuálny/YN po:adjective
-konsenzuálom
-konsenzuálou
-konsenzuáluy
-konsenzus/B po:noun is:masculine
-konsenzy
+konsenzus/L po:noun is:masculine
 konsignácia/U po:noun is:feminine
 konsignačný/YN po:adjective
-konsignant
-konskripcia
-konskripčnej
-konsky
+konsignant/C po:noun is:masculine
+konskripcia/U po:noun is:feminine
+konskripčný/YN po:adjective
+konsky	 po:adverb
 konský/YN po:adjective
 konsolidácia/U po:noun is:feminine
-konsolidačný/YN po:adjective
+konsolidačný/YN po:adjectiv
+konsolidátor/C po:noun is:masculine
 konsolidovane	 po:adverb
 konsolidovanie/VN po:noun is:neuter
 konsolidovaný/YN po:adjective
 konsolidovať/WN po:verb
 konsonancia/U po:noun is:feminine
 konsonančný/YN po:adjective
-konsonant/C po:noun is:masculine
+konsonant/L po:noun is:masculine
 konsonante
 konsonantický/YN po:adjective
 konsonantný/YN po:adjective
 konsonantov/Y po:adjective
 konsonantu
-konsonanty
 konspekt/B po:noun is:masculine
 konspektmi
 konspektovať/WN po:verb
@@ -44567,27 +44529,26 @@ Konstanca/U po:noun is:feminine
 konstanský/YN po:adjective
 konsternácia/U po:noun is:feminine
 konstipácia/U po:noun is:feminine
-konstrikcia
-konstriktor
+konstrikcia/U po:noun is:feminine
+konstriktor/C po:noun is:masculine
 konšel/C po:noun is:masculine
 konšelov/Y po:adjective
-konškolák
+konškolák/C po:noun is:masculine
 konšpirácia/U po:noun is:feminine
-konšpiračne
+konšpiračne	 po:adverb
 konšpiračný/YN po:adjective
 konšpiratívnosť/K po:noun is:feminine
 konšpiratívny/YN po:adjective
 konšpirátor/C po:noun is:masculine
 konšpirovanie/VN po:noun is:neuter
 konšpirovať/WN po:verb
-konštalácie
-konštalácii
-konštánt
+konštalácia/U po:noun is:feminine
+konštánt po:noun is:feminine st:konštanta is:genitive is:plural
 konštanta/zZ po:noun is:feminine
 Konštantín/c po:noun is:masculine
 Konštantínov/Y po:adjective
 Konštantínová/Y po:adjective
-konštantne
+konštantne	 po:adverb
 konštantnosť/K po:noun is:feminine
 konštantný/YN po:adjective
 konštatácia/U po:noun is:feminine
@@ -64825,7 +64786,6 @@ nekonaného
 nekonči
 nekončime
 nekončite
-nekondenzujúci
 nekonečien
 nekonečno/M po:noun is:neuter
 nekonečnosť/K po:noun is:feminine
