@@ -1,13 +1,11 @@
 1000
-Abdiáš
 AC po:acronym
+Abdiáš
 Aggeus
 BJB po:acronym
 CASD po:acronym
 CB po:acronym
 CČSH po:acronym
-celocirkevný/YN po:adjective
-celozborový/YN po:adjective
 Deuteronómium
 ECAV po:acronym
 ECM po:acronym
@@ -17,18 +15,24 @@ Galaťanom
 Genezis
 Jeremiáš
 Joel
-Kolosanom
 KS po:acronym
 KZ po:acronym
+Kolosanom
 Levitikus
 Malachiáš
-Náhum
 Nehemiáš
-novoobrátenec/C po:noun is:masculine
 Numeri
+Náhum
 Ozeáš
 RCK po:acronym
-Sofoniáš
-staršovstvo/M po:noun is:neuter
+Sofoniáš/c po:noun is:masculine
 Tesaloničanom
 Zachariáš/c po:noun is:masculine
+celocirkevný/YN po:adjective
+celozborový/YN po:adjective
+ekleziologický/YN po:adjective
+ekleziológia/U po:noun is:feminine
+homiletický/YN po:adjective
+novoobrátenec/C po:noun is:masculine
+staršovstvo/M po:noun is:neuter
+učeníctvo/M po:noun is:neuter

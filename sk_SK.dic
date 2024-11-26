@@ -1,4 +1,4 @@
-160278
+160265
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -22189,6 +22189,8 @@ eklektistický/Y po:adjective
 eklektizmus/B po:noun is:masculine
 ekletantný/YN po:adjective
 eklézia
+ekleziológia/U po:noun is:feminine
+ekleziologický/YN po:adjective
 eklimeter
 eklipsa
 ekliptický/Y po:adjective
@@ -23892,22 +23894,22 @@ excerpovať/WN po:verb
 excerpt/B po:noun is:masculine
 excerptmi
 exces/B po:noun is:masculine
-Excesívne
-excesívneho
+excesívny/YN po:adjective
 excindančný/YN po:adjective
-excitabilita
+excitabilita/zZ po:noun is:feminine
 excitácia/U po:noun is:feminine
 excitans
 exciton
 excitovaný/YN po:adjective
-excízia
+excízia/U po:noun is:feminine
 EXE
 execírovať/WN po:verb
-exedra
-exegetické
-exegéza
+exedra/zZ po:noun is:feminine
+exegetický/YN po:adjective
+exegetovať/WN po:verb
+exegéza/zZ po:noun is:feminine
 exekúcia/U po:noun is:feminine
-exekučne
+exekučne	 po:adverb
 exekučný/Y po:adjective
 exekutív
 exekutíva/zZ po:noun is:feminine
@@ -23917,7 +23919,7 @@ exekutívny/YN po:adjective
 exekútor/C po:noun is:masculine
 exekútormi
 exekútorov/Y po:adjective
-exekútorsky
+exekútorsky	 po:adverb
 exekútorský/YN po:adjective
 exekvovanie/VN po:noun is:neuter
 exekvovaný/YN po:adjective
@@ -31813,6 +31815,7 @@ Homérov/Y po:adjective
 homérovský/YN po:adjective
 homicidium
 homilet
+homiletický/YN po:adjective
 homiletika/zZ po:noun is:feminine
 homília/U po:noun is:feminine
 hominidi
@@ -42694,7 +42697,7 @@ klzko/N po:adverb
 klzkosť/K po:noun is:feminine
 klzký/YN po:adjective
 klzný/YN po:adjective
-km
+km	 po:acronym
 KM	 po:acronym
 kmásať/TN po:verb
 kmásať/XN po:verb
@@ -44670,17 +44673,9 @@ kontrabasistov/Y po:adjective
 kontrabasový/YN po:adjective
 kontradikcia/U po:noun is:feminine
 kontradikčný/YN po:adjective
-kontradiktórne
-kontradiktórnemu
-kontradiktórnom
 kontradiktórnosť/K po:noun is:feminine
-kontradiktórny
-kontrahent
-kontrahenta
-kontrahenti
-kontrahentmi
-kontrahentom
-kontrahentov
+kontradiktórny/YN po:adjective
+kontrahent/C po:noun is:masculine
 kontrahovanie/VN po:noun is:neuter
 kontrahovaný/YN po:adjective
 kontrahovať/WN po:verb
@@ -44689,20 +44684,15 @@ kontrakcia/U po:noun is:feminine
 kontrakčný/YN po:adjective
 kontrakt/B po:noun is:masculine
 kontraktácia/U po:noun is:feminine
-kontraktačne
+kontraktačne	 po:adverb
 kontraktačno
 kontraktačný/YN po:adjective
 kontraktilita
 kontraktmi
-kontraktné
-kontraktného
-kontraktnej
-kontraktnou
-kontraktnú
-kontraktných
-kontraktným
+kontraktný/YN po:adjective
 kontraktový/YN po:adjective
-kontraktúra
+kontraktúra/zZ po:noun is:feminin
+kontrakultúrny/YN po:adjective
 kontralaterálny/YN po:adjective
 kontramaska/zZ po:noun is:feminine
 kontrapost
@@ -45238,7 +45228,7 @@ koreninový/YN po:adjective
 korenisto/N po:adverb
 korenistý/YN po:adjective
 koreniť/EN po:verb
-korenito
+korenito	 po:adverb
 korenitý/YN po:adjective
 korenný/YN po:adjective
 koreňový/YN po:adjective
@@ -62160,25 +62150,28 @@ nárastmi
 narátaný/YN po:adjective
 narátať/TN po:verb
 narátať/XN po:verb
+naratív/B po:noun is:masculine
 naratívny/YN po:adjective
+naratívom
+naratívov
 narátor/C po:noun is:masculine
 náraz/B po:noun is:masculine
 narazenie/V po:noun is:neuter
 narazený/YN po:adjective
-nárazisko
+nárazisko/M po:noun is:neuter
 nárazištie/S po:noun is:neuter
 naraziť/EN po:verb
 nárazník/B po:noun is:masculine
 nárazníkový/YN po:adjective
 nárazovite/N po:adverb
-nárazovito
+nárazovito	 po:adverb
 nárazovitosť/K po:noun is:feminine
 nárazovitý/YN po:adjective
-nárazovo
+nárazovo	 po:adverb
 nárazovosť/K po:noun is:feminine
 nárazový/YN po:adjective
 narážací/IN po:adjective
-narážajúci
+narážajúci/YN po:adjective
 narážanie/V po:noun is:neuter
 narážaný/YN po:adjective
 narážať/XN po:verb
@@ -62191,8 +62184,8 @@ narcistické
 narcizmus/B po:noun is:masculine
 nárečie/V po:noun is:neuter
 narečniť
-nárečove
-nárečovo
+nárečove	 po:adverb
+nárečovo	 po:adverb
 nárečový/YN po:adjective
 naregulovať/WN po:verb
 nárek/B po:noun is:masculine
@@ -68757,7 +68750,6 @@ nevlámme
 nevlámte
 nevlastnenie/V po:noun is:neuter
 nevlastni
-nevlastniaci
 nevlastnime
 nevlastnite
 nevlať
@@ -91975,11 +91967,12 @@ postihovaný/YN po:adjective
 postihovať/WN po:verb
 postihovo
 postihový/YN po:adjective
+postihujúci/YN po:adjective
 postilión/C po:noun is:masculine
 postiliónov/Y po:adjective
-Postiliónu
+postiliónu
 postime
-postínané
+postínaný/YN po:adjective
 postínať/XN po:verb
 postindustrializmus/B po:noun is:masculine
 postískať/XN po:verb
@@ -91988,19 +91981,19 @@ postite
 postkomunista/H po:noun is:masculine
 postkomunistický/YN po:adjective
 postkomunistov/Y po:adjective
+postkresťanstvo/M po:noun is:neuter
 postláčaní
 postláčať/XN po:verb
 postlať/WN po:verb
 postlieť/XN po:verb
 postĺkať/XN po:verb
-postludium
-postlúdium
+postlúdium/M po:noun is:neuter
 postmenštruačný/YN po:adjective
 postmi
 postmoderien
 postmoderna/zZ po:noun is:feminine
 postmodernista/H po:noun is:masculine
-postmodernisticky
+postmodernisticky	 po:adverb
 postmodernistický/YN po:adjective
 postmodernistov/Y po:adjective
 postmodernizmus/B po:noun is:masculine
@@ -101853,15 +101846,9 @@ protiinflačne
 protiinflačný/YN po:adjective
 protijadrový/YN po:adjective
 protijed/B po:noun is:masculine
-protikandidát
-protikandidáta
-protikandidáti
+protikandidát/C po:noun is:masculine
 protikandidátka/zZ po:noun is:feminine
-protikandidátmi
-protikandidátom
-protikandidátov
-protikandidátovi
-protikapitalistických
+protikapitalistický/Y po:adjective
 protiklad/B po:noun is:masculine
 protikladne/N po:adverb
 protikladnosť/K po:noun is:feminine
@@ -101870,24 +101857,24 @@ protikoaličný/YN po:adjective
 protikomunisticky
 protikomunistický/YN po:adjective
 protikorózny/YN po:adjective
-protikorupčne
+protikorupčne	 po:adverb
 protikorupčný/YN po:adjective
-protikultúrnou
-protiľahlo
+protikresťanský/Y po:adjective
+protikultúrny/Y po:adjective
+protiľahlo	 po:adverb
 protiľahlý/YN po:adjective
 protilátka/zZ po:noun is:feminine
 protileninovský/YN po:adjective
 protileninský/YN po:adjective
-protiletecky
+protiletecky	 po:adverb
 protiletecký/YN po:adjective
-protiliek
-protilieky
+protiliek/B po:noun is:masculine
 protilietadlový/YN po:adjective
 protiľudovo	 po:adverb
 protiľudovosť/K po:noun is:feminine
 protiľudový/YN po:adjective
-protiľudské
 protiľudsky	 po:adverb
+protiľudský/Y po:adjective
 protimaďarský/YN po:adjective
 protimamericky/N po:adverb
 protimenšinový/YN po:adjective
@@ -101895,7 +101882,7 @@ protimonopolný/YN po:adjective
 protinábožensky/N po:adverb
 protináboženský/YN po:adjective
 protinarkotický/YN po:adjective
-protinárodne
+protinárodne	 po:adverb
 protinárodný/YN po:adjective
 protinávrh/B po:noun is:masculine
 protinázor/B po:noun is:masculine
@@ -105001,8 +104988,7 @@ reliéfovo
 reliéfový/YN po:adjective
 religionistika/zZ po:noun is:feminine
 religioso
-religiozita
-religiozity
+religiozita/zZ po:noun is:feminine
 religiózne/YN po:adjective
 religióznosť/K po:noun is:feminine
 religiózny/YN po:adjective
@@ -110693,6 +110679,7 @@ samosprávach
 samosprávam
 samosprávne/YN po:adjective
 samosprávny/YN po:adjective
+samospravodlivosť/KN po:noun is:feminine
 samospúšť/D po:noun is:feminine
 samospúšťach
 samospúšťam
@@ -111369,42 +111356,36 @@ sebakritický/YN po:adjective
 sebakritika/zZ po:noun is:feminine
 sebaláska/zZ po:noun is:feminine
 sebaľutovanie/VN po:noun is:neuter
+sebaobeta/zZ po:noun is:feminine
 sebaobetavý/YN po:adjective
-sebaobete
 sebaobetovanie/VN po:noun is:neuter
-sebaobhajoby
+sebaobhajoba/zZ po:noun is:feminine
 sebaobmedzovanie/VN po:noun is:neuter
 sebaobrán
-sebaobrana/z po:noun is:feminine
-sebaobranách
-sebaobranám
-sebaobranami
+sebaobrana/zZ po:noun is:feminine
 sebaobranný/YN po:adjective
 sebaochrán
 sebaochrana/zZ po:noun is:feminine
-sebaoslobodenia
+sebaoslobodenie/V po:noun is:neuter
 sebaospravedlňovanie/VN po:noun is:neuter
 sebaospravedlňovaný/YN po:adjective
 sebaovládanie/V po:noun is:neuter
 sebapitvanie/V po:noun is:neuter
-sebapoškodení
+sebapoškodenie/V po:noun is:neuter
+sebapotvrdzujúci/Y po:adjective
 sebapoznanie/V po:noun is:neuter
 sebapoznávanie/V po:noun is:neuter
 sebapozorovanie/VN po:noun is:neuter
 sebapreceňovanie/VN po:noun is:neuter
 sebarealizácia/U po:noun is:feminine
 sebareflexia/U po:noun is:feminine
-sebareklama
+sebareklama/zZ po:noun is:feminine
 sebaskúmanie/V po:noun is:neuter
 sebaspytovanie/VN po:noun is:neuter
 sebatrýznenie/V po:noun is:neuter
 sebatrýzniteľ/c po:noun is:masculine
 sebatrýznivý/YN po:adjective
-sebaúct
-sebaúcta/z po:noun is:feminine
-sebaúctach
-sebaúctam
-sebaúctami
+sebaúcta/zZ po:noun is:feminine
 sebaukájanie/V po:noun is:neuter
 sebaurčenie/V po:noun is:neuter
 sebauspokojenie/V po:noun is:neuter
@@ -116013,7 +115994,7 @@ sofistikovaný/YN po:adjective
 sofistov/Y po:adjective
 sofizma
 sofizmus/B po:noun is:masculine
-Sofoniáš
+Sofoniáš/c po:noun is:masculine
 Sofora
 soft
 softbal/B po:noun is:masculine
@@ -133687,7 +133668,7 @@ učene/YN po:adjective
 učenec/C po:noun is:masculine
 učenecky
 učenecký/YN po:adjective
-učeníctva
+učeníctvo/M po:noun is:neuter
 učenie/V po:noun is:neuter
 učeník/C po:noun is:masculine
 učeníkov/Y po:adjective
@@ -133882,7 +133863,9 @@ udivene/PF po:adjective
 udivením
 udivený/YN po:adjective
 udiviť/EN po:verb
+údivom
 udivovať/WN po:verb
+údivu
 udivujúci/YN po:adjective
 udlabči
 udlabčime
@@ -140070,6 +140053,8 @@ vklesnúť
 vklinenie/V po:noun is:neuter
 vklinený/YN po:adjective
 vkliniť/EN po:verb
+vkĺzať/TN po:verb
+vkĺzavať/XN po:verb
 vkĺznuť/WN po:verb
 vknísať
 vkolísať
@@ -140320,7 +140305,7 @@ vlastne/YN po:adjective
 vlastnenie/V po:noun is:neuter
 vlastnený/YN po:adjective
 vlastni
-vlastniaci
+vlastniaci/YN po:adjective
 vlastnícky/YN po:adjective
 vlastníctvach
 vlastníctvam
@@ -147496,6 +147481,7 @@ vzbudene
 vzbudenie/V po:noun is:neuter
 vzbudený/YN po:adjective
 vzbudiť/EN po:verb
+vzbudovať/WN po:verb
 vzbudzovanie/VN po:noun is:neuter
 vzbudzovaný/YN po:adjective
 vzbudzovať/WN po:verb
@@ -157640,6 +157626,7 @@ zraniteľnosť/K po:noun is:feminine
 zraniteľný/YN po:adjective
 zraňovanie/VN po:noun is:neuter
 zraňovať/WN po:verb
+zraňujúci/YN po:adjective
 zrapavieť
 zrast/B po:noun is:masculine
 zrásť/RN po:verb
