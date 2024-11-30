@@ -1,7 +1,7 @@
 1000
 AC po:acronym
-Abdiáš
-Aggeus
+Abdiáš/c po:noun is:masculine
+Aggeus/c po:noun is:masculine
 BJB po:acronym
 CASD po:acronym
 CB po:acronym
@@ -13,17 +13,18 @@ Exodus
 Filemonovi
 Galaťanom
 Genezis
-Jeremiáš
+Jeremiáš/c po:noun is:masculine
 Joel
 KS po:acronym
 KZ po:acronym
 Kolosanom
 Levitikus
-Malachiáš
-Nehemiáš
+Malachiáš/c po:noun is:masculine
+Nehemiáš/c po:noun is:masculine
 Numeri
-Náhum
-Ozeáš
+Náhum/c po:noun is:masculine
+Ozeáš/c po:noun is:masculine
+pentateuch/B po:noun is:masculine
 RCK po:acronym
 Sofoniáš/c po:noun is:masculine
 Tesaloničanom

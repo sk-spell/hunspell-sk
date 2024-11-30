@@ -1,4 +1,4 @@
-160265
+160264
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -26,7 +26,7 @@ abcoulomb/B po:noun is:masculine
 abd/C po:noun is:masculine
 Abdéra
 Abdérita
-Abdiáš
+Abdiáš/c po:noun is:masculine
 abdikácia/U po:noun is:feminine
 abdikačný/YN po:adjective
 abdikovaný/YN po:adjective
@@ -810,7 +810,7 @@ agentúram
 agentúrny/YN po:adjective
 Agenzia
 ageuzia
-Aggeus
+Aggeus/c po:noun is:masculine
 aggiornamento
 agile
 agilita/zZ po:noun is:feminine
@@ -36785,6 +36785,7 @@ inspirácia/U po:noun is:feminine
 inspirovať/WN po:verb
 instabilita
 Instagram/B po:noun is:masculine
+instagramový/YN po:adjective
 instantný/YN po:adjective
 instigácia/U po:noun is:feminine
 instilácia/U po:noun is:feminine
@@ -39004,7 +39005,7 @@ Jenisejskej
 jenský/YN po:adjective
 jer/B po:noun is:masculine
 jeremiáda
-Jeremiáš
+Jeremiáš/c po:noun is:masculine
 Jerevan/B po:noun is:masculine
 Jerez
 Jergaloch
@@ -53241,7 +53242,7 @@ malagelo
 malagový/YN po:adjective
 malagský/YN po:adjective
 málach
-Malachiáš
+Malachiáš/c po:noun is:masculine
 malachit/B po:noun is:masculine
 malachitmi
 malachitový/YN po:adjective
@@ -60818,7 +60819,7 @@ nahučí
 nahučičký/YN po:adjective
 nahučký/YN po:adjective
 nahúkať/XN po:verb
-Náhum
+Náhum/c po:noun is:masculine
 nahúsť
 nahustenie/V po:noun is:neuter
 nahustený/YN po:adjective
@@ -64422,7 +64423,7 @@ nehasnúca
 nehašter
 nehašterte
 nehatene/N po:adverb
-Nehemiáš
+Nehemiáš/c po:noun is:masculine
 nehemži
 nehemžime
 nehemžite
@@ -80526,7 +80527,7 @@ ozdravovanie/VN po:noun is:neuter
 ozdravovať/WN po:verb
 ozdravovňa/U po:noun is:feminine
 ozdravovní
-Ozeáš
+Ozeáš/c po:noun is:masculine
 ozelenenie/V po:noun is:neuter
 ozelenených
 ozelenieť/XN po:verb
@@ -83698,42 +83699,36 @@ penológia
 penotvorný/YN po:adjective
 penovka/zZ po:noun is:feminine
 penový/YN po:adjective
-Pensylvánia
-Pensylvánie
-Pensylvánii
+Pensylvánia/U po:noun is:feminine
 pentaéder
 pentafenol
-pentagon
-Pentagon
 pentagón/B po:noun is:masculine
-pentachlórfenolu
-pentalógia
+pentachlórfenol
+pentalógia/U po:noun is:feminine
 pentameter
 pentametrický/YN po:adjective
-pentán
-pentánu
-Pentateuch
+pentán/B po:noun is:masculine
+pentateuch/B po:noun is:masculine
 pentatlon
 pentatonika/zZ po:noun is:feminine
 pentén
 pentit/B po:noun is:masculine
-Pentium
+Pentium/M po:noun is:neuter
 pentľa/U po:noun is:feminine
 pentlandit
 pentlí
 pentlička/zZ po:noun is:feminine
 pentľový/YN po:adjective
-pentóda
+pentóda/zZ po:noun is:feminine
 pentolit
-pentóza
+pentóza/zZ po:noun is:feminine
 pentózan
 pentrit
-penumbra
-penz
+penumbra/zZ po:noun is:feminine
 Pénz
 penzia/U po:noun is:feminine
 penzijka/zZ po:noun is:feminine
-penzijne
+penzijne	 po:adverb
 penzijný/YN po:adjective
 penzión/B po:noun is:masculine
 penzionát/B po:noun is:masculine
@@ -83744,6 +83739,7 @@ penzionovať/WN po:verb
 penzista/H po:noun is:masculine
 penzistka/zZ po:noun is:feminine
 penzistov/Y po:adjective
+penzum/B po:noun is:masculine
 penzum/M po:noun is:neuter
 Penzy
 peón
@@ -88036,7 +88032,7 @@ pohoršite
 pohoršlivo/N po:adverb
 pohoršlivý/YN po:adjective
 pohoršovať/WN po:verb
-pohoršujúci
+pohoršujúci/YN po:adjective
 pohostenie/V po:noun is:neuter
 pohosti
 pohostime
@@ -89321,6 +89317,7 @@ polootvorený/YN po:adjective
 polopatisticky
 polopatistický/YN po:adjective
 polopatizmus/B po:noun is:masculine
+polopenzia/U po:noun is:feminine
 poloplátennou
 poloplný/YN po:adjective
 poloposmešne
@@ -91981,6 +91978,7 @@ postite
 postkomunista/H po:noun is:masculine
 postkomunistický/YN po:adjective
 postkomunistov/Y po:adjective
+postkresťanský/YN po:adjective
 postkresťanstvo/M po:noun is:neuter
 postláčaní
 postláčať/XN po:verb
@@ -93668,9 +93666,7 @@ pozitivisticky/N po:adverb
 pozitivistický/YN po:adjective
 pozitivistka/zZ po:noun is:feminine
 pozitivistov/Y po:adjective
-pozitivita
-pozitivitou
-pozitivitu
+pozitivita/zZ po:noun is:feminine
 pozitivizmus/B po:noun is:masculine
 pozitívnosť/K po:noun is:feminine
 pozitívny/YN po:adjective
@@ -101913,6 +101909,7 @@ protipožiarny/YN po:adjective
 protiprachový/YN po:adjective
 protiprávnosť/K po:noun is:feminine
 protiprávny/YN po:adjective
+protipríbeh/B po:noun is:masculine
 protiprírodný/YN po:adjective
 protiprirodzený/YN po:adjective
 protiprúd/B po:noun is:masculine
@@ -111377,6 +111374,7 @@ sebapoznanie/V po:noun is:neuter
 sebapoznávanie/V po:noun is:neuter
 sebapozorovanie/VN po:noun is:neuter
 sebapreceňovanie/VN po:noun is:neuter
+sebaprežívanie/VN po:noun is:neuter
 sebarealizácia/U po:noun is:feminine
 sebareflexia/U po:noun is:feminine
 sebareklama/zZ po:noun is:feminine
@@ -111390,6 +111388,7 @@ sebaukájanie/V po:noun is:neuter
 sebaurčenie/V po:noun is:neuter
 sebauspokojenie/V po:noun is:neuter
 sebauspokojovanie/VN po:noun is:neuter
+sebautvárajúci/YN po:adjective
 sebauvedomenie/V po:noun is:neuter
 sebauvedomovanie/VN po:noun is:neuter
 sebavedome
