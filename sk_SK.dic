@@ -1,4 +1,4 @@
-160263
+160242
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -7623,8 +7623,6 @@ blahovoľne/N po:adverb
 blahovoľnosť/K po:noun is:feminine
 blahovoľný/Y po:adjective
 blahovôľa/U po:noun is:feminine
-blahovôľach
-blahovôľam
 blahovôlí
 blahovôľne
 blahovský/YN po:adjective
@@ -51936,8 +51934,6 @@ lubovo
 ľubovoľnosť/K po:noun is:feminine
 ľubovoľný/YN po:adjective
 ľubovôľa/U po:noun is:feminine
-ľubovôľach
-ľubovôľam
 ľubovôlí
 lubový/YN po:adjective
 ľubozvučne/N po:adverb
@@ -68801,8 +68797,6 @@ nevoľu
 nevoňajúci
 nevor
 nevotrúc
-nevôľach
-nevôľam
 nevôlí
 nevpíšu
 nevpíšuc
@@ -105993,8 +105987,6 @@ rímsový/YN po:adjective
 ríň
 ríňa/U po:noun is:feminine
 rína/zZ po:noun is:feminine
-ríňach
-ríňam
 rinč
 rinčanie/V po:noun is:neuter
 rinčať/RN po:verb
@@ -110727,8 +110719,6 @@ samovoľne/YN po:adjective
 samovoľnosť/K po:noun is:feminine
 samovoľný/YN po:adjective
 samovôľa/U po:noun is:feminine
-samovôľach
-samovôľam
 samovôlí
 samovrah/c po:noun is:masculine
 samovrahov/Y po:adjective
@@ -122565,8 +122555,6 @@ svojvoľníkov/Y po:adjective
 svojvoľnosť/K po:noun is:feminine
 svojvoľný/YN po:adjective
 svojvôľa/U po:noun is:feminine
-svojvôľach
-svojvôľam
 svojvôlí
 svokier
 svokor/c po:noun is:masculine
@@ -130640,8 +130628,6 @@ toxón
 toxoplazmóza
 tože
 tôňa/U po:noun is:feminine
-tôňach
-tôňam
 tôňava/zZ po:noun is:feminine
 tôní
 tônička/zZ po:noun is:feminine
@@ -141252,16 +141238,12 @@ vôkol	 po:preposition is:genitive
 vôľ
 vôl/L po:noun is:masculine
 vôľa/UN po:noun is:feminine
-vôľach
-vôľam
 Vôlg
 vôlí
 vôlov/Y po:adjective
 vôľovo
 vôľový/YN po:adjective
 vôňa/U po:noun is:feminine
-vôňach
-vôňam
 vôní
 vônička/zZ po:noun is:feminine
 VP	 po:acronym
@@ -155530,8 +155512,6 @@ zlovoľne/N po:adverb
 zlovoľnosť/K po:noun is:feminine
 zlovoľný/YN po:adjective
 zlovôľa/U po:noun is:feminine
-zlovôľach
-zlovôľam
 zlovôlí
 zloziť
 zlozvyk/B po:noun is:masculine
