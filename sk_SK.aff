@@ -271,13 +271,12 @@ SFX Z   a           ami        a is:instrumental is:plural
 SFX Z   a           ách        ina is:locative is:plural
 SFX Z   a           ach        ína is:locative is:plural
 
-SFX U Y 48
+SFX U Y 49
 SFX U   a           e          [^ďťňľ]a is:genitive
 SFX U   ďa          de         ďa is:genitive
 SFX U   ľa          le         ľa is:genitive
 SFX U   ňa          ne         ňa is:genitive
 SFX U   ťa          te         ťa is:genitive
-SFX U   a           e          ia is:genitive
 SFX U   a           i          [^ďťňľ]a is:dative
 SFX U   ďa          di         ďa is:dative
 SFX U   ľa          li         ľa is:dative
@@ -305,18 +304,20 @@ SFX U   yňa         ýň         yňa is:genitive is:plural
 SFX U   ďa          dí         ďa is:genitive is:plural
 SFX U   a           ám         ia is:dative is:plural
 SFX U   ďa          diam       ďa is:dative is:plural
-SFX U   ňa          niam       ňa is:dative is:plural
+SFX U   ňa          ňam        [áéíóúýô]ňa is:dative is:plural
+SFX U   ňa          niam       [^áéíóúýô]ňa is:dative is:plural
 SFX U   ťa          tiam       ťa is:dative is:plural
 SFX U   a           iam        [^ďťňľi]a is:dative is:plural
-SFX U   ľa          ľam        [áéíóúý]ľa is:dative is:plural
-SFX U   ľa          liam       [^áéíóúý]ľa is:dative is:plural
+SFX U   ľa          ľam        [áéíóúýô]ľa is:dative is:plural
+SFX U   ľa          liam       [^áéíóúýô]ľa is:dative is:plural
 SFX U   ďa          de         ďa is:accusative is:plural
 SFX U   ľa          le         ľa is:accusative is:plural
 SFX U   a           ách        ia is:locative is:plural
 SFX U   ďa          diach      ďa is:locative is:plural
-SFX U   ľa          ľach       [áéíóúý]ľa is:locative is:plural
-SFX U   ľa          liach      [^áéíóúý]ľa is:locative is:plural
-SFX U   ňa          niach      ňa is:locative is:plural
+SFX U   ľa          ľach       [áéíóúýô]ľa is:locative is:plural
+SFX U   ľa          liach      [^áéíóúýô]ľa is:locative is:plural
+SFX U   ňa          ňach       [áéíóúýô]ňa is:locative is:plural
+SFX U   ňa          niach      [^áéíóúýô]ňa is:locative is:plural
 SFX U   ťa          tiach      ťa is:locative is:plural
 SFX U   a           iach       [^ďťňľi]a is:locative is:plural
 SFX U   a           ami        a is:instrumental is:plural
