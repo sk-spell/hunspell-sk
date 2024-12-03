@@ -1,4 +1,4 @@
-160242
+160226
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -18458,6 +18458,8 @@ dopajediť
 dopálený/YN po:adjective
 dopáliť/XN po:verb
 dopaľovať/WN po:verb
+dopamín/B po:noun is:masculine
+dopamínový/YN po:adjective
 dopar
 dopára
 doparia
@@ -33227,13 +33229,10 @@ humanizmus/B po:noun is:masculine
 humanizovať/WN po:verb
 humánnosť/K po:noun is:feminine
 humánny/YN po:adjective
-humbug/B po:noun is:masculine
-humbugmi
-humbugoch
-humbugom
-humbugov
+humanoid/B po:noun is:masculine
+humanoidný/YN po:adjective
+humbug/L po:noun is:masculine
 humbugu
-humbugy
 Humence
 Humenciach
 Humenné
@@ -33783,63 +33782,62 @@ hynúci/YN po:adjective
 hynúť/RN po:verb
 hynúť/WN po:verb
 hynutie/V po:noun is:neuter
-hypemeréza
+hypemeréza/zZ po:noun is:feminine
 hyper
-hyperaktivita
-hyperaktívny/Y po:adjective
+hyperaktivita/zZ po:noun is:feminine
+hyperaktívny/YN po:adjective
 hyperbola/zZ po:noun is:feminine
-hyperbolicky
-hyperbolický/Y po:adjective
+hyperbolický/YN po:adjective
+hyperbolicky/zZ po:noun is:feminine
 hyperbolizovaný/YN po:adjective
 hyperbolizovať/WN po:verb
-hyperdaktýlia
-hyperestézia
-hyperfunkcia
-hypergalakcia
-hyperglobúlia
+hyperdaktýlia/U po:noun is:feminine
+hyperestézia/U po:noun is:feminine
+hyperfunkcia/U po:noun is:feminine
+hypergalakcia/U po:noun is:feminine
+hyperglobúlia/U po:noun is:feminine
 hyperglykémia/U po:noun is:feminine
 hypermangán/B po:noun is:masculine
 hypermangánový/YN po:adjective
 hypermarket/B po:noun is:masculine
-hypermetropia
-hypermoderne
+hypermetropia/U po:noun is:feminine
+hypermoderne	 po:adverb
 hypermodernosť/K po:noun is:feminine
 hypermoderný/Y po:adjective
-hyperodkaz
-hyperodoncia
-hyperocha
-hyperón
-hyperopia
-hyperosmia
-hyperpatia
-hyperplázia
-hyperplázie
+hyperodkaz/B po:noun is:masculine
+hyperodoncia/U po:noun is:feminine
+hyperocha/zZ po:noun is:feminine
+hyperón/C po:noun is:masculine
+hyperopia/U po:noun is:feminine
+hyperosmia/U po:noun is:feminine
+hyperpatia/U po:noun is:feminine
+hyperpersonalizovať/WN po:verb
+hyperplázia/U po:noun is:feminine
 hypersalivácia/U po:noun is:feminine
-hypersekrécia
+hypersekrécia/U po:noun is:feminine
 hypersenzitívny/Y po:adjective
 hypersexuál/C po:noun is:masculine
 hypersexualita/zZ po:noun is:feminine
 hypersexuálny/Y po:adjective
 hypersexuálov/Y po:adjective
-hypersexuálu
-hypersomnia
+hypersomnia/U po:noun is:feminine
 hypersonický/YN po:adjective
 hypertenzia/U po:noun is:feminine
-hypertermia
+hypertermia/U po:noun is:feminine
 hypertext/B po:noun is:masculine
-hypertextmi
+hypertextmi/zZ po:noun is:feminine
 hypertextový/Y po:adjective
 hypertónia/U po:noun is:feminine
 hypertonický/YN po:adjective
 hypertonik/C po:noun is:masculine
 hypertonikov/Y po:adjective
-hypertrichóza
+hypertrichóza/zZ po:noun is:feminine
 hypertrofia/U po:noun is:feminine
 hypertrofický/YN po:adjective
 hypertrofovanie/VN po:noun is:neuter
 hypertrofovaný/YN po:adjective
 Hypertrofovaný/YN po:adjective
-hypertrogia
+hypertrogia/U po:noun is:feminine
 hypervitaminóza
 hypestézia
 hypnabilita
@@ -34185,6 +34183,7 @@ chatársky/YN po:adjective
 chatárstvach
 chatárstvam
 chatárstvo/M po:noun is:neuter
+chatbot/B po:noun is:masculine
 chatka/zZ po:noun is:feminine
 chatovanie/VN po:noun is:neuter
 chatový/YN po:adjective
@@ -37770,9 +37769,7 @@ izolovano
 izolovanosť/K po:noun is:feminine
 izolovaný/YN po:adjective
 izolovať/WN po:verb
-izolujúca
-izolujúce
-izolujúci
+izolujúci/YN po:adjective
 izomér/B po:noun is:masculine
 izoméria
 izomerický/YN po:adjective
@@ -68468,6 +68465,7 @@ neurotikov/Y po:adjective
 neurotómia
 neurotoxín
 neurovaskulárny/Y po:adjective
+neuroveda/zZ po:noun is:feminine
 neuróz
 neuróza/zZ po:noun is:feminine
 neurózach
@@ -68964,7 +68962,6 @@ nevyklasí
 nevykokci
 nevykokcime
 nevykokcite
-nevykorenené
 nevykoristi
 nevykoristime
 nevykoristite
@@ -77767,6 +77764,7 @@ opeľovanie/VN po:noun is:neuter
 opeľovať/WN po:verb
 open
 Open
+OpenAI po:noun is:neuter
 OpenOffice/B po:noun is:masculine
 opera/zZ po:noun is:feminine
 operabilitu
@@ -80478,7 +80476,7 @@ oxymóron
 oxymoron/B po:noun is:masculine
 oxyoron
 oxytetracyklín
-oxytocín
+oxytocín/B po:noun is:masculine
 OZ	 po:acronym
 ozaéna
 ozaj
@@ -84078,6 +84076,7 @@ personalistov/Y po:adjective
 personalita/zZ po:noun is:feminine
 personalizmus/B po:noun is:masculine
 personalizovaný/YN po:adjective
+personalizovať/W/WN po:verb
 personálny/YN po:adjective
 persónam
 personami
@@ -118872,6 +118871,7 @@ starší/PF po:adjective
 staršina/H po:noun is:masculine
 staršinov/Y po:adjective
 staršovstvo/M po:noun is:neuter
+startup/B po:noun is:masculine
 staručičko
 staručičký/YN po:adjective
 staručko
@@ -121670,6 +121670,7 @@ supergiganty
 superhviezd
 superhviezda/zZ po:noun is:feminine
 súperiaci/YN po:adjective
+superinteligencia/U po:noun is:feminine
 superintendant
 superintendent/C po:noun is:masculine
 superintendentov/Y po:adjective
@@ -129615,12 +129616,11 @@ tichomorský/YN po:adjective
 tichooceánsky/YN po:adjective
 tichosť/K po:noun is:feminine
 tichota
-tichučko
-tichúčko
+tichučko	 po:adverb
 tichučký/YN po:adjective
-tichulinko
+tichulinko	 po:adverb
 tichulinký/YN po:adjective
-tichunko
+tichunko	 po:adverb
 tichunký/YN po:adjective
 tichý/YN po:adjective
 tik/B po:noun is:masculine
@@ -129648,17 +129648,11 @@ timbrom
 timbrov
 timbru
 timbry
-timer
-Times
-timidita
-timing
-timitida
-timokracia
-timológia
+timokracia/U po:noun is:feminine
+timológia/U po:noun is:feminine
 timonický/YN po:adjective
 Timor/B po:noun is:masculine
-Timoradza
-Timoradze
+Timoradza/zZ po:noun is:feminine
 Timoradzi
 timoroso
 Timotej/c po:noun is:masculine
@@ -129668,14 +129662,13 @@ Timravinej
 Timravinu
 Timravy
 tinama
-tinea
-tínedžer/C po:noun is:masculine
+tinea/zZ po:noun is:feminine
+tínedžer/b po:noun is:masculine
 tínedžerka/zZ po:noun is:feminine
 tínedžerov/Y po:adjective
 tínedžerský/YN po:adjective
-tingltangl
 Tinka/zZ po:noun is:feminine
-tinkcia
+tinkcia/U po:noun is:feminine
 tinktúr
 tinktúra/zZ po:noun is:feminine
 tinktúrach
@@ -139426,7 +139419,7 @@ videofilm/B po:noun is:masculine
 videofón
 videofónov
 videohovor/B po:noun is:masculine
-videohra
+videohra/zZ po:noun is:feminine
 videokamera/zZ po:noun is:feminine
 videokamier
 videokazeta/zZ po:noun is:feminine
@@ -139443,15 +139436,9 @@ videopožičovní
 videoprehrávač/J po:noun is:masculine
 videoprogram/B po:noun is:masculine
 videoprojekcia/U po:noun is:feminine
-videorekordér/B po:noun is:masculine
-videorekordéra
+videorekordér/L po:noun is:masculine
 videorekordéri
-videorekordérmi
-videorekordéroch
-videorekordérom
-videorekordérov
 videorekordéru
-videorekordéry
 videotechnický/YN po:adjective
 videotechnika/zZ po:noun is:feminine
 videoték
@@ -143819,20 +143806,19 @@ vykonávateľov/Y po:adjective
 vykonávateľský/YN po:adjective
 vykonávka/zZ po:noun is:feminine
 výkonne/YN po:adjective
-výkonno
 výkonnosť/K po:noun is:feminine
-výkonnostne
+výkonnostne	 po:adverb
 výkonnostný/YN po:adjective
 výkonný/YN po:adjective
-výkonovo
+výkonovo	 po:adverb
 výkonový/YN po:adjective
-vykonštruovane
+vykonštruovane	 po:adverb
 vykonštruovanie/VN po:noun is:neuter
 vykonštruovaný/YN po:adjective
 vykonštruovať/WN po:verb
 výkop/B po:noun is:masculine
 vykopanie/V po:noun is:neuter
-vykopanina
+vykopanina/zZ po:noun is:feminine
 vykopaný/YN po:adjective
 vykopať/TN po:verb
 vykopávanie/V po:noun is:neuter
@@ -143847,11 +143833,9 @@ vykoprcnúť
 vykorbáčovať/WN po:verb
 vykorčuľovanie/VN po:noun is:neuter
 vykorčuľovať/WN po:verb
-vykorenená
-vykorenené
 vykorenenie/V po:noun is:neuter
 vykorenenosť/K po:noun is:feminine
-vykoreneným
+vykorenený/YN po:adjective
 vykoreniť/EN po:verb
 vykoreniteľný/YN po:adjective
 vykoreňovať/WN po:verb
@@ -143869,10 +143853,10 @@ vykorisťovať/WN po:verb
 vykorisťovateľ/c po:noun is:masculine
 vykorisťovateľov/Y po:adjective
 vykorisťovateľský/YN po:adjective
-vykosené
+vykorisťujúci/YN po:adjective
+vykosený/YN po:adjective
 vykosiť/EN po:verb
-vykostené
-vykosteného
+vykostený/YN po:adjective
 vykosti
 vykostime
 vykostiť/EN po:verb
