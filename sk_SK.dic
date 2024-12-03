@@ -13865,7 +13865,14 @@ daniarov/Y po:adjective
 Danica/U po:noun is:feminine
 danie/VN po:noun is:neuter
 Daniel/c po:noun is:masculine
-daniel/J po:noun is:masculine
+daniel	 po:noun is:masculine
+daniela
+danielovi
+danielom
+daniele
+danielov
+danieloch
+danielmi
 Daniela/zZ po:noun is:feminine
 Danielách
 Danielám
@@ -45812,7 +45819,7 @@ kovonosné
 kovonosných
 kovonosným
 kovoobrábací/I po:adjective
-kovopriemysel/J po:noun is:masculine
+kovopriemysel/O po:noun is:masculine
 kovopriemyselného
 kovopriemysly
 kovorobotnícky/YN po:adjective
@@ -102667,7 +102674,14 @@ púčky
 púčok/B po:noun is:masculine
 pud/B po:noun is:masculine
 pudami
-pudel/J po:noun is:masculine
+pudel	 po:noun is:masculine
+pudla
+pudlovi
+pudlom
+pudle
+pudlov
+pudloch
+pudlami
 pudelpointer
 púder/J po:noun is:masculine
 pudilár/B po:noun is:masculine
@@ -113574,7 +113588,14 @@ skalopevne
 skalopevnosť/K po:noun is:feminine
 skalopevný/YN po:adjective
 skalp/B po:noun is:masculine
-skalpel/J po:noun is:masculine
+skalpel	 po:noun is:masculine
+skalpela
+skalpelu
+skalpeli
+skalpelom
+skalpelov
+skalpeloch
+skalpelmi
 skalpely
 skalpovací/I po:adjective
 skalpovanie/VN po:noun is:neuter
@@ -114113,7 +114134,7 @@ skormútila
 skormútiť
 skoro/N
 skorobarokový/YN po:adjective
-skorocel/J po:noun is:masculine
+skorocel/b po:noun is:masculine
 skorocelový/YN po:adjective
 skorocely
 skorodit
@@ -125224,7 +125245,14 @@ SZTK	 po:acronym
 špalta/zZ po:noun is:feminine
 špan
 Španiel/C po:noun is:masculine
-španiel/J po:noun is:masculine
+španiel	 po:noun is:masculine
+španiela
+španielovi
+španielom
+španiele
+španielov
+španieloch
+španielmi
 španielčin
 španielčina/z po:noun is:feminine
 španielčinách
