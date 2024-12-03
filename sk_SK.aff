@@ -1284,8 +1284,8 @@ SFX J   0           a          [^o]r is:genitive
 SFX J   ôš          oša        ôš is:genitive
 SFX J   eť          ťa         eť is:genitive
 SFX J   ôž          oža        ôž is:genitive
-SFX J   0           a          [e][^cľňr] is:genitive
-SFX J   0           a          [^ceľňršž] is:genitive
+SFX J   0           a          [e][^clľňr] is:genitive
+SFX J   0           a          [^e][^ceľňršž] is:genitive
 SFX J   iec         cu         iec is:dative
 SFX J   ec          cu         [^i]ec is:dative
 SFX J   0           u          [^e]c is:dative
@@ -1301,8 +1301,8 @@ SFX J   0           u          [^o]r is:dative
 SFX J   ôš          ošu        ôš is:dative
 SFX J   eť          ťu         eť is:dative
 SFX J   ôž          ožu        ôž is:dative
-SFX J   0           u          [e][^cľňr] is:dative
-SFX J   0           u          [^ceľňršž] is:dative
+SFX J   0           u          [e][^clľňr] is:dative
+SFX J   0           u          [^e][^ceľňršž] is:dative
 SFX J   iec         ci         iec is:locative
 SFX J   ec          ci         [^i]ec is:locative
 SFX J   0           i          [^e]c is:locative
@@ -1319,8 +1319,8 @@ SFX J   0           i          [^o]r is:locative
 SFX J   ôš          oši        ôš is:locative
 SFX J   eť          ti         eť is:locative
 SFX J   ôž          oži        ôž is:locative
-SFX J   0           i          [e][^cľňr] is:locative
-SFX J   0           i          [^ceľňršž] is:locative
+SFX J   0           i          [e][^clľňr] is:locative
+SFX J   0           i          [^e][^ceľňršž] is:locative
 SFX J   ec          com        [^i]ec is:instrumental
 SFX J   0           om         [^e]c is:instrumental
 SFX J   el          lom        el is:instrumental
@@ -1335,8 +1335,8 @@ SFX J   0           om         [^o]r is:instrumental
 SFX J   ôš          ošom       ôš is:instrumental
 SFX J   eť          ťom        eť is:instrumental
 SFX J   ôž          ožom       ôž is:instrumental
-SFX J   0           om         [e][^cľňr] is:instrumental
-SFX J   0           om         [^ceľňršž] is:instrumental
+SFX J   0           om         [e][^clľňr] is:instrumental
+SFX J   0           om         [^e][^ceľňršž] is:instrumental
 SFX J   iec         ce         iec is:nominative is:plural
 SFX J   ec          ce         [^i]ec is:nominative is:plural
 SFX J   0           e          [^e]c is:nominative is:plural
@@ -1353,8 +1353,8 @@ SFX J   0           e          [^o]r is:nominative is:plural
 SFX J   ôš          oše        ôš is:nominative is:plural
 SFX J   eť          te         eť is:nominative is:plural
 SFX J   ôž          ože        ôž is:nominative is:plural
-SFX J   0           e          [e][^cľňr] is:nominative is:plural
-SFX J   0           e          [^ceľňršž] is:nominative is:plural
+SFX J   0           e          [e][^clľňr] is:nominative is:plural
+SFX J   0           e          [^e][^ceľňršž] is:nominative is:plural
 SFX J   iec         cov        iec is:genitive is:plural
 SFX J   ec          cov        [^i]ec is:genitive is:plural
 SFX J   0           ov         [^e]c is:genitive is:plural
@@ -1370,8 +1370,8 @@ SFX J   0           ov         [^o]r is:genitive is:plural
 SFX J   ôš          ošov       ôš is:genitive is:plural
 SFX J   eť          ťov        eť is:genitive is:plural
 SFX J   ôž          ožov       ôž is:genitive is:plural
-SFX J   0           ov         [e][^cľňr] is:genitive is:plural
-SFX J   0           ov         [^ceľňršž] is:genitive is:plural
+SFX J   0           ov         [e][^clľňr] is:genitive is:plural
+SFX J   0           ov         [^e][^ceľňršž] is:genitive is:plural
 SFX J   iec         com        iec is:dative is:plural
 SFX J   ec          com        [^i]ec is:dative is:plural
 SFX J   0           om         [^e]c is:dative is:plural
@@ -1387,8 +1387,8 @@ SFX J   0           om         [^o]r is:dative is:plural
 SFX J   ôš          ošom       ôš is:dative is:plural
 SFX J   eť          ťom        eť is:dative is:plural
 SFX J   ôž          ožom       ôž is:dative is:plural
-SFX J   0           om         [e][^cľňr] is:dative is:plural
-SFX J   0           om         [^ceľňršž] is:dative is:plural
+SFX J   0           om         [e][^clľňr] is:dative is:plural
+SFX J   0           om         [^e][^ceľňršž] is:dative is:plural
 SFX J   iec         ce         iec is:accusative is:plural
 SFX J   ec          ce         [^i]ec is:accusative is:plural
 SFX J   0           e          [^e]c is:accusative is:plural
@@ -1405,8 +1405,8 @@ SFX J   0           e          [^o]r is:accusative is:plural
 SFX J   ôš          oše        ôš is:accusative is:plural
 SFX J   eť          te         eť is:accusative is:plural
 SFX J   ôž          ože        ôž is:accusative is:plural
-SFX J   0           e          [e][^cľňr] is:accusative is:plural
-SFX J   0           e          [^ceľňršž] is:accusative is:plural
+SFX J   0           e          [e][^clľňr] is:accusative is:plural
+SFX J   0           e          [^e][^ceľňršž] is:accusative is:plural
 SFX J   iec         coch       iec is:locative is:plural
 SFX J   ec          coch       [^i]ec is:locative is:plural
 SFX J   0           och        [^e]c is:locative is:plural
@@ -1423,8 +1423,8 @@ SFX J   0           och        [^o]r is:locative is:plural
 SFX J   ôš          ošoch      ôš is:locative is:plural
 SFX J   eť          ťoch       eť is:locative is:plural
 SFX J   ôž          ožoch      ôž is:locative is:plural
-SFX J   0           och        [e][^cľňr] is:locative is:plural
-SFX J   0           och        [^ceľňršž] is:locative is:plural
+SFX J   0           och        [e][^clľňr] is:locative is:plural
+SFX J   0           och        [^e][^ceľňršž] is:locative is:plural
 SFX J   iec         cami       iec is:instrumental is:plural
 SFX J   ec          cami       [^i]ec is:instrumental is:plural
 SFX J   0           mi         [^e]c is:instrumental is:plural
@@ -1440,8 +1440,8 @@ SFX J   0           ami        [^o]r is:instrumental is:plural
 SFX J   ôš          ošmi       ôš is:instrumental is:plural
 SFX J   eť          ťami       eť is:instrumental is:plural
 SFX J   ôž          ožmi       ôž is:instrumental is:plural
-SFX J   0           mi         [e][^cľňr] is:instrumental is:plural
-SFX J   0           mi         [^ceľňršž] is:instrumental is:plural
+SFX J   0           mi         [e][^clľňr] is:instrumental is:plural
+SFX J   0           mi         [^e][^ceľňršž] is:instrumental is:plural
 SFX J   0           a          [aádeéiílĺnoruúyý][šž] is:genitive
 SFX J   0           ovi        ĺž is:dative
 SFX J   0           ovi        ĺž is:locative
