@@ -1,4 +1,4 @@
-160219
+160137
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -37579,7 +37579,6 @@ iskriace
 iskriaceho
 iskriaci
 iskrička/zZ po:noun is:feminine
-iskrišťa
 iskrište/S po:noun is:neuter
 iskriť/EN po:verb
 iskrivo/N po:adverb
@@ -43263,13 +43262,7 @@ kolagenóza
 koľaj/D po:noun is:feminine
 koľajísk
 koľajisko/M po:noun is:neuter
-koľajíšť
-koľajišťa
-koľajišťami
 koľajište/S po:noun is:neuter
-koľajišti
-koľajišťom
-koľajišťu
 koľajnica/U po:noun is:feminine
 koľajnicový/YN po:adjective
 koľajnička/zZ po:noun is:feminine
@@ -43304,13 +43297,7 @@ kolážový/YN po:adjective
 Kolba
 Kolbasov
 kolbe
-kolbíšť
-kolbišťa
-kolbišťami
 kolbište/S po:noun is:neuter
-kolbišti
-kolbišťom
-kolbišťu
 Kolbu
 kolby
 koldokola
@@ -71891,7 +71878,6 @@ obetavo/N po:adverb
 obetavosť/K po:noun is:feminine
 obetavý/YN po:adjective
 obetisko/M po:noun is:neuter
-obetište/S po:noun is:neuter
 obetný/YN po:adjective
 obetovanie/VN po:noun is:neuter
 obetovaný/YN po:adjective
@@ -73109,13 +73095,7 @@ obvädnúť
 obväz/B po:noun is:masculine
 obväzísk
 obväzisko/M po:noun is:neuter
-obväzíšť
-obväzišťa
-obväzišťami
 obväzište/S po:noun is:neuter
-obväzišti
-obväzišťom
-obväzišťu
 obväzok
 obväzovať/WN po:verb
 obväzový/YN po:adjective
@@ -73610,13 +73590,7 @@ odbytár/C po:noun is:masculine
 odbytárov/Y po:adjective
 odbytísk
 odbytisko/M po:noun is:neuter
-odbytíšť
-odbytišťa
-odbytišťami
 odbytište/S po:noun is:neuter
-odbytišti
-odbytišťom
-odbytišťu
 odbytmi
 odbytné
 odbytného
@@ -105824,8 +105798,6 @@ riečic
 riečica/U po:noun is:feminine
 riečísk
 riečisko/M po:noun is:neuter
-riečíšť
-riečišťa
 riečište/S po:noun is:neuter
 riečka/zZ po:noun is:feminine
 Riečnica/zZ po:noun is:feminine
@@ -112091,13 +112063,7 @@ semencový/Y po:adjective
 semenec/J po:noun is:masculine
 semenísk
 semenisko/M po:noun is:neuter
-semeníšť
-semenišťa
-semenišťami
 semenište/S po:noun is:neuter
-semeništi
-semenišťom
-semenišťu
 semeniť/EN po:verb
 semenník/B po:noun is:masculine
 semenníkový/YN po:adjective
@@ -112769,14 +112735,8 @@ schodík/B po:noun is:masculine
 schodísk
 schodisko/M po:noun is:neuter
 schodiskový/YN po:adjective
-schodíšť
-schodišťa
-schodišťami
 schodište/S po:noun is:neuter
-schodišti
-schodišťom
 schodišťový/YN po:adjective
-schodišťu
 schodiť/EN po:verb
 schodkový/YN po:adjective
 schodníc
@@ -113756,14 +113716,8 @@ skladbový/YN po:adjective
 skladísk
 skladisko/M po:noun is:neuter
 skladiskový/Y po:adjective
-skladíšť
-skladišťa
-skladišťami
 skladište/S po:noun is:neuter
-skladišti
 skladištný/YN po:adjective
-skladišťom
-skladišťu
 skládka/zZ po:noun is:feminine
 skládkovať/WN po:verb
 skládkový/YN po:adjective
@@ -118660,15 +118614,9 @@ stanovený/YN po:adjective
 stanoviny
 stanovísk
 stanovisko/M po:noun is:neuter
-stanovíšť
-stanovišťa
-stanovišťami
 stanovište/S po:noun is:neuter
-stanovišti
 stanovištných
 stanovištnými
-stanovišťom
-stanovišťu
 stanoviť/EN po:verb
 stanovo
 stanovovanie/VN po:noun is:neuter
@@ -133669,13 +133617,7 @@ učierniť
 učievať/XN po:verb
 učilísk
 učilisko/M po:noun is:neuter
-učilíšť
-učilišťa
-učilišťami
 učilište/S po:noun is:neuter
-učilišti
-učilišťom
-učilišťu
 účin
 učinenie/V po:noun is:neuter
 učinený/YN po:adjective
@@ -136712,13 +136654,7 @@ utocizmus/B po:noun is:masculine
 útočiaím
 útočísk
 útočisko/M po:noun is:neuter
-útočíšť
-útočišťa
-útočišťami
 útočište/S po:noun is:neuter
-útočišti
-útočišťom
-útočišťu
 útočiť/EN po:verb
 útočne/YN po:adjective
 útočnícky/YN po:adjective
@@ -143672,13 +143608,7 @@ vykladaný/YN po:adjective
 vykladať/EN po:verb
 výkladísk
 výkladisko/M po:noun is:neuter
-výkladíšť
-výkladišťa
-výkladišťami
 výkladište/S po:noun is:neuter
-výkladišti
-výkladišťom
-výkladišťu
 vykládka/zZ po:noun is:feminine
 vykládkového
 vykládkovej
@@ -146068,13 +145998,7 @@ vystúpeniu
 vystúpený/YN po:adjective
 výstupísk
 výstupisko/M po:noun is:neuter
-výstupíšť
-výstupišťa
-výstupišťami
 výstupište/S po:noun is:neuter
-výstupišti
-výstupišťom
-výstupišťu
 vystúpiť/XN po:verb
 výstupkové
 výstupkového
@@ -156896,13 +156820,7 @@ zoradenie/V po:noun is:neuter
 zoradený/YN po:adjective
 zoradísk
 zoradisko/M po:noun is:neuter
-zoradíšť
-zoradišťa
-zoradišťami
 zoradište/S po:noun is:neuter
-zoradišti
-zoradišťom
-zoradišťu
 zoradiť/EN po:verb
 zoraďovanie/VN po:noun is:neuter
 zoraďovať/WN po:verb
