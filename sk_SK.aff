@@ -648,20 +648,19 @@ SFX M   o           ami        [^áéíóŕúý].o is:instrumental is:plural
 SFX M   um          ami        ium is:instrumental is:plural
 SFX M   um          ami        [^i]um is:instrumental is:plural
 
-SFX S Y 27  #treba dorobit rytmický zákon pre -ia/a, iam/am a iach/ach
+SFX S Y 28  #treba dorobit rytmický zákon pre -ia/a, iam/am a iach/ach
 SFX S   e           a          [^t]e is:genitive
-SFX S   e           ťa         te is:genitive
+SFX S   te          ťa         te is:genitive
 SFX S   e           a          i[aeu]..e is:genitive
 SFX S   e           a          i[aeu].eis:genitive
 SFX S   e           a          [ôáéíóúĺŕ]..eis:genitive
 SFX S   e           a          [ôáéíóúĺŕ].eis:genitive
 SFX S   e           u          [^t]e is:dative
-SFX S   e           ťu         te is:dative
+SFX S   te          ťu         te is:dative
 SFX S   0           0          . is:accusative
-SFX S   e           i          [^t]e is:locative
-SFX S   e           ti         te is:locative
+SFX S   e           i          e is:locative
 SFX S   e           om         [^t]e is:instrumental
-SFX S   e           ťom        te is:instrumental
+SFX S   te          ťom        te is:instrumental
 SFX S   e           ia         [^i][aeu]..e is:nominative is:plural
 SFX S   e           ia         [^i][aeu].e is:nominative is:plural
 SFX S   e           ia         [^ôáéíóúĺŕ]..e is:nominative is:plural
@@ -669,13 +668,15 @@ SFX S   e           ia         [^ôáéíóúĺŕ].e is:nominative is:plural
 SFX S   e           í          re is:genitive is:plural
 SFX S   ece         iec        ece is:genitive is:plural
 SFX S   rdce        ŕdc        rdce is:genitive is:plural
+SFX S   ište        íšť        ište is:genitive is:plural
 SFX S   e           iam        e is:dative is:plural
 SFX S   e           ia         [^i][aeu]..e is:accusative is:plural
 SFX S   e           ia         [^i][aeu].e is:accusative is:plural
 SFX S   e           ia         [^ôáéíóúĺŕ]..e is:accusative is:plural
 SFX S   e           ia         [^ôáéíóúĺŕ].e is:accusative is:plural
 SFX S   e           iach       e is:locative is:plural
-SFX S   e           ami        e is:instrumental is:plural
+SFX S   e           ami        [^t]e is:instrumental is:plural
+SFX S   te          ťami       te is:instrumental is:plural
 
 SFX V Y 11
 SFX V   e           a          e is:genitive
