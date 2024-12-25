@@ -3560,9 +3560,10 @@ SFX R   ýzť         yz         ýzť is:2nd_person is:imperative
 SFX R   ýzť         yzme       ýzť is:1st_person is:plural is:imperative
 SFX R   ýzť         yzte       ýzť is:2nd_person is:plural is:imperative
 
-SFX b Y 8  # v testovaní: pred podst. mena vzoru dub s -u v G a -e L
+SFX b Y 9  # v testovaní: pred podst. mena vzoru dub s -u v G a -e L
 SFX b   0           u          [klr] is:genitive
 SFX b   0           om         [klr] is:dative
+SFX b   0           e          [klr] is:locative
 SFX b   0           y          [klr] is:nominative is:plural
 SFX b   0           ov         [klr] is:genitive is:plural
 SFX b   0           y          [klr] is:accusative is:plural
