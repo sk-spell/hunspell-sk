@@ -1043,7 +1043,7 @@ SFX H   a           ov         a is:accusative is:plural
 SFX H   a           och        a is:locative is:plural
 SFX H   0           mi         a is:instrumental is:plural
 
-SFX B Y 223
+SFX B Y 233
 SFX B   0           a          [áéíóúý]rod is:genitive
 SFX B   0           u          [^áéíóúý]rod is:genitive
 SFX B   0           u          [^r]od is:genitive
@@ -1076,6 +1076,7 @@ SFX B   0           a          o[hlm]ov is:genitive
 SFX B   0           u          [^dgklrstv] is:genitive
 SFX B   og          gu         zog is:genitive
 SFX B   0           u          [^z]og is:genitive
+SFX B   0           a          ..ík is:genitive
 SFX B   0           u          [áéíóúý]rod is:dative
 SFX B   0           u          [^áéíóúý]rod is:dative
 SFX B   0           e          [^áéíóúý]rod is:dative
@@ -1092,6 +1093,7 @@ SFX B   0           u          [^u]s is:dative
 SFX B   0           u          [^áéíóúý]vet is:dative
 SFX B   0           u          o[hlm]ov is:dative
 SFX B   og          gu         zog is:dative
+SFX B   0           u          ..ík is:dative
 SFX B   0           0          . is:accusative
 SFX B   0           e          [áéíóúý]rod is:locative
 SFX B   0           e          [^r]od is:locative
@@ -1113,6 +1115,7 @@ SFX B   0           e          [^e]t is:locative
 SFX B   0           e          [aá]v is:locative
 SFX B   0           e          o[hlm]ov is:locative
 SFX B   0           e          [^dghklrstv] is:locative
+SFX B   0           u          ..ík is:locative
 SFX B   0           mi         [áéíóúý]rod is:instrumental
 SFX B   0           om         [^r]od is:instrumental
 SFX B   0           om         [^o]d is:instrumental
@@ -1128,6 +1131,7 @@ SFX B   os          om         mos is:instrumental
 SFX B   0           om         [^m]us is:instrumental
 SFX B   0           om         [^dgklrstv] is:instrumental
 SFX B   0           om         [^z]og is:instrumental
+SFX B   0           om         ..ík is:instrumental
 SFX B   0           y          [áéíóúý]rod is:nominative is:plural
 SFX B   0           y          [^áéíóúý]rod is:nominative is:plural
 SFX B   0           y          [^r]od is:nominative is:plural
@@ -1155,6 +1159,7 @@ SFX B   0           y          [^dgklrstv] is:nominative is:plural
 SFX B   0           ia         ťan is:nominative is:plural
 SFX B   og          gy         zog is:nominative is:plural
 SFX B   0           y          [^z]og is:nominative is:plural
+SFX B   0           y          ..ík is:nominative is:plural
 SFX B   0           ov         [áéíóúý]rod is:genitive is:plural
 SFX B   0           ov         [^áéíóúý]rod is:genitive is:plural
 SFX B   0           ov         [^r]od is:genitive is:plural
@@ -1179,6 +1184,7 @@ SFX B   0           ov         o[hlm]ov is:genitive is:plural
 SFX B   0           ov         [^dgklrstv] is:genitive is:plural
 SFX B   og          gov        zog is:genitive is:plural
 SFX B   0           ov         [^z]og is:genitive is:plural
+SFX B   0           ov         ..ík is:genitive is:plural
 SFX B   0           om         [áéíóúý]rod is:dative is:plural
 SFX B   0           om         [^áéíóúý]rod is:dative is:plural
 SFX B   0           om         [^r]od is:dative is:plural
@@ -1202,6 +1208,7 @@ SFX B   0           om         o[hlm]ov is:dative is:plural
 SFX B   0           om         [^dgklrstv] is:dative is:plural
 SFX B   og          gom        zog is:dative is:plural
 SFX B   0           om         [^z]og is:dative is:plural
+SFX B   0           om         ..ík is:dative is:plural
 SFX B   0           y          [^r]od is:accusative is:plural
 SFX B   0           y          [^o]d is:accusative is:plural
 SFX B   0           y          to[klnv] is:accusative is:plural
@@ -1218,6 +1225,7 @@ SFX B   0           y          [áéíóúý]vet is:accusative is:plural
 SFX B   0           y          [^áéíóúý]vet is:accusative is:plural
 SFX B   0           y          [^čv]et is:accusative is:plural
 SFX B   0           y          o[hlm]ov is:accusative is:plural
+SFX B   0           y          ..ík is:accusative is:plural
 SFX B   0           y          [^dgklrstv] is:accusative is:plural
 SFX B   0           och        [áéíóúý]rod is:locative is:plural
 SFX B   0           och        [^áéíóúý]rod is:locative is:plural
@@ -1243,6 +1251,7 @@ SFX B   0           och        o[hlm]ov is:locative is:plural
 SFX B   0           och        [^dgklrstv] is:locative is:plural
 SFX B   og          goch       zog is:locative is:plural
 SFX B   0           och        [^z]og is:locative is:plural
+SFX B   0           och        ..ík is:locative is:plural
 SFX B   0           mi         [^áéíóúý]rod is:instrumental is:plural
 SFX B   0           mi         [^r]od is:instrumental is:plural
 SFX B   0           mi         [^o]d is:instrumental is:plural
@@ -1267,6 +1276,7 @@ SFX B   0           mi         [^dgklmrstv] is:instrumental is:plural
 SFX B   0           ami        [m] is:instrumental is:plural
 SFX B   og          gmi        zog is:instrumental is:plural
 SFX B   0           mi         [^z]og is:instrumental is:plural
+SFX B   0           mi         ..ík is:instrumental is:plural
 
 SFX J Y 199
 SFX J   iec         ca         iec is:genitive
