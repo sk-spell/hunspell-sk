@@ -1102,8 +1102,8 @@ SFX B   0           e          [^t]o[klnv] is:locative
 SFX B   0           i          el is:locative
 SFX B   ôl          ole        ôl is:locative
 SFX B   0           e          [^áeoô]l is:locative
-SFX B   0           e          [^n][aeíoúy]r is:locative
-SFX B   0           i          ner is:locative
+SFX B   0           e          [^ntds][aeíoúy]r is:locative
+SFX B   0           i          [ntds]er is:locative
 SFX B   us          e          mus is:locative
 SFX B   os          e          mos is:locative
 SFX B   0           e          [^m]us is:locative
