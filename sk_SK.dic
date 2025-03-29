@@ -1,4 +1,4 @@
-160112
+160113
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -5309,7 +5309,7 @@ bakuský/YN po:adjective
 baky/Q
 báky/Q
 bal/B po:noun is:masculine
-bál/B po:noun is:masculine
+bál/b po:noun is:masculine
 balada/zZ po:noun is:feminine
 baladickosť/K po:noun is:feminine
 baladicky
@@ -5378,7 +5378,7 @@ balíčkovať/WN po:verb
 balíčkový/YN po:adjective
 baličov/Y po:adjective
 balijský/YN po:adjective
-balík/b po:noun is:masculine
+balík/B po:noun is:masculine
 balíka
 balíkový/Y po:adjective
 balisáž
@@ -12970,7 +12970,7 @@ CZV	 po:acronym
 čihy
 číchkoľvek
 číchsi
-čík/B po:noun is:masculine
+čík/L po:noun is:masculine
 čikle
 číkoľvek/N po:adverb
 čikóš
@@ -13355,7 +13355,7 @@ CZV	 po:acronym
 čmarigať
 čmeľ/J po:noun is:masculine
 čmelí/I po:adjective
-čmeliačik/B po:noun is:masculine
+čmeliačik/L po:noun is:masculine
 čmeliak/C po:noun is:masculine
 čmeliakov/Y po:adjective
 čmeliaky
@@ -16969,7 +16969,7 @@ Diviacky/YN po:adjective
 diviačí/I po:adjective
 diviačic
 diviačica/U po:noun is:feminine
-diviačik/B po:noun is:masculine
+diviačik/L po:noun is:masculine
 diviak/B po:noun is:masculine
 diviakovi
 dividenda/zZ po:noun is:feminine
@@ -23272,7 +23272,7 @@ ergo
 ergofóbia
 ergografia
 ergokalciferol
-ergometer/B po:noun is:masculine
+ergometer/J po:noun is:masculine
 ergometria
 ergometrický/Y po:adjective
 ergometrika/zZ po:noun is:feminine
@@ -24059,7 +24059,7 @@ exotický/YN po:adjective
 exotika/zZ po:noun is:feminine
 exotizmus/B po:noun is:masculine
 exozoochória
-expander/b po:noun is:masculine
+expander/B po:noun is:masculine
 expandera	 po:noun is:masculine is:genitive
 expandia
 expandit
@@ -27641,7 +27641,7 @@ gavdžať/TN po:verb
 gavdži
 gavdžime
 gavdžite
-gaviál/B po:noun is:masculine
+gaviál/L po:noun is:masculine
 gavota
 gavotte
 gay/C po:noun is:masculine
@@ -28274,7 +28274,7 @@ gliser
 glissando
 glizér
 glo
-globál/B po:noun is:masculine
+globál/b po:noun is:masculine
 globalistika/zZ po:noun is:feminine
 globalizácia/U po:noun is:feminine
 globalizačný/Y po:adjective
@@ -29306,7 +29306,7 @@ hadica/U po:noun is:feminine
 hadicový/YN po:adjective
 hadička/zZ po:noun is:feminine
 hadik/B po:noun is:masculine
-hadík/B po:noun is:masculine
+hadík/L po:noun is:masculine
 hádik/L po:noun is:masculine
 hádikov/Y po:adjective
 hadíkovi
@@ -34126,7 +34126,7 @@ chápavosť/KN po:noun is:feminine
 chápavý/YN po:adjective
 chapkať
 Chára/H po:noun is:masculine
-charakter/B po:noun is:masculine
+charakter/b po:noun is:masculine
 charakteristicky/N po:adverb
 charakteristický/YN po:adjective
 charakteristika/zZ po:noun is:feminine
@@ -39045,7 +39045,7 @@ Jeseníky
 jesenný/Y po:adjective
 jeseňou
 Jesenský/YN po:adjective
-jeseter/B po:noun is:masculine
+jeseter/L po:noun is:masculine
 jesetera
 jeseterí/I po:adjective
 jeseterovi
@@ -39963,7 +39963,7 @@ kalísk
 kalisko/M po:noun is:neuter
 kalíškovitý/YN po:adjective
 kališnícky
-kališník/B po:noun is:masculine
+kališník/C po:noun is:masculine
 kališný/YN po:adjective
 kalíšok/O po:noun is:masculine
 kalištek/B po:noun is:masculine
@@ -40243,6 +40243,7 @@ kanadský/YN po:adjective
 kanafas/B po:noun is:masculine
 kanafasový/YN po:adjective
 kanál/BJ po:noun is:masculine
+kanále
 kanálček/B po:noun is:masculine
 kanálik/B po:noun is:masculine
 kanálikový/YN po:adjective
@@ -40286,6 +40287,7 @@ kancerogenéza
 kancerogénny/YN po:adjective
 kancerózny/YN po:adjective
 kancionál/B po:noun is:masculine
+kancionále
 kancionála
 kancionáli
 kancionálmi
@@ -44030,7 +44032,7 @@ komun
 komún
 komúna/zZ po:noun is:feminine
 komúnach
-komunál/B po:noun is:masculine
+komunál/b po:noun is:masculine
 komunálka/zZ po:noun is:feminine
 komunálmi
 komunálny/YN po:adjective
@@ -44361,7 +44363,7 @@ konidráč
 koniec/J po:noun is:masculine
 konieckoncov
 konifera
-koník/B po:noun is:masculine
+koník/L po:noun is:masculine
 Koníková/Y po:adjective
 koníkovi
 konimeter
@@ -53089,7 +53091,7 @@ majúci/YN po:adjective
 majuskula/zZ po:noun is:feminine
 majuskulný/YN po:adjective
 majuskulový/YN po:adjective
-mak/b po:noun is:masculine
+mak/B po:noun is:masculine
 makadam/B po:noun is:masculine
 makadamový/YN po:adjective
 makak
@@ -54369,7 +54371,7 @@ mascarpone
 maselnica/U po:noun is:feminine
 maselnička/zZ po:noun is:feminine
 maselný/YN po:adjective
-maser/b po:noun is:masculine
+maser/B po:noun is:masculine
 masér/C po:noun is:masculine
 masera
 maseri	 st:maser is:singular is:locative
@@ -54978,7 +54980,7 @@ MDPT	 po:acronym
 MDŽ	 po:acronym
 mé
 ME	 po:acronym
-meander/B po:noun is:masculine
+meander po:noun is:masculine
 meandra
 meandrami
 meandre
@@ -62916,7 +62918,7 @@ natehlovo
 natekať/EN po:verb
 natenko	 po:adverb
 natenšie
-náter/B po:noun is:masculine
+náter/b po:noun is:masculine
 nateraz
 náterivo/M po:noun is:neuter
 náterový/YN po:adjective
@@ -66019,7 +66021,7 @@ nepachtime
 nepachtite
 nepaketujú
 nepál
-Nepál/B po:noun is:masculine
+Nepál/b po:noun is:masculine
 Nepálcov/Y po:adjective
 Nepálčan/c po:noun is:masculine
 Nepálčanka/zZ po:noun is:feminine
@@ -70979,7 +70981,7 @@ Nórka/zZ po:noun is:feminine
 norkom
 norkový/YN po:adjective
 norma/zZ po:noun is:feminine
-normál/B po:noun is:masculine
+normál/b po:noun is:masculine
 normála/zZ po:noun is:feminine
 normálach
 normálam
@@ -73740,7 +73742,7 @@ odeň
 odeného
 odeón
 odér
-oder/B po:noun is:masculine
+oder/b po:noun is:masculine
 oderský/YN po:adjective
 Odesa/z po:noun is:feminine
 Odesan/c po:noun is:masculine
@@ -79948,7 +79950,7 @@ otepľovanie/VN po:noun is:neuter
 otepľovať/WN po:verb
 otepľujúci
 otepou
-oter/B po:noun is:masculine
+oter/b po:noun is:masculine
 otesanie/V po:noun is:neuter
 otesaný/YN po:adjective
 otesať/EN po:verb
@@ -82480,7 +82482,7 @@ pašiam
 pašie/Q po:noun is:feminine
 pašiový/YN po:adjective
 Paška/H po:noun is:masculine
-paškál/B po:noun is:masculine
+paškál/b po:noun is:masculine
 paškálmi
 Paškov/Y po:adjective
 paškvil/B po:noun is:masculine
@@ -82669,7 +82671,7 @@ paumenie/V po:noun is:neuter
 pauperita
 pauperizácia/U po:noun is:feminine
 pauperizovať/WN po:verb
-paušál/B po:noun is:masculine
+paušál/b po:noun is:masculine
 paušalizovanie/VN po:noun is:neuter
 paušalizovaný/YN po:adjective
 paušalizovať/WN po:verb
@@ -84038,7 +84040,7 @@ persón	 st:persóna is:genitive is:plural
 persona	 po:noun is:feminine
 persóna/zZ po:noun is:feminine
 persónach
-personál/b po:noun is:masculine
+personál/B po:noun is:masculine
 personáli	 st:personál is:locative
 personálie/Q po:noun is:feminine
 personalista/H po:noun is:masculine
@@ -84543,7 +84545,7 @@ piknikový/YN po:adjective
 pikofarad
 pikohertz
 pikola/zZ po:noun is:feminine
-pikolík/B po:noun is:masculine
+pikolík/c po:noun is:masculine
 pikolíkovi
 pikolíkovia
 pikolka/zZ po:noun is:feminine
@@ -90116,7 +90118,7 @@ poničených
 poničiť/EN po:verb
 poniektorý/YN po:adjective
 poniesli
-poník/B po:noun is:masculine
+poník/L po:noun is:masculine
 poník/C po:noun is:masculine
 poniklec/J po:noun is:masculine
 ponikleca
@@ -92487,7 +92489,7 @@ potentátnikov/Y po:adjective
 potentátovi
 potentátsky/YN po:adjective
 potentný/YN po:adjective
-poter/B po:noun is:masculine
+poter/b po:noun is:masculine
 poteraz
 poteri
 potešene
@@ -99089,7 +99091,7 @@ prielive
 prieloh/B po:noun is:masculine
 prielom/B po:noun is:masculine
 prielomový/YN po:adjective
-prieložník/B po:noun is:masculine
+prieložník/L po:noun is:masculine
 prieložníkovi
 Prieložný/YN po:adjective
 prieluba/zZ po:noun is:feminine
@@ -101940,7 +101942,7 @@ protitetanový/YN po:adjective
 protitlak/B po:noun is:masculine
 protitlakový/YN po:adjective
 protiúčet/O po:noun is:masculine
-protiúder/B po:noun is:masculine
+protiúder/b po:noun is:masculine
 protiúrazovú
 protiúsilia
 protiústavne
@@ -102455,14 +102457,14 @@ psst
 pst
 pstkať
 pstorkyňa
-pstruh/B po:noun is:masculine
+pstruh/L po:noun is:masculine
 pstruha
 pstruhovi
 pstruhový/YN po:adjective
 Pstruša
 Pstruši
 pstruží/I po:adjective
-pstrúžik/B po:noun is:masculine
+pstrúžik/L po:noun is:masculine
 pstrúžikovi
 psu
 psuť/WN po:verb
@@ -103248,7 +103250,7 @@ račiansky/YN po:adjective
 Račice
 Račiciach
 Račický/YN po:adjective
-ráčik/B po:noun is:masculine
+ráčik/L po:noun is:masculine
 ráčiť/XN po:verb
 Račko
 Račková/Y po:adjective
@@ -103411,7 +103413,7 @@ rádioterapia/U po:noun is:feminine
 rádiovka/zZ po:noun is:feminine
 rádiovo
 rádiový/YN po:adjective
-rádiožurnál/B po:noun is:masculine
+rádiožurnál/b po:noun is:masculine
 rádiožurnálmi
 Radislava
 Radislavou
@@ -115070,7 +115072,7 @@ sloni
 sloní/I po:adjective
 slonica/U po:noun is:feminine
 sloníča/A po:noun is:neuter
-sloník/B po:noun is:masculine
+sloník/L po:noun is:masculine
 sloníkovi
 sloňom
 sloňou
@@ -115975,7 +115977,7 @@ sokoliarov/Y po:adjective
 sokolica/U po:noun is:feminine
 sokolíča/A po:noun is:neuter
 Sokoliec
-sokolík/B po:noun is:masculine
+sokolík/L po:noun is:masculine
 sokolíkovi
 sokolov/Y po:adjective
 sokolovňa/U po:noun is:feminine
@@ -119170,7 +119172,7 @@ stepovať/WN po:verb
 stepper
 stepu
 stepy
-ster/B po:noun is:masculine
+ster/b po:noun is:masculine
 steradián
 stereakustika/zZ po:noun is:feminine
 stereí
@@ -121976,7 +121978,7 @@ sužovať/WN po:verb
 sužujúci
 sv
 SV	 po:acronym
-sváčik/B po:noun is:masculine
+sváčik/c po:noun is:masculine
 sváčikovi
 sváčikovia
 sváčko/c po:noun is:masculine
@@ -123086,7 +123088,7 @@ SZTK	 po:acronym
 šakaľom
 šakaľou
 šakalovi
-šál/B po:noun is:masculine
+šál/b po:noun is:masculine
 šalabachter/J po:noun is:masculine
 Šalamún/c po:noun is:masculine
 Šalamúnov/Y po:adjective
@@ -124323,7 +124325,7 @@ SZTK	 po:acronym
 škamrú
 škamrúc
 škand
-škandál/B po:noun is:masculine
+škandál/b po:noun is:masculine
 škandálik/B po:noun is:masculine
 škandalista/H po:noun is:masculine
 škandalizačných
@@ -128027,7 +128029,7 @@ tátohľa
 tátoš/C po:noun is:masculine
 tátoš/L po:noun is:masculine
 tátoše
-tátošík/B po:noun is:masculine
+tátošík/L po:noun is:masculine
 tátošíkovi
 tátošov/Y po:adjective
 tatov/Y po:adjective
@@ -129138,7 +129140,7 @@ tesar
 tesár/C po:noun is:masculine
 tesárčina/zZ po:noun is:feminine
 tesárčiť/XN po:verb
-tesárik/B po:noun is:masculine
+tesárik/L po:noun is:masculine
 tesárikovi
 tesárov/Y po:adjective
 tesársky/YN po:adjective
@@ -129188,7 +129190,7 @@ testamentový/YN po:adjective
 tesťami
 testátor/C po:noun is:masculine
 testátorov/Y po:adjective
-tester/b po:noun is:masculine
+tester/B po:noun is:masculine
 testera	 st:tester is:singular is:genitive
 testeri	 st:tester is:plural is:plural
 testeri	 st:tester is:singular is:locative
@@ -129585,7 +129587,7 @@ Timravinu
 Timravy
 tinama
 tinea/zZ po:noun is:feminine
-tínedžer/b po:noun is:masculine
+tínedžer/C po:noun is:masculine
 tínedžerka/zZ po:noun is:feminine
 tínedžerov/Y po:adjective
 tínedžerský/YN po:adjective
@@ -133718,7 +133720,7 @@ udeľovať/WN po:verb
 údenina/zZ po:noun is:feminine
 údený/YN po:adjective
 uder
-úder/B po:noun is:masculine
+úder/b po:noun is:masculine
 uderenie/V po:noun is:neuter
 uderiť/EN po:verb
 úderka/zZ po:noun is:feminine
@@ -141295,8 +141297,7 @@ vrán
 vrana/zZ po:noun is:feminine
 vranec
 vraní/I po:adjective
-vraník/B po:noun is:masculine
-vraník/C po:noun is:masculine
+vraník/L po:noun is:masculine
 vraníkov/Y po:adjective
 vranka/zZ po:noun is:feminine
 vranko
@@ -146411,7 +146412,7 @@ vytepať
 vyteper
 vyteperiť/EN po:verb
 vyteperte
-výter/B po:noun is:masculine
+výter/b po:noun is:masculine
 vyterigať/EN po:verb
 vytesaný/YN po:adjective
 vytesať/EN po:verb
@@ -148586,7 +148587,7 @@ zadelený/Y po:adjective
 zadeliť/EN po:verb
 zadeľovanie/VN po:noun is:neuter
 zadeľovať/WN po:verb
-záder/B po:noun is:masculine
+záder/b po:noun is:masculine
 záderčivo/N po:adverb
 záderčivosť/K po:noun is:feminine
 záderčivý/YN po:adjective
@@ -160085,7 +160086,7 @@ zžívať/XN po:verb
 žúr/B po:noun is:masculine
 žurčať/RN po:verb
 žúrka/zZ po:noun is:feminine
-žurnál/B po:noun is:masculine
+žurnál/b po:noun is:masculine
 žurnalista/H po:noun is:masculine
 žurnalisticky	 po:adverb
 žurnalistický/YN po:adjective
