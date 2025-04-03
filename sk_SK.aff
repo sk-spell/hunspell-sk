@@ -1043,7 +1043,7 @@ SFX H   a           ov         a is:accusative is:plural
 SFX H   a           och        a is:locative is:plural
 SFX H   0           mi         a is:instrumental is:plural
 
-SFX B Y 237
+SFX B Y 238
 SFX B   0           a          [áéíóúý]rod is:genitive
 SFX B   0           u          [^áéíóúý]rod is:genitive
 SFX B   0           u          [^r]od is:genitive
@@ -1105,6 +1105,7 @@ SFX B   ôl          ole        ôl is:locative
 SFX B   0           i          ál is:locative
 SFX B   0           e          [^áeoô]l is:locative
 SFX B   0           e          [^ntds][aeíoúy]r is:locative
+SFX B   0           e          [ntds][aíoúy]r is:locative
 SFX B   0           i          [ntds]er is:locative
 SFX B   us          e          mus is:locative
 SFX B   os          e          mos is:locative
