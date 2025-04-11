@@ -1,4 +1,4 @@
-159988
+160000
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -123986,7 +123986,13 @@ SZTK	 po:acronym
 šijí
 šijový/YN po:adjective
 šik/B po:noun is:masculine
-šík/B po:noun is:masculine
+šík	 po:noun is:masculine
+šíku
+šíkom
+šíky
+šíkov
+šíkoch
+šíkmi
 šikana
 šikanácia/U po:noun is:feminine
 šikane
@@ -129428,7 +129434,13 @@ tichunko	 po:adverb
 tichunký/YN po:adjective
 tichý/YN po:adjective
 tik/B po:noun is:masculine
-tík/B po:noun is:masculine
+tík	 po:noun is:masculine
+tíku
+tíkom
+tíky
+tíkov
+tíkoch
+tíkmi
 tikanie/V po:noun is:neuter
 tikať/EN po:verb
 tiket/B po:noun is:masculine
