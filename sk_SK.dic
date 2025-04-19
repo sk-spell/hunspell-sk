@@ -1,4 +1,4 @@
-160000
+159973
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -5375,7 +5375,6 @@ balíčkový/YN po:adjective
 baličov/Y po:adjective
 balijský/YN po:adjective
 balík/B po:noun is:masculine
-balíka
 balíkový/Y po:adjective
 balisáž
 balista/H po:noun is:masculine
@@ -31275,62 +31274,48 @@ hniezdočiek
 hniezdočko/M po:noun is:neuter
 hniezdový/YN po:adjective
 hnijúci/YN po:adjective
-hniľač/C po:noun is:masculine
-hniľačami
-hniľače
-hniľačí
-hniľačiach
-hniľačiam
-hniľačou
+hniľač/D po:noun is:feminine
 hniľačov/Y po:adjective
-Hnilčík
-Hnilčíka
+hnilčícky/YN po:adjective
+Hnilčíčan/c po:noun is:masculine
+Hnilčíčanka/zZ po:noun is:feminine
+Hnilčík/c po:noun is:masculine
 Hnilec/J po:noun is:masculine
 hniliak/C po:noun is:masculine
 hniliakov/Y po:adjective
-Hnilica
-Hnilicu
+Hnilica/U po:noun is:feminine
 hnilička/zZ po:noun is:feminine
-hniloba/z po:noun is:feminine
-hnilobách
-hnilobám
-hnilobami
+hniloba/zZ po:noun is:feminine
 hnilobný/YN po:adjective
-hniloš
-hnilôb
+hniloš/C po:noun is:masculine
 hnilý/YN po:adjective
 hnis/B po:noun is:masculine
-hnisajúci
+hnisajúci/YN po:adjective
 hnisanie/V po:noun is:neuter
 hnisať/EN po:verb
 hnisavosť/K po:noun is:feminine
 hnisavý/YN po:adjective
 hnisový/YN po:adjective
 hniť/WN po:verb
-hnitie
-hnitím
-hnitiu
+hnitie/V po:noun is:neuter
 hnitý/YN po:adjective
 hnoj/J po:noun is:masculine
-hnojár
-hnojená
-hnojené
+hnojár/C po:noun is:masculine
 hnojenie/V po:noun is:neuter
-hnojených
+hnojený/YN po:adjective
 hnojísk
 hnojisko/M po:noun is:neuter
 hnojiť/EN po:verb
 hnojív
-hnojival/C po:noun is:masculine
+hnojival/L po:noun is:masculine
 hnojivalov/Y po:adjective
-hnojivaly
 hnojivo/M po:noun is:neuter
 hnojivový/YN po:adjective
 hnojivý/YN po:adjective
 hnojnica/U po:noun is:feminine
 hnojnicový/YN po:adjective
 hnojničný/YN po:adjective
-Hnojníka
+hnojník/B po:noun is:masculine
 hnojný/YN po:adjective
 hnojovica/U po:noun is:feminine
 hnojovicový/YN po:adjective
@@ -31341,8 +31326,7 @@ hnul
 hnula
 hnuli
 hnulo
-Hňup
-Hňupa
+hňup/c po:noun is:masculine
 hnus/B po:noun is:masculine
 hnusák/C po:noun is:masculine
 hnusákov/Y po:adjective
@@ -31351,14 +31335,9 @@ hnusne/PF po:adjective
 hnusník/C po:noun is:masculine
 hnusníkov/Y po:adjective
 hnusný/YN po:adjective
-hnusoba/z po:noun is:feminine
-hnusobách
-hnusobám
-hnusobami
-hnusota
-hnusote
-hnusoty
-hnusôb
+hnusoba/zZ po:noun is:feminine
+hnusota/zZ po:noun is:feminine
+Hnúšťa/U po:noun is:feminine
 hnúšťanský/Y po:adjective
 hnúť/WN po:verb
 hnuteľnosť/KN po:noun is:feminine
@@ -31371,7 +31350,7 @@ ho	 po:pronoun is:3rd_person is:masculine is:accusative
 ho	 po:pronoun is:3rd_person is:masculine is:genitive
 ho	 po:pronoun is:3rd_person is:neuter is:accusative
 ho	 po:pronoun is:3rd_person is:neuter is:genitive
-hobby
+hobby/ po:noun is:neuter
 hobeľ/J po:noun is:masculine
 hobier
 hobjista/H po:noun is:masculine
@@ -64358,10 +64337,6 @@ nehnietla
 nehnietli
 nehnietlo
 nehnietol
-nehnojená
-nehnojené
-nehnojenej
-nehnojených
 nehnul
 nehnula
 nehnuli
@@ -106063,9 +106038,7 @@ ročne/YN po:adjective
 ročnice
 ročnicu
 ročník/B po:noun is:masculine
-ročníka
 ročníkový/YN po:adjective
-ročníku
 ročný/YN po:adjective
 rod/J po:noun is:masculine
 rodácky/YN po:adjective
@@ -123985,14 +123958,8 @@ SZTK	 po:acronym
 šíjavať/XN po:verb
 šijí
 šijový/YN po:adjective
-šik/B po:noun is:masculine
 šík	 po:noun is:masculine
-šíku
-šíkom
-šíky
-šíkov
-šíkoch
-šíkmi
+šik/B po:noun is:masculine
 šikana
 šikanácia/U po:noun is:feminine
 šikane
@@ -124005,12 +123972,16 @@ SZTK	 po:acronym
 šikany
 šikhara
 šikmastý/YN po:adjective
+šíkmi
 šikmina/zZ po:noun is:feminine
 šikmo/N po:adverb
 šikmooký/YN po:adjective
 šikmosť/K po:noun is:feminine
 šikmý/YN po:adjective
 šiknúť/WN po:verb
+šíkoch
+šíkom
+šíkov
 šikovanie/VN po:noun is:neuter
 šikovať/WN po:verb
 šikovne/YN po:adjective
@@ -124021,7 +123992,9 @@ SZTK	 po:acronym
 šikovníkov/Y po:adjective
 šikovnosť/KN po:noun is:feminine
 šikovný/YN po:adjective
+šíku
 šikúvať/XN po:verb
+šíky
 Šiler
 šili
 šiling/B po:noun is:masculine
@@ -129433,23 +129406,23 @@ tichulinký/YN po:adjective
 tichunko	 po:adverb
 tichunký/YN po:adjective
 tichý/YN po:adjective
-tik/B po:noun is:masculine
 tík	 po:noun is:masculine
-tíku
-tíkom
-tíky
-tíkov
-tíkoch
-tíkmi
+tik/B po:noun is:masculine
 tikanie/V po:noun is:neuter
 tikať/EN po:verb
 tiket/B po:noun is:masculine
 tiki
+tíkmi
 tiknúť/WN po:verb
+tíkoch
+tíkom
 tikot/B po:noun is:masculine
 tikotmi
+tíkov
 tíkový/YN po:adjective
 tiktak
+tíku
+tíky
 tilasit
 tíld
 tilda/zZ po:noun is:feminine
