@@ -1,4 +1,4 @@
-159804
+159799
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -13420,12 +13420,12 @@ CZV	 po:acronym
 čpavok/O po:noun is:masculine
 čpieť/XN po:verb
 ČR	 po:acronym
-čremch	 po:noun is:feminine st:čremcha is:genitive is:plural
+čremch	 st:čremcha is:genitive is:plural is:feminine po:noun
 čremcha/zZ po:noun is:feminine
 čremchový/YN po:adjective
 črenový/YN po:adjective
-črep/B po:noun is:masculine st:črepa is:genitive is:singular
-črepa	 po:noun is:masculine
+črep/B po:noun is:masculine
+črepa	 st:črep is:genitive is:singular is:masculine po:noun
 črepina/zZ po:noun is:feminine
 črepinka/zZ po:noun is:feminine
 črepinový/YN po:adjective
@@ -13440,7 +13440,7 @@ CZV	 po:acronym
 čriemch
 črienka/zZ po:noun is:feminine
 čriepok/O po:noun is:masculine
-čriev
+čriev	 st:črevo is:plural is:genitive is:neuter po:noun
 črievic
 črievica/U po:noun is:feminine
 črievicach
@@ -13496,7 +13496,6 @@ CZV	 po:acronym
 ČST	 po:acronym
 ČSTK	 po:acronym
 ČSZTV	 po:acronym
-čt
 ČT	 po:acronym
 ČTK	 po:acronym
 čubrica
@@ -13505,16 +13504,16 @@ CZV	 po:acronym
 čučko/L po:noun is:masculine
 čučkov/Y po:adjective
 čučky
-Čučma
-Čučmianska
+Čučma/zZ po:noun is:feminine
+Čučman/C po:noun is:masculine
+Čučmianka/zZ po:noun is:feminine
+čučmiansky/YN po:adjective
 čučo/c po:noun is:masculine
-čučoredie
 čučoriedie/V po:noun is:neuter
 čučoriedka/zZ po:noun is:feminine
 čučoriedkový/Y po:adjective
 čučov/Y po:adjective
-čučuľkať
-čúd
+čúd	 st:čudo is:plural is:genitive is:neuter po:noun
 čudácky/YN po:adjective
 čudáctvach
 čudáctvam
@@ -13522,16 +13521,16 @@ CZV	 po:acronym
 čudáčka/zZ po:noun is:feminine
 čudák/C po:noun is:masculine
 čudákov/Y po:adjective
+čudesne	 po:adverb
 čudesne/N po:adverb
-čudesno
+čudesno	 po:adverb
 čudesný/YN po:adjective
 čudeso/M po:noun is:neuter
 čudies
 čudne/N po:adverb
-čudno
+čudno	 po:adverb
 čudný/YN po:adjective
 čudo/M po:noun is:neuter
-čudova
 čudovanie/VN po:noun is:neuter
 čudovať/WN po:verb
 čufty/Q po:noun is:feminine
@@ -13571,12 +13570,8 @@ CZV	 po:acronym
 čumiza
 Čunga
 Čungu
-Čunova
-Čunove
-Čunovo
-Čunovom
+Čunovo/M po:noun is:neuter
 čunovský/YN po:adjective
-Čunovu
 čupieť/RN po:verb
 čupiť/EN po:verb
 čupkať
@@ -13611,15 +13606,12 @@ CZV	 po:acronym
 čvachci
 čvachcime
 čvachcite
-čvachtanica
+čvachtanica/zZ po:noun is:feminine
 čvachtanie/V po:noun is:neuter
 čvachtať/ETN po:verb
 čvachtavo
 čvárg
-čvarga/z po:noun is:feminine
-čvargách
-čvargám
-čvargami
+čvarga/zZ po:noun is:feminine
 čvíkot
 čvikota
 čvíkota/zZ po:noun is:feminine
@@ -47633,7 +47625,6 @@ kultivačný/YN po:adjective
 kultivar/B po:noun is:masculine
 kultivátor/b po:noun is:masculine
 kultivátora
-kultivátore
 kultivátorový/YN po:adjective
 kultivovane
 kultivovanie/VN po:noun is:neuter
