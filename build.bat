@@ -38,11 +38,17 @@ COPY sk_SK.aff build\sk_fl.aff
 %cat% build/add.words >> build/temp.dic
 %sort% -u <build/temp.dic >build/sk_SK.dic
 
-FOR /f "tokens=2 delims==" %%a IN ('wmic OS Get localdatetime /value') DO SET "dt=%%a"
-SET "YYYY=%dt:~0,4%" & SET "MM=%dt:~4,2%" & SET "DD=%dt:~6,2%"
+:: Get the current date in YYYYMMDD format using PowerShell
+FOR /F "usebackq tokens=1-3 delims=." %%A IN (`powershell -command "Get-Date -Format 'yyyyMMdd'"`) DO (
+    SET YYYY=%%A
+    SET MM=%%B
+    SET DD=%%C
+)
 SET "datestamp=%YYYY%%MM%%DD%"
 IF NOT EXIST "Backups/sk_SK.dic-%datestamp%.bak" (
-    IF EXIST sk_SK.dic (move "sk_SK.dic" "Backups/sk_SK.dic-%datestamp%.bak")
+    IF EXIST sk_SK.dic (
+        move "sk_SK.dic" "Backups/sk_SK.dic-%datestamp%.bak"
+    )
 )
 
 %wc% -l < build/sk_SK.dic | %cat% - build/sk_SK.dic >sk_SK.dic
