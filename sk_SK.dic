@@ -8208,6 +8208,7 @@ bohoslovecký/YN po:adjective
 bohoslovie/V po:noun is:neuter
 bohoslovný/YN po:adjective
 bohoslužba/zZ po:noun is:feminine
+bohoslužieb	 st:bohoslužba is:plural is:genitive is:feminine po:noun
 bohoslužobný/Y po:adjective
 bohov/Y po:adjective
 Bohov/Y po:adjective
@@ -26299,10 +26300,8 @@ fotoseriál
 fotoseriálom
 fotosféra/zZ po:noun is:feminine
 fotosférický/Y po:adjective
-fotoslužba
-fotoslužbou
-fotoslužby
-fotoslužieb
+fotoslužba/zZ po:noun is:feminine
+fotoslužieb	 st:fotoslužba is:plural is:genitive is:feminine po:noun
 fotostimulácia/U po:noun is:feminine
 fotostimulátor
 fotosúťaž/D po:noun is:feminine
@@ -57602,7 +57601,8 @@ modlitebníky
 modlitebný/YN po:adjective
 modlivka/zZ po:noun is:feminine
 modloslužba/zZ po:noun is:feminine
-modloslužobníctvo
+modloslužieb	 st:modloslužba is:plural is:genitive is:feminine po:noun
+modloslužobníctvo/M po:noun is:neuter
 modloslužobníčka/zZ po:noun is:feminine
 modloslužobník/C po:noun is:masculine
 modloslužobníkov/Y po:adjective
@@ -100239,6 +100239,7 @@ príslušníkov/Y po:adjective
 príslušnosť/K po:noun is:feminine
 príslušný/YN po:adjective
 príslužba/zZ po:noun is:feminine
+príslužieb	 st:príslužba is:plural is:genitive is:feminine po:noun
 prismažiť
 prismelý/YN po:adjective
 prismrdkávať
@@ -101716,6 +101717,7 @@ protislnečné
 protislovensky/N po:adverb
 protislovenský/YN po:adjective
 protislužba/zZ po:noun is:feminine
+protislužieb	 st:protislužba is:plural is:genitive is:feminine po:noun
 protismer/B po:noun is:masculine
 protismerne
 protismerneY
@@ -115059,7 +115061,6 @@ slušivý/YN po:adjective
 slušne/N po:adverb
 slušnosť/K po:noun is:feminine
 slušný/YN po:adjective
-služ
 služba/zZ po:noun is:feminine
 službička/zZ po:noun is:feminine
 službičkovanie/VN po:noun is:neuter
@@ -115067,6 +115068,7 @@ službičkovať/WN po:verb
 službukonajúci/YN po:adjective
 slúženie/V po:noun is:neuter
 slúžiaci/YN po:adjective
+služieb	 st:služba is:plural is:genitive is:feminine po:noun
 slúžievať/XN po:verb
 slúžiť/XN po:verb
 slúžka/zZ po:noun is:feminine
@@ -127879,6 +127881,7 @@ taxikárka/zZ po:noun is:feminine
 taxikárov/Y po:adjective
 taxikársky/YN po:adjective
 taxislužba/zZ po:noun is:feminine
+taxislužieb	 st:taxislužieb is:plural is:genitive is:feminine po:noun
 taxón
 taxonómia/U po:noun is:feminine
 taxonomický/Y po:adjective
@@ -145410,6 +145413,7 @@ výslužba/zZ po:noun is:feminine
 vyslúžencov/Y po:adjective
 vyslúženec/C po:noun is:masculine
 vyslúžený/YN po:adjective
+výslužieb	 st:výslužba is:plural is:genitive is:feminine po:noun
 vyslúžilcov/Y po:adjective
 vyslúžilec/C po:noun is:masculine
 vyslúžiť/XN po:verb
