@@ -1,4 +1,4 @@
-159744
+159739
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -13309,6 +13309,7 @@ CZV	 po:acronym
 čliapkavo
 člipky
 čln/B po:noun is:masculine
+člna	st:čln is:singular is:genitive
 člnkár/C po:noun is:masculine
 člnkárov/Y po:adjective
 člnkovanie/VN po:noun is:neuter
@@ -61059,33 +61060,31 @@ naladiteľný/YN po:adjective
 nalaďovať/WN po:verb
 naládovať/WN po:verb
 náladove/N po:adverb
-náladovo
+náladovo/ po:adverb
 náladovosť/K po:noun is:feminine
 náladový/YN po:adjective
-naľahko
-naľahne
-naľahnúť
-naľakane
+naľahko/ po:adverb
+naľahnúť/WN po:verb
+naľakane/ po:adverb
 nalákanie/V po:noun is:neuter
-naľakano
+naľakano/ po:adverb
 nalákaný/YN po:adjective
 naľakaný/YN po:adjective
 naľakať/EN po:verb
 nalákať/XN po:verb
-nalakomiť
+nalakomiť/E po:verb
 nalakovanie/VN po:noun is:neuter
 nalakovaný/YN po:adjective
 nalakovať/WN po:verb
 nalám
-nalámané
+nalámaný/YN po:adjective
 nalámať/TN po:verb
-nalámať/XN po:verb
 nalámme
 nalamovať/WN po:verb
 nalámte
-nalapať
-nalátať
-naľavo
+nalapať/TN po:verb
+nalátať/XN po:verb
+naľavo/ po:adverb
 nalepenie/V po:noun is:neuter
 nalepený/YN po:adjective
 nalepiť/EN po:verb
@@ -65088,7 +65087,6 @@ nenakrič
 nenalám
 nenalámme
 nenalámte
-nenalapali
 nenaleť
 nenáležito
 nenáležitosť/K po:noun is:feminine
@@ -66695,7 +66693,6 @@ neprerec
 neprerecme
 neprerecte
 nepreriednu
-neprerušene
 neprerušenia
 neprerušením
 neprerušenosť/K po:noun is:feminine
@@ -96944,6 +96941,7 @@ prepoľovať/WN po:verb
 prepona/zZ po:noun is:feminine
 preponderancia/U po:noun is:feminine
 preporodiť/EN po:verb
+preposielať/XN po:verb
 preposlaný/YN po:adjective
 preposlať/TN po:verb
 prepošt/C po:noun is:masculine
@@ -97128,24 +97126,22 @@ prerokúvanie/V po:noun is:neuter
 prerokúvaný/YN po:adjective
 prerokúvať/XN po:verb
 preromantizmus/B po:noun is:masculine
-preroň
-preroní
+preroniť/EN po:verb
 prerozdelenie/V po:noun is:neuter
 prerozdelený/Y po:adjective
 prerozdeliť/EN po:verb
 prerozdeľovanie/VN po:noun is:neuter
 prerozdeľovať/WN po:verb
 prerozkošný/YN po:adjective
-prerozpráva
-prerozprával
+prerozprávanie/VN po:noun is:neuter
 prerozprávaný/YN po:adjective
-prerozprávať
-prerúbaných
+prerozprávať/XN po:verb
+prerúbaný/YN po:adjective
 prerúbať/TN po:verb
 prerúbať/XN po:verb
 prerúbavať/XN po:verb
 prerubovať/WN po:verb
-prerušene
+prerušene/N po:adverb
 prerušenie/V po:noun is:neuter
 prerušený/YN po:adjective
 prerušiť/EN po:verb
@@ -97155,7 +97151,6 @@ prerušovane/N po:adverb
 prerušovanie/VN po:noun is:neuter
 prerušovaný/YN po:adjective
 prerušovať/WN po:verb
-prervať
 preryť/XN po:verb
 prerytou
 prerývane/N po:adverb
