@@ -1,4 +1,4 @@
-159739
+159692
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -1769,7 +1769,7 @@ alkoholovo
 alkoholový/YN po:adjective
 alkoholýza/zZ po:noun is:feminine
 alkohomer
-alkovňa
+alkovňa/U po:noun is:feminine
 alkoxid
 alkyd
 alkyl
@@ -17316,6 +17316,7 @@ dobromyseľný/YN po:adjective
 dobronivský/Y po:adjective
 dobronzova	 po:adverb
 dobropis/B po:noun is:masculine
+dobropisný/Y po:adjective
 dobropisovanie/V po:noun is:neuter
 dobroprajne/N po:adverb
 dobroprajník/C po:noun is:masculine
@@ -17859,6 +17860,7 @@ dokníšuc
 dokoja
 dokola
 dokoluje
+dokompenzovať/WN po:verb
 dokomponovať/WN po:verb
 dokonale/N po:adverb
 dokonalosť/KN po:noun is:feminine
@@ -18167,14 +18169,13 @@ doménam
 Domeník
 domenovaný/YN po:adjective
 doménový/Y po:adjective
-domeraná
-domerané
 domeranie/VN po:noun is:neuter
-domeraných
+domeraný/YN po:adjective
 domerať/TN po:verb
 domeriavajú
 domeriavanie/V po:noun is:neuter
 domeriavať
+domestik/B po:noun is:masculine
 domestikácia/U po:noun is:feminine
 domestikovanie/VN po:noun is:neuter
 domestikovaný/YN po:adjective
@@ -20187,15 +20188,8 @@ drôtovaný/YN po:adjective
 drôtovať/WN po:verb
 Drôtovca
 drôtovec
-Drôtovňa
-drôtovňami
-Drôtovne
-Drôtovni
+drôtovňa/U po:noun is:feminine
 Drôtovní
-drôtovniach
-drôtovniam
-Drôtovňou
-Drôtovňu
 drôtový/Y po:adjective
 DRS	 po:acronym
 DrSc
@@ -37825,7 +37819,7 @@ jadrnosť/K po:noun is:feminine
 jadrný/YN po:adjective
 jadro/M po:noun is:neuter
 jadrovitý/Y po:adjective
-jadrovňa
+jadrovňa/U po:noun is:feminine
 jadrovník/B po:noun is:masculine
 jadrovo
 jadrovoenergetický/YN po:adjective
@@ -39473,13 +39467,8 @@ kabínka/zZ po:noun is:feminine
 kabínový/YN po:adjective
 káblik/B po:noun is:masculine
 káblovka/zZ po:noun is:feminine
-káblovňa
-Káblovne
-Káblovni
+káblovňa/U po:noun is:feminine
 káblovní
-káblovniach
-káblovňou
-káblovňu
 káblovo
 káblový/Y po:adjective
 kaboniť
@@ -43111,14 +43100,8 @@ koksovanie/VN po:noun is:neuter
 koksovaný/YN po:adjective
 koksovať/WN po:verb
 koksovateľný/YN po:adjective
-koksovňa
-koksovňami
-koksovne
-koksovni
+koksovňa/U po:noun is:feminine
 koksovní
-koksovniach
-koksovňou
-koksovňu
 koksový/YN po:adjective
 koksujúci
 koktail/B po:noun is:masculine
@@ -43882,10 +43865,7 @@ kompresibilita
 kompresívne
 kompresný/YN po:adjective
 kompresor/B po:noun is:masculine
-Kompresorovňa
-kompresorovne
-kompresorovni
-kompresorovňu
+kompresorovňa/U po:noun is:feminine
 kompresorový/Y po:adjective
 kompresovňu
 komprimácia/U po:noun is:feminine
@@ -50124,8 +50104,7 @@ Lesothačanov/Y po:adjective
 Lesothčan
 Lesotho/M po:noun is:neuter
 lesothský/YN po:adjective
-lesovňa
-lesovne
+lesovňa/U po:noun is:feminine
 lesovní
 lesť/K po:noun is:feminine
 lesto
@@ -51798,12 +51777,8 @@ Lublinu
 Ľubotíne
 Ľubou
 Ľubovec
-Ľubovňa
-Ľubovne
-Ľubovni
+Ľubovňa/U po:noun is:feminine
 ľubovník/B po:noun is:masculine
-Ľubovňou
-Ľubovňu
 lubovo
 ľubovoľne
 ľubovoľnosť/K po:noun is:feminine
@@ -53427,8 +53402,7 @@ maltárskych
 maltáza
 maltézsky/YN po:adjective
 maltovina/zZ po:noun is:feminine
-maltovňa
-maltovne
+maltovňa/U po:noun is:feminine
 maltovní
 maltovnica/U po:noun is:feminine
 maltový/YN po:adjective
@@ -56048,7 +56022,7 @@ miazmus/B po:noun is:masculine
 micelu
 Micku
 Micky
-micovňa
+micovňa/U po:noun is:feminine
 Microsoft/B po:noun is:masculine
 mičenica
 midi
@@ -58122,13 +58096,8 @@ montovane
 montovanie/VN po:noun is:neuter
 montovaný/YN po:adjective
 montovať/WN po:verb
-montovňa
-montovňami
-montovne
-montovni
+montovňa/U po:noun is:feminine
 montovní
-montovniach
-montovňu
 Montpellier
 Montpellieri
 Montpellieru
@@ -59634,8 +59603,10 @@ nábytok/O po:noun is:masculine
 nacápať/TN po:verb
 nacediť/EN po:verb
 nacelkom
+nacenený/YN po:adjective
 nacenganý/YN po:adjective
 nacengať/EN po:verb
+naceniť/EN po:verb
 nácest
 nácia/U po:noun is:feminine
 nacicaný/YN po:adjective
@@ -61716,7 +61687,7 @@ napnutie/V po:noun is:neuter
 napnuto
 napnutosť/K po:noun is:feminine
 napnutý/YN po:adjective
-napočítania
+napočítanie/V po:noun is:neuter
 napočítaný/YN po:adjective
 napočítať/XN po:verb
 napočudovanie/VN po:noun is:neuter
@@ -62301,6 +62272,7 @@ naskákalo
 naskákať
 naskakovanie/VN po:noun is:neuter
 naskakovať/WN po:verb
+naskenovaný/YN po:adjective
 naskenovať/WN po:verb
 naskicovanie/VN po:noun is:neuter
 naskicovaný/YN po:adjective
@@ -75485,23 +75457,16 @@ odtúlať
 odtušenie/V po:noun is:neuter
 odtušiť
 odúčať/XN po:verb
-odučených
+odučený/YN po:adjective
 odučiť/EN po:verb
-odúčtovňa
-Odúčtovne
-odúčtovni
-Odúčtovňu
+odúčtovanie/V po:noun is:neuter
 odúchať
 odujúce
-odumierajúceho
-odumierajúci
+odumierajúci/YN po:adjective
 odumieranie/V po:noun is:neuter
-odumieranom
-odumieraným
+odumieraný/YN po:adjective
 odumierať/XN po:verb
-odumretie
-odumretím
-odumretiu
+odumretie/V po:noun is:neuter
 odumretý/YN po:adjective
 odumrieť/XN po:verb
 odúmrť
@@ -78957,7 +78922,6 @@ Oskar/c po:noun is:masculine
 Oskár/C po:noun is:masculine
 Oskarov/Y po:adjective
 Oskárov/Y po:adjective
-Oskárovia
 oskenovaný/YN po:adjective
 oskenovať/WN po:verb
 oskorúš
@@ -80291,7 +80255,7 @@ ozbrojený/YN po:adjective
 ozbrojiť/EN po:verb
 ozbrojovanie/VN po:noun is:neuter
 ozbrojovať/WN po:verb
-ozdarovňa
+ozdarovňa/U po:noun is:feminine
 Ozdín
 ozdoba/zZ po:noun is:feminine
 ozdobenie/V po:noun is:neuter
@@ -92633,6 +92597,7 @@ poupozorňovať/WN po:verb
 poupratovanie/VN po:noun is:neuter
 poupratovať/WN po:verb
 pouprávať
+poupravovať/WN po:verb
 poúrazový/YN po:adjective
 pourážať/XN po:verb
 pourgovať/WN po:verb
@@ -112545,6 +112510,7 @@ schvaľovanie/VN po:noun is:neuter
 schvaľovaný/YN po:adjective
 schvaľovať/WN po:verb
 schvaľovateľ/c po:noun is:masculine
+schvaľovateľka/zZ po:noun is:masculine
 schvátený/YN po:adjective
 schvátiť/XN po:verb
 schvatnúť/WN po:verb
@@ -113329,6 +113295,7 @@ skejtmi
 skelet/B po:noun is:masculine
 skeleton
 skeletový/YN po:adjective
+sken/B po:noun is:masculine
 skener/B po:noun is:masculine
 skenerový/Y po:adjective
 skenovací/I po:adjective
@@ -119812,9 +119779,8 @@ stravný/YN po:adjective
 stravovací/I po:adjective
 stravovanie/VN po:noun is:neuter
 stravovať/WN po:verb
-stravovňa
+stravovňa/U po:noun is:feminine
 stravovní
-stravovňu
 stravujúci
 stravujúcimi
 strazza
@@ -123224,7 +123190,7 @@ SZTK	 po:acronym
 šenkárov/Y po:adjective
 šenkársky/YN po:adjective
 šenkovať/WN po:verb
-šenkovňa
+šenkovňa/U po:noun is:feminine
 šenkvické
 šenkvického
 šenkvickej
@@ -130499,13 +130465,8 @@ transformátorový/YN po:adjective
 transformovanie/VN po:noun is:neuter
 transformovaný/YN po:adjective
 transformovať/WN po:verb
-Transformovňa
-transformovne
-transformovni
+transformovňa/U po:noun is:feminine
 transformovní
-transformovniach
-transformovňou
-transformovňu
 transformujúci/YN po:adjective
 transfundovať/WN po:verb
 transfúzia/U po:noun is:feminine
@@ -135187,12 +135148,8 @@ upravovateľka/zZ po:noun is:feminine
 upravovateľný/YN po:adjective
 upravovateľov/Y po:adjective
 upravovateľský/YN po:adjective
-úpravovňa
-úpravovne
-úpravovni
+úpravovňa/U po:noun is:feminine
 úpravovní
-úpravovniach
-úpravovňu
 upravujúci/YN po:adjective
 uprázdnenie/V po:noun is:neuter
 uprázdnený/YN po:adjective
@@ -137294,8 +137251,7 @@ Valkov
 Valkova
 Valkove
 váľkovitý/YN po:adjective
-Vaľkovňa
-Vaľkovne
+Vaľkovňa/U po:noun is:feminine
 Valkovom
 Valkovský/YN po:adjective
 Valkovu
@@ -148638,6 +148594,7 @@ zahatávať/XN po:verb
 zahatiť/EN po:verb
 zahavkať/EN po:verb
 zahemžila
+zaheslovaný/YN po:adjective
 zahíkať/XN po:verb
 zahíknutý/YN po:adjective
 zahľaď
@@ -154421,11 +154378,8 @@ zinkit
 zinkovanie/VN po:noun is:neuter
 zinkovaný/YN po:adjective
 zinkovať/WN po:verb
-zinkovňa
-zinkovne
-zinkovni
+zinkovňa/U po:noun is:feminine
 zinkovní
-zinkovňu
 zinkovo
 zinkový/YN po:adjective
 zinkoxid
@@ -155650,7 +155604,6 @@ známka/zZ po:noun is:feminine
 známkovací/I po:adjective
 známkovanie/VN po:noun is:neuter
 známkovať/WN po:verb
-známkovňa
 známkový/YN po:adjective
 známosť/K po:noun is:feminine
 známy/YN po:adjective
