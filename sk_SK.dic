@@ -1,4 +1,4 @@
-159692
+159675
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -3219,7 +3219,7 @@ apo/c po:noun is:masculine
 apocentrum
 apod
 apodiktickosť/K po:noun is:feminine
-apodikticky
+apodikticky/N po:adverb
 apodiktický/YN po:adjective
 apofylit
 apofýza/zZ po:noun is:feminine
@@ -3229,13 +3229,12 @@ apogeum/M po:noun is:neuter
 apochromát
 apokalýps
 apokalypsa/zZ po:noun is:feminine
-apokalypticky
+apokalypticky/N po:adverb
 apokalyptický/YN po:adjective
 apokalyptik/C po:noun is:masculine
+apokalyptika/zZ po:noun is:feminine
 apokalyptikov/Y po:adjective
 apokarpium
-apokastáza
-apoklyptického
 apokopa
 apokrinný/YN po:adjective
 apokryf/B po:noun is:masculine
@@ -4062,7 +4061,7 @@ asymetrickosť/K po:noun is:feminine
 asymetricky
 asymetrický/YN po:adjective
 asymptomatický/YN po:adjective
-asymptota
+asymptota/zZ po:noun is:feminine
 asymptotický/YN po:adjective
 asyndetický/YN po:adjective
 asyndeton/M po:noun is:neuter
@@ -4104,6 +4103,7 @@ atak/B po:noun is:masculine
 atakovanie/VN po:noun is:neuter
 atakovaný/YN po:adjective
 atakovať/WN po:verb
+ataku po:noun st:atak is:genitive is:singular
 ataman/C po:noun is:masculine
 atamanov/Y po:adjective
 atamanský/YN po:adjective
@@ -4311,6 +4311,7 @@ audítorov/Y po:adjective
 audítorský/YN po:adjective
 auditovaný/YN po:adjective
 auditovať/WN po:verb
+auditovateľný/YN po:adjective
 auditový/YN po:adjective
 aug
 augelit
@@ -8201,6 +8202,7 @@ bohorovne/N po:adverb
 bohorovnosť/K po:noun is:feminine
 bohorovný/YN po:adjective
 bohorúhačský/YN po:adjective
+bohorúhanie/V po:noun is:neuter
 bohorúhavý/YN po:adjective
 bohoslovcov/Y po:adjective
 bohoslovec/C po:noun is:masculine
@@ -17382,6 +17384,7 @@ dobý/YN po:adjective
 dobýjanie/V po:noun is:neuter
 dobýjať/XN po:verb
 dobyť/XN po:verb
+dobytča/A po:noun is:neuter
 dobytčí/I po:adjective
 dobytie/V po:noun is:neuter
 dobytkár/C po:noun is:masculine
@@ -17548,6 +17551,7 @@ dofajčievať/XN po:verb
 dofajčime
 dofajčiť/EN po:verb
 dofajčite
+dofakturovať/WN po:verb
 dofarbený/YN po:adjective
 dofarbovanie/VN po:noun is:neuter
 dofariť/EN po:verb
@@ -17837,6 +17841,7 @@ dokladanie/V po:noun is:neuter
 dokladaný/YN po:adjective
 dokladať/EN po:verb
 dokladný/YN po:adjective
+dokladovaný/YN po:adjective
 dokladovať/WN po:verb
 dokladovo
 dokladový/Y po:adjective
@@ -18556,6 +18561,7 @@ doposiaľ
 doposielala
 doposielania
 doposielať
+doposlať/TN po:verb
 dopotiť
 dopotkýnať
 dopoťte
@@ -18997,6 +19003,7 @@ dosvedčenie/V po:noun is:neuter
 dosvedčený/YN po:adjective
 dosvedči
 dosvedčiť/EN po:verb
+dosvedčovaný/YN po:adjective
 dosvedčovať/WN po:verb
 dosviedčať/RN po:verb
 dosviedčať/XN po:verb
@@ -22056,18 +22063,14 @@ egoistický/Y po:adjective
 egoistka/zZ po:noun is:feminine
 egoistov/Y po:adjective
 egoizmus/B po:noun is:masculine
-Egon
-Egona
-Egonom
-Egonovi
+Egon/C po:noun is:masculine
 egoteizmus/B po:noun is:masculine
 egreš/J po:noun is:masculine
 egrešový/Y po:adjective
 egutácia/U po:noun is:feminine
 egutér
-egypt
 Egypt/B po:noun is:masculine
-Egypta
+Egypta	po:noun st:Egypt is:genitive is:singular
 Egypťan/c po:noun is:masculine
 Egypťania
 Egypťanka/zZ po:noun is:feminine
@@ -23036,8 +23039,7 @@ epiderma/zZ po:noun is:feminine
 epidermický/YN po:adjective
 epidermizácia/U po:noun is:feminine
 epidiaskop
-epifánia
-Epifánia
+epifánia/U po:noun is:feminine
 epifarynx
 epifauna
 epifenomén
@@ -23601,7 +23603,7 @@ eudaimonizmus/B po:noun is:masculine
 eudermický/YN po:adjective
 eudialit
 eufem
-eufeministicky
+eufeministicky/N po:adverb
 eufeministický/Y po:adjective
 eufemisticky/N po:adverb
 eufemistický/Y po:adjective
@@ -23621,16 +23623,11 @@ Eugenov/Y po:adjective
 eucharistia/U po:noun is:feminine
 eucharistický/YN po:adjective
 euchroit
-eukalyptami
 eukalypte
-eukalyptoch
 eukalyptol
-eukalyptom
-eukalyptov
 eukalyptový/Y po:adjective
 eukalyptu
-eukalyptus/B po:noun is:masculine
-eukalypty
+eukalyptus/L po:noun is:masculine
 euklas
 Euklides/c po:noun is:masculine
 Euklidesov/Y po:adjective
@@ -30043,12 +30040,9 @@ Helada
 Heladin
 Helén
 Helena/zZ po:noun is:feminine
-Helenina
-Helenine
-Heleninej
-Heleninými
-helenistického
-helénizmus/B po:noun is:masculine
+Helenin/Y po:adjective
+helenistický/YN po:adjective
+helenizmus/B po:noun is:masculine
 helenizovať/WN po:verb
 helénsky/YN po:adjective
 Helga
@@ -30221,6 +30215,7 @@ hemžite
 hen
 hena
 hencovský/YN po:adjective
+hendiadys/ po:noun is:neuter
 hendikep/B po:noun is:masculine
 hendikepovaný/YN po:adjective
 hendikepovať/WN po:verb
@@ -30601,6 +30596,7 @@ histolýza/zZ po:noun is:feminine
 histón/B po:noun is:masculine
 histoplazmóza
 história/U po:noun is:feminine
+historicita/zZ po:noun is:feminine
 historicko
 historickomaterialistický/YN po:adjective
 historicko-porovnávací/I po:adjective
@@ -35953,8 +35949,7 @@ impasibilita
 impasto
 impedancia/U po:noun is:feminine
 impedančný/YN po:adjective
-imperatív/B po:noun is:masculine
-imperatíve
+imperatív/J po:noun is:masculine
 imperatívnosť/K po:noun is:feminine
 imperatívny/YN po:adjective
 imperátor/C po:noun is:masculine
@@ -36525,18 +36520,14 @@ iniciatívnosť/K po:noun is:feminine
 iniciatívny/YN po:adjective
 iniciátor/C po:noun is:masculine
 iniciátorka/zZ po:noun is:feminine
-iniciátormi
 iniciátorov/Y po:adjective
 iniciovanie/VN po:noun is:neuter
+iniciovaný/YN po:adjective
 iniciovať/WN po:verb
 injekcia/U po:noun is:feminine
 injekčne
 injekčný/YN po:adjective
-injektáž
-injektážami
-injektáže
-injektáži
-injektážou
+injektáž/D po:noun is:feminine
 injektor/B po:noun is:masculine
 injektorový/YN po:adjective
 injektovanie/VN po:noun is:neuter
@@ -37069,6 +37060,8 @@ intersexuálny/YN po:adjective
 intersticiálny/YN po:adjective
 interstícium
 intersubjektivita
+intertextový/YN po:adjective
+intertextuálny/YN po:adjective
 intertrigo
 interval/B po:noun is:masculine
 intervaläintervencia
@@ -37711,7 +37704,7 @@ izotónia
 izotonický/YN po:adjective
 izotop/B po:noun is:masculine
 izotopia
-izotopické
+izotopický/YN po:adjective
 izotopový/YN po:adjective
 izotropia/U po:noun is:feminine
 izotropný/YN po:adjective
@@ -37726,8 +37719,7 @@ izraelitka/zZ po:noun is:feminine
 izraelitmi
 izraelitov/Y po:adjective
 izraelitský/YN po:adjective
-Izraelovho
-Izraelovi
+Izraelov/Y po:adjective
 izraelsky
 izraelský/YN po:adjective
 Iža
@@ -61839,6 +61831,7 @@ napriahnutý/YN po:adjective
 napriamenie/V po:noun is:neuter
 napriamený/YN po:adjective
 napriamiť/XN po:verb
+napriamo	po:adverb
 napriamovať/WN po:verb
 napriasť
 naprie
@@ -75460,6 +75453,7 @@ odúčať/XN po:verb
 odučený/YN po:adjective
 odučiť/EN po:verb
 odúčtovanie/V po:noun is:neuter
+odúčtovať/WN po:verb
 odúchať
 odujúce
 odumierajúci/YN po:adjective
@@ -91390,44 +91384,33 @@ poskytovať/XN po:verb
 poskytovateľ/c po:noun is:masculine
 poskytovateľov/Y po:adjective
 poskytujúci/YN po:adjective
-posl
 posla
 poslabšie/V po:noun is:neuter
 posladenom
 poslami
 poslancov/Y po:adjective
-poslancová
 poslancovanie/VN po:noun is:neuter
 poslancovať/WN po:verb
-poslancovia
-poslane
 poslanec/C po:noun is:masculine
-poslanecky
+poslanecky	 po:adverb
 poslanecký/YN po:adjective
-poslanectvo
+poslanectvo/M po:noun is:neuter
 poslanie/V po:noun is:neuter
 poslankyňa/U po:noun is:feminine
 poslaný/YN po:adjective
 poslať/TN po:verb
-posledne
-posledno
+posledne	 po:adverb
 posledný/YN po:adjective
-poslednýkrát
+poslednýkrát/n po:number
 posledok/O po:noun is:masculine
-posledom
-posledy
-poslepačky
-poslepiačky
 posli
 poslíci
 poslíček/c po:noun is:masculine
-poslíčekov/Y po:adjective
 poslíčka
 poslíčkami
 poslíčkoch
 poslíčkom
-poslíčkov
-poslíčkovi
+poslíčkov/Y po:adjective
 poslíčkovia
 poslík/c po:noun is:masculine
 poslíkov/Y po:adjective
@@ -98407,6 +98390,7 @@ priakademický/YN po:adjective
 priam
 priamka/zZ po:noun is:feminine
 priamkový/YN po:adjective
+priamo/N po:adverb
 priamočiarosť/K po:noun is:feminine
 priamočiary/YN po:adjective
 priamosť/K po:noun is:feminine
@@ -124130,6 +124114,7 @@ SZTK	 po:acronym
 škodovať/WN po:verb
 Škodove
 škodovka/zZ po:noun is:feminine
+škodovosť/K po:noun is:feminine
 škodový/YN po:adjective
 Škoch
 škoklovať/WN po:verb
@@ -142561,9 +142546,7 @@ vyfajčených
 vyfajčenými
 vyfajčiť/XN po:verb
 vyfakturovaný/YN po:adjective
-vyfaktúrovaný/YN po:adjective
 vyfakturovať/WN po:verb
-vyfaktúrovať/WN po:verb
 vyfáranie/VN po:noun is:neuter
 vyfárať/XN po:verb
 vyfarbenia
