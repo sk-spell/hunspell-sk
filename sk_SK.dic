@@ -44087,6 +44087,8 @@ konduktor/C po:noun is:masculine
 kondyl/b po:noun is:masculine
 kondylóm/B po:noun is:masculine
 kone po:noun is:masculine st:kôň is:nominative is:plural
+konečne	 po:adverb
+konečne	 po:particle
 konečník/B po:noun is:masculine
 konečníkový/YN po:adjective
 konečno/M po:noun is:neuter
@@ -76401,6 +76403,8 @@ okolkujúci
 okolky/Q
 okolní
 okolnosť/K po:noun is:feminine
+okolo	 po:adverb
+okolo	 po:particle
 okolo	 po:preposition is:genitive
 okoloidúci/YN po:adjective
 okolostojaci/YN po:adjective
@@ -88447,6 +88451,7 @@ pokyvovať/WN po:verb
 pokývte
 pokývu
 pokývuc
+pol	 po:numeral
 pól/B po:noun is:masculine
 poľa
 polabčina/zZ po:noun is:feminine
@@ -116152,6 +116157,7 @@ spazmofília
 spazmolytikum
 spazmus/B po:noun is:masculine
 späl
+späť	 po:adverb
 spätiť/EN po:verb
 spätkovať/WN po:verb
 späťnásobí
@@ -129753,6 +129759,7 @@ tomsenolit
 Tomský/YN po:adjective
 tomsonit
 tomto
+tomu	 po:pronoun st:ten is:dative is:singular
 tomus/B po:noun is:masculine
 tomuto
 tomuže
@@ -156928,6 +156935,8 @@ zregrutovať/WN po:verb
 zregulovanie/VN po:noun is:neuter
 zregulovaný/YN po:adjective
 zregulovať/WN po:verb
+zrejme	 po:adverb
+zrejme	 po:particle
 zrejmosť/K po:noun is:feminine
 zrejmý/YN po:adjective
 zrejúci/YN po:adjective
