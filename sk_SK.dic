@@ -1,4 +1,4 @@
-159478
+159462
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -38485,7 +38485,7 @@ jazýčkový/YN po:adjective
 jazyčnatý/YN po:adjective
 jazyčnica/U po:noun is:feminine
 jazyčný/YN po:adjective
-jazyk/B po:noun is:masculine
+jazyk/b po:noun is:masculine
 jazyka
 jazykoveda/zZ po:noun is:feminine
 jazykovedcov/Y po:adjective
@@ -38495,7 +38495,6 @@ jazykovedný/YN po:adjective
 jazykovitý/YN po:adjective
 jazykovo po:adverb
 jazykový/YN po:adjective
-jazyku
 jazylka/zZ po:noun is:feminine
 jazylkový/YN po:adjective
 jazz/B po:noun is:masculine
@@ -58346,6 +58345,7 @@ motivický/YN po:adjective
 motivovanie/VN po:noun is:neuter
 motivovaný/YN po:adjective
 motivovať/WN po:verb
+motívy   po:noun st:motív is:plural is:genitive
 motkanie/V po:noun is:neuter
 motkať/EN po:verb
 motocross
@@ -62336,12 +62336,10 @@ nasoľovanie/VN po:noun is:neuter
 nasoľovať/WN po:verb
 násoska/zZ po:noun is:feminine
 nasotriť
-naspal
 naspamäť
-naspať
+naspať/RN po:verb st:spať
 naspäť
 naspi
-naspí
 naspievanie/V po:noun is:neuter
 naspievaný/YN po:adjective
 naspievať/XN po:verb
@@ -65070,7 +65068,6 @@ nenasnula
 nenasnuli
 nenasnulo
 nenásobenie/V po:noun is:neuter
-nenaspia
 nenaspor
 nenasporte
 nenasteľ
@@ -66793,7 +66790,6 @@ nepríslušia
 neprisni
 neprisnime
 neprisnite
-neprispať
 neprispievaním
 neprispôsobenie/V po:noun is:neuter
 nepristavenia
@@ -74398,7 +74394,7 @@ odosobnime
 odosobniť/EN po:verb
 odosobnite
 odosobňovať/WN po:verb
-odospať/RN po:verb
+odospať/RN po:verb st:spať
 odospi
 odospime
 odospite
@@ -75014,7 +75010,7 @@ odsoľovací/IN po:adjective
 odsoľovanie/VN po:noun is:neuter
 odsoľovať/WN po:verb
 odsotiť/EN po:verb
-odspať/RN po:verb
+odspať/RN po:verb st:spať
 odspávať/XN po:verb
 odspi
 odspieval
@@ -80218,11 +80214,7 @@ označiť/EN po:verb
 označkovanie/VN po:noun is:neuter
 označkovaný/YN po:adjective
 označkovať/WN po:verb
-označovacej
-označovací/YN po:adjective
-označovacie
-označovacieho
-označovaciu
+označovací/I po:adjective
 označovane
 označovanie/VN po:noun is:neuter
 označovaný/YN po:adjective
@@ -80264,9 +80256,8 @@ ozonosféry
 ozónovo
 ozónový/YN po:adjective
 ozoriť
-ozrejmená
-ozrejmené
 ozrejmenie/V po:noun is:neuter
+ozrejmený/YN po:adjective
 ozrejmi
 ozrejmime
 ozrejmiť/EN po:verb
@@ -83394,7 +83385,6 @@ penzum/B po:noun is:masculine
 penzum/M po:noun is:neuter
 Penzy
 peón
-people/J po:noun is:masculine
 pepermint
 peperómia
 pepita
@@ -86860,6 +86850,7 @@ podpálenie/V po:noun is:neuter
 podpálený/YN po:adjective
 podpáliť/XN po:verb
 podpaľovanie/VN po:noun is:neuter
+podpaľovaný/YN po:adjective
 podpaľovať/WN po:verb
 podpalubie/V po:noun is:neuter
 podpalubný/YN po:adjective
@@ -91455,7 +91446,7 @@ pospájane
 pospájanie/V po:noun is:neuter
 pospájaný/YN po:adjective
 pospájať/XN po:verb
-pospať/RN po:verb
+pospať/RN po:verb st:spať
 pospávať
 pospevovanie/VN po:noun is:neuter
 pospevovať/WN po:verb
@@ -97212,7 +97203,7 @@ presotiť
 Prespaná
 prespanie/V po:noun is:neuter
 prespanka/zZ po:noun is:feminine
-prespať/RN po:verb
+prespať/RN po:verb st:spať
 prespávajúci/YN po:adjective
 prespávané
 prespávať/XN po:verb
@@ -100054,16 +100045,13 @@ prísny/YN po:adjective
 prisoliť/EN po:verb
 prisoľovať/WN po:verb
 prispájkovať/WN po:verb
-prispali
-prispalo
 prispanie/V po:noun is:neuter
-prispať
+prispať/RN po:verb st:spať
 prispenie/V po:noun is:neuter
 prispetie
 príspevkovo
 príspevkový/YN po:adjective
 príspevok/O po:noun is:masculine
-prispí
 príspieť
 prispieť/WN po:verb
 prispievanie/V po:noun is:neuter
@@ -127920,30 +127908,18 @@ tekvica/U po:noun is:feminine
 tekvicový/YN po:adjective
 tekvička/zZ po:noun is:feminine
 tel
-teľa/U po:noun is:feminine
+teľa/A po:noun is:feminine
 teľací/I po:adjective
 teľacina/zZ po:noun is:feminine
 teľacinka/zZ po:noun is:feminine
 telalgia
 telamon
-teľatá
-teľaťa
-teľatách
-teľatám
-teľatami
-teľati
 teľatník/B po:noun is:masculine
-teľaťom
-teľaťu
 Telavivčan/c po:noun is:masculine
 Telavivčanov/Y po:adjective
 telavivský/YN po:adjective
 teľce/Q
-teľcoch
-teľcom
-tele/J po:noun is:masculine
-teleangiektázia
-telef
+teleangiektázia/U po:noun is:feminine
 telefax/B po:noun is:masculine
 telefaxový/YN po:adjective
 telefikácia/U po:noun is:feminine
@@ -127951,7 +127927,7 @@ telefón/B po:noun is:masculine
 telefonát/B po:noun is:masculine
 telefonátmi
 telefónia/U po:noun is:feminine
-telefonicky
+telefonicky	po:adverb
 telefonický/YN po:adjective
 telefónik/B po:noun is:masculine
 telefonista/H po:noun is:masculine
@@ -128184,7 +128160,6 @@ temulencia
 Temža/U po:noun is:feminine
 Temží
 temžský/YN po:adjective
-ten
 tén
 tenacita
 tenalgia
@@ -144970,7 +144945,7 @@ vysielací/I po:adjective
 vysielač/J po:noun is:masculine
 vysielačka/zZ po:noun is:feminine
 vysielajúci/YN po:adjective
-vysielane	 po:adverb´
+vysielane	 po:adverb
 vysielanie/VN po:noun is:neuter
 vysielaný/YN po:adjective
 vysielať/XN po:verb
