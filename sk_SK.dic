@@ -1,4 +1,4 @@
-159462
+159453
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -17319,6 +17319,7 @@ dobronzova	 po:adverb
 dobropis/B po:noun is:masculine
 dobropisný/Y po:adjective
 dobropisovanie/V po:noun is:neuter
+dobropisovať/WN po:verb
 dobroprajne/N po:adverb
 dobroprajník/C po:noun is:masculine
 dobroprajnosť/K po:noun is:feminine
@@ -43453,15 +43454,8 @@ kolovanie/VN po:noun is:neuter
 kolovaný/YN po:adjective
 kolovať/WN po:verb
 kolovrat/B po:noun is:masculine
-kolovrátka
-kolovrátkami
-kolovrátkoch
-kolovrátkom
-kolovrátkov
-kolovrátku
-kolovrátky
 kolovratmi
-kolovrátok/B po:noun is:masculine
+kolovrátok/O po:noun is:masculine
 kolový/YN po:adjective
 kolozub
 Kolož
@@ -43649,17 +43643,13 @@ komisne/N po:adverb
 komisnosť/K po:noun is:feminine
 komisný/YN po:adjective
 komitát
-komitent
-komitenta
-komitentom
-komitentov
-komitentovi
+komitent/C po:noun is:masculine
 komitét/B po:noun is:masculine
 komitétmi
 komjatickej
 Komjatná
 Komjatnej
-komkoľvek
+komkoľvek	 po:pronoun
 komnata/zZ po:noun is:feminine
 Komoča
 komod
@@ -47302,7 +47292,7 @@ ktorékoľvek
 ktorémukoľvek
 ktorémusi
 ktorési
-ktoríkoľvek
+ktoríkoľvek	 po:pronoun is:masculine is:plural is:nominative
 ktorím
 ktorísi
 ktoríže
@@ -47312,11 +47302,11 @@ ktoroukoľvek
 ktorousi
 ktorúkoľvek
 ktorúsi
-Ktorúže
+ktorúže
 ktorý/YN po:adjective
-ktorýchkoľvek
+ktorýchkoľvek	 po:pronoun is:plural
 ktorýchsi
-ktorýkoľvek
+ktorýkoľvek	 po:pronoun is:masculine is:singular
 ktorýmikoľvek
 ktorýmisi
 ktorýmkoľvek
@@ -125287,6 +125277,7 @@ SZTK	 po:acronym
 Štefán
 Štefan/c po:noun is:masculine
 Štefánia/U po:noun is:feminine
+Štefánik/c po:noun is:masculine
 Štefánka/zZ po:noun is:feminine
 Štefanov/Y po:adjective
 Štefanová/Y po:adjective
