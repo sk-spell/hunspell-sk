@@ -1,4 +1,4 @@
-159453
+159448
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -31358,7 +31358,7 @@ hocičomu
 hocijak
 hocijako
 hocijaký/YN po:adjective
-hocikade
+hocikade	 po:adverb
 hocikam
 hocikde
 hocikedy
@@ -31371,10 +31371,10 @@ hocikomu
 hocikto
 hociktorý/YN po:adjective
 hocikým
-hockade
+hockade	 po:adverb
 hockam
 hockde
-hockedy
+hockedy	 po:adverb
 hockoho
 hockoľké
 hockoľkí
@@ -39548,12 +39548,12 @@ kadejako
 kadejaký/YN po:adjective
 kadekde
 kadekoho
-kadekoľvek
+kadekoľvek	po:adverb
 kadekom
 kadekomu
 kadekto	 po:pronoun
 kadekým
-kadeľahšie
+kadeľahšie	 po:adverb
 kadeľnica/U po:noun is:feminine
 kadencia/U po:noun is:feminine
 kadenčný/YN po:adjective
@@ -39577,7 +39577,7 @@ kadetov/Y po:adjective
 kadetský/YN po:adjective
 kadeže
 kadiaľ
-kadiaľkoľvek
+kadiaľkoľvek	 po:adverb
 kadička/zZ po:noun is:feminine
 kadidelnica/U po:noun is:feminine
 kadidlo/M po:noun is:neuter
@@ -48858,6 +48858,7 @@ lahôdkarstvo/M po:noun is:neuter
 lahôdkárstvo/M po:noun is:neuter
 lahôdkový/YN po:adjective
 ľahší/PF po:adjective
+ľahšie/N po:adverb
 Lahti
 Lahtijčan/c po:noun is:masculine
 Lahtijčanov/Y po:adjective
@@ -60743,12 +60744,10 @@ nájomníkov/Y po:adjective
 nájomno
 nájomný/Y po:adjective
 najoptimálnej
-najprv
 najradšej
 najrozsiahlej
 najsamnajprv
 najsamprv
-najskorej
 nájsť/RN po:verb
 najtiaž
 najťuknutie/V po:noun is:neuter
@@ -60758,11 +60757,6 @@ najupnutie/V po:noun is:neuter
 najusnutie/V po:noun is:neuter
 najustiť
 najušití
-najvalidnej
-najvčaššie
-najvernej
-najvhodnej
-najviacej
 najvýš
 najvytie
 najvýznamnej
@@ -101840,7 +101834,7 @@ pružne/N po:adverb
 pružnosť/K po:noun is:feminine
 pružný/YN po:adjective
 prúžok/O po:noun is:masculine
-prv
+prv/F po:adverb
 prvácky/YN po:adjective
 prváča/A po:noun is:neuter
 prváčik/c po:noun is:masculine
@@ -112999,7 +112993,7 @@ skackavý/YN po:adjective
 skackom
 skaď
 skade
-skadekoľvek
+skadekoľvek	po:adverb
 skadene
 skadenoha	 po:noun
 skaderuka	 po:noun
@@ -113584,6 +113578,7 @@ skopský/YN po:adjective
 skorbut
 skordatúra
 skóre
+skorej/F po:adverb
 skorigovanie/VN po:noun is:neuter
 skorigovaný/YN po:adjective
 skorigovať/WN po:verb
@@ -113608,6 +113603,7 @@ skórovanie/VN po:noun is:neuter
 skórovaný/YN po:adjective
 skórovať/WN po:verb
 skorší/PF po:adjective
+skoršie/N po:adverb
 skorumpovanie/VN po:noun is:neuter
 skorumpovaný/YN po:adjective
 skorumpovať/WN po:verb
@@ -113632,8 +113628,7 @@ skotofóbia
 skotúľať/XN po:verb
 sková
 skovať/WN po:verb
-skôr/F
-skôr/N
+skôr/FN po:adverb
 skôrnatenie/V po:noun is:neuter
 skôrnatený/YN po:adjective
 skôrnatieť/XN po:verb
@@ -137498,7 +137493,7 @@ včasnokresťanský/YN po:adjective
 včasnosť/K po:noun is:feminine
 včasný/YN po:adjective
 včasráno
-včaššie/V po:noun is:neuter
+včaššie/F po:adverb
 včel
 včela/zZ po:noun is:feminine
 včelár/C po:noun is:masculine
@@ -138567,7 +138562,8 @@ vchodový/YN po:adjective
 vchrstnúť/WN po:verb
 VI	 po:acronym
 via
-viac/F
+viac/F po:adverb
+viac/F po:particle
 viacatómový/YN po:adjective
 viacbalíkových
 viacbodový/YN po:adjective
@@ -138577,9 +138573,7 @@ viacbojárka/zZ po:noun is:feminine
 viacbojárov/Y po:adjective
 viacbojársky/YN po:adjective
 viaccestný/YN po:adjective
-viacciferné
-viaccifernú
-viacciferných
+viacciferný/YN po:adjective
 viacčlennosť/K po:noun is:feminine
 viacčlenný/YN po:adjective
 viacdenný/YN po:adjective
@@ -138589,7 +138583,8 @@ viacdielny/YN po:adjective
 viacdielový/YN po:adjective
 viacdimenzionálny
 viacdňový/YN po:adjective
-viacej
+viacej/F po:adverb
+viacej/F po:particle
 viacejčlenný/YN po:adjective
 viacerako
 viaceraký/YN po:adjective
